@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>@ViewBag.Title.</h1><br/>
+                <h2>@ViewBag.Message</h2>
+            </hgroup>
+            <p>
+                To learn more about the CA&ES Benefits Allocation Upload Project, select <i>@Html.ActionLink("About", "About")</i>.
+            </p>
+        </div>
+    </section>
+    
+  
+}
+<div>
+    <h3>Instructions:</h3>
+    <ol class="round">
+        <li class="one">
+            <h5>Create File</h5>Select @Html.ActionLink("Create New Upload File", "Create", "Reports", null, new { @class="btn btn-info"})to create a new journal.AG upload file if one for the desired period has yet to be created.</li>
+        <li class="two"><h5>Download File</h5>Goto the <i>@Html.ActionLink("Files", "Index", "Reports", null, new { @class="btn"})page</i>, download and save the desired journal.AG file to your local hard drive.</li>
+        <li class="three"><h5>Download Template</h5>Goto the <i>@Html.ActionLink("Files", "Index", "Reports", null, new { @class="btn"})page</i>, download and save the Excel template file to you local hard drive if not done so previously.  Note: It should be the file at the top of the file listing.</li>
+        <li class="four"><h5>Open Template</h5>Open the Excel template file. A file explorer window should open asking you to select an input file. Note: You will need to <i>"Enable Content"</i> if this is the first time the template has been used.</li>
+        <li class="five"><h5>Open, Review and Approve File</h5>Select the desired, downloaded journal.AG file and review the results.  Return to the<i>@Html.ActionLink("Files", "Index", "Reports", null, new { @class="btn"})page</i> when satisfied with its contents and proceed to step (6).</li>
+        <li class="six"><h5>Upload File</h5>Goto the <i>@Html.ActionLink("Files", "Index", "Reports", null, new { @class="btn"})page</i>, locate the desired journal.AG file and select "Upload" to upload the file to the A&amp;FS server.</li>
+    </ol>
+</div>
+

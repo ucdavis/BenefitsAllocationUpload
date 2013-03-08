@@ -1,0 +1,17 @@
+﻿@{
+var title = "LogOn";
+
+    var queryString = Request.Url.Query;
+    if (String.IsNullOrEmpty(queryString) == false)
+    {
+        queryString = Server.UrlDecode(queryString).Substring(queryString.IndexOf("?") + 1);
+
+        title = queryString.Substring(queryString.LastIndexOf("/") + 1);
+    }
+    
+    <br />
+    ViewBag.Title = title;
+}
+<h3>You do not have access to this page.</h3>
+<p>Please contact the application's administrator to be added as a user.</p>
+
