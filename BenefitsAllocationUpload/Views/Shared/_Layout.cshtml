@@ -1,0 +1,175 @@
+﻿@using BenefitsAllocationUpload.Models
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>@ViewBag.Title - Benefits Allocation Upload</title>
+        <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <meta name="viewport" content="width=device-width" />
+        @Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/modernizr")
+        @*@Scripts.Render("~/bundles/jquery")*@
+        
+    <style type="text/css">
+        /* TODO shouldn't be necessary */
+        .ui-button-icon-only .ui-button-text .ui-button
+        {
+            margin-left: -1px;
+        }
+        .ui-button-icon-only .ui-button-text
+        {
+            padding: 0.35em;
+        }
+
+        .ui-autocomplete-input
+        {
+            margin: 0;
+            padding: 0.48em 0 0.47em 0.45em;
+            width: 30em;
+        }
+        .ui-autocomplete
+        {
+            max-height: 200px;
+            overflow-y: auto; /* prevent horizontal scrollbar */
+            overflow-x: hidden; /* add padding to account for vertical scrollbar */
+            padding-right: 20px;
+        }
+        /* IE 6 doesn't support max-height
+	 * we use height instead, but this forces the menu to always be this tall
+	 */
+        * html .ui-autocomplete
+        {
+            height: 200px;
+        }
+        .selected
+        {
+            background-color: DodgerBlue;
+            color: White;
+        }
+        .highlight
+        {
+            background: yellow;
+        }
+    </style>
+        <style type='text/css'>
+            .wideMultiSelect
+            {
+                background-color: #fcfcfc;
+                border: 1px solid #000;
+                width: 800px;
+                margin-top: 5px;
+                height: 200px;
+                max-height: 200px;
+                overflow: auto;
+            }
+
+            .wideMultiSelect > .row
+            {
+                border-bottom: 1px dotted #ccc;
+                padding: 2px;
+            }
+
+            .wideMultiSelect > .row:last-child
+            {
+                border-bottom: 0;
+            }
+
+            .wideMultiSelect > .row > .delete
+            {
+                cursor: pointer;
+                margin-bottom: -2px;
+            }
+
+            .narrowMultiSelect
+            {
+                background-color: #fcfcfc;
+                border: 1px solid #000;
+                width: 275px;
+                margin-top: 5px;
+                height: 200px;
+                max-height: 200px;
+                overflow: auto;
+            }
+
+            .narrowMultiSelect > .row
+            {
+                border-bottom: 1px dotted #ccc;
+                padding: 2px;
+            }
+
+            .narrowMultiSelect > .row:last-child
+            {
+                border-bottom: 0;
+            }
+
+            .narrowMultiSelect > .row > .delete
+            {
+                cursor: pointer;
+                margin-bottom: -2px;
+            }
+        </style>
+
+    </head>
+    <body>
+        <header>
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <p class="site-title">
+                        <a href="@Url.Action("Index", "Home")"><img alt="CA&amp;ES Logo" src="~/Images/caes_logo.png" />&nbsp;Benefits Allocaton Upload</a>
+                       @* @Html.ActionLink("benefits allocation upload", "Index", "Home")*@
+                    </p>
+                </div>
+                <div class="float-right">
+                    <section id="login">
+                        @Html.Partial("_LoginPartial")
+                    </section>
+                    <nav>
+                        <ul id="menu">
+                            <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                            @{
+                                if (User.IsInRole(RoleNames.User))
+                                {
+                                     <li>@Html.ActionLink("Files", "Index", "Reports")</li>
+                                }
+                                
+                                if (User.IsInRole(RoleNames.Admin))
+                                {
+                                    <li>@Html.ActionLink("Admin", "Index", "UserAdministration")</li>
+                                }
+                              
+                            }
+                           @* <li>@Html.ActionLink("Benefits Allocation Upload", "Index", "Reports")</li>*@
+                            <li>@Html.ActionLink("About", "About", "Home")</li>
+                            <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </header>
+        <div id="body">
+            @RenderSection("featured", required: false)
+            <section class="content-wrapper main-content clear-fix">
+                
+                @if(!string.IsNullOrEmpty(TempData["Message"] as string))
+            {
+                <div class="alert alert-info">@TempData["Message"]</div>
+            }
+
+                @RenderBody()
+            </section>
+        </div>
+        <footer>
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <p>&copy; @DateTime.Now.Year - My ASP.NET MVC Application</p>
+                </div>
+            </div>
+        </footer>
+
+        @Scripts.Render("~/bundles/jquery")
+        
+        @RenderSection("scripts", required: false)
+        
+        @RenderSection("AdditionalScripts", false)
+    </body>
+</html>

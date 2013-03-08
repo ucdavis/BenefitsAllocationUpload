@@ -1,0 +1,59 @@
+﻿@using BenefitsAllocationUpload.Models
+@model List<BenefitsAllocation.Core.Domain.UnitFile>
+
+@{
+    ViewBag.Title = "File Log Page";
+    ViewBag.ErrorMessage = "Here is an error message... It could have come from anywhere!";
+}
+
+<hgroup class="title">
+    <h1>@ViewBag.Title.</h1>
+    <br/>
+    <h2>@ViewBag.Message</h2>
+</hgroup>
+<hr/>
+
+<h4 class="label-warning">Some files may have been deleted and are no longer available for download.</h4>
+
+<div>
+    <table class="table">
+        <tr>
+            <th>
+                File Name
+            </th>
+            <th>
+                Created
+            </th>
+            <th>
+                Uploaded
+            </th>
+        </tr>
+ 
+        @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Filename)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Created) by @Html.DisplayFor(modelItem => item.CreatedBy)
+                </td>
+        
+                @if (item.UploadedBy != null )
+                {
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Uploaded) by @Html.DisplayFor(modelItem => item.UploadedBy)
+                    </td>
+                }
+                else
+                {
+                    <td>N/A*</td>
+                }
+            </tr>
+        }
+       
+        <tr><td colspan="3"><i>*File details are non-applicable or unavailable.  Note that upload details are available once file has been uploaded.</i></td></tr>
+ 
+    </table>
+</div>
+
+<p>@Html.ActionLink("Return to Files Page", "Index", "Reports", new { }, new { @class = "btn" })</p>

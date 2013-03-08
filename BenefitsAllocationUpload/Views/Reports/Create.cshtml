@@ -1,0 +1,114 @@
+﻿@model BenefitsAllocationUpload.Models.CreateModel
+
+@{
+    ViewBag.Title = "Create File";
+    ViewBag.ErrorMessage = "Here is an error message... It could have come from anywhere!";
+}
+@section Scripts { 
+    @Scripts.Render("~/bundles/jqueryval") 
+}
+
+<hgroup class="title">
+    <h1>@ViewBag.Title.</h1>
+    <br/>
+    <h2>@ViewBag.Message</h2>
+
+</hgroup>
+
+
+@using (Html.BeginForm("Create", "Reports", null, FormMethod.Post, new { @class = "form-horizontal" }))
+        {
+            @Html.AntiForgeryToken()
+            @Html.ValidationSummary(true, "Validation errors. Please correct the errors and try again.")
+
+            <div class="control-group">
+                <fieldset>
+                    <legend>BA Upload Entry Form</legend>
+                    <div class="control-group">
+                         <div class="editor-label">
+                            @Html.LabelFor(model => model.FiscalYear, new { @class = "control-label" })<span>*</span>
+                        </div>
+                        <div class="controls">  
+                            @Html.DropDownListFor(x => x.FiscalYear,
+                                                  new SelectList(Model.FiscalYears),      
+                                                  null, new { id = "fiscalYearsDropDown" }
+                                 )
+                            @Html.ValidationMessageFor(model => model.FiscalYear)
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <div class="editor-label">
+                            @Html.LabelFor(model => model.FiscalPeriod, new { @class = "control-label" })<span>*</span>
+                        </div>
+                        <div class="controls">
+                            @Html.DropDownListFor(x => x.FiscalPeriod,
+                                                  new SelectList(Model.FiscalPeriods),      
+                                                  null, new { id = "fiscalPeriodsDropDown" }
+                                 )
+                            @Html.ValidationMessageFor(model => model.FiscalPeriod)
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <div class="editor-label">
+                            @Html.LabelFor(model => model.TransDescription, new { @class = "control-label required" })<span>*</span>
+                        </div>
+                        <div class="controls">
+                            @Html.EditorFor(model => model.TransDescription)
+                            @Html.ValidationMessageFor(model => model.TransDescription)
+                           
+                        </div>
+                    </div>
+                    
+                    <div class="control-group">
+                         <div class="editor-label">
+                            @Html.LabelFor(model => model.OrgRefId, new { @class = "control-label required" })<span>*</span>
+                        </div>
+                        <div class="controls">
+                            @Html.EditorFor(model => model.OrgRefId)
+                            @Html.ValidationMessageFor(model => model.OrgRefId)
+                            
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <div class="editor-label">
+                            @Html.LabelFor(model => model.TransDocNumberSequence, new {@class = "control-label" })<span>*</span>
+                        </div>
+                        <div class="controls">
+                            @Html.DropDownListFor(x => x.TransDocNumberSequence,
+                                                  new SelectList(Model.TransDocNumberSequences),      
+                                                  null, new { id = "transDocNumberSequenceDropDown" }
+                                 )
+                            @Html.ValidationMessageFor(model => model.TransDocNumberSequence)
+                        </div>
+                    </div>
+                    
+                    <div class="control-group">
+                        <div class="editor-label">
+                            @Html.LabelFor(model => model.OrgDocNumber, new { @class = "control-label" })
+                        </div>
+                        <div class="controls">
+                            <br/>
+                            @Html.EditorFor(model => model.OrgDocNumber)
+                            @Html.ValidationMessageFor(model => model.OrgDocNumber)
+
+                        </div>
+                    </div>
+                        @*<div class="control-group">
+                        <div class="editor-label">
+                            @Html.LabelFor(model => model.UseDaFIS, new { @class = "control-label required" })<span>*</span>
+                        </div>
+                        <div class="controls">  
+                            @Html.EditorFor(model => model.UseDaFIS, "Enum_RadioButtonList")
+                            @Html.ValidationMessageFor(model => model.UseDaFIS)
+                        </div>
+                    </div>*@
+                   
+
+                </fieldset>
+            </div>
+    
+            <div class="form-actions">
+                <input type="submit" class="btn btn-primary" value="Generate Upload File"/>
+                @Html.ActionLink("Cancel", "Index", "Reports", new { }, new { @class = "btn" })
+            </div>
+}
