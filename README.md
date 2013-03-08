@@ -3,7 +3,7 @@ BenefitsAllocationUpload
 
 Empowers CAES Accounting Team to collect monthly Benefits Allocation details from local FISDataMart, review, and upload results to A&amp;FS server via SFTP for import into DaFIS as a "scrubber" document.
 
-<article>
+
     <p>
         A Project for Automating
         General Ledger Current Budget Adjustments
@@ -32,9 +32,7 @@ Empowers CAES Accounting Team to collect monthly Benefits Allocation details fro
         Once uploaded, these "scrubber" files are then imported into DaFIS and scrubber results reports are
         returned via e-mail to BenefitsAllocationUpload@caes.ucdavis.edu.
     </p>
-</article>
 
-<aside>
     <h3></h3>
     <p>
         This project was created by Ken Taylor for Tom Kaiser and the College of Agricultural and Environmental Sciences (CA&ES)
