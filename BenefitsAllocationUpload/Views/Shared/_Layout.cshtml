@@ -150,7 +150,7 @@
             @RenderSection("featured", required: false)
             <section class="content-wrapper main-content clear-fix">
                 
-                @if(!string.IsNullOrEmpty(TempData["Message"] as string))
+            @if(!string.IsNullOrEmpty(TempData["Message"] as string))
             {
                 <div class="alert alert-info">@TempData["Message"]</div>
             }

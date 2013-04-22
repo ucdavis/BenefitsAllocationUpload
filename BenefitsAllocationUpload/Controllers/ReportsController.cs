@@ -1,7 +1,10 @@
 ﻿using System;
+using System.Data.Objects;
+using System.Data.SqlClient;
 using System.IO;
 using System.Linq;
 using System.Net.Http;
+using System.Reflection;
 using System.Web.Mvc;
 using System.Web.Services.Description;
 using BenefitsAllocationUpload.Models;
@@ -10,6 +13,7 @@ using UCDArch.Core.PersistanceSupport;
 using UCDArch.Data.NHibernate;
 using UCDArch.Web.ActionResults;
 using UnitFile = BenefitsAllocation.Core.Domain.UnitFile;
+
 
 namespace BenefitsAllocationUpload.Controllers
 {
@@ -21,7 +25,7 @@ namespace BenefitsAllocationUpload.Controllers
         IDataExtractionService _dataExtractionService;
         private ISftpService _sftpService;
         private readonly IRepository<UnitFile> _unitFileRepository;
- 
+    
         public ReportsController(IRepository<UnitFile> unitFileRepository)
         {
             objData = new DataClasses();
@@ -34,7 +38,10 @@ namespace BenefitsAllocationUpload.Controllers
         // GET: /Reports/
         public ActionResult Index()
         {
-            var files = objData.GetFiles();
+            var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
+            var unit = user.Units.FirstOrDefault();
+            var schoolCode = unit.DeansOfficeSchoolCode;
+            var files = objData.GetFiles(schoolCode);
             ViewBag.Message = "Benefits Allocation Upload";
             return View(files);
         }
@@ -59,7 +66,11 @@ namespace BenefitsAllocationUpload.Controllers
 
         public ActionResult Details()
         {
-            var userFiles = _unitFileRepository.GetAll();
+            var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
+            var unit = user.Units.FirstOrDefault();
+            var schoolCode = unit.DeansOfficeSchoolCode;
+
+            var userFiles = _unitFileRepository.GetAll().Where(file => file.SchoolCode.Equals("00") || file.SchoolCode.Equals(schoolCode)).ToList();
             ViewBag.Message = "Detailed file information as recorded in database";
             return View(userFiles);
         }
@@ -140,7 +151,23 @@ namespace BenefitsAllocationUpload.Controllers
 
         public ActionResult Create()
         {
-            var model = new CreateModel();
+            var model = new CreateModel()
+                {
+                    UseDaFIS = CreateModel.TrueFalse.True,
+                    EnableUseDaFisSelection = false
+                };
+
+            var unit = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name).
+                                                Units.FirstOrDefault();
+            if (unit != null)
+            {
+                var schoolCode = unit.SchoolCode;
+                if (!string.IsNullOrEmpty(schoolCode) && schoolCode.Equals("01"))
+                {
+                    model.EnableUseDaFisSelection = true;
+                }
+            }
+
             ViewBag.Message = "Create a New Upload File";
             return View(model);
         }
@@ -151,9 +178,22 @@ namespace BenefitsAllocationUpload.Controllers
         {
             if (ModelState.IsValid)
             {
-                var filename = _dataExtractionService.CreateFile(m.FiscalYear, m.FiscalPeriod, m.TransDescription, m.OrgDocNumber, m.OrgRefId, m.TransDocNumberSequence);
                 var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
                 var unit = user.Units.FirstOrDefault();
+                var orgId = string.Empty;
+                var transDocOriginCode = string.Empty;
+                using (var context = new FISDataMartEntities())
+                {
+                    var schoolCodeParameter = new SqlParameter("schoolCode", unit.SchoolCode);
+                    orgId = context.Database.SqlQuery<string>(
+                    "SELECT dbo.udf_GetOrgIdForSchoolCode(@schoolCode)", schoolCodeParameter).FirstOrDefault();
+                }
+  
+                //var filename = _dataExtractionService.CreateFile(m.FiscalYear, m.FiscalPeriod, m.TransDescription, m.OrgDocNumber, m.OrgRefId, m.TransDocNumberSequence);
+                var useDaFIS = (m.UseDaFIS == CreateModel.TrueFalse.True);
+                var filename = _dataExtractionService.CreateFile(m.FiscalYear, m.FiscalPeriod, m.TransDescription, m.OrgDocNumber, m.OrgRefId, m.TransDocNumberSequence, orgId, useDaFIS);
+                //var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
+                //var unit = user.Units.FirstOrDefault();
                 var unitFile = new UnitFile()
                     {
                         Filename = filename,

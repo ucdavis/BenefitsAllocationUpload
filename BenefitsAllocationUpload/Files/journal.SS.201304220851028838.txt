@@ -1,0 +1,538 @@
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001    1Test after chang sprocs to multi-college       -926.70 20130422SSCI      ----------kentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001    2Test after chang sprocs to multi-college     -33339.60 20130422SSCI      BETTINGER kentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001    3Test after chang sprocs to multi-college     -14263.56 20130422SSCI      BORGERHOFFkentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001    4Test after chang sprocs to multi-college      -8571.69 20130422SSCI      CHOY      kentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001    5Test after chang sprocs to multi-college     -17134.65 20130422SSCI      DARWENT   kentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001    6Test after chang sprocs to multi-college     -24862.95 20130422SSCI      DELACADENAkentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001    7Test after chang sprocs to multi-college     -34792.47 20130422SSCI      DONHAM    kentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001    8Test after chang sprocs to multi-college     -12271.94 20130422SSCI      DUMIT     kentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001    9Test after chang sprocs to multi-college     -18202.77 20130422SSCI      EERKENS   kentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001   10Test after chang sprocs to multi-college     -15430.23 20130422SSCI      GIORDANO  kentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001   11Test after chang sprocs to multi-college     -24179.40 20130422SSCI      ISBELL    kentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001   12Test after chang sprocs to multi-college     -18082.89 20130422SSCI      JOSEPH    kentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001   13Test after chang sprocs to multi-college     -18359.73 20130422SSCI      KLIMA     kentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001   14Test after chang sprocs to multi-college     -22241.16 20130422SSCI      MARSHALL  kentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001   15Test after chang sprocs to multi-college     -16512.32 20130422SSCI      MCELREATH kentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001   16Test after chang sprocs to multi-college     -18180.00 20130422SSCI      SAWYER    kentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001   17Test after chang sprocs to multi-college     -33339.60 20130422SSCI      SMITH, D. kentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001   18Test after chang sprocs to multi-college     -26366.49 20130422SSCI      SMITH, J. kentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001   19Test after chang sprocs to multi-college     -18795.49 20130422SSCI      SMITH, JAMkentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001   20Test after chang sprocs to multi-college     -21043.35 20130422SSCI      SRINIVAS  kentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001   21Test after chang sprocs to multi-college     -19316.25 20130422SSCI      STEELE    kentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001   22Test after chang sprocs to multi-college     -19316.25 20130422SSCI      WEAVER    kentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001   23Test after chang sprocs to multi-college     -37928.07 20130422SSCI      WINTERHALDkentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001   24Test after chang sprocs to multi-college     -36589.04 20130422SSCI      YENGOYAN  kentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001   25Test after chang sprocs to multi-college     -34197.93 20130422SSCI      ZHANG     kentest                         
+20133 ANTGENA-----SUB6---CB  10GLCBSS201310001   26Test after chang sprocs to multi-college     -13069.44 20130422SSCI      ZWYNS     kentest                         
+20133 ANTGENT-----SUB6---CB  10GLCBSS201310001   27Test after chang sprocs to multi-college      -6830.85 20130422SSCI      ----------kentest                         
+20133 CMBGEND-----SUB6---CB  10GLCBSS201310001   28Test after chang sprocs to multi-college       3367.13 20130422SSCI      ----------kentest                         
+20133 CMBGENDISHAMSUB6---CB  10GLCBSS201310001   29Test after chang sprocs to multi-college      -4069.44 20130422SSCI      ----------kentest                         
+20133 CMBSURM-----SUB6---CB  10GLCBSS201310001   30Test after chang sprocs to multi-college        -63.89 20130422SSCI      ----------kentest                         
+20133 CMDSSDO-----SUB6---CB  10GLCBSS201310001   31Test after chang sprocs to multi-college         37.36 20130422SSCI      ----------kentest                         
+20133 COMGENA-----SUB6---CB  10GLCBSS201310001   32Test after chang sprocs to multi-college       1009.98 20130422SSCI      ----------kentest                         
+20133 COMGENA-----SUB6---CB  10GLCBSS201310001   33Test after chang sprocs to multi-college     -33339.42 20130422SSCI      BARNETT   kentest                         
+20133 COMGENA-----SUB6---CB  10GLCBSS201310001   34Test after chang sprocs to multi-college     -30615.91 20130422SSCI      BELL      kentest                         
+20133 COMGENA-----SUB6---CB  10GLCBSS201310001   35Test after chang sprocs to multi-college     -16614.72 20130422SSCI      CHO       kentest                         
+20133 COMGENA-----SUB6---CB  10GLCBSS201310001   36Test after chang sprocs to multi-college     -15858.00 20130422SSCI      FENG      kentest                         
+20133 COMGENA-----SUB6---CB  10GLCBSS201310001   37Test after chang sprocs to multi-college     -13962.24 20130422SSCI      HWANG     kentest                         
+20133 COMGENA-----SUB6---CB  10GLCBSS201310001   38Test after chang sprocs to multi-college     -16225.65 20130422SSCI      PALOMARES kentest                         
+20133 COMGENA-----SUB6---CB  10GLCBSS201310001   39Test after chang sprocs to multi-college     -17137.62 20130422SSCI      TAYLORL   kentest                         
+20133 COMGENA-----SUB6---CB  10GLCBSS201310001   40Test after chang sprocs to multi-college     -15127.38 20130422SSCI      YEGIYAN   kentest                         
+20133 COMGEND-----SUB6---CB  10GLCBSS201310001   41Test after chang sprocs to multi-college        -31.70 20130422SSCI      ----------kentest                         
+20133 COMGENT-----SUB6---CB  10GLCBSS201310001   42Test after chang sprocs to multi-college      -1700.11 20130422SSCI      ----------kentest                         
+20133 COMGENT-----SUB6---CB  10GLCBSS201310001   43Test after chang sprocs to multi-college     -22073.22 20130422SSCI      HAMILTONV kentest                         
+20133 COMGENT-----SUB6---CB  10GLCBSS201310001   44Test after chang sprocs to multi-college     -18569.61 20130422SSCI      PUCKERING kentest                         
+20133 COMGENT-----SUB6---CB  10GLCBSS201310001   45Test after chang sprocs to multi-college      -9034.11 20130422SSCI      SHUBB     kentest                         
+20133 COMGENT-----SUB6---CB  10GLCBSS201310001   46Test after chang sprocs to multi-college     -27566.19 20130422SSCI      THEOBALD  kentest                         
+20133 COMGENX-----SUB6---CB  10GLCBSS201310001   47Test after chang sprocs to multi-college      -1102.00 20130422SSCI      ----------kentest                         
+20133 COR9900-----SUB6---CB  10GLCBSS201310001   48Test after chang sprocs to multi-college       -109.35 20130422SSCI      ----------kentest                         
+20133 DELA900-----SUB6---CB  10GLCBSS201310001   49Test after chang sprocs to multi-college         14.45 20130422SSCI      ----------kentest                         
+20133 DOMCCAR-----SUB6---CB  10GLCBSS201310001   50Test after chang sprocs to multi-college        -91.42 20130422SSCI      ----------kentest                         
+20133 DOSMITH-----SUB6---CB  10GLCBSS201310001   51Test after chang sprocs to multi-college        -37.35 20130422SSCI      ----------kentest                         
+20133 DOUEDDY-----SUB6---CB  10GLCBSS201310001   52Test after chang sprocs to multi-college       -403.98 20130422SSCI      ----------kentest                         
+20133 DYKSWAP-----SUB6---CB  10GLCBSS201310001   53Test after chang sprocs to multi-college        -39.09 20130422SSCI      ----------kentest                         
+20133 EASGEND-----SUB6---CB  10GLCBSS201310001   54Test after chang sprocs to multi-college        949.20 20130422SSCI      ----------kentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   55Test after chang sprocs to multi-college        706.99 20130422SSCI      ----------kentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   56Test after chang sprocs to multi-college     -36537.21 20130422SSCI      BERGIN    kentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   57Test after chang sprocs to multi-college     -32152.95 20130422SSCI      BONANNO   kentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   58Test after chang sprocs to multi-college     -32688.80 20130422SSCI      BUSHNELL  kentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   59Test after chang sprocs to multi-college     -40905.00 20130422SSCI      CAMERON   kentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   60Test after chang sprocs to multi-college     -36285.03 20130422SSCI      CARRELL   kentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   61Test after chang sprocs to multi-college     -37107.18 20130422SSCI      CLARK     kentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   62Test after chang sprocs to multi-college     -34905.60 20130422SSCI      FEENSTRA  kentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   63Test after chang sprocs to multi-college     -23068.62 20130422SSCI      GEROMICHALkentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   64Test after chang sprocs to multi-college     -13092.15 20130422SSCI      HENRIKSEN kentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   65Test after chang sprocs to multi-college     -40400.55 20130422SSCI      HOYNES    kentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   66Test after chang sprocs to multi-college     -21474.16 20130422SSCI      MEISSNER  kentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   67Test after chang sprocs to multi-college      -3121.58 20130422SSCI      MILLERDOUGkentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   68Test after chang sprocs to multi-college     -33276.00 20130422SSCI      PAGE      kentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   69Test after chang sprocs to multi-college     -34177.56 20130422SSCI      PERI      kentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   70Test after chang sprocs to multi-college     -32232.96 20130422SSCI      QUINZII   kentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   71Test after chang sprocs to multi-college     -25238.88 20130422SSCI      RAPSON    kentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   72Test after chang sprocs to multi-college     -21874.14 20130422SSCI      RUSS      kentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   73Test after chang sprocs to multi-college     -25770.15 20130422SSCI      SALYER    kentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   74Test after chang sprocs to multi-college     -23222.25 20130422SSCI      SCHIPPER  kentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   75Test after chang sprocs to multi-college     -22344.84 20130422SSCI      SHEN      kentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   76Test after chang sprocs to multi-college     -34331.31 20130422SSCI      SILVESTRE kentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   77Test after chang sprocs to multi-college     -23068.62 20130422SSCI      SIMONOVSKAkentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   78Test after chang sprocs to multi-college     -35247.42 20130422SSCI      STEVENS   kentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   79Test after chang sprocs to multi-college     -24768.18 20130422SSCI      SWENSON   kentest                         
+20133 ECNGENA-----SUB6---CB  10GLCBSS201310001   80Test after chang sprocs to multi-college     -34824.51 20130422SSCI      WOO       kentest                         
+20133 ECNGEND-----SUB6---CB  10GLCBSS201310001   81Test after chang sprocs to multi-college        -57.98 20130422SSCI      ----------kentest                         
+20133 ECNGENDCAMERSUB6---CB  10GLCBSS201310001   82Test after chang sprocs to multi-college        -62.76 20130422SSCI      ----------kentest                         
+20133 ECNGENDPERIGSUB6---CB  10GLCBSS201310001   83Test after chang sprocs to multi-college        -70.08 20130422SSCI      ----------kentest                         
+20133 ECNGENDSSHENSUB6---CB  10GLCBSS201310001   84Test after chang sprocs to multi-college      -5104.08 20130422SSCI      ----------kentest                         
+20133 ECNGENT-----SUB6---CB  10GLCBSS201310001   85Test after chang sprocs to multi-college      -9885.50 20130422SSCI      ----------kentest                         
+20133 ECNGENT-----SUB6---CB  10GLCBSS201310001   86Test after chang sprocs to multi-college     -17873.73 20130422SSCI      FRENKEL   kentest                         
+20133 ECNGENT-----SUB6---CB  10GLCBSS201310001   87Test after chang sprocs to multi-college     -12486.78 20130422SSCI      MODJTAHEDIkentest                         
+20133 ECNGENT-----SUB6---CB  10GLCBSS201310001   88Test after chang sprocs to multi-college     -19997.37 20130422SSCI      WILSONJ   kentest                         
+20133 ECNGENXHOYRTSUB6---CB  10GLCBSS201310001   89Test after chang sprocs to multi-college       -140.16 20130422SSCI      ----------kentest                         
+20133 EXSDEPT-----SUB6---CB  10GLCBSS201310001   90Test after chang sprocs to multi-college         -0.90 20130422SSCI      ----------kentest                         
+20133 FERSTRT-----SUB6---CB  10GLCBSS201310001   91Test after chang sprocs to multi-college        -69.00 20130422SSCI      ----------kentest                         
+20133 GEN9900-----SUB6---CB  10GLCBSS201310001   92Test after chang sprocs to multi-college        -88.71 20130422SSCI      ----------kentest                         
+20133 GHE9900-----SUB6---CB  10GLCBSS201310001   93Test after chang sprocs to multi-college        -26.56 20130422SSCI      ----------kentest                         
+20133 GIOR900-----SUB6---CB  10GLCBSS201310001   94Test after chang sprocs to multi-college        -17.86 20130422SSCI      ----------kentest                         
+20133 GOVGEND-----SUB6---CB  10GLCBSS201310001   95Test after chang sprocs to multi-college         -3.01 20130422SSCI      ----------kentest                         
+20133 GRA9900-----SB28---CB  10GLCBSS201310001   96Test after chang sprocs to multi-college       -494.20 20130422SSCI      ----------kentest                         
+20133 GRA9900-----SUB6---CB  10GLCBSS201310001   97Test after chang sprocs to multi-college      -1743.97 20130422SSCI      ----------kentest                         
+20133 GRADGRP-----SB28---CB  10GLCBSS201310001   98Test after chang sprocs to multi-college        265.54 20130422SSCI      ----------kentest                         
+20133 GRADGRP-----SUB6---CB  10GLCBSS201310001   99Test after chang sprocs to multi-college       1341.74 20130422SSCI      ----------kentest                         
+20133 GSRGRAD-----SUB6---CB  10GLCBSS201310001  100Test after chang sprocs to multi-college        -91.38 20130422SSCI      ----------kentest                         
+20133 HAS9900-----SB28---CB  10GLCBSS201310001  101Test after chang sprocs to multi-college       -596.59 20130422SSCI      ----------kentest                         
+20133 HAS9900-----SUB6---CB  10GLCBSS201310001  102Test after chang sprocs to multi-college        435.22 20130422SSCI      ----------kentest                         
+20133 HCKGILL-----SB28---CB  10GLCBSS201310001  103Test after chang sprocs to multi-college         81.25 20130422SSCI      ----------kentest                         
+20133 HCKGILL-----SUB6---CB  10GLCBSS201310001  104Test after chang sprocs to multi-college        -86.27 20130422SSCI      ----------kentest                         
+20133 HEMSWAP-----SUB6---CB  10GLCBSS201310001  105Test after chang sprocs to multi-college        -37.63 20130422SSCI      ----------kentest                         
+20133 HIAGEND-----SUB6---CB  10GLCBSS201310001  106Test after chang sprocs to multi-college        -13.34 20130422SSCI      ----------kentest                         
+20133 HISFACUBOSSLSUB6---CB  10GLCBSS201310001  107Test after chang sprocs to multi-college        -10.01 20130422SSCI      ----------kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  108Test after chang sprocs to multi-college     -16225.65 20130422SSCI      ANOOSHAHR kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  109Test after chang sprocs to multi-college     -36879.29 20130422SSCI      BIALE     kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  110Test after chang sprocs to multi-college     -22565.97 20130422SSCI      BOSSLER   kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  111Test after chang sprocs to multi-college     -14982.12 20130422SSCI      CAMPBELL  kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  112Test after chang sprocs to multi-college     -22565.97 20130422SSCI      CHUCK     kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  113Test after chang sprocs to multi-college     -38134.34 20130422SSCI      CLARENCE  kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  114Test after chang sprocs to multi-college     -21293.10 20130422SSCI      DAVIS     kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  115Test after chang sprocs to multi-college     -16651.26 20130422SSCI      DECKER    kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  116Test after chang sprocs to multi-college     -19588.95 20130422SSCI      DICKINSON kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  117Test after chang sprocs to multi-college     -21816.00 20130422SSCI      EL SHAKRY kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  118Test after chang sprocs to multi-college     -16225.65 20130422SSCI      HARRIS    kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  119Test after chang sprocs to multi-college     -17134.65 20130422SSCI      HARTIGAN  kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  120Test after chang sprocs to multi-college     -14998.50 20130422SSCI      JAVERS    kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  121Test after chang sprocs to multi-college     -27617.49 20130422SSCI      KELMAN    kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  122Test after chang sprocs to multi-college     -17134.65 20130422SSCI      KIM       kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  123Test after chang sprocs to multi-college     -16200.18 20130422SSCI      LANDAU    kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  124Test after chang sprocs to multi-college     -16547.67 20130422SSCI      LANGLAND  kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  125Test after chang sprocs to multi-college     -17134.65 20130422SSCI      MATERSON  kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  126Test after chang sprocs to multi-college     -21043.35 20130422SSCI      MCKEE     kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  127Test after chang sprocs to multi-college     -18705.20 20130422SSCI      MILLER    kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  128Test after chang sprocs to multi-college     -24179.40 20130422SSCI      OLMSTED   kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  129Test after chang sprocs to multi-college     -14422.88 20130422SSCI      OROPEZA   kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  130Test after chang sprocs to multi-college     -25210.26 20130422SSCI      RAUCHWAY  kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  131Test after chang sprocs to multi-college     -33027.57 20130422SSCI      RESENDEZ  kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  132Test after chang sprocs to multi-college     -21043.35 20130422SSCI      SALER     kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  133Test after chang sprocs to multi-college     -23964.86 20130422SSCI      SEN       kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  134Test after chang sprocs to multi-college     -17134.65 20130422SSCI      SMOLENSKI kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  135Test after chang sprocs to multi-college     -24667.73 20130422SSCI      SPYRIDAKISkentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  136Test after chang sprocs to multi-college     -16202.97 20130422SSCI      STOLZENBERkentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  137Test after chang sprocs to multi-college     -14194.94 20130422SSCI      STUART    kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  138Test after chang sprocs to multi-college     -19991.70 20130422SSCI      TAYLORALANkentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  139Test after chang sprocs to multi-college      -9645.21 20130422SSCI      TEZCAN    kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  140Test after chang sprocs to multi-college     -15427.98 20130422SSCI      TSU       kentest                         
+20133 HISGENA-----SUB6---CB  10GLCBSS201310001  141Test after chang sprocs to multi-college      -3359.61 20130422SSCI      WARREN    kentest                         
+20133 HISGEND-----SUB6---CB  10GLCBSS201310001  142Test after chang sprocs to multi-college       2240.86 20130422SSCI      ----------kentest                         
+20133 HISGENT-----SUB6---CB  10GLCBSS201310001  143Test after chang sprocs to multi-college      -5916.03 20130422SSCI      ----------kentest                         
+20133 HISGENXFELOWSUB6---CB  10GLCBSS201310001  144Test after chang sprocs to multi-college       -113.58 20130422SSCI      ----------kentest                         
+20133 HISGENXPUBAKSUB6---CB  10GLCBSS201310001  145Test after chang sprocs to multi-college         -7.80 20130422SSCI      ----------kentest                         
+20133 HISGENXTAYRASUB6---CB  10GLCBSS201310001  146Test after chang sprocs to multi-college       -322.74 20130422SSCI      ----------kentest                         
+20133 ICAGEND-----SUB6---CB  10GLCBSS201310001  147Test after chang sprocs to multi-college       2121.01 20130422SSCI      ----------kentest                         
+20133 ICAGEND-----SUB6---CB  10GLCBSS201310001  148Test after chang sprocs to multi-college      38062.18 20130422SSCI      ICAPAYROLLkentest                         
+20133 ICAGENT-----SUB6---CB  10GLCBSS201310001  149Test after chang sprocs to multi-college      13223.94 20130422SSCI      ICAPAYROLLkentest                         
+20133 IGAGEND-----SB28---CB  10GLCBSS201310001  150Test after chang sprocs to multi-college         70.16 20130422SSCI      DANIELS   kentest                         
+20133 IGAGEND-----SB28---CB  10GLCBSS201310001  151Test after chang sprocs to multi-college       1129.23 20130422SSCI      STRATFORD kentest                         
+20133 IGAGEND-----SB28---CB  10GLCBSS201310001  152Test after chang sprocs to multi-college       1673.52 20130422SSCI      WILKOFF   kentest                         
+20133 IGAGEND-----SUB6---CB  10GLCBSS201310001  153Test after chang sprocs to multi-college         31.01 20130422SSCI      DANIELS   kentest                         
+20133 IGAGEND-----SUB6---CB  10GLCBSS201310001  154Test after chang sprocs to multi-college        499.12 20130422SSCI      STRATFORD kentest                         
+20133 IGAGEND-----SUB6---CB  10GLCBSS201310001  155Test after chang sprocs to multi-college     -13488.41 20130422SSCI      WILKOFF   kentest                         
+20133 IREGEND-----SUB6---CB  10GLCBSS201310001  156Test after chang sprocs to multi-college        -30.05 20130422SSCI      ----------kentest                         
+20133 IREGENT-----SUB6---CB  10GLCBSS201310001  157Test after chang sprocs to multi-college       -459.00 20130422SSCI      ----------kentest                         
+20133 JESGEND-----SUB6---CB  10GLCBSS201310001  158Test after chang sprocs to multi-college       -107.43 20130422SSCI      ----------kentest                         
+20133 JFADEPT-----SUB6---CB  10GLCBSS201310001  159Test after chang sprocs to multi-college        -24.60 20130422SSCI      ----------kentest                         
+20133 JFAFRS1-----SUB6---CB  10GLCBSS201310001  160Test after chang sprocs to multi-college        -13.00 20130422SSCI      ----------kentest                         
+20133 JXMFRS1-----SUB6---CB  10GLCBSS201310001  161Test after chang sprocs to multi-college        -14.73 20130422SSCI      ----------kentest                         
+20133 LNGGENA-----SUB6---CB  10GLCBSS201310001  162Test after chang sprocs to multi-college       1515.01 20130422SSCI      ----------kentest                         
+20133 LNGGENA-----SUB6---CB  10GLCBSS201310001  163Test after chang sprocs to multi-college     -18180.00 20130422SSCI      ARANOVICH kentest                         
+20133 LNGGENA-----SUB6---CB  10GLCBSS201310001  164Test after chang sprocs to multi-college     -25650.80 20130422SSCI      BAYLEY    kentest                         
+20133 LNGGENA-----SUB6---CB  10GLCBSS201310001  165Test after chang sprocs to multi-college     -22744.89 20130422SSCI      CORINA    kentest                         
+20133 LNGGENA-----SUB6---CB  10GLCBSS201310001  166Test after chang sprocs to multi-college     -20621.70 20130422SSCI      FARRELL   kentest                         
+20133 LNGGENA-----SUB6---CB  10GLCBSS201310001  167Test after chang sprocs to multi-college     -37253.07 20130422SSCI      HAWKINS   kentest                         
+20133 LNGGENA-----SUB6---CB  10GLCBSS201310001  168Test after chang sprocs to multi-college     -16225.65 20130422SSCI      MENARD    kentest                         
+20133 LNGGENA-----SUB6---CB  10GLCBSS201310001  169Test after chang sprocs to multi-college     -22565.97 20130422SSCI      OJEDA     kentest                         
+20133 LNGGENA-----SUB6---CB  10GLCBSS201310001  170Test after chang sprocs to multi-college     -21043.35 20130422SSCI      RAMANATHANkentest                         
+20133 LNGGENA-----SUB6---CB  10GLCBSS201310001  171Test after chang sprocs to multi-college      -6044.85 20130422SSCI      TIMML     kentest                         
+20133 LNGGEND-----SB28---CB  10GLCBSS201310001  172Test after chang sprocs to multi-college      -2184.24 20130422SSCI      ----------kentest                         
+20133 LNGGEND-----SUB6---CB  10GLCBSS201310001  173Test after chang sprocs to multi-college       2237.60 20130422SSCI      ----------kentest                         
+20133 LNGGENT-----SUB6---CB  10GLCBSS201310001  174Test after chang sprocs to multi-college     -33406.42 20130422SSCI      ----------kentest                         
+20133 LNGGENT-----SUB6---CB  10GLCBSS201310001  175Test after chang sprocs to multi-college     -33587.28 20130422SSCI      LANEJ     kentest                         
+20133 LNGGENT-----SUB6---CB  10GLCBSS201310001  176Test after chang sprocs to multi-college     -22625.19 20130422SSCI      SAMSEL    kentest                         
+20133 LNGGENT-----SUB6---CB  10GLCBSS201310001  177Test after chang sprocs to multi-college      -5282.40 20130422SSCI      WARDK     kentest                         
+20133 LUC9900-----SUB6---CB  10GLCBSS201310001  178Test after chang sprocs to multi-college        -19.08 20130422SSCI      ----------kentest                         
+20133 LUC9900SALARSUB6---CB  10GLCBSS201310001  179Test after chang sprocs to multi-college      -2272.50 20130422SSCI      ----------kentest                         
+20133 MESAGNT-----SUB6---CB  10GLCBSS201310001  180Test after chang sprocs to multi-college        -22.45 20130422SSCI      ----------kentest                         
+20133 MOOSTRT-----SB28---CB  10GLCBSS201310001  181Test after chang sprocs to multi-college       -526.26 20130422SSCI      ----------kentest                         
+20133 MOOSTRT-----SUB6---CB  10GLCBSS201310001  182Test after chang sprocs to multi-college      -4110.49 20130422SSCI      ----------kentest                         
+20133 MSAPROO-----SB28---CB  10GLCBSS201310001  183Test after chang sprocs to multi-college       -170.19 20130422SSCI      MANNGU    kentest                         
+20133 MSAPROO-----SUB6---CB  10GLCBSS201310001  184Test after chang sprocs to multi-college       8812.39 20130422SSCI      ----------kentest                         
+20133 MSAPROO-----SUB6---CB  10GLCBSS201310001  185Test after chang sprocs to multi-college      -6133.63 20130422SSCI      MANNGU    kentest                         
+20133 PHEGENDAPPLESUB6---CB  10GLCBSS201310001  186Test after chang sprocs to multi-college      -2108.75 20130422SSCI      ICAPAYROLLkentest                         
+20133 PHEGENDYODERSUB6---CB  10GLCBSS201310001  187Test after chang sprocs to multi-college       -861.90 20130422SSCI      ICAPAYROLLkentest                         
+20133 PHIGENA-----SUB6---CB  10GLCBSS201310001  188Test after chang sprocs to multi-college       1009.96 20130422SSCI      ----------kentest                         
+20133 PHIGENA-----SUB6---CB  10GLCBSS201310001  189Test after chang sprocs to multi-college     -22565.97 20130422SSCI      ANTONELLI kentest                         
+20133 PHIGENA-----SUB6---CB  10GLCBSS201310001  190Test after chang sprocs to multi-college     -36055.53 20130422SSCI      COPP      kentest                         
+20133 PHIGENA-----SUB6---CB  10GLCBSS201310001  191Test after chang sprocs to multi-college     -17890.74 20130422SSCI      GILMORE   kentest                         
+20133 PHIGENA-----SUB6---CB  10GLCBSS201310001  192Test after chang sprocs to multi-college     -27976.51 20130422SSCI      GRIESEMER kentest                         
+20133 PHIGENA-----SUB6---CB  10GLCBSS201310001  193Test after chang sprocs to multi-college     -23282.73 20130422SSCI      LANDRY    kentest                         
+20133 PHIGENA-----SUB6---CB  10GLCBSS201310001  194Test after chang sprocs to multi-college     -24147.63 20130422SSCI      MATTEY    kentest                         
+20133 PHIGENA-----SUB6---CB  10GLCBSS201310001  195Test after chang sprocs to multi-college     -37933.19 20130422SSCI      MAY       kentest                         
+20133 PHIGENA-----SUB6---CB  10GLCBSS201310001  196Test after chang sprocs to multi-college     -13139.82 20130422SSCI      MILLSTEIN kentest                         
+20133 PHIGENA-----SUB6---CB  10GLCBSS201310001  197Test after chang sprocs to multi-college     -15475.77 20130422SSCI      MOLYNEUX  kentest                         
+20133 PHIGENA-----SUB6---CB  10GLCBSS201310001  198Test after chang sprocs to multi-college     -20828.79 20130422SSCI      OSHANA    kentest                         
+20133 PHIGENA-----SUB6---CB  10GLCBSS201310001  199Test after chang sprocs to multi-college     -15880.68 20130422SSCI      SENNET    kentest                         
+20133 PHIGENA-----SUB6---CB  10GLCBSS201310001  200Test after chang sprocs to multi-college     -21944.16 20130422SSCI      SZAIF     kentest                         
+20133 PHIGENT-----SUB6---CB  10GLCBSS201310001  201Test after chang sprocs to multi-college      -4031.31 20130422SSCI      ----------kentest                         
+20133 PHSUSEN-----SUB6---CB  10GLCBSS201310001  202Test after chang sprocs to multi-college        -14.50 20130422SSCI      ----------kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  203Test after chang sprocs to multi-college        599.17 20130422SSCI      ----------kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  204Test after chang sprocs to multi-college     -22929.48 20130422SSCI      ADAMSJ    kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  205Test after chang sprocs to multi-college      -8112.87 20130422SSCI      ANDREWS   kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  206Test after chang sprocs to multi-college     -18566.10 20130422SSCI      BOUDREAU  kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  207Test after chang sprocs to multi-college     -18143.19 20130422SSCI      BOYDSTUN  kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  208Test after chang sprocs to multi-college     -25069.50 20130422SSCI      ENGSTROM  kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  209Test after chang sprocs to multi-college     -26231.22 20130422SSCI      ESCHEINER kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  210Test after chang sprocs to multi-college     -17522.37 20130422SSCI      GATES     kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  211Test after chang sprocs to multi-college     -19640.34 20130422SSCI      HIGHTON   kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  212Test after chang sprocs to multi-college     -16334.73 20130422SSCI      HILL S    kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  213Test after chang sprocs to multi-college     -34087.50 20130422SSCI      HUCKFELDT kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  214Test after chang sprocs to multi-college     -26949.77 20130422SSCI      JONES     kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  215Test after chang sprocs to multi-college     -18143.19 20130422SSCI      JOYCE     kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  216Test after chang sprocs to multi-college     -24320.52 20130422SSCI      KONO      kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  217Test after chang sprocs to multi-college     -17581.86 20130422SSCI      MACKENZIE kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  218Test after chang sprocs to multi-college     -17581.86 20130422SSCI      MCKIBBEN  kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  219Test after chang sprocs to multi-college     -18180.00 20130422SSCI      MONEY     kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  220Test after chang sprocs to multi-college     -17134.65 20130422SSCI      MONTINOLA kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  221Test after chang sprocs to multi-college     -33339.60 20130422SSCI      NINCIC    kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  222Test after chang sprocs to multi-college     -17348.67 20130422SSCI      RSTAYLOR  kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  223Test after chang sprocs to multi-college     -17205.75 20130422SSCI      SATKUNANANkentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  224Test after chang sprocs to multi-college     -26075.34 20130422SSCI      SCOTT     kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  225Test after chang sprocs to multi-college     -17195.25 20130422SSCI      SHUGART   kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  226Test after chang sprocs to multi-college     -36477.27 20130422SSCI      STONE     kentest                         
+20133 PLSGENA-----SUB6---CB  10GLCBSS201310001  227Test after chang sprocs to multi-college     -38275.91 20130422SSCI      ZMAOZ     kentest                         
+20133 POLDEPT-----SUB6---CB  10GLCBSS201310001  228Test after chang sprocs to multi-college       -222.40 20130422SSCI      ----------kentest                         
+20133 POLGEND-----SUB6---CB  10GLCBSS201310001  229Test after chang sprocs to multi-college       1009.98 20130422SSCI      ----------kentest                         
+20133 POLGENT-----SUB6---CB  10GLCBSS201310001  230Test after chang sprocs to multi-college     -45974.48 20130422SSCI      ----------kentest                         
+20133 POLPER2-----SUB6---CB  10GLCBSS201310001  231Test after chang sprocs to multi-college         -1.66 20130422SSCI      ----------kentest                         
+20133 POLUGRD-----SUB6---CB  10GLCBSS201310001  232Test after chang sprocs to multi-college        -27.20 20130422SSCI      ----------kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  233Test after chang sprocs to multi-college        909.00 20130422SSCI      ----------kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  234Test after chang sprocs to multi-college     -16553.61 20130422SSCI      AEKSTROM  kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  235Test after chang sprocs to multi-college     -17206.92 20130422SSCI      ALEDGERWOOkentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  236Test after chang sprocs to multi-college     -21484.29 20130422SSCI      AYONELINASkentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  237Test after chang sprocs to multi-college     -19042.21 20130422SSCI      BTRAINOR  kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  238Test after chang sprocs to multi-college     -18606.05 20130422SSCI      CPICKETT  kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  239Test after chang sprocs to multi-college     -22620.64 20130422SSCI      CRANGANATHkentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  240Test after chang sprocs to multi-college     -17014.76 20130422SSCI      DLONG     kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  241Test after chang sprocs to multi-college     -38862.26 20130422SSCI      DSIMONTON kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  242Test after chang sprocs to multi-college     -21833.55 20130422SSCI      EFERRERCAJkentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  243Test after chang sprocs to multi-college     -26371.03 20130422SSCI      GGOODMAN  kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  244Test after chang sprocs to multi-college     -26219.29 20130422SSCI      GHEREK    kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  245Test after chang sprocs to multi-college     -18378.81 20130422SSCI      JGENG     kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  246Test after chang sprocs to multi-college     -19611.72 20130422SSCI      JSCHANK   kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  247Test after chang sprocs to multi-college     -26735.50 20130422SSCI      JSHERMAN  kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  248Test after chang sprocs to multi-college      -8936.66 20130422SSCI      KBALES    kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  249Test after chang sprocs to multi-college     -15919.56 20130422SSCI      KESTES    kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  250Test after chang sprocs to multi-college     -16500.72 20130422SSCI      KGRIMM    kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  251Test after chang sprocs to multi-college     -18180.00 20130422SSCI      KLAGATTUTAkentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  252Test after chang sprocs to multi-college     -34407.30 20130422SSCI      KWIDAMAN  kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  253Test after chang sprocs to multi-college     -32300.46 20130422SSCI      LKRUBITZERkentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  254Test after chang sprocs to multi-college     -23546.12 20130422SSCI      LOAKES    kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  255Test after chang sprocs to multi-college     -19611.72 20130422SSCI      MTRAXLER  kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  256Test after chang sprocs to multi-college      -8044.63 20130422SSCI      NZANE     kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  257Test after chang sprocs to multi-college     -21292.38 20130422SSCI      PHASTINGS kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  258Test after chang sprocs to multi-college     -18122.75 20130422SSCI      PJANATA   kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  259Test after chang sprocs to multi-college     -40905.00 20130422SSCI      PSHAVER   kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  260Test after chang sprocs to multi-college     -33339.60 20130422SSCI      RCOSS     kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  261Test after chang sprocs to multi-college     -21182.94 20130422SSCI      REMMONS   kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  262Test after chang sprocs to multi-college     -18554.97 20130422SSCI      RROBINS   kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  263Test after chang sprocs to multi-college     -40905.00 20130422SSCI      RTHOMPSON kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  264Test after chang sprocs to multi-college     -17134.65 20130422SSCI      SBLOZIS   kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  265Test after chang sprocs to multi-college     -13478.27 20130422SSCI      SGHETTI   kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  266Test after chang sprocs to multi-college     -23474.18 20130422SSCI      SLUCK     kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  267Test after chang sprocs to multi-college     -16445.08 20130422SSCI      SRIVERA   kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  268Test after chang sprocs to multi-college      -9090.00 20130422SSCI      STOLZEND  kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  269Test after chang sprocs to multi-college     -18316.79 20130422SSCI      TSWAAB    kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  270Test after chang sprocs to multi-college     -18180.00 20130422SSCI      WILTGEN   kentest                         
+20133 PSCGENA-----SUB6---CB  10GLCBSS201310001  271Test after chang sprocs to multi-college     -15779.07 20130422SSCI      WMOONS    kentest                         
+20133 PSCGEND-----SUB6---CB  10GLCBSS201310001  272Test after chang sprocs to multi-college        -31.45 20130422SSCI      ----------kentest                         
+20133 PSCGENT-----SB28---CB  10GLCBSS201310001  273Test after chang sprocs to multi-college        677.91 20130422SSCI      ----------kentest                         
+20133 PSCGENT-----SUB6---CB  10GLCBSS201310001  274Test after chang sprocs to multi-college     -38328.65 20130422SSCI      ----------kentest                         
+20133 PSCGENT-----SUB6---CB  10GLCBSS201310001  275Test after chang sprocs to multi-college     -22073.22 20130422SSCI      GIBBSK    kentest                         
+20133 PSCGENT-----SUB6---CB  10GLCBSS201310001  276Test after chang sprocs to multi-college      -7104.20 20130422SSCI      HORN      kentest                         
+20133 PSCGENT-----SUB6---CB  10GLCBSS201310001  277Test after chang sprocs to multi-college     -11312.64 20130422SSCI      POSTE     kentest                         
+20133 PSCGENT-----SUB6---CB  10GLCBSS201310001  278Test after chang sprocs to multi-college     -11885.40 20130422SSCI      SCHEPELER kentest                         
+20133 PSCGENT-----SUB6---CB  10GLCBSS201310001  279Test after chang sprocs to multi-college      -4789.90 20130422SSCI      VCROSS    kentest                         
+20133 PSYGR03-----SB28---CB  10GLCBSS201310001  280Test after chang sprocs to multi-college       -156.83 20130422SSCI      ----------kentest                         
+20133 PSYGR03-----SUB6---CB  10GLCBSS201310001  281Test after chang sprocs to multi-college      -1253.23 20130422SSCI      ----------kentest                         
+20133 PSYGR04-----SUB6---CB  10GLCBSS201310001  282Test after chang sprocs to multi-college       -226.52 20130422SSCI      ----------kentest                         
+20133 PSYGR05-----SUB6---CB  10GLCBSS201310001  283Test after chang sprocs to multi-college       -969.34 20130422SSCI      ----------kentest                         
+20133 PULE900-----SUB6---CB  10GLCBSS201310001  284Test after chang sprocs to multi-college         -0.24 20130422SSCI      ----------kentest                         
+20133 PULE900STASTSUB6---CB  10GLCBSS201310001  285Test after chang sprocs to multi-college        195.92 20130422SSCI      ----------kentest                         
+20133 RIV9900-----SUB6---CB  10GLCBSS201310001  286Test after chang sprocs to multi-college        -22.41 20130422SSCI      ----------kentest                         
+20133 RIV9900SALARSUB6---CB  10GLCBSS201310001  287Test after chang sprocs to multi-college      -2905.12 20130422SSCI      ----------kentest                         
+20133 RRHSTAR-----SUB6---CB  10GLCBSS201310001  288Test after chang sprocs to multi-college        -52.00 20130422SSCI      ----------kentest                         
+20133 SCADMN1-----SB28---CB  10GLCBSS201310001  289Test after chang sprocs to multi-college       -525.06 20130422SSCI      BLOCKA    kentest                         
+20133 SCADMN1-----SB28---CB  10GLCBSS201310001  290Test after chang sprocs to multi-college       -433.39 20130422SSCI      WILSONS   kentest                         
+20133 SCADMN1-----SUB6---CB  10GLCBSS201310001  291Test after chang sprocs to multi-college        -73.35 20130422SSCI      ----------kentest                         
+20133 SCADMN1-----SUB6---CB  10GLCBSS201310001  292Test after chang sprocs to multi-college     -24297.08 20130422SSCI      BLOCKA    kentest                         
+20133 SCADMN1-----SUB6---CB  10GLCBSS201310001  293Test after chang sprocs to multi-college     -15480.24 20130422SSCI      WILSONS   kentest                         
+20133 SCINS01-----SUB6---CB  10GLCBSS201310001  294Test after chang sprocs to multi-college      -9576.36 20130422SSCI      ----------kentest                         
+20133 SENS900-----SUB6---CB  10GLCBSS201310001  295Test after chang sprocs to multi-college         -2.26 20130422SSCI      ----------kentest                         
+20133 SHRGEND-----SB28---CB  10GLCBSS201310001  296Test after chang sprocs to multi-college        836.47 20130422SSCI      KAAKE     kentest                         
+20133 SHRGEND-----SB28---CB  10GLCBSS201310001  297Test after chang sprocs to multi-college       -435.42 20130422SSCI      SDYER     kentest                         
+20133 SHRGEND-----SB28---CB  10GLCBSS201310001  298Test after chang sprocs to multi-college       -395.67 20130422SSCI      SHEEHAN   kentest                         
+20133 SHRGEND-----SB28---CB  10GLCBSS201310001  299Test after chang sprocs to multi-college         47.15 20130422SSCI      STREETER  kentest                         
+20133 SHRGEND-----SB28---CB  10GLCBSS201310001  300Test after chang sprocs to multi-college      -1558.34 20130422SSCI      TAPIA     kentest                         
+20133 SHRGEND-----SUB6---CB  10GLCBSS201310001  301Test after chang sprocs to multi-college      -2249.85 20130422SSCI      ----------kentest                         
+20133 SHRGEND-----SUB6---CB  10GLCBSS201310001  302Test after chang sprocs to multi-college     -15729.64 20130422SSCI      KAAKE     kentest                         
+20133 SHRGEND-----SUB6---CB  10GLCBSS201310001  303Test after chang sprocs to multi-college      -2218.29 20130422SSCI      SDYER     kentest                         
+20133 SHRGEND-----SUB6---CB  10GLCBSS201310001  304Test after chang sprocs to multi-college      -8248.78 20130422SSCI      SHEEHAN   kentest                         
+20133 SHRGEND-----SUB6---CB  10GLCBSS201310001  305Test after chang sprocs to multi-college     -15267.56 20130422SSCI      STREETER  kentest                         
+20133 SHRGEND-----SUB6---CB  10GLCBSS201310001  306Test after chang sprocs to multi-college     -25267.90 20130422SSCI      TAPIA     kentest                         
+20133 SITGEND-----SB28---CB  10GLCBSS201310001  307Test after chang sprocs to multi-college         71.45 20130422SSCI      BRICK     kentest                         
+20133 SITGEND-----SB28---CB  10GLCBSS201310001  308Test after chang sprocs to multi-college       -213.43 20130422SSCI      CARLSON   kentest                         
+20133 SITGEND-----SB28---CB  10GLCBSS201310001  309Test after chang sprocs to multi-college        163.65 20130422SSCI      DYER      kentest                         
+20133 SITGEND-----SB28---CB  10GLCBSS201310001  310Test after chang sprocs to multi-college       3049.57 20130422SSCI      JCOSCA    kentest                         
+20133 SITGEND-----SB28---CB  10GLCBSS201310001  311Test after chang sprocs to multi-college        -95.48 20130422SSCI      KRAMER    kentest                         
+20133 SITGEND-----SB28---CB  10GLCBSS201310001  312Test after chang sprocs to multi-college       -308.20 20130422SSCI      MCMASTERS kentest                         
+20133 SITGEND-----SB28---CB  10GLCBSS201310001  313Test after chang sprocs to multi-college       3094.25 20130422SSCI      OKADRI    kentest                         
+20133 SITGEND-----SB28---CB  10GLCBSS201310001  314Test after chang sprocs to multi-college        -90.97 20130422SSCI      PHILLIPSJ kentest                         
+20133 SITGEND-----SB28---CB  10GLCBSS201310001  315Test after chang sprocs to multi-college      -1581.72 20130422SSCI      THIELEN   kentest                         
+20133 SITGEND-----SB28---CB  10GLCBSS201310001  316Test after chang sprocs to multi-college        256.26 20130422SSCI      TRASK     kentest                         
+20133 SITGEND-----SB28---CB  10GLCBSS201310001  317Test after chang sprocs to multi-college      -1011.07 20130422SSCI      WHEELER   kentest                         
+20133 SITGEND-----SB28---CB  10GLCBSS201310001  318Test after chang sprocs to multi-college        349.71 20130422SSCI      WONGJ     kentest                         
+20133 SITGEND-----SUB6---CB  10GLCBSS201310001  319Test after chang sprocs to multi-college      -3818.82 20130422SSCI      ----------kentest                         
+20133 SITGEND-----SUB6---CB  10GLCBSS201310001  320Test after chang sprocs to multi-college     -24214.92 20130422SSCI      BRICK     kentest                         
+20133 SITGEND-----SUB6---CB  10GLCBSS201310001  321Test after chang sprocs to multi-college     -21069.66 20130422SSCI      CARLSON   kentest                         
+20133 SITGEND-----SUB6---CB  10GLCBSS201310001  322Test after chang sprocs to multi-college     -27451.09 20130422SSCI      DYER      kentest                         
+20133 SITGEND-----SUB6---CB  10GLCBSS201310001  323Test after chang sprocs to multi-college     -24013.44 20130422SSCI      JCOSCA    kentest                         
+20133 SITGEND-----SUB6---CB  10GLCBSS201310001  324Test after chang sprocs to multi-college     -16456.30 20130422SSCI      KRAMER    kentest                         
+20133 SITGEND-----SUB6---CB  10GLCBSS201310001  325Test after chang sprocs to multi-college     -24460.31 20130422SSCI      MCMASTERS kentest                         
+20133 SITGEND-----SUB6---CB  10GLCBSS201310001  326Test after chang sprocs to multi-college     -14509.65 20130422SSCI      OKADRI    kentest                         
+20133 SITGEND-----SUB6---CB  10GLCBSS201310001  327Test after chang sprocs to multi-college     -32334.72 20130422SSCI      PHILLIPSJ kentest                         
+20133 SITGEND-----SUB6---CB  10GLCBSS201310001  328Test after chang sprocs to multi-college     -20988.09 20130422SSCI      THIELEN   kentest                         
+20133 SITGEND-----SUB6---CB  10GLCBSS201310001  329Test after chang sprocs to multi-college     -19024.69 20130422SSCI      TRASK     kentest                         
+20133 SITGEND-----SUB6---CB  10GLCBSS201310001  330Test after chang sprocs to multi-college     -14357.12 20130422SSCI      WHEELER   kentest                         
+20133 SITGEND-----SUB6---CB  10GLCBSS201310001  331Test after chang sprocs to multi-college     -13586.66 20130422SSCI      WONGJ     kentest                         
+20133 SOCGENA-----SUB6---CB  10GLCBSS201310001  332Test after chang sprocs to multi-college      -1615.98 20130422SSCI      ----------kentest                         
+20133 SOCGENA-----SUB6---CB  10GLCBSS201310001  333Test after chang sprocs to multi-college     -18180.00 20130422SSCI      BEAMISH   kentest                         
+20133 SOCGENA-----SUB6---CB  10GLCBSS201310001  334Test after chang sprocs to multi-college     -18180.00 20130422SSCI      CARROLL   kentest                         
+20133 SOCGENA-----SUB6---CB  10GLCBSS201310001  335Test after chang sprocs to multi-college     -31813.20 20130422SSCI      COHEN     kentest                         
+20133 SOCGENA-----SUB6---CB  10GLCBSS201310001  336Test after chang sprocs to multi-college     -21176.28 20130422SSCI      EDDYU     kentest                         
+20133 SOCGENA-----SUB6---CB  10GLCBSS201310001  337Test after chang sprocs to multi-college     -18081.63 20130422SSCI      FARIS     kentest                         
+20133 SOCGENA-----SUB6---CB  10GLCBSS201310001  338Test after chang sprocs to multi-college     -19611.72 20130422SSCI      GRINDSTAFFkentest                         
+20133 SOCGENA-----SUB6---CB  10GLCBSS201310001  339Test after chang sprocs to multi-college     -16225.65 20130422SSCI      HALFMANN  kentest                         
+20133 SOCGENA-----SUB6---CB  10GLCBSS201310001  340Test after chang sprocs to multi-college     -33339.60 20130422SSCI      HALL      kentest                         
+20133 SOCGENA-----SUB6---CB  10GLCBSS201310001  341Test after chang sprocs to multi-college     -16411.50 20130422SSCI      HAMILTON  kentest                         
+20133 SOCGENA-----SUB6---CB  10GLCBSS201310001  342Test after chang sprocs to multi-college     -17549.83 20130422SSCI      HAYNES    kentest                         
+20133 SOCGENA-----SUB6---CB  10GLCBSS201310001  343Test after chang sprocs to multi-college     -29922.21 20130422SSCI      JACKMAN   kentest                         
+20133 SOCGENA-----SUB6---CB  10GLCBSS201310001  344Test after chang sprocs to multi-college     -16634.70 20130422SSCI      KYLE      kentest                         
+20133 SOCGENA-----SUB6---CB  10GLCBSS201310001  345Test after chang sprocs to multi-college     -18202.77 20130422SSCI      LO        kentest                         
+20133 SOCGENA-----SUB6---CB  10GLCBSS201310001  346Test after chang sprocs to multi-college     -30926.08 20130422SSCI      MCCARTHY  kentest                         
+20133 SOCGENA-----SUB6---CB  10GLCBSS201310001  347Test after chang sprocs to multi-college     -17186.23 20130422SSCI      MCQUARRIE kentest                         
+20133 SOCGENA-----SUB6---CB  10GLCBSS201310001  348Test after chang sprocs to multi-college     -17183.52 20130422SSCI      MUDGE     kentest                         
+20133 SOCGENA-----SUB6---CB  10GLCBSS201310001  349Test after chang sprocs to multi-college     -16487.84 20130422SSCI      OKAMOTO   kentest                         
+20133 SOCGENA-----SUB6---CB  10GLCBSS201310001  350Test after chang sprocs to multi-college     -19998.00 20130422SSCI      SHAUMAN   kentest                         
+20133 SOCGENA-----SUB6---CB  10GLCBSS201310001  351Test after chang sprocs to multi-college     -18180.00 20130422SSCI      SHU       kentest                         
+20133 SOCGENA-----SUB6---CB  10GLCBSS201310001  352Test after chang sprocs to multi-college     -24179.40 20130422SSCI      SMITHV    kentest                         
+20133 SOCGENA-----SUB6---CB  10GLCBSS201310001  353Test after chang sprocs to multi-college     -21906.90 20130422SSCI      WOLF      kentest                         
+20133 SOCGENDPEERSSUB6---CB  10GLCBSS201310001  354Test after chang sprocs to multi-college        -46.40 20130422SSCI      ----------kentest                         
+20133 SOCGENDSTASTSUB6---CB  10GLCBSS201310001  355Test after chang sprocs to multi-college        -27.63 20130422SSCI      ----------kentest                         
+20133 SOCGENT-----SB28---CB  10GLCBSS201310001  356Test after chang sprocs to multi-college        202.22 20130422SSCI      ----------kentest                         
+20133 SOCGENT-----SUB6---CB  10GLCBSS201310001  357Test after chang sprocs to multi-college     -37042.41 20130422SSCI      ----------kentest                         
+20133 SOCGENT-----SUB6---CB  10GLCBSS201310001  358Test after chang sprocs to multi-college      -8621.82 20130422SSCI      KIBURI    kentest                         
+20133 SPRGEND-----SB28---CB  10GLCBSS201310001  359Test after chang sprocs to multi-college        200.44 20130422SSCI      STASULAT  kentest                         
+20133 SPRGEND-----SUB6---CB  10GLCBSS201310001  360Test after chang sprocs to multi-college      -9118.72 20130422SSCI      STASULAT  kentest                         
+20133 SRSGEND-----SB28---CB  10GLCBSS201310001  361Test after chang sprocs to multi-college        395.12 20130422SSCI      DELLENBACKkentest                         
+20133 SRSGEND-----SB28---CB  10GLCBSS201310001  362Test after chang sprocs to multi-college       2388.46 20130422SSCI      MACKAY    kentest                         
+20133 SRSGEND-----SB28---CB  10GLCBSS201310001  363Test after chang sprocs to multi-college        455.14 20130422SSCI      SDYER     kentest                         
+20133 SRSGEND-----SUB6---CB  10GLCBSS201310001  364Test after chang sprocs to multi-college      -1659.27 20130422SSCI      ----------kentest                         
+20133 SRSGEND-----SUB6---CB  10GLCBSS201310001  365Test after chang sprocs to multi-college     -24460.72 20130422SSCI      DELLENBACKkentest                         
+20133 SRSGEND-----SUB6---CB  10GLCBSS201310001  366Test after chang sprocs to multi-college     -11745.17 20130422SSCI      MACKAY    kentest                         
+20133 SRSGEND-----SUB6---CB  10GLCBSS201310001  367Test after chang sprocs to multi-college     -15890.66 20130422SSCI      SDYER     kentest                         
+20133 SSBGEND-----SB28---CB  10GLCBSS201310001  368Test after chang sprocs to multi-college        222.73 20130422SSCI      ANTONSONR kentest                         
+20133 SSBGEND-----SB28---CB  10GLCBSS201310001  369Test after chang sprocs to multi-college       1044.05 20130422SSCI      BRANAM    kentest                         
+20133 SSBGEND-----SB28---CB  10GLCBSS201310001  370Test after chang sprocs to multi-college        712.11 20130422SSCI      DEXTER    kentest                         
+20133 SSBGEND-----SB28---CB  10GLCBSS201310001  371Test after chang sprocs to multi-college        243.15 20130422SSCI      FISCHERM  kentest                         
+20133 SSBGEND-----SB28---CB  10GLCBSS201310001  372Test after chang sprocs to multi-college      -1094.87 20130422SSCI      GARIBAY   kentest                         
+20133 SSBGEND-----SB28---CB  10GLCBSS201310001  373Test after chang sprocs to multi-college        -45.79 20130422SSCI      KINKADE   kentest                         
+20133 SSBGEND-----SB28---CB  10GLCBSS201310001  374Test after chang sprocs to multi-college       1168.20 20130422SSCI      LYON      kentest                         
+20133 SSBGEND-----SB28---CB  10GLCBSS201310001  375Test after chang sprocs to multi-college      -1763.66 20130422SSCI      MINER     kentest                         
+20133 SSBGEND-----SB28---CB  10GLCBSS201310001  376Test after chang sprocs to multi-college        330.75 20130422SSCI      REIKENBARYkentest                         
+20133 SSBGEND-----SB28---CB  10GLCBSS201310001  377Test after chang sprocs to multi-college       1620.91 20130422SSCI      SCHAFER   kentest                         
+20133 SSBGEND-----SB28---CB  10GLCBSS201310001  378Test after chang sprocs to multi-college      -1746.46 20130422SSCI      SCHWIN    kentest                         
+20133 SSBGEND-----SB28---CB  10GLCBSS201310001  379Test after chang sprocs to multi-college        468.41 20130422SSCI      SITKA     kentest                         
+20133 SSBGEND-----SB28---CB  10GLCBSS201310001  380Test after chang sprocs to multi-college      -1426.23 20130422SSCI      WOODSG    kentest                         
+20133 SSBGEND-----SUB6---CB  10GLCBSS201310001  381Test after chang sprocs to multi-college      -1329.65 20130422SSCI      ----------kentest                         
+20133 SSBGEND-----SUB6---CB  10GLCBSS201310001  382Test after chang sprocs to multi-college     -10188.13 20130422SSCI      ANTONSONR kentest                         
+20133 SSBGEND-----SUB6---CB  10GLCBSS201310001  383Test after chang sprocs to multi-college     -18558.85 20130422SSCI      BRANAM    kentest                         
+20133 SSBGEND-----SUB6---CB  10GLCBSS201310001  384Test after chang sprocs to multi-college     -18701.30 20130422SSCI      DEXTER    kentest                         
+20133 SSBGEND-----SUB6---CB  10GLCBSS201310001  385Test after chang sprocs to multi-college     -17641.88 20130422SSCI      FISCHERM  kentest                         
+20133 SSBGEND-----SUB6---CB  10GLCBSS201310001  386Test after chang sprocs to multi-college     -12782.34 20130422SSCI      GARIBAY   kentest                         
+20133 SSBGEND-----SUB6---CB  10GLCBSS201310001  387Test after chang sprocs to multi-college       -357.57 20130422SSCI      KINKADE   kentest                         
+20133 SSBGEND-----SUB6---CB  10GLCBSS201310001  388Test after chang sprocs to multi-college     -17616.42 20130422SSCI      LYON      kentest                         
+20133 SSBGEND-----SUB6---CB  10GLCBSS201310001  389Test after chang sprocs to multi-college     -22607.39 20130422SSCI      MINER     kentest                         
+20133 SSBGEND-----SUB6---CB  10GLCBSS201310001  390Test after chang sprocs to multi-college     -15223.32 20130422SSCI      REIKENBARYkentest                         
+20133 SSBGEND-----SUB6---CB  10GLCBSS201310001  391Test after chang sprocs to multi-college     -15912.94 20130422SSCI      SCHAFER   kentest                         
+20133 SSBGEND-----SUB6---CB  10GLCBSS201310001  392Test after chang sprocs to multi-college     -15089.19 20130422SSCI      SCHWIN    kentest                         
+20133 SSBGEND-----SUB6---CB  10GLCBSS201310001  393Test after chang sprocs to multi-college       -338.74 20130422SSCI      SITKA     kentest                         
+20133 SSBGEND-----SUB6---CB  10GLCBSS201310001  394Test after chang sprocs to multi-college     -13199.87 20130422SSCI      WOODSG    kentest                         
+20133 SSBGENDSSDSSSB28---CB  10GLCBSS201310001  395Test after chang sprocs to multi-college         61.99 20130422SSCI      DANIELS   kentest                         
+20133 SSBGENDSSDSSSB28---CB  10GLCBSS201310001  396Test after chang sprocs to multi-college        264.20 20130422SSCI      STRATFORD kentest                         
+20133 SSBGENDSSDSSSUB6---CB  10GLCBSS201310001  397Test after chang sprocs to multi-college     -19438.55 20130422SSCI      DANIELS   kentest                         
+20133 SSBGENDSSDSSSUB6---CB  10GLCBSS201310001  398Test after chang sprocs to multi-college     -16167.25 20130422SSCI      STRATFORD kentest                         
+20133 SSDSOPF-----SUB6---CB  10GLCBSS201310001  399Test after chang sprocs to multi-college         -2.70 20130422SSCI      ----------kentest                         
+20133 SSGGEND-----SB28---CB  10GLCBSS201310001  400Test after chang sprocs to multi-college       -235.59 20130422SSCI      ----------kentest                         
+20133 SSGGEND-----SB28---CB  10GLCBSS201310001  401Test after chang sprocs to multi-college        143.23 20130422SSCI      BESSER    kentest                         
+20133 SSGGEND-----SB28---CB  10GLCBSS201310001  402Test after chang sprocs to multi-college      -1724.44 20130422SSCI      CALVERTS  kentest                         
+20133 SSGGEND-----SB28---CB  10GLCBSS201310001  403Test after chang sprocs to multi-college       -592.36 20130422SSCI      CORDOVAP  kentest                         
+20133 SSGGEND-----SB28---CB  10GLCBSS201310001  404Test after chang sprocs to multi-college       -213.64 20130422SSCI      DEGUZMAN  kentest                         
+20133 SSGGEND-----SB28---CB  10GLCBSS201310001  405Test after chang sprocs to multi-college       -550.74 20130422SSCI      DEITZ     kentest                         
+20133 SSGGEND-----SB28---CB  10GLCBSS201310001  406Test after chang sprocs to multi-college      -1646.98 20130422SSCI      DIXON     kentest                         
+20133 SSGGEND-----SB28---CB  10GLCBSS201310001  407Test after chang sprocs to multi-college       -116.15 20130422SSCI      GROTE     kentest                         
+20133 SSGGEND-----SB28---CB  10GLCBSS201310001  408Test after chang sprocs to multi-college       -135.40 20130422SSCI      GUERRA    kentest                         
+20133 SSGGEND-----SB28---CB  10GLCBSS201310001  409Test after chang sprocs to multi-college      -1027.12 20130422SSCI      GUTIERREZ kentest                         
+20133 SSGGEND-----SB28---CB  10GLCBSS201310001  410Test after chang sprocs to multi-college       -428.27 20130422SSCI      LEAVER    kentest                         
+20133 SSGGEND-----SB28---CB  10GLCBSS201310001  411Test after chang sprocs to multi-college       -223.75 20130422SSCI      MILLERMJ  kentest                         
+20133 SSGGEND-----SB28---CB  10GLCBSS201310001  412Test after chang sprocs to multi-college       -509.26 20130422SSCI      PARPANA   kentest                         
+20133 SSGGEND-----SB28---CB  10GLCBSS201310001  413Test after chang sprocs to multi-college       -115.77 20130422SSCI      SCHWIN    kentest                         
+20133 SSGGEND-----SUB6---CB  10GLCBSS201310001  414Test after chang sprocs to multi-college      -2509.10 20130422SSCI      ----------kentest                         
+20133 SSGGEND-----SUB6---CB  10GLCBSS201310001  415Test after chang sprocs to multi-college     -15565.79 20130422SSCI      BESSER    kentest                         
+20133 SSGGEND-----SUB6---CB  10GLCBSS201310001  416Test after chang sprocs to multi-college     -14798.19 20130422SSCI      CALVERTS  kentest                         
+20133 SSGGEND-----SUB6---CB  10GLCBSS201310001  417Test after chang sprocs to multi-college      -6251.06 20130422SSCI      CORDOVAP  kentest                         
+20133 SSGGEND-----SUB6---CB  10GLCBSS201310001  418Test after chang sprocs to multi-college     -16178.31 20130422SSCI      DEGUZMAN  kentest                         
+20133 SSGGEND-----SUB6---CB  10GLCBSS201310001  419Test after chang sprocs to multi-college     -18217.37 20130422SSCI      DEITZ     kentest                         
+20133 SSGGEND-----SUB6---CB  10GLCBSS201310001  420Test after chang sprocs to multi-college     -21752.43 20130422SSCI      DIXON     kentest                         
+20133 SSGGEND-----SUB6---CB  10GLCBSS201310001  421Test after chang sprocs to multi-college     -20748.25 20130422SSCI      GROTE     kentest                         
+20133 SSGGEND-----SUB6---CB  10GLCBSS201310001  422Test after chang sprocs to multi-college     -13021.06 20130422SSCI      GUERRA    kentest                         
+20133 SSGGEND-----SUB6---CB  10GLCBSS201310001  423Test after chang sprocs to multi-college      -9914.05 20130422SSCI      GUTIERREZ kentest                         
+20133 SSGGEND-----SUB6---CB  10GLCBSS201310001  424Test after chang sprocs to multi-college      -7737.03 20130422SSCI      LEAVER    kentest                         
+20133 SSGGEND-----SUB6---CB  10GLCBSS201310001  425Test after chang sprocs to multi-college     -18531.23 20130422SSCI      MILLERMJ  kentest                         
+20133 SSGGEND-----SUB6---CB  10GLCBSS201310001  426Test after chang sprocs to multi-college     -13261.95 20130422SSCI      PARPANA   kentest                         
+20133 SSGGEND-----SUB6---CB  10GLCBSS201310001  427Test after chang sprocs to multi-college       -904.05 20130422SSCI      SCHWIN    kentest                         
+20133 SSGGENDSUPPTSUB6---CB  10GLCBSS201310001  428Test after chang sprocs to multi-college        -11.98 20130422SSCI      ----------kentest                         
+20133 SSIBENE-----SB28---CB  10GLCBSS201310001  429Test after chang sprocs to multi-college     -11976.28 20130422SSCI      ----------kentest                         
+20133 SSIBENE-----SUB6---CB  10GLCBSS201310001  430Test after chang sprocs to multi-college    6492039.82 20130422SSCI      ----------kentest                         
+20133 SSIGEXD-----SB28---CB  10GLCBSS201310001  431Test after chang sprocs to multi-college       -528.74 20130422SSCI      ----------kentest                         
+20133 SSIGEXD-----SB28---CB  10GLCBSS201310001  432Test after chang sprocs to multi-college      25229.18 20130422SSCI      MANGUN    kentest                         
+20133 SSIGEXD-----SB28---CB  10GLCBSS201310001  433Test after chang sprocs to multi-college        130.44 20130422SSCI      MCLAUGHLINkentest                         
+20133 SSIGEXD-----SB28---CB  10GLCBSS201310001  434Test after chang sprocs to multi-college       2014.72 20130422SSCI      PARCELL   kentest                         
+20133 SSIGEXD-----SB28---CB  10GLCBSS201310001  435Test after chang sprocs to multi-college         19.80 20130422SSCI      PARKS     kentest                         
+20133 SSIGEXD-----SB28---CB  10GLCBSS201310001  436Test after chang sprocs to multi-college      -3983.83 20130422SSCI      ROTH      kentest                         
+20133 SSIGEXD-----SB28---CB  10GLCBSS201310001  437Test after chang sprocs to multi-college       -710.72 20130422SSCI      TORFI     kentest                         
+20133 SSIGEXD-----SB28---CB  10GLCBSS201310001  438Test after chang sprocs to multi-college       -347.20 20130422SSCI      VOIGHT    kentest                         
+20133 SSIGEXD-----SUB6---CB  10GLCBSS201310001  439Test after chang sprocs to multi-college     -12353.00 20130422SSCI      ----------kentest                         
+20133 SSIGEXD-----SUB6---CB  10GLCBSS201310001  440Test after chang sprocs to multi-college     -33260.56 20130422SSCI      MANGUN    kentest                         
+20133 SSIGEXD-----SUB6---CB  10GLCBSS201310001  441Test after chang sprocs to multi-college     -27901.35 20130422SSCI      MCLAUGHLINkentest                         
+20133 SSIGEXD-----SUB6---CB  10GLCBSS201310001  442Test after chang sprocs to multi-college     -22654.89 20130422SSCI      PARCELL   kentest                         
+20133 SSIGEXD-----SUB6---CB  10GLCBSS201310001  443Test after chang sprocs to multi-college     -16097.01 20130422SSCI      PARKS     kentest                         
+20133 SSIGEXD-----SUB6---CB  10GLCBSS201310001  444Test after chang sprocs to multi-college     -37762.86 20130422SSCI      ROTH      kentest                         
+20133 SSIGEXD-----SUB6---CB  10GLCBSS201310001  445Test after chang sprocs to multi-college     -23617.44 20130422SSCI      TORFI     kentest                         
+20133 SSIGEXD-----SUB6---CB  10GLCBSS201310001  446Test after chang sprocs to multi-college      -2721.05 20130422SSCI      VOIGHT    kentest                         
+20133 SSIGEXDASSOCSUB6---CB  10GLCBSS201310001  447Test after chang sprocs to multi-college     -12685.50 20130422SSCI      ----------kentest                         
+20133 SSOGEND-----SB28---CB  10GLCBSS201310001  448Test after chang sprocs to multi-college        615.41 20130422SSCI      DARBEE    kentest                         
+20133 SSOGEND-----SB28---CB  10GLCBSS201310001  449Test after chang sprocs to multi-college       -715.72 20130422SSCI      HOANG     kentest                         
+20133 SSOGEND-----SB28---CB  10GLCBSS201310001  450Test after chang sprocs to multi-college        459.15 20130422SSCI      JTEEPLE   kentest                         
+20133 SSOGEND-----SB28---CB  10GLCBSS201310001  451Test after chang sprocs to multi-college       -451.82 20130422SSCI      KOGA      kentest                         
+20133 SSOGEND-----SB28---CB  10GLCBSS201310001  452Test after chang sprocs to multi-college       -749.94 20130422SSCI      MGHICKS   kentest                         
+20133 SSOGEND-----SB28---CB  10GLCBSS201310001  453Test after chang sprocs to multi-college        163.81 20130422SSCI      PATTISON  kentest                         
+20133 SSOGEND-----SUB6---CB  10GLCBSS201310001  454Test after chang sprocs to multi-college     -13939.42 20130422SSCI      DARBEE    kentest                         
+20133 SSOGEND-----SUB6---CB  10GLCBSS201310001  455Test after chang sprocs to multi-college     -17819.47 20130422SSCI      HOANG     kentest                         
+20133 SSOGEND-----SUB6---CB  10GLCBSS201310001  456Test after chang sprocs to multi-college     -16177.29 20130422SSCI      JTEEPLE   kentest                         
+20133 SSOGEND-----SUB6---CB  10GLCBSS201310001  457Test after chang sprocs to multi-college     -26512.45 20130422SSCI      KOGA      kentest                         
+20133 SSOGEND-----SUB6---CB  10GLCBSS201310001  458Test after chang sprocs to multi-college     -14367.47 20130422SSCI      MGHICKS   kentest                         
+20133 SSOGEND-----SUB6---CB  10GLCBSS201310001  459Test after chang sprocs to multi-college     -12997.64 20130422SSCI      PATTISON  kentest                         
+20133 SSRGEND-----SB28---CB  10GLCBSS201310001  460Test after chang sprocs to multi-college       1208.84 20130422SSCI      BYRNS     kentest                         
+20133 SSRGEND-----SB28---CB  10GLCBSS201310001  461Test after chang sprocs to multi-college      -1107.33 20130422SSCI      CHANGA    kentest                         
+20133 SSRGEND-----SB28---CB  10GLCBSS201310001  462Test after chang sprocs to multi-college       -102.45 20130422SSCI      FALLAS    kentest                         
+20133 SSRGEND-----SB28---CB  10GLCBSS201310001  463Test after chang sprocs to multi-college       -329.81 20130422SSCI      GASTEIGER kentest                         
+20133 SSRGEND-----SB28---CB  10GLCBSS201310001  464Test after chang sprocs to multi-college        796.79 20130422SSCI      HUFF      kentest                         
+20133 SSRGEND-----SB28---CB  10GLCBSS201310001  465Test after chang sprocs to multi-college        558.20 20130422SSCI      LUTMAN    kentest                         
+20133 SSRGEND-----SB28---CB  10GLCBSS201310001  466Test after chang sprocs to multi-college       -225.45 20130422SSCI      MANNGU    kentest                         
+20133 SSRGEND-----SB28---CB  10GLCBSS201310001  467Test after chang sprocs to multi-college       1214.92 20130422SSCI      SIRACUSA  kentest                         
+20133 SSRGEND-----SB28---CB  10GLCBSS201310001  468Test after chang sprocs to multi-college       -787.60 20130422SSCI      WILLIAMSH kentest                         
+20133 SSRGEND-----SUB6---CB  10GLCBSS201310001  469Test after chang sprocs to multi-college     -30195.78 20130422SSCI      BYRNS     kentest                         
+20133 SSRGEND-----SUB6---CB  10GLCBSS201310001  470Test after chang sprocs to multi-college     -18305.18 20130422SSCI      CHANGA    kentest                         
+20133 SSRGEND-----SUB6---CB  10GLCBSS201310001  471Test after chang sprocs to multi-college     -15732.46 20130422SSCI      FALLAS    kentest                         
+20133 SSRGEND-----SUB6---CB  10GLCBSS201310001  472Test after chang sprocs to multi-college     -15787.73 20130422SSCI      GASTEIGER kentest                         
+20133 SSRGEND-----SUB6---CB  10GLCBSS201310001  473Test after chang sprocs to multi-college     -10394.80 20130422SSCI      HUFF      kentest                         
+20133 SSRGEND-----SUB6---CB  10GLCBSS201310001  474Test after chang sprocs to multi-college     -16090.64 20130422SSCI      LUTMAN    kentest                         
+20133 SSRGEND-----SUB6---CB  10GLCBSS201310001  475Test after chang sprocs to multi-college      -8172.25 20130422SSCI      MANNGU    kentest                         
+20133 SSRGEND-----SUB6---CB  10GLCBSS201310001  476Test after chang sprocs to multi-college     -12809.45 20130422SSCI      SIRACUSA  kentest                         
+20133 SSRGEND-----SUB6---CB  10GLCBSS201310001  477Test after chang sprocs to multi-college     -17408.44 20130422SSCI      WILLIAMSH kentest                         
+20133 SSYGEND-----SB28---CB  10GLCBSS201310001  478Test after chang sprocs to multi-college       1556.03 20130422SSCI      BLALOCK   kentest                         
+20133 SSYGEND-----SB28---CB  10GLCBSS201310001  479Test after chang sprocs to multi-college        688.04 20130422SSCI      BROWN, E  kentest                         
+20133 SSYGEND-----SB28---CB  10GLCBSS201310001  480Test after chang sprocs to multi-college      -1636.12 20130422SSCI      CASELLI   kentest                         
+20133 SSYGEND-----SB28---CB  10GLCBSS201310001  481Test after chang sprocs to multi-college       -593.25 20130422SSCI      CHARRIS   kentest                         
+20133 SSYGEND-----SB28---CB  10GLCBSS201310001  482Test after chang sprocs to multi-college       -140.70 20130422SSCI      CHERMES   kentest                         
+20133 SSYGEND-----SB28---CB  10GLCBSS201310001  483Test after chang sprocs to multi-college       -636.89 20130422SSCI      CLAYTON   kentest                         
+20133 SSYGEND-----SB28---CB  10GLCBSS201310001  484Test after chang sprocs to multi-college        218.39 20130422SSCI      DSAN      kentest                         
+20133 SSYGEND-----SB28---CB  10GLCBSS201310001  485Test after chang sprocs to multi-college      -1138.93 20130422SSCI      MCCARTHYC kentest                         
+20133 SSYGEND-----SB28---CB  10GLCBSS201310001  486Test after chang sprocs to multi-college        189.87 20130422SSCI      MSANCHEZ  kentest                         
+20133 SSYGEND-----SB28---CB  10GLCBSS201310001  487Test after chang sprocs to multi-college       -177.58 20130422SSCI      SCHULER   kentest                         
+20133 SSYGEND-----SUB6---CB  10GLCBSS201310001  488Test after chang sprocs to multi-college      -1310.85 20130422SSCI      ----------kentest                         
+20133 SSYGEND-----SUB6---CB  10GLCBSS201310001  489Test after chang sprocs to multi-college     -14504.50 20130422SSCI      BLALOCK   kentest                         
+20133 SSYGEND-----SUB6---CB  10GLCBSS201310001  490Test after chang sprocs to multi-college     -18818.27 20130422SSCI      BROWN, E  kentest                         
+20133 SSYGEND-----SUB6---CB  10GLCBSS201310001  491Test after chang sprocs to multi-college     -21917.66 20130422SSCI      CASELLI   kentest                         
+20133 SSYGEND-----SUB6---CB  10GLCBSS201310001  492Test after chang sprocs to multi-college     -17337.27 20130422SSCI      CHARRIS   kentest                         
+20133 SSYGEND-----SUB6---CB  10GLCBSS201310001  493Test after chang sprocs to multi-college     -18668.54 20130422SSCI      CHERMES   kentest                         
+20133 SSYGEND-----SUB6---CB  10GLCBSS201310001  494Test after chang sprocs to multi-college     -13491.24 20130422SSCI      CLAYTON   kentest                         
+20133 SSYGEND-----SUB6---CB  10GLCBSS201310001  495Test after chang sprocs to multi-college     -15532.43 20130422SSCI      DSAN      kentest                         
+20133 SSYGEND-----SUB6---CB  10GLCBSS201310001  496Test after chang sprocs to multi-college      -9548.07 20130422SSCI      MCCARTHYC kentest                         
+20133 SSYGEND-----SUB6---CB  10GLCBSS201310001  497Test after chang sprocs to multi-college     -13666.05 20130422SSCI      MSANCHEZ  kentest                         
+20133 SSYGEND-----SUB6---CB  10GLCBSS201310001  498Test after chang sprocs to multi-college     -21521.42 20130422SSCI      SCHULER   kentest                         
+20133 STSGENA-----SUB6---CB  10GLCBSS201310001  499Test after chang sprocs to multi-college     -20452.50 20130422SSCI      BIAGIOLI  kentest                         
+20133 STSGENA-----SUB6---CB  10GLCBSS201310001  500Test after chang sprocs to multi-college      -8571.69 20130422SSCI      CHOY      kentest                         
+20133 STSGENA-----SUB6---CB  10GLCBSS201310001  501Test after chang sprocs to multi-college     -12271.94 20130422SSCI      DUMIT     kentest                         
+20133 STSGENT-----SUB6---CB  10GLCBSS201310001  502Test after chang sprocs to multi-college      -5045.50 20130422SSCI      ----------kentest                         
+20133 STSGENX-----SUB6---CB  10GLCBSS201310001  503Test after chang sprocs to multi-college       1525.55 20130422SSCI      ----------kentest                         
+20133 UEAGEND-----SB28---CB  10GLCBSS201310001  504Test after chang sprocs to multi-college       -392.30 20130422SSCI      ----------kentest                         
+20133 UEAGEND-----SB28---CB  10GLCBSS201310001  505Test after chang sprocs to multi-college        186.57 20130422SSCI      BENTZ     kentest                         
+20133 UEAGEND-----SB28---CB  10GLCBSS201310001  506Test after chang sprocs to multi-college      -1793.23 20130422SSCI      BOND      kentest                         
+20133 UEAGEND-----SB28---CB  10GLCBSS201310001  507Test after chang sprocs to multi-college        535.08 20130422SSCI      BOYER     kentest                         
+20133 UEAGEND-----SB28---CB  10GLCBSS201310001  508Test after chang sprocs to multi-college        -52.99 20130422SSCI      BREIVIK   kentest                         
+20133 UEAGEND-----SB28---CB  10GLCBSS201310001  509Test after chang sprocs to multi-college      -1138.48 20130422SSCI      DOCKTER   kentest                         
+20133 UEAGEND-----SB28---CB  10GLCBSS201310001  510Test after chang sprocs to multi-college       -242.86 20130422SSCI      DUDLEY    kentest                         
+20133 UEAGEND-----SB28---CB  10GLCBSS201310001  511Test after chang sprocs to multi-college      -3212.73 20130422SSCI      FLOYD     kentest                         
+20133 UEAGEND-----SB28---CB  10GLCBSS201310001  512Test after chang sprocs to multi-college       -523.06 20130422SSCI      GUTIERREZ kentest                         
+20133 UEAGEND-----SB28---CB  10GLCBSS201310001  513Test after chang sprocs to multi-college       1094.08 20130422SSCI      HAWS      kentest                         
+20133 UEAGEND-----SB28---CB  10GLCBSS201310001  514Test after chang sprocs to multi-college        -53.17 20130422SSCI      KEEFER    kentest                         
+20133 UEAGEND-----SB28---CB  10GLCBSS201310001  515Test after chang sprocs to multi-college       -621.17 20130422SSCI      LOPEZ     kentest                         
+20133 UEAGEND-----SB28---CB  10GLCBSS201310001  516Test after chang sprocs to multi-college        441.93 20130422SSCI      REYES     kentest                         
+20133 UEAGEND-----SB28---CB  10GLCBSS201310001  517Test after chang sprocs to multi-college      -2338.74 20130422SSCI      RICHMONDM kentest                         
+20133 UEAGEND-----SB28---CB  10GLCBSS201310001  518Test after chang sprocs to multi-college       1409.89 20130422SSCI      VALENZUELAkentest                         
+20133 UEAGEND-----SB28---CB  10GLCBSS201310001  519Test after chang sprocs to multi-college        664.26 20130422SSCI      YEE       kentest                         
+20133 UEAGEND-----SUB6---CB  10GLCBSS201310001  520Test after chang sprocs to multi-college     -12721.47 20130422SSCI      ----------kentest                         
+20133 UEAGEND-----SUB6---CB  10GLCBSS201310001  521Test after chang sprocs to multi-college     -11729.60 20130422SSCI      BENTZ     kentest                         
+20133 UEAGEND-----SUB6---CB  10GLCBSS201310001  522Test after chang sprocs to multi-college     -21175.44 20130422SSCI      BOND      kentest                         
+20133 UEAGEND-----SUB6---CB  10GLCBSS201310001  523Test after chang sprocs to multi-college     -20000.26 20130422SSCI      BOYER     kentest                         
+20133 UEAGEND-----SUB6---CB  10GLCBSS201310001  524Test after chang sprocs to multi-college     -21376.76 20130422SSCI      BREIVIK   kentest                         
+20133 UEAGEND-----SUB6---CB  10GLCBSS201310001  525Test after chang sprocs to multi-college     -11740.66 20130422SSCI      DOCKTER   kentest                         
+20133 UEAGEND-----SUB6---CB  10GLCBSS201310001  526Test after chang sprocs to multi-college      -1896.42 20130422SSCI      DUDLEY    kentest                         
+20133 UEAGEND-----SUB6---CB  10GLCBSS201310001  527Test after chang sprocs to multi-college     -26175.63 20130422SSCI      FLOYD     kentest                         
+20133 UEAGEND-----SUB6---CB  10GLCBSS201310001  528Test after chang sprocs to multi-college      -4084.40 20130422SSCI      GUTIERREZ kentest                         
+20133 UEAGEND-----SUB6---CB  10GLCBSS201310001  529Test after chang sprocs to multi-college     -14081.89 20130422SSCI      HAWS      kentest                         
+20133 UEAGEND-----SUB6---CB  10GLCBSS201310001  530Test after chang sprocs to multi-college      -8167.32 20130422SSCI      JMCCLAIN  kentest                         
+20133 UEAGEND-----SUB6---CB  10GLCBSS201310001  531Test after chang sprocs to multi-college       -341.08 20130422SSCI      KEEFER    kentest                         
+20133 UEAGEND-----SUB6---CB  10GLCBSS201310001  532Test after chang sprocs to multi-college     -16466.58 20130422SSCI      LOPEZ     kentest                         
+20133 UEAGEND-----SUB6---CB  10GLCBSS201310001  533Test after chang sprocs to multi-college     -16312.02 20130422SSCI      REYES     kentest                         
+20133 UEAGEND-----SUB6---CB  10GLCBSS201310001  534Test after chang sprocs to multi-college     -15003.18 20130422SSCI      RICHMONDM kentest                         
+20133 UEAGEND-----SUB6---CB  10GLCBSS201310001  535Test after chang sprocs to multi-college     -19501.81 20130422SSCI      VALENZUELAkentest                         
+20133 UEAGEND-----SUB6---CB  10GLCBSS201310001  536Test after chang sprocs to multi-college     -13654.99 20130422SSCI      YEE       kentest                         
+20133 ZXMCOW1-----SUB6---CB  10GLCBSS201310001  537Test after chang sprocs to multi-college        -39.09 20130422SSCI      ----------kentest                         
+20133 ZXMSWAP-----SUB6---CB  10GLCBSS201310001  538Test after chang sprocs to multi-college        -85.11 20130422SSCI      ----------kentest                         

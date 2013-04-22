@@ -92,17 +92,18 @@
                             @Html.ValidationMessageFor(model => model.OrgDocNumber)
 
                         </div>
-                    </div>
-                        @*<div class="control-group">
-                        <div class="editor-label">
-                            @Html.LabelFor(model => model.UseDaFIS, new { @class = "control-label required" })<span>*</span>
+                    </div >
+                     @if (Model.EnableUseDaFisSelection) {
+                        <div class="control-group">
+                            <div class="editor-label">
+                                @Html.LabelFor(model => model.UseDaFIS, new {@class = "control-label required"})<span>*</span>
+                            </div>
+                            <div class="controls">  
+                                @Html.EditorFor(model => model.UseDaFIS, "Enum_RadioButtonList")
+                                @Html.ValidationMessageFor(model => model.UseDaFIS)
+                            </div>
                         </div>
-                        <div class="controls">  
-                            @Html.EditorFor(model => model.UseDaFIS, "Enum_RadioButtonList")
-                            @Html.ValidationMessageFor(model => model.UseDaFIS)
-                        </div>
-                    </div>*@
-                   
+                   }
 
                 </fieldset>
             </div>
