@@ -58,6 +58,7 @@ namespace BenefitsAllocationUpload.Models
             FiscalYear = Convert.ToString(month > 6 ? year + 1 : year);
         }
 
+        public bool EnableUseDaFisSelection { get; set; }
 
         public enum TrueFalse { False, True }
 

@@ -20,6 +20,7 @@ namespace BenefitsAllocationUpload.App_Start
         {
             ModelBinders.Binders.DefaultBinder = new UCDArchModelBinder();
 
+            NHibernateSessionConfiguration.Mappings.UseHbmMappings();
             NHibernateSessionConfiguration.Mappings.UseFluentMappings(typeof(User).Assembly);
 
             IWindsorContainer container = InitializeServiceLocator();

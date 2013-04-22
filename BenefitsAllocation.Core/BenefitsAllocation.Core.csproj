@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RegisterClientValidationExtensions.cs" />
+    <Compile Include="Domain\Database.cs" />
     <Compile Include="Domain\Lookups.cs" />
     <Compile Include="Domain\UnitFile.cs" />
     <Compile Include="Domain\User.cs" />
@@ -69,6 +70,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Database.hbm..xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

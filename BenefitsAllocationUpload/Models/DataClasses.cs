@@ -1,14 +1,28 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Configuration;
+using System.Data.Entity;
+using System.Data.Entity.Infrastructure;
 using System.IO;
 using System.Linq;
 using System.Web;
 using System.Web.Hosting;
 using BenefitsAllocation.Core.Domain;
+using System.Data.Objects.DataClasses;
+using System.Data.Objects;
+
 
 namespace BenefitsAllocationUpload.Models
 {
+    //public static class EdmFunctions
+    //{
+    //    [EdmFunction("FISDataMartModel.Store", "udf_GetOrgIdForSchoolCode")]
+    //    public static string udf_GetOrgIdForSchoolCode(string schoolCode)
+    //    {
+    //        throw new NotSupportedException("Direct calls are not supported.");
+    //    }
+    //}
+
     public class DataClasses
     {
         private readonly string _storageLocation = ConfigurationManager.AppSettings["StorageLocation"];
@@ -33,17 +47,23 @@ namespace BenefitsAllocationUpload.Models
             {
                 foreach (var file in lstFiles)
                 {
-                    var unitFileResult = db.UnitFiles.FirstOrDefault(u => u.Filename == file.FileName);
+                    var unitFileResult = db.UnitFiles.FirstOrDefault(u => u.Filename.Equals(file.FileName));
                     if (unitFileResult != null)
                     {
                         file.CreatedBy = unitFileResult.CreatedBy;
                         file.Uploaded = unitFileResult.Uploaded;
                         file.UploadedBy = unitFileResult.UploadedBy;
+                        file.SchoolCode = unitFileResult.SchoolCode;
                     }
                 }
             }
 
             return lstFiles; 
+        }
+
+        public List<FileNames> GetFiles(string schoolCode)
+        {
+            return GetFiles().Where(file => file.SchoolCode.Equals("00") || file.SchoolCode.Equals(schoolCode)).ToList();
         }
     }
  
@@ -56,6 +76,7 @@ namespace BenefitsAllocationUpload.Models
         public string CreatedBy { get; set; }
         public DateTime? Uploaded { get; set; }
         public string UploadedBy { get; set; }
+        public string SchoolCode { get; set; }
     }
 
     public static class RoleNames
@@ -158,5 +179,10 @@ namespace BenefitsAllocationUpload.Models
         {
             IsDepartmentUser = false;
         }
+    }
+
+    public class TransDocOriginCode
+    {
+        public virtual string FsOriginCode { get; set; }
     }
 }
