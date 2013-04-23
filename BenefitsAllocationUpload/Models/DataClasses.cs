@@ -45,9 +45,10 @@ namespace BenefitsAllocationUpload.Models
             }
             using (var db = new FISDataMartEntities())
             {
+                var unitFiles = db.UnitFiles.ToList();
                 foreach (var file in lstFiles)
                 {
-                    var unitFileResult = db.UnitFiles.FirstOrDefault(u => u.Filename.Equals(file.FileName));
+                    var unitFileResult = unitFiles.FirstOrDefault(u => u.Filename.Equals(file.FileName));
                     if (unitFileResult != null)
                     {
                         file.CreatedBy = unitFileResult.CreatedBy;
