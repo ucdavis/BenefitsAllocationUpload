@@ -45,8 +45,8 @@ namespace BenefitsAllocationUpload.Models
 
         public CreateModel()
         {
-            // Set default to source our own FISDataMart:
-            UseDaFIS = TrueFalse.False;
+            // Set default to source Campus Data Warehouse:
+            UseDaFIS = YesNo.Yes;
 
             // set the default period:
             var month = DateTime.Now.Month;
@@ -60,10 +60,12 @@ namespace BenefitsAllocationUpload.Models
 
         public bool EnableUseDaFisSelection { get; set; }
 
-        public enum TrueFalse { False, True }
+        public enum TrueFalse { False, True  }
 
-        [Display(Name = "Get Data from DaFIS?")]
-        public TrueFalse UseDaFIS { get; set; }
+        public enum YesNo { No, Yes }
+
+        [Display(Name = "Get Data from Campus Data Warehouse?")]
+        public YesNo UseDaFIS { get; set; }
 
         private string _fiscalPeriod;
 
@@ -147,6 +149,7 @@ namespace BenefitsAllocationUpload.Models
         [Required]
         [Display(Name = "Transaction Document Number Sequence No")]
         //[StringLength(3, ErrorMessage = "The {0} must be (3) characters long.", MinimumLength = 3)]
+        [StringLength(3, ErrorMessage = "The {0} must be (3) characters long.", MinimumLength = 0)]
         public string TransDocNumberSequence { get; set; }
 
         public IList<string> TransDocNumberSequences

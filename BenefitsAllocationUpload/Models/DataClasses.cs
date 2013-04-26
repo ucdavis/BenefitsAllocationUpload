@@ -64,7 +64,16 @@ namespace BenefitsAllocationUpload.Models
 
         public List<FileNames> GetFiles(string schoolCode)
         {
-            return GetFiles().Where(file => file.SchoolCode.Equals("00") || file.SchoolCode.Equals(schoolCode)).ToList();
+            //return GetFiles().Where(file => file.SchoolCode.Equals("00") || file.SchoolCode.Equals(schoolCode)).ToList();
+            var files = GetFiles();
+
+            var retval =
+                files.Where(
+                    file =>
+                    file.SchoolCode != null && (file.SchoolCode.Equals("00") || file.SchoolCode.Equals(schoolCode)))
+                     .ToList();
+
+            return retval;
         }
     }
  

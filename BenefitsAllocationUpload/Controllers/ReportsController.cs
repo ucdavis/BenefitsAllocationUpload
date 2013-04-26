@@ -153,7 +153,7 @@ namespace BenefitsAllocationUpload.Controllers
         {
             var model = new CreateModel()
                 {
-                    UseDaFIS = CreateModel.TrueFalse.True,
+                    UseDaFIS = CreateModel.YesNo.Yes,
                     EnableUseDaFisSelection = false
                 };
 
@@ -164,6 +164,7 @@ namespace BenefitsAllocationUpload.Controllers
                 var schoolCode = unit.SchoolCode;
                 if (!string.IsNullOrEmpty(schoolCode) && schoolCode.Equals("01"))
                 {
+                    model.UseDaFIS = CreateModel.YesNo.No;
                     model.EnableUseDaFisSelection = true;
                 }
             }
@@ -187,11 +188,14 @@ namespace BenefitsAllocationUpload.Controllers
                     var schoolCodeParameter = new SqlParameter("schoolCode", unit.SchoolCode);
                     orgId = context.Database.SqlQuery<string>(
                     "SELECT dbo.udf_GetOrgIdForSchoolCode(@schoolCode)", schoolCodeParameter).FirstOrDefault();
+                    var orgIdParameter = new SqlParameter("orgId", orgId);
+                    transDocOriginCode = context.Database.SqlQuery<string>(
+                    "SELECT dbo.udf_GetTransDocOriginCodeForOrg(@orgId)", orgIdParameter).FirstOrDefault();
                 }
   
                 //var filename = _dataExtractionService.CreateFile(m.FiscalYear, m.FiscalPeriod, m.TransDescription, m.OrgDocNumber, m.OrgRefId, m.TransDocNumberSequence);
-                var useDaFIS = (m.UseDaFIS == CreateModel.TrueFalse.True);
-                var filename = _dataExtractionService.CreateFile(m.FiscalYear, m.FiscalPeriod, m.TransDescription, m.OrgDocNumber, m.OrgRefId, m.TransDocNumberSequence, orgId, useDaFIS);
+                var useDaFIS = (m.UseDaFIS == CreateModel.YesNo.Yes);
+                var filename = _dataExtractionService.CreateFile(m.FiscalYear, m.FiscalPeriod, m.TransDescription, m.OrgDocNumber, m.OrgRefId, m.TransDocNumberSequence, orgId, transDocOriginCode, useDaFIS);
                 //var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
                 //var unit = user.Units.FirstOrDefault();
                 var unitFile = new UnitFile()
