@@ -20,6 +20,8 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
+    <RestorePackages>true</RestorePackages>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -41,33 +43,59 @@
   <ItemGroup>
     <Reference Include="Castle.Core">
       <HintPath>..\packages\Castle.Core.3.0.0.4001\lib\net40-client\Castle.Core.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Castle.Windsor">
-      <HintPath>..\packages\Castle.Windsor.3.0.0.4001\lib\net40-client\Castle.Windsor.dll</HintPath>
+      <HintPath>..\packages\Castle.Windsor.3.0.0.4001\lib\net40\Castle.Windsor.dll</HintPath>
+      <Private>True</Private>
     </Reference>
-    <Reference Include="FluentNHibernate, Version=1.3.0.733, Culture=neutral, PublicKeyToken=8aa435e3cb308880, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
+    <Reference Include="DataAnnotationsExtensions">
+      <HintPath>..\packages\DataAnnotationsExtensions.1.1.0.0\lib\NETFramework40\DataAnnotationsExtensions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DataAnnotationsExtensions.ClientValidation">
+      <HintPath>..\packages\DataAnnotationsExtensions.MVC3.1.1.0.0\lib\NETFramework40\DataAnnotationsExtensions.ClientValidation.dll</HintPath>
+    </Reference>
+    <Reference Include="Elmah">
+      <HintPath>..\packages\elmah.corelibrary.1.2.2\lib\Elmah.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FluentNHibernate">
       <HintPath>..\packages\FluentNHibernate.1.3.0.733\lib\FluentNHibernate.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Iesi.Collections">
       <HintPath>..\packages\Iesi.Collections.3.2.0.4000\lib\Net35\Iesi.Collections.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="Microsoft.Practices.ServiceLocation">
-      <HintPath>..\packages\NHibernateProfiler.1.0.0.953\tools\Microsoft.Practices.ServiceLocation.dll</HintPath>
+      <HintPath>..\packages\CommonServiceLocator.1.0\lib\NET35\Microsoft.Practices.ServiceLocation.dll</HintPath>
+      <Private>True</Private>
     </Reference>
-    <Reference Include="NHibernate, Version=3.3.1.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\NHibernate.3.3.1.4000\lib\Net35\NHibernate.dll</HintPath>
+    <Reference Include="Microsoft.Web.Optimization">
+      <HintPath>..\packages\Microsoft.Web.Optimization.0.1\lib\net40\Microsoft.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="MvcContrib.FluentHtml">
+      <HintPath>..\packages\MvcContrib.Mvc3.FluentHtml-ci.3.0.100.0\lib\MvcContrib.FluentHtml.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.4.5.11\lib\net40\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NHibernate">
+      <HintPath>..\packages\NHibernate.3.3.3.4000\lib\Net35\NHibernate.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="NHibernate.ByteCode.Spring">
-      <HintPath>..\packages\NHibernate.ByteCode.Spring.dll</HintPath>
+      <HintPath>..\..\..\Visual Studio 2012\Projects\bin\NHibernate.ByteCode.Spring.dll</HintPath>
     </Reference>
     <Reference Include="Renci.SshNet">
-      <HintPath>..\..\..\..\..\Downloads\Renci.SshNet.dll</HintPath>
+      <HintPath>..\packages\SSH.NET.2013.4.7\lib\net40\Renci.SshNet.dll</HintPath>
     </Reference>
     <Reference Include="Spring.Core">
-      <HintPath>..\packages\Spring.Core.dll</HintPath>
+      <HintPath>..\..\..\Visual Studio 2012\Projects\bin\Spring.Core.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -101,9 +129,6 @@
     <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <Private>True</Private>
       <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
-    </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>..\packages\Newtonsoft.Json.4.5.6\lib\net40\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="System.Net.Http">
     </Reference>
@@ -146,10 +171,11 @@
       <HintPath>..\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Razor.dll</HintPath>
     </Reference>
     <Reference Include="UCDArch">
-      <HintPath>..\packages\UcdArch.4.0.107\lib\net35\UCDArch.dll</HintPath>
+      <HintPath>..\packages\UcdArch.4.0.111\lib\net35\UCDArch.dll</HintPath>
     </Reference>
     <Reference Include="WebActivator">
-      <HintPath>..\packages\WebActivator.1.5.1\lib\net40\WebActivator.dll</HintPath>
+      <HintPath>..\packages\WebActivator.1.5.3\lib\net40\WebActivator.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="WebMatrix.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <Private>True</Private>
@@ -200,12 +226,14 @@
     <Compile Include="App_Start\AuthConfig.cs" />
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\RegisterClientValidationExtensions.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\UCDArchBootstrapper.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="ComponentRegistrar.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\ApplicationController.cs" />
+    <Compile Include="Controllers\ExpiredAccountsController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ReportsController.cs" />
     <Compile Include="Controllers\UserAdministrationController.cs" />
@@ -221,8 +249,38 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AccountModels.cs" />
+    <Compile Include="Models\Application.cs">
+      <DependentUpon>Catbert3.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ApplicationRole.cs">
+      <DependentUpon>Catbert3.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ApplicationRoles_V.cs">
+      <DependentUpon>Catbert3.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ApplicationUsers_V.cs">
+      <DependentUpon>Catbert3.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ApplicationUserUnits_V.cs">
+      <DependentUpon>Catbert3.tt</DependentUpon>
+    </Compile>
     <Compile Include="Models\BudgetAdjustmentUploadDataResults.cs">
       <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Catbert3.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Catbert3.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Catbert3.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Catbert3.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Catbert3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Catbert3.edmx</DependentUpon>
     </Compile>
     <Compile Include="Models\Catbert3_vLogin.cs">
       <DependentUpon>Model1.tt</DependentUpon>
@@ -241,16 +299,25 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
-    <Compile Include="Models\Model1.Designer.cs">
+    <Compile Include="Models\FISDataMart.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>Model1.edmx</DependentUpon>
+      <DependentUpon>FISDataMart.edmx</DependentUpon>
     </Compile>
     <Compile Include="Models\Model1.Views.cs" />
+    <Compile Include="Models\Permission.cs">
+      <DependentUpon>Catbert3.tt</DependentUpon>
+    </Compile>
     <Compile Include="Models\PPSDataMart_vSchools.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\ReportsModels.cs" />
+    <Compile Include="Models\Role.cs">
+      <DependentUpon>Catbert3.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\School.cs">
+      <DependentUpon>Catbert3.tt</DependentUpon>
+    </Compile>
     <Compile Include="Models\udf_Catbert3_UserRoles_Result.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
@@ -260,23 +327,36 @@
     <Compile Include="Models\udf_Catbert3_vUnit_Result.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\udf_Catbert3_vUserRoles_Result.cs">
+      <DependentUpon>Catbert3.tt</DependentUpon>
+    </Compile>
     <Compile Include="Models\udf_Catbert3_vUsers_Result.cs">
-      <DependentUpon>Model1.tt</DependentUpon>
+      <DependentUpon>Catbert3.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\udf_Catbert3_vUserUnits_Result.cs">
-      <DependentUpon>Model1.tt</DependentUpon>
+      <DependentUpon>Catbert3.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\udf_GetBudgetAdjustmentUploadData_Result.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\Unit.cs">
+      <DependentUpon>Catbert3.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\UnitAssociation.cs">
+      <DependentUpon>Catbert3.tt</DependentUpon>
+    </Compile>
     <Compile Include="Models\UnitFile.cs">
       <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\User.cs">
+      <DependentUpon>Catbert3.tt</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\IDataExtractionService.cs" />
     <Compile Include="Services\ISftpService.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Readme\Elmah.txt" />
     <Content Include="Content\bootstrap-responsive.css" />
     <Content Include="Content\bootstrap-responsive.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -358,27 +438,45 @@
     <Content Include="default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
-    <EntityDeploy Include="Models\Model1.edmx">
+    <EntityDeploy Include="Models\FISDataMart.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>Model1.Designer.cs</LastGenOutput>
+      <LastGenOutput>FISDataMart.Designer.cs</LastGenOutput>
     </EntityDeploy>
     <Content Include="Images\caes-logo.jpg" />
     <Content Include="Images\caes_logo.png" />
     <Content Include="Images\caes_logo_blue.jpg" />
     <Content Include="Models\Model1.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>Model1.edmx</DependentUpon>
+      <DependentUpon>FISDataMart.edmx</DependentUpon>
       <LastGenOutput>Model1.Context.cs</LastGenOutput>
     </Content>
-    <Content Include="Models\Model1.edmx.diagram">
-      <DependentUpon>Model1.edmx</DependentUpon>
+    <Content Include="Models\FISDataMart.edmx.diagram">
+      <DependentUpon>FISDataMart.edmx</DependentUpon>
     </Content>
     <Content Include="Models\Model1.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>Model1.edmx</DependentUpon>
+      <DependentUpon>FISDataMart.edmx</DependentUpon>
       <LastGenOutput>Model1.cs</LastGenOutput>
     </Content>
     <Content Include="Files\BA Flat File Import Template.xltx" />
+    <Content Include="AppSettings.config" />
+    <EntityDeploy Include="Models\Catbert3.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Catbert3.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <Content Include="Models\Catbert3.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Catbert3.edmx</DependentUpon>
+      <LastGenOutput>Catbert3.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Models\Catbert3.edmx.diagram">
+      <DependentUpon>Catbert3.edmx</DependentUpon>
+    </Content>
+    <Content Include="Models\Catbert3.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Catbert3.edmx</DependentUpon>
+      <LastGenOutput>Catbert3.cs</LastGenOutput>
+    </Content>
     <None Include="Properties\PublishProfiles\Release.pubxml" />
     <None Include="Properties\PublishProfiles\Test.pubxml" />
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
@@ -437,9 +535,6 @@
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Web.config" />
-    <Content Include="AppSettings.config">
-      <SubType>Designer</SubType>
-    </Content>
     <Content Include="Views\Reports\Index.cshtml" />
     <Content Include="Views\Reports\Create.cshtml" />
     <Content Include="Views\Account\LogOn.cshtml" />
@@ -447,6 +542,7 @@
     <Content Include="Views\UserAdministration\Index.cshtml" />
     <Content Include="Views\Shared\EditorTemplates\Enum_RadioButtonList.cshtml" />
     <Content Include="Views\Reports\Details.cshtml" />
+    <Content Include="Views\ExpiredAccounts\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -491,6 +587,7 @@
       </FlavorProperties>
     </VisualStudio>
   </ProjectExtensions>
+  <Import Project="$(SolutionDir)\.nuget\NuGet.targets" Condition="Exists('$(SolutionDir)\.nuget\NuGet.targets')" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">

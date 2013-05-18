@@ -10,20 +10,18 @@
 namespace BenefitsAllocationUpload.Models
 {
     using System;
+    using System.Collections.Generic;
     
-    public partial class udf_Catbert3_vUsers_Result
+    public partial class Permission
     {
+        public int PermissionID { get; set; }
         public int UserID { get; set; }
-        public string LoginID { get; set; }
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public string EmployeeID { get; set; }
-        public string StudentID { get; set; }
-        public string UserImage { get; set; }
-        public string SID { get; set; }
-        public System.Guid UserKey { get; set; }
-        public string Email { get; set; }
-        public string Phone { get; set; }
+        public Nullable<int> ApplicationID { get; set; }
+        public Nullable<int> RoleID { get; set; }
         public bool Inactive { get; set; }
+    
+        public virtual Application Application { get; set; }
+        public virtual Role Role { get; set; }
+        public virtual User User { get; set; }
     }
 }

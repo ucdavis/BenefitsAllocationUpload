@@ -1,16 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Configuration;
-using System.Data.Entity;
-using System.Data.Entity.Infrastructure;
 using System.IO;
 using System.Linq;
-using System.Web;
 using System.Web.Hosting;
-using BenefitsAllocation.Core.Domain;
-using System.Data.Objects.DataClasses;
-using System.Data.Objects;
-
 
 namespace BenefitsAllocationUpload.Models
 {
@@ -30,7 +23,7 @@ namespace BenefitsAllocationUpload.Models
 
         public List<FileNames> GetFiles()
         {
-            //var user = User.FindByLoginId(System.Web.HttpContext.Current.User.Identity.Name);
+            var user = User.FindByLoginId(System.Web.HttpContext.Current.User.Identity.Name);
             var lstFiles = new List<FileNames>();
             var dirInfo = new DirectoryInfo(HostingEnvironment.MapPath(_storageLocation));
             
@@ -99,18 +92,8 @@ namespace BenefitsAllocationUpload.Models
 
     }
 
-    public class User
+    public partial class User
     {
-        public virtual string LoginID { get; set; }
-
-        public virtual string Email { get; set; }
-
-        public virtual string Phone { get; set; }
-
-        public virtual string FirstName { get; set; }
-
-        public virtual string LastName { get; set; }
-
         private string _fullName;
 
         public virtual string FullName
@@ -119,75 +102,53 @@ namespace BenefitsAllocationUpload.Models
             set { _fullName = value; }
         }
 
-        public virtual string EmployeeID { get; set; }
-
-        public virtual string StudentID { get; set; }
-
-        public virtual string UserImage { get; set; }
-
-        public virtual string SID { get; set; }
-
-        //private bool _Inactive;
-
-        //public virtual bool Inactive
-        //{
-        //    get { return _Inactive; }
-        //    set { _Inactive = value; }
-        //}
-
-        public virtual Guid UserKey { get; set; }
+        public virtual IList<Role> Roles { get; set; }
 
         public virtual IList<Unit> Units { get; set; }
 
-        public virtual IList<Roles> Roles { get; set; }
-
-        /// <summary>
-        /// This is in order to demo an "entitled" user as a department user.
-        /// </summary>
-        public virtual bool IsDepartmentUser { get; set; }
-
         public static User FindByLoginId(string loginId)
         {
-           // throw new System.NotImplementedException();
-            using (var db = new FISDataMartEntities())
+            using (var db = new CATBERT3Entities1())
             {
                 var userResult = db.udf_Catbert3_vUsers(ConfigurationManager.AppSettings["applicationsAbbr"]).FirstOrDefault(r => r.LoginID == loginId);
-                
                 if (userResult != null)
                 {
-                    var userUnitResults = db.udf_Catbert3_vUserUnits(ConfigurationManager.AppSettings["applicationsAbbr"])
-                                    .Where(uu => uu.UserID == userResult.UserID);
+                    var userId = userResult.UserID;
 
-                    var unitResults = db.udf_Catbert3_vUnit(ConfigurationManager.AppSettings["applicationsAbbr"])
-                                .Where(u => userUnitResults.Any(uu => u.UnitID == uu.UnitId));
-
-                    var units = new List<Unit>();
-                    if (unitResults.Any())
-                    {
-                        units.AddRange(unitResults.Select(ur => new Unit()
-                            {
-                                ShortName = ur.ShortName, FullName = ur.FullName, FISCode = ur.FIS_Code, DeansOfficeSchoolCode = ur.DeansOfficeSchoolCode, UnitID = ur.UnitID, PPSCode = ur.PPS_Code, SchoolCode = ur.SchoolCode
-                            }));
-                    }
-                    return new User()
+                    var units = db.Database.SqlQuery<Unit>("SELECT unit.* FROM catbert3.dbo.Unit unit" +
+                                                           " INNER JOIN catbert3.dbo.udf_Catbert3_vUserUnits('" +
+                                                           ConfigurationManager.AppSettings["applicationsAbbr"] +
+                                                           "') uu ON unit.UnitID = uu.UnitID WHERE uu.UserID = " +
+                                                           userId);
+                    
+                      
+                    var roles = db.Database.SqlQuery<Role>("SELECT roles.RoleID, roles.Role AS Role1, roles.Inactive FROM catbert3.dbo.Roles roles" +
+                                                           " INNER JOIN catbert3.dbo.udf_Catbert3_vUserRoles('" +
+                                                           ConfigurationManager.AppSettings["applicationsAbbr"] +
+                                                           "') ur ON roles.RoleID = ur.RoleID WHERE ur.UserID = " +
+                                                           userId);
+            
+                    var user = new User
                         {
+                            UserID = userResult.UserID,
+                            LoginID = userResult.LoginID,
                             FirstName = userResult.FirstName,
                             LastName = userResult.LastName,
-                            LoginID = userResult.LoginID,
-                            Email = userResult.Email,
                             EmployeeID = userResult.EmployeeID,
+                            StudentID = userResult.StudentID,
+                            UserImage = userResult.UserImage,
+                            SID = userResult.SID,
+                            UserKey = userResult.UserKey,
+                            Email = userResult.Email,
                             Phone = userResult.Phone,
-                            Units =  units
-                            
+                            Units = units.ToList(),
+                            Roles = roles.ToList()
                         };
-                }
-                else return null;
-            }
-        }
 
-        public User()
-        {
-            IsDepartmentUser = false;
+                    return user;
+                }
+                    return null;
+            }
         }
     }
 

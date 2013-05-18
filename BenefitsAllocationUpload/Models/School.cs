@@ -10,11 +10,20 @@
 namespace BenefitsAllocationUpload.Models
 {
     using System;
+    using System.Collections.Generic;
     
-    public partial class udf_Catbert3_vUserUnits_Result
+    public partial class School
     {
-        public int UnitId { get; set; }
-        public int UserID { get; set; }
-        public bool Inactive { get; set; }
+        public School()
+        {
+            this.Units = new HashSet<Unit>();
+        }
+    
+        public string SchoolCode { get; set; }
+        public string ShortDescription { get; set; }
+        public string LongDescription { get; set; }
+        public string Abbreviation { get; set; }
+    
+        public virtual ICollection<Unit> Units { get; set; }
     }
 }
