@@ -10,11 +10,16 @@
 namespace BenefitsAllocationUpload.Models
 {
     using System;
+    using System.Collections.Generic;
     
-    public partial class udf_Catbert3_vUserUnits_Result
+    public partial class ApplicationRole
     {
-        public int UnitId { get; set; }
-        public int UserID { get; set; }
-        public bool Inactive { get; set; }
+        public int ApplicationRoleID { get; set; }
+        public int ApplicationID { get; set; }
+        public int RoleID { get; set; }
+        public Nullable<int> Level { get; set; }
+    
+        public virtual Application Application { get; set; }
+        public virtual Role Role { get; set; }
     }
 }

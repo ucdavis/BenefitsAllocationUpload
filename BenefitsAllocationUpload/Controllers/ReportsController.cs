@@ -26,11 +26,11 @@ namespace BenefitsAllocationUpload.Controllers
         private ISftpService _sftpService;
         private readonly IRepository<UnitFile> _unitFileRepository;
     
-        public ReportsController(IRepository<UnitFile> unitFileRepository)
+        public ReportsController(IRepository<UnitFile> unitFileRepository, ISftpService sftpService, IDataExtractionService dataExtractionService)
         {
             objData = new DataClasses();
-            _dataExtractionService = new DataExtractionService();
-            _sftpService = new SftpService();
+            _dataExtractionService = dataExtractionService;
+            _sftpService = sftpService;
             _unitFileRepository = unitFileRepository;
         }
  
@@ -102,14 +102,18 @@ namespace BenefitsAllocationUpload.Controllers
                                where f.FileId == fid
                                select f.FileName).First();
 
-            _sftpService.UploadFile(filename);
+            var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
+            var unit = user.Units.FirstOrDefault();
+            var schoolCode = unit.DeansOfficeSchoolCode;
+
+            _sftpService.UploadFile(filename, schoolCode);
 
             var unitFile = _unitFileRepository.Queryable.FirstOrDefault(x => x.Filename == filename);
 
             if (unitFile == null)
             {
-                var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
-                var unit = user.Units.FirstOrDefault();
+                //var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
+                //var unit = user.Units.FirstOrDefault();
                 unitFile = new UnitFile()
                     {
                         Filename = filename,

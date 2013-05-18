@@ -10,20 +10,21 @@
 namespace BenefitsAllocationUpload.Models
 {
     using System;
+    using System.Collections.Generic;
     
-    public partial class udf_Catbert3_vUsers_Result
+    public partial class Role
     {
-        public int UserID { get; set; }
-        public string LoginID { get; set; }
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public string EmployeeID { get; set; }
-        public string StudentID { get; set; }
-        public string UserImage { get; set; }
-        public string SID { get; set; }
-        public System.Guid UserKey { get; set; }
-        public string Email { get; set; }
-        public string Phone { get; set; }
+        public Role()
+        {
+            this.ApplicationRoles = new HashSet<ApplicationRole>();
+            this.Permissions = new HashSet<Permission>();
+        }
+    
+        public int RoleID { get; set; }
+        public string Role1 { get; set; }
         public bool Inactive { get; set; }
+    
+        public virtual ICollection<ApplicationRole> ApplicationRoles { get; set; }
+        public virtual ICollection<Permission> Permissions { get; set; }
     }
 }
