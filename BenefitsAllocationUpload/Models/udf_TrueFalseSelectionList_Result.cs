@@ -11,9 +11,10 @@ namespace BenefitsAllocationUpload.Models
 {
     using System;
     
-    public partial class udf_Catbert3_UserRoles_Result
+    public partial class udf_TrueFalseSelectionList_Result
     {
-        public int UserID { get; set; }
-        public Nullable<int> RoleID { get; set; }
+        public string bool_name { get; set; }
+        public string YN_label { get; set; }
+        public Nullable<bool> bool_value { get; set; }
     }
 }

@@ -36,7 +36,7 @@ namespace BenefitsAllocationUpload.Models
                 });
                 i = i + 1;
             }
-            using (var db = new FISDataMartEntities())
+            using (var db = new FISDataMartEntities1())
             {
                 var unitFiles = db.UnitFiles.ToList();
                 foreach (var file in lstFiles)
@@ -89,11 +89,31 @@ namespace BenefitsAllocationUpload.Models
         public const string User = "User";
         public const string EmulationUser = "EmulationUser";
         public const string UploadFile = "UploadFile";
+    }
 
+    public partial class Unit
+    {
+        private string _deansOfficeSchoolCode;
+        public virtual string DeansOfficeSchoolCode {
+            get
+            {
+                _deansOfficeSchoolCode = SchoolCode;
+                string[] inPpsCodes = {"065040", "065025", "065130"};
+                string[] notInPpsCodes = {"036000", "036005"};
+
+                var ppsCode = (!String.IsNullOrEmpty(PPS_Code) ? PPS_Code.Trim() : string.Empty);
+                if ((ppsCode.StartsWith("030") || (inPpsCodes.Contains(ppsCode) && !notInPpsCodes.Contains(ppsCode))))
+                    _deansOfficeSchoolCode = "01";
+
+                return _deansOfficeSchoolCode;
+            }
+            set { _deansOfficeSchoolCode = value; }
+        }
     }
 
     public partial class User
     {
+        private static readonly string ApplicationsAbbr = ConfigurationManager.AppSettings["applicationsAbbr"];
         private string _fullName;
 
         public virtual string FullName
@@ -110,41 +130,34 @@ namespace BenefitsAllocationUpload.Models
         {
             using (var db = new CATBERT3Entities1())
             {
-                var userResult = db.udf_Catbert3_vUsers(ConfigurationManager.AppSettings["applicationsAbbr"]).FirstOrDefault(r => r.LoginID == loginId);
-                if (userResult != null)
+                var user =
+                    db.Database.SqlQuery<User>(
+                        "SELECT DISTINCT users.* " +
+                        "FROM Catbert3.dbo.Users AS users " +
+                        "INNER JOIN Catbert3.dbo.Permissions permissions ON permissions.UserID = users.UserID " +
+                        "INNER JOIN Catbert3.dbo.Applications AS apps ON permissions.ApplicationID = apps.ApplicationID " +
+                        "WHERE apps.Abbr LIKE '" + ApplicationsAbbr +
+                        "' AND permissions.Inactive = 0 ").FirstOrDefault(u => u.LoginID.Equals(loginId));
+
+                if (user != null)
                 {
-                    var userId = userResult.UserID;
-
-                    var units = db.Database.SqlQuery<Unit>("SELECT unit.* FROM catbert3.dbo.Unit unit" +
-                                                           " INNER JOIN catbert3.dbo.udf_Catbert3_vUserUnits('" +
-                                                           ConfigurationManager.AppSettings["applicationsAbbr"] +
-                                                           "') uu ON unit.UnitID = uu.UnitID WHERE uu.UserID = " +
-                                                           userId);
-                    
+                     user.Units = db.Database.SqlQuery<Unit>("SELECT unit.* " +
+                         "FROM catbert3.dbo.Unit unit " +
+                                                           "INNER JOIN Catbert3.dbo.UnitAssociations AS unitAssociations ON unit.UnitID = unitAssociations.UnitID " +
+                                                           "INNER JOIN Catbert3.dbo.Applications AS applications ON unitAssociations.ApplicationID = applications.ApplicationID " +
+                                                           "INNER JOIN Catbert3.dbo.Users AS users ON unitAssociations.UserID = users.UserID " +
+                                                           "WHERE (applications.Abbr LIKE '" + ApplicationsAbbr + "') " +
+                                                           "    AND (unitAssociations.Inactive = 0) " +
+                                                           "    AND users.LoginID = '" + loginId + "'").ToList();
                       
-                    var roles = db.Database.SqlQuery<Role>("SELECT roles.RoleID, roles.Role AS Role1, roles.Inactive FROM catbert3.dbo.Roles roles" +
-                                                           " INNER JOIN catbert3.dbo.udf_Catbert3_vUserRoles('" +
-                                                           ConfigurationManager.AppSettings["applicationsAbbr"] +
-                                                           "') ur ON roles.RoleID = ur.RoleID WHERE ur.UserID = " +
-                                                           userId);
-            
-                    var user = new User
-                        {
-                            UserID = userResult.UserID,
-                            LoginID = userResult.LoginID,
-                            FirstName = userResult.FirstName,
-                            LastName = userResult.LastName,
-                            EmployeeID = userResult.EmployeeID,
-                            StudentID = userResult.StudentID,
-                            UserImage = userResult.UserImage,
-                            SID = userResult.SID,
-                            UserKey = userResult.UserKey,
-                            Email = userResult.Email,
-                            Phone = userResult.Phone,
-                            Units = units.ToList(),
-                            Roles = roles.ToList()
-                        };
-
+                     user.Roles = db.Database.SqlQuery<Role>("SELECT roles.RoleID, roles.Role AS Role1, permissions.Inactive " +
+                                                             "FROM catbert3.dbo.Roles roles " +
+                                                             "INNER JOIN Catbert3.dbo.Permissions AS permissions ON roles.RoleID = permissions.RoleID " +
+                                                             "INNER JOIN Catbert3.dbo.Applications AS applications ON permissions.ApplicationID = applications.ApplicationID " +
+                                                             "INNER JOIN Catbert3.dbo.Users AS users ON permissions.UserID = users.UserID " +
+                                                             "WHERE applications.Abbr LIKE '" + ApplicationsAbbr + "' " +
+                                                             "  AND permissions.Inactive = 0 " +
+                                                             "  AND users.LoginID = '" + loginId + "'").ToList();
                     return user;
                 }
                     return null;
