@@ -14,10 +14,10 @@ namespace BenefitsAllocationUpload.Models
     
     public partial class UnitFile
     {
+        public int Id { get; set; }
         public int UnitId { get; set; }
         public string Filename { get; set; }
         public string SchoolCode { get; set; }
-        public int Id { get; set; }
         public Nullable<System.DateTime> Created { get; set; }
         public string CreatedBy { get; set; }
         public Nullable<System.DateTime> Uploaded { get; set; }

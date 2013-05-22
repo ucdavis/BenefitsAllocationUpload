@@ -38,7 +38,8 @@ namespace BenefitsAllocationUpload.Controllers
         // GET: /Reports/
         public ActionResult Index()
         {
-            var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
+            //var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
+            var user = Models.User.FindByLoginId(System.Web.HttpContext.Current.User.Identity.Name);
             var unit = user.Units.FirstOrDefault();
             var schoolCode = unit.DeansOfficeSchoolCode;
             var files = objData.GetFiles(schoolCode);
@@ -66,7 +67,8 @@ namespace BenefitsAllocationUpload.Controllers
 
         public ActionResult Details()
         {
-            var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
+            //var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
+            var user = Models.User.FindByLoginId(System.Web.HttpContext.Current.User.Identity.Name);
             var unit = user.Units.FirstOrDefault();
             var schoolCode = unit.DeansOfficeSchoolCode;
 
@@ -102,7 +104,8 @@ namespace BenefitsAllocationUpload.Controllers
                                where f.FileId == fid
                                select f.FileName).First();
 
-            var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
+            //var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
+            var user = Models.User.FindByLoginId(System.Web.HttpContext.Current.User.Identity.Name);
             var unit = user.Units.FirstOrDefault();
             var schoolCode = unit.DeansOfficeSchoolCode;
 
@@ -161,8 +164,8 @@ namespace BenefitsAllocationUpload.Controllers
                     EnableUseDaFisSelection = false
                 };
 
-            var unit = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name).
-                                                Units.FirstOrDefault();
+            //var unit = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name).Units.FirstOrDefault();
+            var unit = Models.User.FindByLoginId(System.Web.HttpContext.Current.User.Identity.Name).Units.FirstOrDefault();
             if (unit != null)
             {
                 var schoolCode = unit.SchoolCode;
@@ -183,11 +186,13 @@ namespace BenefitsAllocationUpload.Controllers
         {
             if (ModelState.IsValid)
             {
-                var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
+                //var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
+                var user = Models.User.FindByLoginId(System.Web.HttpContext.Current.User.Identity.Name);
+
                 var unit = user.Units.FirstOrDefault();
                 var orgId = string.Empty;
                 var transDocOriginCode = string.Empty;
-                using (var context = new FISDataMartEntities())
+                using (var context = new FISDataMartEntities1())
                 {
                     var schoolCodeParameter = new SqlParameter("schoolCode", unit.SchoolCode);
                     orgId = context.Database.SqlQuery<string>(

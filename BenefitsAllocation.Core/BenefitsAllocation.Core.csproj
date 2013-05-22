@@ -113,6 +113,7 @@
   <ItemGroup>
     <Compile Include="ComponentRegistrar.cs" />
     <Compile Include="Domain\Database.cs" />
+    <Compile Include="Domain\ExpiredAccount.cs" />
     <Compile Include="Domain\Lookups.cs" />
     <Compile Include="Domain\UnitFile.cs" />
     <Compile Include="Domain\User.cs" />

@@ -1,8 +1,82 @@
-﻿@model dynamic
+﻿@model IEnumerable<BenefitsAllocation.Core.Domain.ExpiredAccount>
 
 @{
-    ViewBag.Title = "title";
-    Layout = "_Layout";
+    ViewBag.Title = "Expired Accounts";
+    ViewBag.ErrorMessage = "Here is an error message... It could have come from anywhere!";
 }
 
-<h2>title</h2>
+
+<hgroup class="title">
+    <h1>@ViewBag.Title</h1>
+    <h2>@ViewBag.Message</h2>
+</hgroup>
+<hr/>
+@if (Model.Any()) {
+    if (Model.Count() == 1)
+    {
+        <h3>There is @Model.Count() expired account with a non-zero benefits amount:</h3>
+    }
+    else
+    {
+         <h3>There are @Model.Count() expired accounts with non-zero benefits amounts:</h3>
+    }
+   
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Level3OrgCode)
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.ChartNum)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.AccountNum)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ExpirationDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Amount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MgrId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MgrName)
+        </th>
+    </tr>
+
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Level3OrgCode)
+            </td>
+            @*<td>
+                @Html.DisplayFor(modelItem => item.ChartNum)
+            </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.ChartNum)-@Html.DisplayFor(modelItem => item.AccountNum)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExpirationDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Amount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MgrId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MgrName)
+            </td>
+        </tr>
+    }
+
+</table>
+} else
+{
+    <h3>Good news: There are zero (0) expired accounts with non-zero benefits amounts.<br/>You're good to go.</h3>
+    <br/>
+    <p>You can now @Html.ActionLink("Create a New Upload File", "Create", "Reports", null, new { @class="btn btn-info"})</p>
+}
+

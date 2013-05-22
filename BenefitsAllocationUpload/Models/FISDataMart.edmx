@@ -220,6 +220,12 @@
           <Parameter Name="UseDaFIS" Type="bit" Mode="In" />
           <Parameter Name="IsDebug" Type="bit" Mode="In" />
         </Function>
+        <Function Name="usp_GetExpiredAccountsForOrg" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="FiscalYear" Type="varchar" Mode="In" />
+          <Parameter Name="OrgId" Type="nvarchar" Mode="In" />
+          <Parameter Name="UseDaFIS" Type="bit" Mode="In" />
+          <Parameter Name="IsDebug" Type="bit" Mode="In" />
+        </Function>
       </Schema></edmx:StorageModels>
     <!-- CSDL content -->
     <edmx:ConceptualModels>
@@ -287,6 +293,12 @@
             <Parameter Name="TransDocNumberSequence" Mode="In" Type="String" />
             <Parameter Name="OrgId" Mode="In" Type="String" />
             <Parameter Name="TransDocOriginCode" Mode="In" Type="String" />
+            <Parameter Name="UseDaFIS" Mode="In" Type="Boolean" />
+            <Parameter Name="IsDebug" Mode="In" Type="Boolean" />
+          </FunctionImport>
+          <FunctionImport Name="usp_GetExpiredAccountsForOrg" ReturnType="Collection(FISDataMartModel.ExpiredAccounts_Results)">
+            <Parameter Name="FiscalYear" Mode="In" Type="String" />
+            <Parameter Name="OrgId" Mode="In" Type="String" />
             <Parameter Name="UseDaFIS" Mode="In" Type="Boolean" />
             <Parameter Name="IsDebug" Mode="In" Type="Boolean" />
           </FunctionImport>
@@ -420,6 +432,15 @@
           <Property Type="String" Name="FDOC_REF_NBR" MaxLength="9" FixedLength="true" Unicode="false" />
           <Property Type="String" Name="FDOC_REVERSAL_DT" MaxLength="8" FixedLength="true" Unicode="false" />
           <Property Type="String" Name="TRN_ENCUM_UPDT_CD" MaxLength="1" FixedLength="true" Unicode="false" />
+        </ComplexType>
+        <ComplexType Name="ExpiredAccounts_Results" >
+          <Property Type="String" Name="ORG_ID" Nullable="false" />
+          <Property Type="String" Name="CHART_NUM" Nullable="false" />
+          <Property Type="String" Name="ACCT_NUM" Nullable="false" />
+          <Property Type="DateTime" Name="ACCT_EXPIRATION_DATE" Nullable="false" />
+          <Property Type="String" Name="ACCT_MGR_ID" Nullable="false" />
+          <Property Type="String" Name="ACCT_MGR_NAME" Nullable="false" />
+          <Property Type="Decimal" Name="TRANS_LINE_AMT" Nullable="false" />
         </ComplexType>
       </Schema>
     </edmx:ConceptualModels>
@@ -644,6 +665,19 @@
                 <ScalarProperty Name="FDOC_REF_NBR" ColumnName="FDOC_REF_NBR" />
                 <ScalarProperty Name="FDOC_REVERSAL_DT" ColumnName="FDOC_REVERSAL_DT" />
                 <ScalarProperty Name="TRN_ENCUM_UPDT_CD" ColumnName="TRN_ENCUM_UPDT_CD" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="usp_GetExpiredAccountsForOrg" FunctionName="FISDataMartModel.Store.usp_GetExpiredAccountsForOrg" >
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="FISDataMartModel.ExpiredAccounts_Results" >
+                <ScalarProperty Name="ORG_ID" ColumnName="ORG_ID" />
+                <ScalarProperty Name="CHART_NUM" ColumnName="CHART_NUM" />
+                <ScalarProperty Name="ACCT_NUM" ColumnName="ACCT_NUM" />
+                <ScalarProperty Name="ACCT_EXPIRATION_DATE" ColumnName="ACCT_EXPIRATION_DATE" />
+                <ScalarProperty Name="ACCT_MGR_ID" ColumnName="ACCT_MGR_ID" />
+                <ScalarProperty Name="ACCT_MGR_NAME" ColumnName="ACCT_MGR_NAME" />
+                <ScalarProperty Name="TRANS_LINE_AMT" ColumnName="TRANS_LINE_AMT" />
               </ComplexTypeMapping>
             </ResultMapping>
           </FunctionImportMapping>

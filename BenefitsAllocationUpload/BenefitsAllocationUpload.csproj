@@ -265,7 +265,7 @@
       <DependentUpon>Catbert3.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\BudgetAdjustmentUploadDataResults.cs">
-      <DependentUpon>Model1.tt</DependentUpon>
+      <DependentUpon>FISDataMartEntities.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\Catbert3.Context.cs">
       <AutoGen>True</AutoGen>
@@ -282,34 +282,26 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Catbert3.edmx</DependentUpon>
     </Compile>
-    <Compile Include="Models\Catbert3_vLogin.cs">
-      <DependentUpon>Model1.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\Catbert3_vSchools.cs">
-      <DependentUpon>Model1.tt</DependentUpon>
-    </Compile>
     <Compile Include="Models\DataClasses.cs" />
-    <Compile Include="Models\Model1.Context.cs">
+    <Compile Include="Models\FISDataMart.Views.cs" />
+    <Compile Include="Models\FISDataMartEntities.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>Model1.Context.tt</DependentUpon>
+      <DependentUpon>FISDataMartEntities.Context.tt</DependentUpon>
     </Compile>
-    <Compile Include="Models\Model1.cs">
+    <Compile Include="Models\FISDataMartEntities.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>Model1.tt</DependentUpon>
+      <DependentUpon>FISDataMartEntities.tt</DependentUpon>
     </Compile>
-    <Compile Include="Models\FISDataMart.Designer.cs">
+    <Compile Include="Models\FISDataMartEntities.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>FISDataMart.edmx</DependentUpon>
+      <DependentUpon>FISDataMartEntities.edmx</DependentUpon>
     </Compile>
     <Compile Include="Models\Model1.Views.cs" />
     <Compile Include="Models\Permission.cs">
       <DependentUpon>Catbert3.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\PPSDataMart_vSchools.cs">
-      <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\ReportsModels.cs" />
     <Compile Include="Models\Role.cs">
@@ -317,15 +309,6 @@
     </Compile>
     <Compile Include="Models\School.cs">
       <DependentUpon>Catbert3.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\udf_Catbert3_UserRoles_Result.cs">
-      <DependentUpon>Model1.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\udf_Catbert3_vRoles_Result.cs">
-      <DependentUpon>Model1.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\udf_Catbert3_vUnit_Result.cs">
-      <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\udf_Catbert3_vUserRoles_Result.cs">
       <DependentUpon>Catbert3.tt</DependentUpon>
@@ -336,8 +319,8 @@
     <Compile Include="Models\udf_Catbert3_vUserUnits_Result.cs">
       <DependentUpon>Catbert3.tt</DependentUpon>
     </Compile>
-    <Compile Include="Models\udf_GetBudgetAdjustmentUploadData_Result.cs">
-      <DependentUpon>Model1.tt</DependentUpon>
+    <Compile Include="Models\udf_TrueFalseSelectionList_Result.cs">
+      <DependentUpon>FISDataMartEntities.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\Unit.cs">
       <DependentUpon>Catbert3.tt</DependentUpon>
@@ -346,7 +329,7 @@
       <DependentUpon>Catbert3.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\UnitFile.cs">
-      <DependentUpon>Model1.tt</DependentUpon>
+      <DependentUpon>FISDataMartEntities.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\User.cs">
       <DependentUpon>Catbert3.tt</DependentUpon>
@@ -438,26 +421,9 @@
     <Content Include="default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
-    <EntityDeploy Include="Models\FISDataMart.edmx">
-      <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>FISDataMart.Designer.cs</LastGenOutput>
-    </EntityDeploy>
     <Content Include="Images\caes-logo.jpg" />
     <Content Include="Images\caes_logo.png" />
     <Content Include="Images\caes_logo_blue.jpg" />
-    <Content Include="Models\Model1.Context.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>FISDataMart.edmx</DependentUpon>
-      <LastGenOutput>Model1.Context.cs</LastGenOutput>
-    </Content>
-    <Content Include="Models\FISDataMart.edmx.diagram">
-      <DependentUpon>FISDataMart.edmx</DependentUpon>
-    </Content>
-    <Content Include="Models\Model1.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>FISDataMart.edmx</DependentUpon>
-      <LastGenOutput>Model1.cs</LastGenOutput>
-    </Content>
     <Content Include="Files\BA Flat File Import Template.xltx" />
     <Content Include="AppSettings.config" />
     <EntityDeploy Include="Models\Catbert3.edmx">
@@ -476,6 +442,23 @@
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>Catbert3.edmx</DependentUpon>
       <LastGenOutput>Catbert3.cs</LastGenOutput>
+    </Content>
+    <EntityDeploy Include="Models\FISDataMartEntities.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>FISDataMartEntities.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <Content Include="Models\FISDataMartEntities.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>FISDataMartEntities.edmx</DependentUpon>
+      <LastGenOutput>FISDataMartEntities.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Models\FISDataMartEntities.edmx.diagram">
+      <DependentUpon>FISDataMartEntities.edmx</DependentUpon>
+    </Content>
+    <Content Include="Models\FISDataMartEntities.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>FISDataMartEntities.edmx</DependentUpon>
+      <LastGenOutput>FISDataMartEntities.cs</LastGenOutput>
     </Content>
     <None Include="Properties\PublishProfiles\Release.pubxml" />
     <None Include="Properties\PublishProfiles\Test.pubxml" />
