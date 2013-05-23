@@ -129,9 +129,10 @@
                             @{
                                 if (User.IsInRole(RoleNames.User))
                                 {
-                                     <li>@Html.ActionLink("Files", "Index", "Reports")</li>
+                                    <li>@Html.ActionLink("Files", "Index", "Reports")</li>
+                                    <li>@Html.ActionLink("Expired Accounts", "Index", "ExpiredAccounts")</li>
                                 }
-                                
+                   
                                 if (User.IsInRole(RoleNames.Admin))
                                 {
                                     <li>@Html.ActionLink("Admin", "Index", "UserAdministration")</li>
