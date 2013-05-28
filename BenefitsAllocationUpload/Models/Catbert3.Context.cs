@@ -12,14 +12,11 @@ namespace BenefitsAllocationUpload.Models
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
-    using System.Data.Objects;
-    using System.Data.Objects.DataClasses;
-    using System.Linq;
     
-    public partial class CATBERT3Entities1 : DbContext
+    public partial class CATBERT3Entities : DbContext
     {
-        public CATBERT3Entities1()
-            : base("name=CATBERT3Entities1")
+        public CATBERT3Entities()
+            : base("name=CATBERT3Entities")
         {
         }
     
@@ -38,36 +35,5 @@ namespace BenefitsAllocationUpload.Models
         public DbSet<User> Users { get; set; }
         public DbSet<ApplicationRoles_V> ApplicationRoles_V { get; set; }
         public DbSet<ApplicationUsers_V> ApplicationUsers_V { get; set; }
-        public DbSet<ApplicationUserUnits_V> ApplicationUserUnits_V { get; set; }
-    
-        [EdmFunction("CATBERT3Entities1", "udf_Catbert3_vUserRoles")]
-        public virtual IQueryable<udf_Catbert3_vUserRoles_Result> udf_Catbert3_vUserRoles(string applicationsAbbr)
-        {
-            var applicationsAbbrParameter = applicationsAbbr != null ?
-                new ObjectParameter("applicationsAbbr", applicationsAbbr) :
-                new ObjectParameter("applicationsAbbr", typeof(string));
-    
-            return ((IObjectContextAdapter)this).ObjectContext.CreateQuery<udf_Catbert3_vUserRoles_Result>("[CATBERT3Entities1].[udf_Catbert3_vUserRoles](@applicationsAbbr)", applicationsAbbrParameter);
-        }
-    
-        [EdmFunction("CATBERT3Entities1", "udf_Catbert3_vUsers")]
-        public virtual IQueryable<udf_Catbert3_vUsers_Result> udf_Catbert3_vUsers(string applicationsAbbr)
-        {
-            var applicationsAbbrParameter = applicationsAbbr != null ?
-                new ObjectParameter("applicationsAbbr", applicationsAbbr) :
-                new ObjectParameter("applicationsAbbr", typeof(string));
-    
-            return ((IObjectContextAdapter)this).ObjectContext.CreateQuery<udf_Catbert3_vUsers_Result>("[CATBERT3Entities1].[udf_Catbert3_vUsers](@applicationsAbbr)", applicationsAbbrParameter);
-        }
-    
-        [EdmFunction("CATBERT3Entities1", "udf_Catbert3_vUserUnits")]
-        public virtual IQueryable<udf_Catbert3_vUserUnits_Result> udf_Catbert3_vUserUnits(string applicationsAbbr)
-        {
-            var applicationsAbbrParameter = applicationsAbbr != null ?
-                new ObjectParameter("applicationsAbbr", applicationsAbbr) :
-                new ObjectParameter("applicationsAbbr", typeof(string));
-    
-            return ((IObjectContextAdapter)this).ObjectContext.CreateQuery<udf_Catbert3_vUserUnits_Result>("[CATBERT3Entities1].[udf_Catbert3_vUserUnits](@applicationsAbbr)", applicationsAbbrParameter);
-        }
     }
 }

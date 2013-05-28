@@ -25,7 +25,7 @@ namespace BenefitsAllocationUpload.Controllers
         public ActionResult Index()
         {
             var results = new List<ExpiredAccount>();
-            using (var db = new FISDataMartEntities1())
+            using (var db = new FISDataMartEntities())
             {
                 var user = Models.User.FindByLoginId(System.Web.HttpContext.Current.User.Identity.Name);
                 var unit = user.Units.FirstOrDefault();

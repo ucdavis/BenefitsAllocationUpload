@@ -35,21 +35,6 @@
       [ApplicationUsers_V].[PermissionID] AS [PermissionID]
       FROM [dbo].[ApplicationUsers_V] AS [ApplicationUsers_V]</DefiningQuery>
           </EntitySet>
-          <EntitySet Name="ApplicationUserUnits_V" EntityType="CATBERT3Model.Store.ApplicationUserUnits_V" store:Type="Views" store:Schema="dbo" store:Name="ApplicationUserUnits_V">
-            <DefiningQuery>SELECT 
-      [ApplicationUserUnits_V].[ApplicationID] AS [ApplicationID], 
-      [ApplicationUserUnits_V].[Name] AS [Name], 
-      [ApplicationUserUnits_V].[UserID] AS [UserID], 
-      [ApplicationUserUnits_V].[FirstName] AS [FirstName], 
-      [ApplicationUserUnits_V].[LastName] AS [LastName], 
-      [ApplicationUserUnits_V].[EmployeeID] AS [EmployeeID], 
-      [ApplicationUserUnits_V].[UnitID] AS [UnitID], 
-      [ApplicationUserUnits_V].[FullName] AS [FullName], 
-      [ApplicationUserUnits_V].[PPS_Code] AS [PPS_Code], 
-      [ApplicationUserUnits_V].[FIS_Code] AS [FIS_Code], 
-      [ApplicationUserUnits_V].[Inactive] AS [Inactive]
-      FROM [dbo].[ApplicationUserUnits_V] AS [ApplicationUserUnits_V]</DefiningQuery>
-          </EntitySet>
           <AssociationSet Name="FK_ApplicationRoles_Applications" Association="CATBERT3Model.Store.FK_ApplicationRoles_Applications">
             <End Role="Applications" EntitySet="Applications" />
             <End Role="ApplicationRoles" EntitySet="ApplicationRoles" />
@@ -218,32 +203,6 @@
           <Property Name="Inactive" Type="bit" Nullable="false" />
           <Property Name="PermissionID" Type="int" Nullable="false" />
         </EntityType>
-        <!--Errors Found During Generation:
-      warning 6002: The table/view 'Catbert3.dbo.ApplicationUserUnits_V' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
-      -->
-        <EntityType Name="ApplicationUserUnits_V">
-          <Key>
-            <PropertyRef Name="ApplicationID" />
-            
-            <PropertyRef Name="UserID" />
-            <PropertyRef Name="LastName" />
-            <PropertyRef Name="UnitID" />
-            
-            
-            
-          </Key>
-          <Property Name="ApplicationID" Type="int" Nullable="false" />
-          <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
-          <Property Name="UserID" Type="int" Nullable="false" />
-          <Property Name="FirstName" Type="nvarchar" MaxLength="50" />
-          <Property Name="LastName" Type="nvarchar" Nullable="false" MaxLength="50" />
-          <Property Name="EmployeeID" Type="varchar" MaxLength="9" />
-          <Property Name="UnitID" Type="int" Nullable="false" />
-          <Property Name="FullName" Type="nvarchar" Nullable="false" MaxLength="50" />
-          <Property Name="PPS_Code" Type="char" MaxLength="6" />
-          <Property Name="FIS_Code" Type="char" Nullable="false" MaxLength="4" />
-          <Property Name="Inactive" Type="bit" Nullable="false" />
-        </EntityType>
         <Association Name="FK_ApplicationRoles_Applications">
           <End Role="Applications" Type="CATBERT3Model.Store.Applications" Multiplicity="1" />
           <End Role="ApplicationRoles" Type="CATBERT3Model.Store.ApplicationRoles" Multiplicity="*" />
@@ -364,56 +323,11 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
-        <Function Name="udf_Catbert3_vUserRoles" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
-          <Parameter Name="applicationsAbbr" Type="nvarchar" Mode="In" />
-          <ReturnType>
-            <CollectionType>
-              <RowType>
-                <Property Name="UserID" Type="int" Nullable="false" />
-                <Property Name="RoleID" Type="int" Nullable="false" />
-                <Property Name="Inactive" Type="bit" Nullable="false" />
-              </RowType>
-            </CollectionType>
-          </ReturnType>
-        </Function>
-        <Function Name="udf_Catbert3_vUsers" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
-          <Parameter Name="applicationsAbbr" Type="nvarchar" Mode="In" />
-          <ReturnType>
-            <CollectionType>
-              <RowType>
-                <Property Name="UserID" Type="int" Nullable="false" />
-                <Property Name="LoginID" Type="varchar" Nullable="false" MaxLength="10" />
-                <Property Name="FirstName" Type="nvarchar" MaxLength="50" />
-                <Property Name="LastName" Type="nvarchar" MaxLength="50" />
-                <Property Name="EmployeeID" Type="varchar" MaxLength="9" />
-                <Property Name="StudentID" Type="varchar" MaxLength="9" />
-                <Property Name="UserImage" Type="nvarchar" MaxLength="50" />
-                <Property Name="SID" Type="nvarchar" MaxLength="50" />
-                <Property Name="UserKey" Type="uniqueidentifier" Nullable="false" />
-                <Property Name="Email" Type="nvarchar" Nullable="false" MaxLength="50" />
-                <Property Name="Phone" Type="varchar" MaxLength="50" />
-                <Property Name="Inactive" Type="bit" Nullable="false" />
-              </RowType>
-            </CollectionType>
-          </ReturnType>
-        </Function>
-        <Function Name="udf_Catbert3_vUserUnits" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
-          <Parameter Name="applicationsAbbr" Type="nvarchar" Mode="In" />
-          <ReturnType>
-            <CollectionType>
-              <RowType>
-                <Property Name="UnitId" Type="int" Nullable="false" />
-                <Property Name="UserID" Type="int" Nullable="false" />
-                <Property Name="Inactive" Type="bit" Nullable="false" />
-              </RowType>
-            </CollectionType>
-          </ReturnType>
-        </Function>
       </Schema></edmx:StorageModels>
     <!-- CSDL content -->
     <edmx:ConceptualModels>
       <Schema Namespace="CATBERT3Model" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
-        <EntityContainer Name="CATBERT3Entities1" p1:LazyLoadingEnabled="true">
+        <EntityContainer Name="CATBERT3Entities" p1:LazyLoadingEnabled="true">
           <EntitySet Name="ApplicationRoles" EntityType="CATBERT3Model.ApplicationRole" />
           <EntitySet Name="Applications" EntityType="CATBERT3Model.Application" />
           <EntitySet Name="Permissions" EntityType="CATBERT3Model.Permission" />
@@ -424,7 +338,6 @@
           <EntitySet Name="Users" EntityType="CATBERT3Model.User" />
           <EntitySet Name="ApplicationRoles_V" EntityType="CATBERT3Model.ApplicationRoles_V" />
           <EntitySet Name="ApplicationUsers_V" EntityType="CATBERT3Model.ApplicationUsers_V" />
-          <EntitySet Name="ApplicationUserUnits_V" EntityType="CATBERT3Model.ApplicationUserUnits_V" />
           <AssociationSet Name="FK_ApplicationRoles_Applications" Association="CATBERT3Model.FK_ApplicationRoles_Applications">
             <End Role="Applications" EntitySet="Applications" />
             <End Role="ApplicationRoles" EntitySet="ApplicationRoles" />
@@ -465,15 +378,6 @@
             <End Role="Users" EntitySet="Users" />
             <End Role="UnitAssociations" EntitySet="UnitAssociations" />
           </AssociationSet>
-          <FunctionImport Name="udf_Catbert3_vUserRoles" ReturnType="Collection(CATBERT3Model.udf_Catbert3_vUserRoles_Result)" IsComposable="true">
-          <Parameter Name="applicationsAbbr" Mode="In" Type="String" />
-          </FunctionImport>
-          <FunctionImport Name="udf_Catbert3_vUsers" ReturnType="Collection(CATBERT3Model.udf_Catbert3_vUsers_Result)" IsComposable="true">
-          <Parameter Name="applicationsAbbr" Mode="In" Type="String" />
-          </FunctionImport>
-          <FunctionImport Name="udf_Catbert3_vUserUnits" ReturnType="Collection(CATBERT3Model.udf_Catbert3_vUserUnits_Result)" IsComposable="true">
-          <Parameter Name="applicationsAbbr" Mode="In" Type="String" />
-          </FunctionImport>
         </EntityContainer>
         <ComplexType Name="udf_Catbert3_vUserRoles_Result">
           <Property Name="UserID" Type="Int32" Nullable="false" />
@@ -634,25 +538,6 @@
           <Property Name="Inactive" Type="Boolean" Nullable="false" />
           <Property Name="PermissionID" Type="Int32" Nullable="false" />
         </EntityType>
-        <EntityType Name="ApplicationUserUnits_V">
-          <Key>
-            <PropertyRef Name="ApplicationID" />
-            <PropertyRef Name="UserID" />
-            <PropertyRef Name="LastName" />
-            <PropertyRef Name="UnitID" />
-          </Key>
-          <Property Name="ApplicationID" Type="Int32" Nullable="false" />
-          <Property Name="Name" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
-          <Property Name="UserID" Type="Int32" Nullable="false" />
-          <Property Name="FirstName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
-          <Property Name="LastName" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
-          <Property Name="EmployeeID" Type="String" MaxLength="9" Unicode="false" FixedLength="false" />
-          <Property Name="UnitID" Type="Int32" Nullable="false" />
-          <Property Name="FullName" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
-          <Property Name="PPS_Code" Type="String" MaxLength="6" Unicode="false" FixedLength="true" />
-          <Property Name="FIS_Code" Type="String" Nullable="false" MaxLength="4" Unicode="false" FixedLength="true" />
-          <Property Name="Inactive" Type="Boolean" Nullable="false" />
-        </EntityType>
         <Association Name="FK_ApplicationRoles_Applications">
           <End Role="Applications" Type="CATBERT3Model.Application" Multiplicity="1" />
           <End Role="ApplicationRoles" Type="CATBERT3Model.ApplicationRole" Multiplicity="*" />
@@ -778,7 +663,7 @@
     <!-- C-S mapping content -->
     <edmx:Mappings>
       <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-        <EntityContainerMapping StorageEntityContainer="CATBERT3ModelStoreContainer" CdmEntityContainer="CATBERT3Entities1">
+        <EntityContainerMapping StorageEntityContainer="CATBERT3ModelStoreContainer" CdmEntityContainer="CATBERT3Entities">
           <EntitySetMapping Name="ApplicationRoles">
             <EntityTypeMapping TypeName="CATBERT3Model.ApplicationRole">
               <MappingFragment StoreEntitySet="ApplicationRoles">
@@ -902,60 +787,7 @@
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>
-          <EntitySetMapping Name="ApplicationUserUnits_V">
-            <EntityTypeMapping TypeName="CATBERT3Model.ApplicationUserUnits_V">
-              <MappingFragment StoreEntitySet="ApplicationUserUnits_V">
-                <ScalarProperty Name="ApplicationID" ColumnName="ApplicationID" />
-                <ScalarProperty Name="Name" ColumnName="Name" />
-                <ScalarProperty Name="UserID" ColumnName="UserID" />
-                <ScalarProperty Name="FirstName" ColumnName="FirstName" />
-                <ScalarProperty Name="LastName" ColumnName="LastName" />
-                <ScalarProperty Name="EmployeeID" ColumnName="EmployeeID" />
-                <ScalarProperty Name="UnitID" ColumnName="UnitID" />
-                <ScalarProperty Name="FullName" ColumnName="FullName" />
-                <ScalarProperty Name="PPS_Code" ColumnName="PPS_Code" />
-                <ScalarProperty Name="FIS_Code" ColumnName="FIS_Code" />
-                <ScalarProperty Name="Inactive" ColumnName="Inactive" />
-              </MappingFragment>
-            </EntityTypeMapping>
-          </EntitySetMapping>
-          <FunctionImportMapping FunctionName="CATBERT3Model.Store.udf_Catbert3_vUserRoles" FunctionImportName="udf_Catbert3_vUserRoles">
-            <ResultMapping>
-              <ComplexTypeMapping TypeName="CATBERT3Model.udf_Catbert3_vUserRoles_Result">
-                <ScalarProperty Name="UserID" ColumnName="UserID" />
-                <ScalarProperty Name="RoleID" ColumnName="RoleID" />
-                <ScalarProperty Name="Inactive" ColumnName="Inactive" />
-              </ComplexTypeMapping>
-            </ResultMapping>
-          </FunctionImportMapping>
-          <FunctionImportMapping FunctionName="CATBERT3Model.Store.udf_Catbert3_vUsers" FunctionImportName="udf_Catbert3_vUsers">
-            <ResultMapping>
-              <ComplexTypeMapping TypeName="CATBERT3Model.udf_Catbert3_vUsers_Result">
-                <ScalarProperty Name="UserID" ColumnName="UserID" />
-                <ScalarProperty Name="LoginID" ColumnName="LoginID" />
-                <ScalarProperty Name="FirstName" ColumnName="FirstName" />
-                <ScalarProperty Name="LastName" ColumnName="LastName" />
-                <ScalarProperty Name="EmployeeID" ColumnName="EmployeeID" />
-                <ScalarProperty Name="StudentID" ColumnName="StudentID" />
-                <ScalarProperty Name="UserImage" ColumnName="UserImage" />
-                <ScalarProperty Name="SID" ColumnName="SID" />
-                <ScalarProperty Name="UserKey" ColumnName="UserKey" />
-                <ScalarProperty Name="Email" ColumnName="Email" />
-                <ScalarProperty Name="Phone" ColumnName="Phone" />
-                <ScalarProperty Name="Inactive" ColumnName="Inactive" />
-              </ComplexTypeMapping>
-            </ResultMapping>
-          </FunctionImportMapping>
-          <FunctionImportMapping FunctionName="CATBERT3Model.Store.udf_Catbert3_vUserUnits" FunctionImportName="udf_Catbert3_vUserUnits">
-            <ResultMapping>
-              <ComplexTypeMapping TypeName="CATBERT3Model.udf_Catbert3_vUserUnits_Result">
-                <ScalarProperty Name="UnitId" ColumnName="UnitId" />
-                <ScalarProperty Name="UserID" ColumnName="UserID" />
-                <ScalarProperty Name="Inactive" ColumnName="Inactive" />
-              </ComplexTypeMapping>
-            </ResultMapping>
-          </FunctionImportMapping>
-        </EntityContainerMapping>
+          </EntityContainerMapping>
       </Mapping>
     </edmx:Mappings>
   </edmx:Runtime>

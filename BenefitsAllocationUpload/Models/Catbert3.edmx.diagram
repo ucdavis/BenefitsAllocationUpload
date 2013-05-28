@@ -15,7 +15,6 @@
         <EntityTypeShape EntityType="CATBERT3Model.User" Width="1.5" PointX="3" PointY="10.375" IsExpanded="true" />
         <EntityTypeShape EntityType="CATBERT3Model.ApplicationRoles_V" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
         <EntityTypeShape EntityType="CATBERT3Model.ApplicationUsers_V" Width="1.5" PointX="7.75" PointY="3.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="CATBERT3Model.ApplicationUserUnits_V" Width="1.5" PointX="7.75" PointY="7.75" IsExpanded="true" />
         <AssociationConnector Association="CATBERT3Model.FK_ApplicationRoles_Applications" ManuallyRouted="false" />
         <AssociationConnector Association="CATBERT3Model.FK_ApplicationRoles_Roles" ManuallyRouted="false" />
         <AssociationConnector Association="CATBERT3Model.FK_Permissions_Applications" ManuallyRouted="false" />

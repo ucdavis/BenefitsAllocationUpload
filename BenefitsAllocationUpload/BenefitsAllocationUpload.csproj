@@ -261,9 +261,6 @@
     <Compile Include="Models\ApplicationUsers_V.cs">
       <DependentUpon>Catbert3.tt</DependentUpon>
     </Compile>
-    <Compile Include="Models\ApplicationUserUnits_V.cs">
-      <DependentUpon>Catbert3.tt</DependentUpon>
-    </Compile>
     <Compile Include="Models\BudgetAdjustmentUploadDataResults.cs">
       <DependentUpon>FISDataMartEntities.tt</DependentUpon>
     </Compile>
@@ -283,7 +280,6 @@
       <DependentUpon>Catbert3.edmx</DependentUpon>
     </Compile>
     <Compile Include="Models\DataClasses.cs" />
-    <Compile Include="Models\FISDataMart.Views.cs" />
     <Compile Include="Models\FISDataMartEntities.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -299,7 +295,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>FISDataMartEntities.edmx</DependentUpon>
     </Compile>
-    <Compile Include="Models\Model1.Views.cs" />
     <Compile Include="Models\Permission.cs">
       <DependentUpon>Catbert3.tt</DependentUpon>
     </Compile>
@@ -420,6 +415,10 @@
     <Content Include="Content\themes\uibootstrap\jquery.ui.1.8.16.ie.css" />
     <Content Include="default.aspx" />
     <Content Include="favicon.ico" />
+    <Content Include="Files\journal.AG.201302081144231445.txt" />
+    <Content Include="Files\journal.AG.201302281459315370.txt" />
+    <Content Include="Files\journal.AG.201304021129401836.txt" />
+    <Content Include="Files\journal.AG.201305020807343813.txt" />
     <Content Include="Global.asax" />
     <Content Include="Images\caes-logo.jpg" />
     <Content Include="Images\caes_logo.png" />

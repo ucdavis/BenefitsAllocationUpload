@@ -40,7 +40,7 @@ namespace BenefitsAllocationUpload.Services
 
             if (string.IsNullOrEmpty(transDocOriginCode))
             {
-                using (var context = new FISDataMartEntities1())
+                using (var context = new FISDataMartEntities())
                 {
                     var orgIdParameter = new SqlParameter("orgId", orgId);
                     transDocOriginCode = context.Database.SqlQuery<string>(
@@ -169,7 +169,7 @@ namespace BenefitsAllocationUpload.Services
         {
             _fileName = GetFilenameForOrgId(orgId, transDocOriginCode);
 
-            using (var context = new FISDataMartEntities1())
+            using (var context = new FISDataMartEntities())
             {
                 // 2013-05-22 by kjt: Revised to use lower level approach to
                 // allow manual setting of command time-out because query

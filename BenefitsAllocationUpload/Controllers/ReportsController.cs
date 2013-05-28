@@ -136,7 +136,7 @@ namespace BenefitsAllocationUpload.Controllers
 
         public ActionResult Delete(string id)
         {
-            var deleteSuccess = false; 
+            //var deleteSuccess = false; 
 
             int fid = Convert.ToInt32(id);
             var files = objData.GetFiles();
@@ -149,7 +149,7 @@ namespace BenefitsAllocationUpload.Controllers
             if (file.Exists)
             {
                 file.Delete();
-                deleteSuccess = true;
+                //deleteSuccess = true;
             } 
 
             Message = "File \"" + file.Name + "\" has been deleted.";
@@ -192,7 +192,7 @@ namespace BenefitsAllocationUpload.Controllers
                 var unit = user.Units.FirstOrDefault();
                 var orgId = string.Empty;
                 var transDocOriginCode = string.Empty;
-                using (var context = new FISDataMartEntities1())
+                using (var context = new FISDataMartEntities())
                 {
                     var schoolCodeParameter = new SqlParameter("schoolCode", unit.SchoolCode);
                     orgId = context.Database.SqlQuery<string>(
