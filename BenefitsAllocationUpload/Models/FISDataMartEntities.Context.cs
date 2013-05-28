@@ -16,10 +16,10 @@ namespace BenefitsAllocationUpload.Models
     using System.Data.Objects.DataClasses;
     using System.Linq;
     
-    public partial class FISDataMartEntities1 : DbContext
+    public partial class FISDataMartEntities : DbContext
     {
-        public FISDataMartEntities1()
-            : base("name=FISDataMartEntities1")
+        public FISDataMartEntities()
+            : base("name=FISDataMartEntities")
         {
         }
     

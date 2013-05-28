@@ -1,0 +1,868 @@
+20133 2200190-----SUB6---CB  11GLCBAG201311001    1test for database filename save no6            2629.02 20130528          ----------kentest                         
+20133 2200203-----SB28---CB  11GLCBAG201311001    2test for database filename save no6              76.12 20130528          ----------kentest                         
+20133 2200203-----SUB6---CB  11GLCBAG201311001    3test for database filename save no6             548.01 20130528          ----------kentest                         
+20133 2200229-----SUB6---CB  11GLCBAG201311001    4test for database filename save no6             278.24 20130528          ----------kentest                         
+20133 2200251-----SUB6---CB  11GLCBAG201311001    5test for database filename save no6            3434.49 20130528          ----------kentest                         
+20133 A400344ADMTCSUB6---CB  11GLCBAG201311001    6test for database filename save no6              -9.87 20130528          ----------kentest                         
+20133 AAFRGAA-----SB28---CB  11GLCBAG201311001    7test for database filename save no6            -337.24 20130528          ADOEFH    kentest                         
+20133 AAFRGAA-----SB28---CB  11GLCBAG201311001    8test for database filename save no6            -114.58 20130528          ADOVXW    kentest                         
+20133 AAFRGAA-----SUB6---CB  11GLCBAG201311001    9test for database filename save no6           -2692.11 20130528          ADOEFH    kentest                         
+20133 AAFRGAA-----SUB6---CB  11GLCBAG201311001   10test for database filename save no6            -646.46 20130528          ADOVXW    kentest                         
+20133 AASIGAA-----SB28---CB  11GLCBAG201311001   11test for database filename save no6            -164.34 20130528          ----------kentest                         
+20133 AASIGAA-----SUB6---CB  11GLCBAG201311001   12test for database filename save no6           -1283.20 20130528          ----------kentest                         
+20133 AASIGAB-----SB28---CB  11GLCBAG201311001   13test for database filename save no6             -92.00 20130528          ----------kentest                         
+20133 AASIGAB-----SUB6---CB  11GLCBAG201311001   14test for database filename save no6            -468.70 20130528          ----------kentest                         
+20133 AASITMP-----SUB6---CB  11GLCBAG201311001   15test for database filename save no6           15798.25 20130528          ----------kentest                         
+20133 AASRGAA-----SB28---CB  11GLCBAG201311001   16test for database filename save no6            -226.13 20130528          ----------kentest                         
+20133 AASRGAA-----SB28---CB  11GLCBAG201311001   17test for database filename save no6           10401.51 20130528          OBERBAUER kentest                         
+20133 AASRGAA-----SB28---CB  11GLCBAG201311001   18test for database filename save no6            1904.95 20130528          VAN E     kentest                         
+20133 AASRGAA-----SB28---CB  11GLCBAG201311001   19test for database filename save no6           10730.25 20130528          VANEENENN kentest                         
+20133 AASRGAA-----SUB6---CB  11GLCBAG201311001   20test for database filename save no6          -14099.09 20130528          ----------kentest                         
+20133 AASRGAA-----SUB6---CB  11GLCBAG201311001   21test for database filename save no6            3151.66 20130528          OBERBAUER kentest                         
+20133 AASRGAA-----SUB6---CB  11GLCBAG201311001   22test for database filename save no6             841.99 20130528          VAN E     kentest                         
+20133 AASRGAA-----SUB6---CB  11GLCBAG201311001   23test for database filename save no6            3251.27 20130528          VANEENENN kentest                         
+20133 ABAIGAA-----SB28---CB  11GLCBAG201311001   24test for database filename save no6             875.41 20130528          ----------kentest                         
+20133 ABAIGAA-----SUB6---CB  11GLCBAG201311001   25test for database filename save no6             386.93 20130528          ----------kentest                         
+20133 ABAITMP-----SUB6---CB  11GLCBAG201311001   26test for database filename save no6             665.43 20130528          ----------kentest                         
+20133 ABAITMPAB101SUB6---CB  11GLCBAG201311001   27test for database filename save no6            4955.00 20130528          ----------kentest                         
+20133 ABAITMPABT49SUB6---CB  11GLCBAG201311001   28test for database filename save no6             -29.13 20130528          ----------kentest                         
+20133 ABARGAA-----SB28---CB  11GLCBAG201311001   29test for database filename save no6            2071.04 20130528          ----------kentest                         
+20133 ABARGAA-----SUB6---CB  11GLCBAG201311001   30test for database filename save no6          -24640.78 20130528          ----------kentest                         
+20133 ABARGAACOMPLSUB6---CB  11GLCBAG201311001   31test for database filename save no6             -10.59 20130528          ----------kentest                         
+20133 AC1IGAA-----SB28---CB  11GLCBAG201311001   32test for database filename save no6            -183.16 20130528          ----------kentest                         
+20133 AC1IGAA-----SB28---CB  11GLCBAG201311001   33test for database filename save no6            -287.36 20130528          FCCAER    kentest                         
+20133 AC1IGAA-----SB28---CB  11GLCBAG201311001   34test for database filename save no6            -237.28 20130528          FCCCIS    kentest                         
+20133 AC1IGAA-----SB28---CB  11GLCBAG201311001   35test for database filename save no6             586.39 20130528          FCCETH    kentest                         
+20133 AC1IGAA-----SB28---CB  11GLCBAG201311001   36test for database filename save no6            -122.76 20130528          FCCEXV    kentest                         
+20133 AC1IGAA-----SB28---CB  11GLCBAG201311001   37test for database filename save no6             -38.02 20130528          FCCJAV    kentest                         
+20133 AC1IGAA-----SB28---CB  11GLCBAG201311001   38test for database filename save no6              27.32 20130528          FCCJXF    kentest                         
+20133 AC1IGAA-----SB28---CB  11GLCBAG201311001   39test for database filename save no6               9.18 20130528          FCCMDJ    kentest                         
+20133 AC1IGAA-----SB28---CB  11GLCBAG201311001   40test for database filename save no6             -86.02 20130528          FCCRJO    kentest                         
+20133 AC1IGAA-----SUB6---CB  11GLCBAG201311001   41test for database filename save no6           -1510.94 20130528          ----------kentest                         
+20133 AC1IGAA-----SUB6---CB  11GLCBAG201311001   42test for database filename save no6           -1843.40 20130528          FCCAER    kentest                         
+20133 AC1IGAA-----SUB6---CB  11GLCBAG201311001   43test for database filename save no6           -1522.10 20130528          FCCCIS    kentest                         
+20133 AC1IGAA-----SUB6---CB  11GLCBAG201311001   44test for database filename save no6           -1010.95 20130528          FCCETH    kentest                         
+20133 AC1IGAA-----SUB6---CB  11GLCBAG201311001   45test for database filename save no6           -1652.90 20130528          FCCEXV    kentest                         
+20133 AC1IGAA-----SUB6---CB  11GLCBAG201311001   46test for database filename save no6           -1697.10 20130528          FCCJAV    kentest                         
+20133 AC1IGAA-----SUB6---CB  11GLCBAG201311001   47test for database filename save no6           -1368.40 20130528          FCCJXF    kentest                         
+20133 AC1IGAA-----SUB6---CB  11GLCBAG201311001   48test for database filename save no6           -1580.06 20130528          FCCMDJ    kentest                         
+20133 AC1IGAA-----SUB6---CB  11GLCBAG201311001   49test for database filename save no6            -671.67 20130528          FCCRJO    kentest                         
+20133 AC1RGAA-----SB28---CB  11GLCBAG201311001   50test for database filename save no6             -41.34 20130528          ----------kentest                         
+20133 AC1RGAA-----SB28---CB  11GLCBAG201311001   51test for database filename save no6            -190.84 20130528          FCCAZI    kentest                         
+20133 AC1RGAA-----SB28---CB  11GLCBAG201311001   52test for database filename save no6             150.38 20130528          FCCBAR    kentest                         
+20133 AC1RGAA-----SB28---CB  11GLCBAG201311001   53test for database filename save no6             385.06 20130528          FCCMLR    kentest                         
+20133 AC1RGAA-----SB28---CB  11GLCBAG201311001   54test for database filename save no6            1205.51 20130528          FCCSAW    kentest                         
+20133 AC1RGAA-----SB28---CB  11GLCBAG201311001   55test for database filename save no6              30.72 20130528          FCCSMP    kentest                         
+20133 AC1RGAA-----SB28---CB  11GLCBAG201311001   56test for database filename save no6             284.66 20130528          FCCVMO    kentest                         
+20133 AC1RGAA-----SUB6---CB  11GLCBAG201311001   57test for database filename save no6           -1845.67 20130528          ----------kentest                         
+20133 AC1RGAA-----SUB6---CB  11GLCBAG201311001   58test for database filename save no6           -1860.12 20130528          FCCAZI    kentest                         
+20133 AC1RGAA-----SUB6---CB  11GLCBAG201311001   59test for database filename save no6            -826.92 20130528          FCCBAR    kentest                         
+20133 AC1RGAA-----SUB6---CB  11GLCBAG201311001   60test for database filename save no6           -1450.69 20130528          FCCMLR    kentest                         
+20133 AC1RGAA-----SUB6---CB  11GLCBAG201311001   61test for database filename save no6           -1380.84 20130528          FCCSAW    kentest                         
+20133 AC1RGAA-----SUB6---CB  11GLCBAG201311001   62test for database filename save no6           -1859.09 20130528          FCCSMP    kentest                         
+20133 AC1RGAA-----SUB6---CB  11GLCBAG201311001   63test for database filename save no6           -1529.75 20130528          FCCVMO    kentest                         
+20133 AC2IGAAITSTFSB28---CB  11GLCBAG201311001   64test for database filename save no6            -126.92 20130528          250PARSONSkentest                         
+20133 AC2IGAAITSTFSB28---CB  11GLCBAG201311001   65test for database filename save no6            -156.52 20130528          250RIVERA kentest                         
+20133 AC2IGAAITSTFSUB6---CB  11GLCBAG201311001   66test for database filename save no6            -991.02 20130528          250PARSONSkentest                         
+20133 AC2IGAAITSTFSUB6---CB  11GLCBAG201311001   67test for database filename save no6           -1004.10 20130528          250RIVERA kentest                         
+20133 AC2IGAAOFSTFSB28---CB  11GLCBAG201311001   68test for database filename save no6           -1073.75 20130528          ----------kentest                         
+20133 AC2IGAAOFSTFSB28---CB  11GLCBAG201311001   69test for database filename save no6            1229.60 20130528          250BALOGH kentest                         
+20133 AC2IGAAOFSTFSB28---CB  11GLCBAG201311001   70test for database filename save no6            -319.93 20130528          250EDGAR  kentest                         
+20133 AC2IGAAOFSTFSB28---CB  11GLCBAG201311001   71test for database filename save no6             391.24 20130528          250GARCIA kentest                         
+20133 AC2IGAAOFSTFSB28---CB  11GLCBAG201311001   72test for database filename save no6             -45.98 20130528          250GOMEZ  kentest                         
+20133 AC2IGAAOFSTFSB28---CB  11GLCBAG201311001   73test for database filename save no6             231.69 20130528          250ISAAC  kentest                         
+20133 AC2IGAAOFSTFSB28---CB  11GLCBAG201311001   74test for database filename save no6             588.82 20130528          250LEWIS  kentest                         
+20133 AC2IGAAOFSTFSB28---CB  11GLCBAG201311001   75test for database filename save no6            -286.83 20130528          250MATT   kentest                         
+20133 AC2IGAAOFSTFSB28---CB  11GLCBAG201311001   76test for database filename save no6             -61.50 20130528          250TORRES kentest                         
+20133 AC2IGAAOFSTFSB28---CB  11GLCBAG201311001   77test for database filename save no6            -108.54 20130528          AWFCSJG   kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  11GLCBAG201311001   78test for database filename save no6            4159.97 20130528          ----------kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  11GLCBAG201311001   79test for database filename save no6           -2943.01 20130528          250BALOGH kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  11GLCBAG201311001   80test for database filename save no6           -2638.83 20130528          250EDGAR  kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  11GLCBAG201311001   81test for database filename save no6            -804.77 20130528          250GARCIA kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  11GLCBAG201311001   82test for database filename save no6            -294.97 20130528          250GOMEZ  kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  11GLCBAG201311001   83test for database filename save no6            -788.16 20130528          250ISAAC  kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  11GLCBAG201311001   84test for database filename save no6           -1218.51 20130528          250LEWIS  kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  11GLCBAG201311001   85test for database filename save no6           -2394.83 20130528          250MATT   kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  11GLCBAG201311001   86test for database filename save no6           -1413.91 20130528          250TORRES kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  11GLCBAG201311001   87test for database filename save no6            -732.81 20130528          AWFCSJG   kentest                         
+20133 AC2RGAAITSTFSB28---CB  11GLCBAG201311001   88test for database filename save no6             286.20 20130528          250BOOTON kentest                         
+20133 AC2RGAAITSTFSB28---CB  11GLCBAG201311001   89test for database filename save no6            -241.82 20130528          250CHRUDINkentest                         
+20133 AC2RGAAITSTFSB28---CB  11GLCBAG201311001   90test for database filename save no6            -252.96 20130528          250JIMENEZkentest                         
+20133 AC2RGAAITSTFSB28---CB  11GLCBAG201311001   91test for database filename save no6            1520.32 20130528          250MASSA  kentest                         
+20133 AC2RGAAITSTFSB28---CB  11GLCBAG201311001   92test for database filename save no6            -126.92 20130528          250PARSONSkentest                         
+20133 AC2RGAAITSTFSB28---CB  11GLCBAG201311001   93test for database filename save no6            2597.78 20130528          250RIVERA kentest                         
+20133 AC2RGAAITSTFSB28---CB  11GLCBAG201311001   94test for database filename save no6             616.38 20130528          AETXSSV   kentest                         
+20133 AC2RGAAITSTFSUB6---CB  11GLCBAG201311001   95test for database filename save no6            2234.83 20130528          250BOOTON kentest                         
+20133 AC2RGAAITSTFSUB6---CB  11GLCBAG201311001   96test for database filename save no6           -1888.32 20130528          250CHRUDINkentest                         
+20133 AC2RGAAITSTFSUB6---CB  11GLCBAG201311001   97test for database filename save no6           -1975.28 20130528          250JIMENEZkentest                         
+20133 AC2RGAAITSTFSUB6---CB  11GLCBAG201311001   98test for database filename save no6           11208.04 20130528          250MASSA  kentest                         
+20133 AC2RGAAITSTFSUB6---CB  11GLCBAG201311001   99test for database filename save no6            -991.02 20130528          250PARSONSkentest                         
+20133 AC2RGAAITSTFSUB6---CB  11GLCBAG201311001  100test for database filename save no6           16664.66 20130528          250RIVERA kentest                         
+20133 AC2RGAAITSTFSUB6---CB  11GLCBAG201311001  101test for database filename save no6           -1042.11 20130528          AETXSSV   kentest                         
+20133 AC2RGAAOFSTFSB28---CB  11GLCBAG201311001  102test for database filename save no6              25.09 20130528          250CLARK  kentest                         
+20133 AC2RGAAOFSTFSB28---CB  11GLCBAG201311001  103test for database filename save no6             644.74 20130528          250GOMEZ  kentest                         
+20133 AC2RGAAOFSTFSB28---CB  11GLCBAG201311001  104test for database filename save no6              61.68 20130528          250WALLACEkentest                         
+20133 AC2RGAAOFSTFSB28---CB  11GLCBAG201311001  105test for database filename save no6            -205.34 20130528          AETXWLN   kentest                         
+20133 AC2RGAAOFSTFSB28---CB  11GLCBAG201311001  106test for database filename save no6            -108.54 20130528          AWFCSJG   kentest                         
+20133 AC2RGAAOFSTFSUB6---CB  11GLCBAG201311001  107test for database filename save no6            -661.18 20130528          250CLARK  kentest                         
+20133 AC2RGAAOFSTFSUB6---CB  11GLCBAG201311001  108test for database filename save no6            4135.88 20130528          250GOMEZ  kentest                         
+20133 AC2RGAAOFSTFSUB6---CB  11GLCBAG201311001  109test for database filename save no6           -1058.70 20130528          250WALLACEkentest                         
+20133 AC2RGAAOFSTFSUB6---CB  11GLCBAG201311001  110test for database filename save no6           -1603.46 20130528          AETXWLN   kentest                         
+20133 AC2RGAAOFSTFSUB6---CB  11GLCBAG201311001  111test for database filename save no6            -732.81 20130528          AWFCSJG   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  112test for database filename save no6             -86.78 20130528          BEBBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  113test for database filename save no6             -68.26 20130528          BLLBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  114test for database filename save no6             -56.91 20130528          EDDBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  115test for database filename save no6             -38.24 20130528          GLTBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  116test for database filename save no6              69.44 20130528          JADBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  117test for database filename save no6             -69.92 20130528          JCSBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  118test for database filename save no6            -136.18 20130528          JEBBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  119test for database filename save no6            -123.97 20130528          JKPBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  120test for database filename save no6              31.91 20130528          JLABFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  121test for database filename save no6            -132.83 20130528          JLBBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  122test for database filename save no6            -102.68 20130528          KANBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  123test for database filename save no6            -118.76 20130528          LALBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  124test for database filename save no6              -8.16 20130528          LAMBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  125test for database filename save no6              29.38 20130528          LCGBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  126test for database filename save no6            -111.04 20130528          LPSBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  127test for database filename save no6              22.94 20130528          MXGBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  128test for database filename save no6             320.54 20130528          PSKBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  129test for database filename save no6             168.29 20130528          TFBFTV    kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  130test for database filename save no6             -37.74 20130528          TLCBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  131test for database filename save no6            -111.56 20130528          TMJBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  132test for database filename save no6             -16.53 20130528          TXMBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  133test for database filename save no6             -22.09 20130528          ----------kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  134test for database filename save no6            -673.55 20130528          BEBBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  135test for database filename save no6            -735.94 20130528          BLLBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  136test for database filename save no6            -554.60 20130528          EDDBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  137test for database filename save no6            -960.17 20130528          GLTBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  138test for database filename save no6            -536.63 20130528          JADBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  139test for database filename save no6            -448.58 20130528          JCSBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  140test for database filename save no6           -1063.36 20130528          JEBBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  141test for database filename save no6            -863.47 20130528          JKPBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  142test for database filename save no6            -528.46 20130528          JLABFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  143test for database filename save no6            -676.74 20130528          JLBBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  144test for database filename save no6            -801.74 20130528          KANBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  145test for database filename save no6            -670.06 20130528          LALBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  146test for database filename save no6            -251.70 20130528          LAMBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  147test for database filename save no6            -790.91 20130528          LCGBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  148test for database filename save no6            -626.44 20130528          LPSBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  149test for database filename save no6            -369.06 20130528          MXGBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  150test for database filename save no6             141.68 20130528          PSKBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  151test for database filename save no6              74.38 20130528          TFBFTV    kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  152test for database filename save no6            -493.34 20130528          TLCBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  153test for database filename save no6            -871.06 20130528          TMJBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  154test for database filename save no6            -991.60 20130528          TXMBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  155test for database filename save no6            -109.63 20130528          BEBBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  156test for database filename save no6             -68.26 20130528          BLLBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  157test for database filename save no6            -104.08 20130528          DECBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  158test for database filename save no6            -105.68 20130528          EDDBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  159test for database filename save no6             -53.65 20130528          GLTBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  160test for database filename save no6             132.25 20130528          JADBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  161test for database filename save no6            -279.70 20130528          JCSBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  162test for database filename save no6            -136.18 20130528          JEBBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  163test for database filename save no6            -123.97 20130528          JKPBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  164test for database filename save no6              59.26 20130528          JLABFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  165test for database filename save no6            -121.44 20130528          JLBBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  166test for database filename save no6            -102.68 20130528          KANBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  167test for database filename save no6            -220.56 20130528          LALBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  168test for database filename save no6              -8.17 20130528          LAMBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  169test for database filename save no6               4.04 20130528          LCGBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  170test for database filename save no6            -249.42 20130528          LCWBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  171test for database filename save no6            -166.54 20130528          LPSBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  172test for database filename save no6              45.74 20130528          MXGBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  173test for database filename save no6             595.29 20130528          PSKBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  174test for database filename save no6             400.97 20130528          TFBFTV    kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  175test for database filename save no6             -56.62 20130528          TLCBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  176test for database filename save no6            -111.56 20130528          TMJBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  177test for database filename save no6              -6.90 20130528          TXMBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  178test for database filename save no6            -239.52 20130528          VRWBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  179test for database filename save no6              -9.45 20130528          ----------kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  180test for database filename save no6            -824.82 20130528          BEBBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  181test for database filename save no6            -735.94 20130528          BLLBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  182test for database filename save no6            -530.26 20130528          DECBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  183test for database filename save no6           -1029.97 20130528          EDDBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  184test for database filename save no6           -1176.60 20130528          GLTBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  185test for database filename save no6            -995.11 20130528          JADBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  186test for database filename save no6           -1794.30 20130528          JCSBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  187test for database filename save no6           -1063.36 20130528          JEBBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  188test for database filename save no6            -863.47 20130528          JKPBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  189test for database filename save no6            -981.42 20130528          JLABFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  190test for database filename save no6            -618.70 20130528          JLBBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  191test for database filename save no6            -801.74 20130528          KANBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  192test for database filename save no6           -1244.38 20130528          LALBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  193test for database filename save no6            -477.21 20130528          LAMBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  194test for database filename save no6            -309.38 20130528          LCGBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  195test for database filename save no6           -1407.21 20130528          LCWBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  196test for database filename save no6            -939.66 20130528          LPSBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  197test for database filename save no6            -738.81 20130528          MXGBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  198test for database filename save no6             263.12 20130528          PSKBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  199test for database filename save no6             177.23 20130528          TFBFTV    kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  200test for database filename save no6            -740.01 20130528          TLCBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  201test for database filename save no6            -871.06 20130528          TMJBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  202test for database filename save no6            -423.57 20130528          TXMBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  203test for database filename save no6           -1870.32 20130528          VRWBFTV   kentest                         
+20133 AC3RGAAITEXPSUB6---CB  11GLCBAG201311001  204test for database filename save no6              -6.05 20130528          ----------kentest                         
+20133 AC4IGAA-----SB28---CB  11GLCBAG201311001  205test for database filename save no6            -151.23 20130528          ----------kentest                         
+20133 AC4IGAA-----SB28---CB  11GLCBAG201311001  206test for database filename save no6             -82.18 20130528          KXDP      kentest                         
+20133 AC4IGAA-----SB28---CB  11GLCBAG201311001  207test for database filename save no6               7.18 20130528          LJJP      kentest                         
+20133 AC4IGAA-----SB28---CB  11GLCBAG201311001  208test for database filename save no6            -408.40 20130528          SGGP      kentest                         
+20133 AC4IGAA-----SUB6---CB  11GLCBAG201311001  209test for database filename save no6            -853.25 20130528          ----------kentest                         
+20133 AC4IGAA-----SUB6---CB  11GLCBAG201311001  210test for database filename save no6           -2010.85 20130528          KXDP      kentest                         
+20133 AC4IGAA-----SUB6---CB  11GLCBAG201311001  211test for database filename save no6           -1266.95 20130528          LJJP      kentest                         
+20133 AC4IGAA-----SUB6---CB  11GLCBAG201311001  212test for database filename save no6           -2304.24 20130528          SGGP      kentest                         
+20133 AC4RGAA-----SB28---CB  11GLCBAG201311001  213test for database filename save no6            -206.98 20130528          BAMP      kentest                         
+20133 AC4RGAA-----SB28---CB  11GLCBAG201311001  214test for database filename save no6            -216.86 20130528          EGHP      kentest                         
+20133 AC4RGAA-----SB28---CB  11GLCBAG201311001  215test for database filename save no6            -209.87 20130528          ENTSANCHEZkentest                         
+20133 AC4RGAA-----SB28---CB  11GLCBAG201311001  216test for database filename save no6             -92.48 20130528          GFYP      kentest                         
+20133 AC4RGAA-----SB28---CB  11GLCBAG201311001  217test for database filename save no6            -200.64 20130528          JCDP      kentest                         
+20133 AC4RGAA-----SB28---CB  11GLCBAG201311001  218test for database filename save no6            -137.66 20130528          JMEP      kentest                         
+20133 AC4RGAA-----SB28---CB  11GLCBAG201311001  219test for database filename save no6             668.02 20130528          JMKP      kentest                         
+20133 AC4RGAA-----SB28---CB  11GLCBAG201311001  220test for database filename save no6             457.75 20130528          MTTP      kentest                         
+20133 AC4RGAA-----SB28---CB  11GLCBAG201311001  221test for database filename save no6            -327.38 20130528          WJMP      kentest                         
+20133 AC4RGAA-----SUB6---CB  11GLCBAG201311001  222test for database filename save no6             -16.86 20130528          ----------kentest                         
+20133 AC4RGAA-----SUB6---CB  11GLCBAG201311001  223test for database filename save no6           -1698.39 20130528          BAMP      kentest                         
+20133 AC4RGAA-----SUB6---CB  11GLCBAG201311001  224test for database filename save no6           -1693.42 20130528          EGHP      kentest                         
+20133 AC4RGAA-----SUB6---CB  11GLCBAG201311001  225test for database filename save no6           -2048.16 20130528          ENTSANCHEZkentest                         
+20133 AC4RGAA-----SUB6---CB  11GLCBAG201311001  226test for database filename save no6           -2084.67 20130528          GFYP      kentest                         
+20133 AC4RGAA-----SUB6---CB  11GLCBAG201311001  227test for database filename save no6           -1615.22 20130528          JCDP      kentest                         
+20133 AC4RGAA-----SUB6---CB  11GLCBAG201311001  228test for database filename save no6           -1074.91 20130528          JMEP      kentest                         
+20133 AC4RGAA-----SUB6---CB  11GLCBAG201311001  229test for database filename save no6           -1660.13 20130528          JMKP      kentest                         
+20133 AC4RGAA-----SUB6---CB  11GLCBAG201311001  230test for database filename save no6           -1310.37 20130528          MTTP      kentest                         
+20133 AC4RGAA-----SUB6---CB  11GLCBAG201311001  231test for database filename save no6           -2100.10 20130528          WJMP      kentest                         
+20133 AC5IGAA-----SB28---CB  11GLCBAG201311001  232test for database filename save no6            -158.60 20130528          ACL5DELCARkentest                         
+20133 AC5IGAA-----SB28---CB  11GLCBAG201311001  233test for database filename save no6            -103.04 20130528          ACL5SMITHRkentest                         
+20133 AC5IGAA-----SB28---CB  11GLCBAG201311001  234test for database filename save no6             -27.60 20130528          ACL5SUTTONkentest                         
+20133 AC5IGAA-----SB28---CB  11GLCBAG201311001  235test for database filename save no6             -35.08 20130528          ARERAUBACHkentest                         
+20133 AC5IGAA-----SB28---CB  11GLCBAG201311001  236test for database filename save no6            -259.06 20130528          ARES_POHL kentest                         
+20133 AC5IGAA-----SB28---CB  11GLCBAG201311001  237test for database filename save no6             -27.00 20130528          CLOPEZ    kentest                         
+20133 AC5IGAA-----SB28---CB  11GLCBAG201311001  238test for database filename save no6            -435.18 20130528          DWHITAKER kentest                         
+20133 AC5IGAA-----SB28---CB  11GLCBAG201311001  239test for database filename save no6              86.98 20130528          ESPSHONE  kentest                         
+20133 AC5IGAA-----SB28---CB  11GLCBAG201311001  240test for database filename save no6             156.36 20130528          FMCCLEERY kentest                         
+20133 AC5IGAA-----SB28---CB  11GLCBAG201311001  241test for database filename save no6            -147.52 20130528          JELLISON  kentest                         
+20133 AC5IGAA-----SB28---CB  11GLCBAG201311001  242test for database filename save no6            -205.34 20130528          RJTAYLOR  kentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  243test for database filename save no6              -9.52 20130528          ----------kentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  244test for database filename save no6           -1238.40 20130528          ACL5DELCARkentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  245test for database filename save no6           -1629.66 20130528          ACL5SMITHRkentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  246test for database filename save no6           -1232.12 20130528          ACL5SUTTONkentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  247test for database filename save no6           -1565.69 20130528          ARERAUBACHkentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  248test for database filename save no6           -1661.86 20130528          ARES_POHL kentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  249test for database filename save no6           -1205.69 20130528          CLOPEZ    kentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  250test for database filename save no6           -2217.06 20130528          DWHITAKER kentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  251test for database filename save no6           -1440.32 20130528          ESPSHONE  kentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  252test for database filename save no6           -1658.58 20130528          FMCCLEERY kentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  253test for database filename save no6           -1151.88 20130528          JELLISON  kentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  254test for database filename save no6           -1603.46 20130528          RJTAYLOR  kentest                         
+20133 AC5RGAA-----SB28---CB  11GLCBAG201311001  255test for database filename save no6             -38.02 20130528          ACL5CKEMPLkentest                         
+20133 AC5RGAA-----SB28---CB  11GLCBAG201311001  256test for database filename save no6            -130.14 20130528          ACL5KELLY kentest                         
+20133 AC5RGAA-----SB28---CB  11GLCBAG201311001  257test for database filename save no6            -191.52 20130528          LSEVILLEJAkentest                         
+20133 AC5RGAA-----SB28---CB  11GLCBAG201311001  258test for database filename save no6            -334.84 20130528          SRAGSDALE kentest                         
+20133 AC5RGAA-----SUB6---CB  11GLCBAG201311001  259test for database filename save no6              -2.21 20130528          ----------kentest                         
+20133 AC5RGAA-----SUB6---CB  11GLCBAG201311001  260test for database filename save no6           -1697.10 20130528          ACL5CKEMPLkentest                         
+20133 AC5RGAA-----SUB6---CB  11GLCBAG201311001  261test for database filename save no6           -1701.07 20130528          ACL5KELLY kentest                         
+20133 AC5RGAA-----SUB6---CB  11GLCBAG201311001  262test for database filename save no6           -1495.52 20130528          LSEVILLEJAkentest                         
+20133 AC5RGAA-----SUB6---CB  11GLCBAG201311001  263test for database filename save no6           -2147.96 20130528          SRAGSDALE kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  264test for database filename save no6            -218.86 20130528          ADOASB    kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  265test for database filename save no6             -25.75 20130528          ADOBJN    kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  266test for database filename save no6            -162.04 20130528          ADOCAR    kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  267test for database filename save no6            -237.70 20130528          ADOCAS    kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  268test for database filename save no6            -208.22 20130528          ADOFRR    kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  269test for database filename save no6             -92.68 20130528          ADOLAF    kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  270test for database filename save no6             -54.66 20130528          ADOMXW    kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  271test for database filename save no6             -88.88 20130528          ADOPXG    kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  272test for database filename save no6              -8.52 20130528          ADORSF    kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  273test for database filename save no6             -10.80 20130528          ADOSRS    kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  274test for database filename save no6             -59.68 20130528          ADOTMK    kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  275test for database filename save no6             -57.75 20130528          ADOYXC    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  276test for database filename save no6            -589.26 20130528          ----------kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  277test for database filename save no6           -1709.02 20130528          ADOASB    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  278test for database filename save no6            -526.72 20130528          ADOBJN    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  279test for database filename save no6           -1265.38 20130528          ADOCAR    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  280test for database filename save no6           -1856.08 20130528          ADOCAS    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  281test for database filename save no6           -1625.96 20130528          ADOFRR    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  282test for database filename save no6            -635.01 20130528          ADOLAF    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  283test for database filename save no6            -426.79 20130528          ADOMXW    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  284test for database filename save no6            -570.10 20130528          ADOPXG    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  285test for database filename save no6            -479.00 20130528          ADORSF    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  286test for database filename save no6            -607.32 20130528          ADOSRS    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  287test for database filename save no6            -160.88 20130528          ADOTMK    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  288test for database filename save no6            -620.21 20130528          ADOYXC    kentest                         
+20133 ADORGA2-----SB28---CB  11GLCBAG201311001  289test for database filename save no6             448.87 20130528          ----------kentest                         
+20133 ADORGA2-----SB28---CB  11GLCBAG201311001  290test for database filename save no6             156.49 20130528          ADOCRC    kentest                         
+20133 ADORGA2-----SB28---CB  11GLCBAG201311001  291test for database filename save no6             193.70 20130528          ADOECR    kentest                         
+20133 ADORGA2-----SB28---CB  11GLCBAG201311001  292test for database filename save no6             800.02 20130528          ADOJDS    kentest                         
+20133 ADORGA2-----SB28---CB  11GLCBAG201311001  293test for database filename save no6            -135.84 20130528          ADOLXF    kentest                         
+20133 ADORGA2-----SB28---CB  11GLCBAG201311001  294test for database filename save no6             454.02 20130528          ADORDD    kentest                         
+20133 ADORGA2-----SUB6---CB  11GLCBAG201311001  295test for database filename save no6            2679.91 20130528          ----------kentest                         
+20133 ADORGA2-----SUB6---CB  11GLCBAG201311001  296test for database filename save no6            1516.15 20130528          ADOCRC    kentest                         
+20133 ADORGA2-----SUB6---CB  11GLCBAG201311001  297test for database filename save no6            1512.51 20130528          ADOECR    kentest                         
+20133 ADORGA2-----SUB6---CB  11GLCBAG201311001  298test for database filename save no6            4076.00 20130528          ADOJDS    kentest                         
+20133 ADORGA2-----SUB6---CB  11GLCBAG201311001  299test for database filename save no6           -1406.54 20130528          ADOLXF    kentest                         
+20133 ADORGA2-----SUB6---CB  11GLCBAG201311001  300test for database filename save no6            3545.04 20130528          ADORDD    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  301test for database filename save no6            -457.30 20130528          ADOACG    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  302test for database filename save no6             -33.04 20130528          ADOBJN    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  303test for database filename save no6              27.22 20130528          ADOJXS    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  304test for database filename save no6            -171.08 20130528          ADOLAF    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  305test for database filename save no6             -54.66 20130528          ADOMXW    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  306test for database filename save no6             509.69 20130528          ADOPGA    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  307test for database filename save no6            -162.94 20130528          ADOPXG    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  308test for database filename save no6             -17.48 20130528          ADORSF    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  309test for database filename save no6             -23.28 20130528          ADOSRS    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  310test for database filename save no6            -240.90 20130528          ADOTEP    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  311test for database filename save no6            -109.42 20130528          ADOTMK    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  312test for database filename save no6            -147.08 20130528          ADOUXR    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  313test for database filename save no6            -115.22 20130528          ADOYXC    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  314test for database filename save no6           -1597.11 20130528          ADOACG    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  315test for database filename save no6            -959.39 20130528          ADOBJN    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  316test for database filename save no6             212.52 20130528          ADOJXS    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  317test for database filename save no6           -1164.69 20130528          ADOLAF    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  318test for database filename save no6            -426.79 20130528          ADOMXW    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  319test for database filename save no6            3979.64 20130528          ADOPGA    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  320test for database filename save no6           -1045.20 20130528          ADOPXG    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  321test for database filename save no6            -879.01 20130528          ADORSF    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  322test for database filename save no6            -914.10 20130528          ADOSRS    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  323test for database filename save no6           -1545.36 20130528          ADOTEP    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  324test for database filename save no6            -294.96 20130528          ADOTMK    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  325test for database filename save no6           -1148.44 20130528          ADOUXR    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  326test for database filename save no6           -1141.19 20130528          ADOYXC    kentest                         
+20133 AECIGAA-----SB28---CB  11GLCBAG201311001  327test for database filename save no6            -287.36 20130528          ARES_CLAR kentest                         
+20133 AECIGAA-----SB28---CB  11GLCBAG201311001  328test for database filename save no6             -93.60 20130528          ARES_GOET kentest                         
+20133 AECIGAA-----SB28---CB  11GLCBAG201311001  329test for database filename save no6            -287.36 20130528          ARES_HANS kentest                         
+20133 AECIGAA-----SB28---CB  11GLCBAG201311001  330test for database filename save no6            -363.88 20130528          SHANNON   kentest                         
+20133 AECIGAA-----SUB6---CB  11GLCBAG201311001  331test for database filename save no6           -1843.40 20130528          ARES_CLAR kentest                         
+20133 AECIGAA-----SUB6---CB  11GLCBAG201311001  332test for database filename save no6           -1880.09 20130528          ARES_GOET kentest                         
+20133 AECIGAA-----SUB6---CB  11GLCBAG201311001  333test for database filename save no6           -1843.40 20130528          ARES_HANS kentest                         
+20133 AECIGAA-----SUB6---CB  11GLCBAG201311001  334test for database filename save no6           -1853.88 20130528          SHANNON   kentest                         
+20133 AECITMP-----SUB6---CB  11GLCBAG201311001  335test for database filename save no6             -70.36 20130528          ----------kentest                         
+20133 AECRG14-----SUB6---CB  11GLCBAG201311001  336test for database filename save no6           10180.96 20130528          ----------kentest                         
+20133 AECRGAA-----SUB6---CB  11GLCBAG201311001  337test for database filename save no6             990.81 20130528          AREF_RJS3 kentest                         
+20133 AENITMPABI50SUB6---CB  11GLCBAG201311001  338test for database filename save no6            8706.93 20130528          ----------kentest                         
+20133 AENITMPEN001SUB6---CB  11GLCBAG201311001  339test for database filename save no6            7399.28 20130528          ----------kentest                         
+20133 AENITMPEN010SUB6---CB  11GLCBAG201311001  340test for database filename save no6            3118.61 20130528          ----------kentest                         
+20133 AENITMPEN104SUB6---CB  11GLCBAG201311001  341test for database filename save no6            4827.61 20130528          ----------kentest                         
+20133 AENITMPEN156SUB6---CB  11GLCBAG201311001  342test for database filename save no6             829.30 20130528          ----------kentest                         
+20133 AENITMPNEM10SUB6---CB  11GLCBAG201311001  343test for database filename save no6            1470.13 20130528          ----------kentest                         
+20133 AESCEPB-----SB28---CB  11GLCBAG201311001  344test for database filename save no6              31.40 20130528          HCDBARAHONkentest                         
+20133 AESCEPB-----SUB6---CB  11GLCBAG201311001  345test for database filename save no6             245.22 20130528          HCDBARAHONkentest                         
+20133 AESIG01-----SUB6---CB  11GLCBAG201311001  346test for database filename save no6           10463.40 20130528          ----------kentest                         
+20133 AESIGAA-----SB28---CB  11GLCBAG201311001  347test for database filename save no6             245.18 20130528          CARRIERE  kentest                         
+20133 AESIGAA-----SB28---CB  11GLCBAG201311001  348test for database filename save no6            -220.70 20130528          DESMWHALEYkentest                         
+20133 AESIGAA-----SB28---CB  11GLCBAG201311001  349test for database filename save no6             173.76 20130528          HHATFIELD kentest                         
+20133 AESIGAA-----SUB6---CB  11GLCBAG201311001  350test for database filename save no6            -461.99 20130528          CARRIERE  kentest                         
+20133 AESIGAA-----SUB6---CB  11GLCBAG201311001  351test for database filename save no6           -1723.40 20130528          DESMWHALEYkentest                         
+20133 AESIGAA-----SUB6---CB  11GLCBAG201311001  352test for database filename save no6           -1843.24 20130528          HHATFIELD kentest                         
+20133 AESITMP-----SUB6---CB  11GLCBAG201311001  353test for database filename save no6            5354.40 20130528          ----------kentest                         
+20133 AESRG30-----SUB6---CB  11GLCBAG201311001  354test for database filename save no6           10257.94 20130528          ----------kentest                         
+20133 AESRG35-----SUB6---CB  11GLCBAG201311001  355test for database filename save no6            6000.90 20130528          ----------kentest                         
+20133 AESRG39-----SB28---CB  11GLCBAG201311001  356test for database filename save no6             352.02 20130528          ----------kentest                         
+20133 AESRG39-----SUB6---CB  11GLCBAG201311001  357test for database filename save no6            1845.26 20130528          ----------kentest                         
+20133 AESRG50-----SUB6---CB  11GLCBAG201311001  358test for database filename save no6           -1295.60 20130528          ----------kentest                         
+20133 AESRGAA-----SB28---CB  11GLCBAG201311001  359test for database filename save no6             122.58 20130528          CARRIERE  kentest                         
+20133 AESRGAA-----SB28---CB  11GLCBAG201311001  360test for database filename save no6             -97.96 20130528          ESPPOLOSKEkentest                         
+20133 AESRGAA-----SUB6---CB  11GLCBAG201311001  361test for database filename save no6            -231.01 20130528          CARRIERE  kentest                         
+20133 AESRGAA-----SUB6---CB  11GLCBAG201311001  362test for database filename save no6            -765.00 20130528          ESPPOLOSKEkentest                         
+20133 AETIGAA-----SB28---CB  11GLCBAG201311001  363test for database filename save no6             185.17 20130528          AETXPIO   kentest                         
+20133 AETIGAA-----SUB6---CB  11GLCBAG201311001  364test for database filename save no6              56.11 20130528          AETXPIO   kentest                         
+20133 AETIGAAAASAOSB28---CB  11GLCBAG201311001  365test for database filename save no6            -293.10 20130528          AETXSGK   kentest                         
+20133 AETIGAAAASAOSUB6---CB  11GLCBAG201311001  366test for database filename save no6           -1980.29 20130528          AETXSGK   kentest                         
+20133 AETITMPET138SUB6---CB  11GLCBAG201311001  367test for database filename save no6            2536.46 20130528          ----------kentest                         
+20133 AETITMPT102ASUB6---CB  11GLCBAG201311001  368test for database filename save no6            7609.41 20130528          ----------kentest                         
+20133 AETITMPT102BSUB6---CB  11GLCBAG201311001  369test for database filename save no6            2438.31 20130528          ----------kentest                         
+20133 AETITMPT103BSUB6---CB  11GLCBAG201311001  370test for database filename save no6            2468.11 20130528          ----------kentest                         
+20133 AETITMPT220LSUB6---CB  11GLCBAG201311001  371test for database filename save no6            4767.55 20130528          ----------kentest                         
+20133 AETRGAA-----SB28---CB  11GLCBAG201311001  372test for database filename save no6             226.32 20130528          AETXPIO   kentest                         
+20133 AETRGAA-----SUB6---CB  11GLCBAG201311001  373test for database filename save no6              68.58 20130528          AETXPIO   kentest                         
+20133 AETRGAAAAITSSB28---CB  11GLCBAG201311001  374test for database filename save no6             -26.40 20130528          AETXSSV   kentest                         
+20133 AETRGAAAAITSSUB6---CB  11GLCBAG201311001  375test for database filename save no6            -169.40 20130528          AETXSSV   kentest                         
+20133 AETRGAAAGCHMSB28---CB  11GLCBAG201311001  376test for database filename save no6             -44.48 20130528          AETXGJE   kentest                         
+20133 AETRGAAAGCHMSUB6---CB  11GLCBAG201311001  377test for database filename save no6            -433.54 20130528          AETXGJE   kentest                         
+20133 AETRGAAPHTOXSB28---CB  11GLCBAG201311001  378test for database filename save no6              -4.69 20130528          AETXGJE   kentest                         
+20133 AETRGAAPHTOXSUB6---CB  11GLCBAG201311001  379test for database filename save no6           -1243.73 20130528          AETXGJE   kentest                         
+20133 AFSITMP-----SUB6---CB  11GLCBAG201311001  380test for database filename save no6           21049.79 20130528          ----------kentest                         
+20133 AHCRG07-----SUB6---CB  11GLCBAG201311001  381test for database filename save no6            5128.97 20130528          ----------kentest                         
+20133 AHCRG08-----SUB6---CB  11GLCBAG201311001  382test for database filename save no6            7363.16 20130528          ----------kentest                         
+20133 AHCRG12-----SUB6---CB  11GLCBAG201311001  383test for database filename save no6            1039.52 20130528          ----------kentest                         
+20133 AHCRG28-----SUB6---CB  11GLCBAG201311001  384test for database filename save no6              -0.99 20130528          ----------kentest                         
+20133 AHCRG34-----SUB6---CB  11GLCBAG201311001  385test for database filename save no6            5128.97 20130528          ----------kentest                         
+20133 AHCRG55-----SUB6---CB  11GLCBAG201311001  386test for database filename save no6              -0.83 20130528          ----------kentest                         
+20133 AHEIGAACRDSBSB28---CB  11GLCBAG201311001  387test for database filename save no6             -35.61 20130528          CARMSTRONGkentest                         
+20133 AHEIGAACRDSBSB28---CB  11GLCBAG201311001  388test for database filename save no6             140.44 20130528          HCDERDMAN kentest                         
+20133 AHEIGAACRDSBSB28---CB  11GLCBAG201311001  389test for database filename save no6             -68.05 20130528          HCDMCDONELkentest                         
+20133 AHEIGAACRDSBSB28---CB  11GLCBAG201311001  390test for database filename save no6             -99.34 20130528          HETRANHUY kentest                         
+20133 AHEIGAACRDSBSB28---CB  11GLCBAG201311001  391test for database filename save no6             -73.58 20130528          RCROTTY   kentest                         
+20133 AHEIGAACRDSBSUB6---CB  11GLCBAG201311001  392test for database filename save no6              -4.20 20130528          ----------kentest                         
+20133 AHEIGAACRDSBSUB6---CB  11GLCBAG201311001  393test for database filename save no6            -695.59 20130528          CARMSTRONGkentest                         
+20133 AHEIGAACRDSBSUB6---CB  11GLCBAG201311001  394test for database filename save no6            -692.65 20130528          HCDERDMAN kentest                         
+20133 AHEIGAACRDSBSUB6---CB  11GLCBAG201311001  395test for database filename save no6            -383.93 20130528          HCDMCDONELkentest                         
+20133 AHEIGAACRDSBSUB6---CB  11GLCBAG201311001  396test for database filename save no6            -775.72 20130528          HETRANHUY kentest                         
+20133 AHEIGAACRDSBSUB6---CB  11GLCBAG201311001  397test for database filename save no6            -574.52 20130528          RCROTTY   kentest                         
+20133 AHEIGAAHDESBSB28---CB  11GLCBAG201311001  398test for database filename save no6             224.00 20130528          HCDERDMAN kentest                         
+20133 AHEIGAAHDESBSB28---CB  11GLCBAG201311001  399test for database filename save no6             -64.76 20130528          HCDLOGANJOkentest                         
+20133 AHEIGAAHDESBSB28---CB  11GLCBAG201311001  400test for database filename save no6            -101.41 20130528          HCDMCDONELkentest                         
+20133 AHEIGAAHDESBSB28---CB  11GLCBAG201311001  401test for database filename save no6             -49.68 20130528          HETRANHUY kentest                         
+20133 AHEIGAAHDESBSB28---CB  11GLCBAG201311001  402test for database filename save no6            -167.32 20130528          JGOUINE   kentest                         
+20133 AHEIGAAHDESBSB28---CB  11GLCBAG201311001  403test for database filename save no6            -110.36 20130528          RCROTTY   kentest                         
+20133 AHEIGAAHDESBSUB6---CB  11GLCBAG201311001  404test for database filename save no6             -11.81 20130528          ----------kentest                         
+20133 AHEIGAAHDESBSUB6---CB  11GLCBAG201311001  405test for database filename save no6           -1033.08 20130528          HCDERDMAN kentest                         
+20133 AHEIGAAHDESBSUB6---CB  11GLCBAG201311001  406test for database filename save no6           -1024.36 20130528          HCDLOGANJOkentest                         
+20133 AHEIGAAHDESBSUB6---CB  11GLCBAG201311001  407test for database filename save no6            -572.13 20130528          HCDMCDONELkentest                         
+20133 AHEIGAAHDESBSUB6---CB  11GLCBAG201311001  408test for database filename save no6            -387.86 20130528          HETRANHUY kentest                         
+20133 AHEIGAAHDESBSUB6---CB  11GLCBAG201311001  409test for database filename save no6           -1306.60 20130528          JGOUINE   kentest                         
+20133 AHEIGAAHDESBSUB6---CB  11GLCBAG201311001  410test for database filename save no6            -861.78 20130528          RCROTTY   kentest                         
+20133 AHEIGAALDASBSB28---CB  11GLCBAG201311001  411test for database filename save no6             -64.49 20130528          CARMSTRONGkentest                         
+20133 AHEIGAALDASBSB28---CB  11GLCBAG201311001  412test for database filename save no6             -36.40 20130528          CHENEY    kentest                         
+20133 AHEIGAALDASBSB28---CB  11GLCBAG201311001  413test for database filename save no6             -27.60 20130528          LDABARKER kentest                         
+20133 AHEIGAALDASBSUB6---CB  11GLCBAG201311001  414test for database filename save no6              -6.01 20130528          ----------kentest                         
+20133 AHEIGAALDASBSUB6---CB  11GLCBAG201311001  415test for database filename save no6           -1192.33 20130528          CARMSTRONGkentest                         
+20133 AHEIGAALDASBSUB6---CB  11GLCBAG201311001  416test for database filename save no6           -1624.98 20130528          CHENEY    kentest                         
+20133 AHEIGAALDASBSUB6---CB  11GLCBAG201311001  417test for database filename save no6           -1232.12 20130528          LDABARKER kentest                         
+20133 AHEITMPCRDSBSUB6---CB  11GLCBAG201311001  418test for database filename save no6            1692.36 20130528          ----------kentest                         
+20133 AHEITMPHDESBSUB6---CB  11GLCBAG201311001  419test for database filename save no6           10952.72 20130528          ----------kentest                         
+20133 AHEITMPLDASBSUB6---CB  11GLCBAG201311001  420test for database filename save no6            1093.65 20130528          ----------kentest                         
+20133 AHERFAV-----SUB6---CB  11GLCBAG201311001  421test for database filename save no6              -3.98 20130528          ----------kentest                         
+20133 AHERGAACRDSBSB28---CB  11GLCBAG201311001  422test for database filename save no6             174.49 20130528          HCEHOANG  kentest                         
+20133 AHERGAACRDSBSUB6---CB  11GLCBAG201311001  423test for database filename save no6            -589.06 20130528          HCEHOANG  kentest                         
+20133 AHERGAAHDESBSB28---CB  11GLCBAG201311001  424test for database filename save no6             258.82 20130528          HCEHOANG  kentest                         
+20133 AHERGAAHDESBSB28---CB  11GLCBAG201311001  425test for database filename save no6             -99.34 20130528          HETRANHUY kentest                         
+20133 AHERGAAHDESBSUB6---CB  11GLCBAG201311001  426test for database filename save no6            -884.89 20130528          HCEHOANG  kentest                         
+20133 AHERGAAHDESBSUB6---CB  11GLCBAG201311001  427test for database filename save no6            -775.72 20130528          HETRANHUY kentest                         
+20133 AHERGAALDASBSB28---CB  11GLCBAG201311001  428test for database filename save no6            -278.20 20130528          WILCOX    kentest                         
+20133 AHERGAALDASBSUB6---CB  11GLCBAG201311001  429test for database filename save no6           -1784.61 20130528          WILCOX    kentest                         
+20133 AHHKT01-----SUB6---CB  11GLCBAG201311001  430test for database filename save no6            1457.00 20130528          ----------kentest                         
+20133 AHHRG20-----SUB6---CB  11GLCBAG201311001  431test for database filename save no6            5128.97 20130528          ----------kentest                         
+20133 AHHRG52-----SUB6---CB  11GLCBAG201311001  432test for database filename save no6            1710.00 20130528          ----------kentest                         
+20133 AHHRG54-----SUB6---CB  11GLCBAG201311001  433test for database filename save no6           11967.94 20130528          ----------kentest                         
+20133 AIARGAA-----SB28---CB  11GLCBAG201311001  434test for database filename save no6            -158.12 20130528          ----------kentest                         
+20133 AIARGAA-----SUB6---CB  11GLCBAG201311001  435test for database filename save no6           -1234.84 20130528          ----------kentest                         
+20133 ALAPEOC-----SUB6---CB  11GLCBAG201311001  436test for database filename save no6            3601.52 20130528          ----------kentest                         
+20133 ALARCNR-----SUB6---CB  11GLCBAG201311001  437test for database filename save no6            2438.50 20130528          ----------kentest                         
+20133 ALARSGR-----SUB6---CB  11GLCBAG201311001  438test for database filename save no6            5128.97 20130528          ----------kentest                         
+20133 ALEITMPES131SUB6---CB  11GLCBAG201311001  439test for database filename save no6            2021.88 20130528          ----------kentest                         
+20133 ALEITMPES141SUB6---CB  11GLCBAG201311001  440test for database filename save no6            1709.71 20130528          ----------kentest                         
+20133 ALEITMPSAS05SUB6---CB  11GLCBAG201311001  441test for database filename save no6             845.66 20130528          ----------kentest                         
+20133 ALHITMP-----SUB6---CB  11GLCBAG201311001  442test for database filename save no6              25.50 20130528          ----------kentest                         
+20133 ALHITMPHS010SUB6---CB  11GLCBAG201311001  443test for database filename save no6             -25.50 20130528          ----------kentest                         
+20133 ALHITMPHS134SUB6---CB  11GLCBAG201311001  444test for database filename save no6             812.77 20130528          ----------kentest                         
+20133 ALHITMPHS144SUB6---CB  11GLCBAG201311001  445test for database filename save no6            2117.04 20130528          ----------kentest                         
+20133 ALHITMPHS146SUB6---CB  11GLCBAG201311001  446test for database filename save no6            2117.19 20130528          ----------kentest                         
+20133 ALSITMPSS010SUB6---CB  11GLCBAG201311001  447test for database filename save no6            2677.20 20130528          ----------kentest                         
+20133 ALSITMPSS107SUB6---CB  11GLCBAG201311001  448test for database filename save no6            2677.20 20130528          ----------kentest                         
+20133 ALSITMPSS109SUB6---CB  11GLCBAG201311001  449test for database filename save no6             845.66 20130528          ----------kentest                         
+20133 ALSITMPSS118SUB6---CB  11GLCBAG201311001  450test for database filename save no6             911.84 20130528          ----------kentest                         
+20133 ALSITMPSS120SUB6---CB  11GLCBAG201311001  451test for database filename save no6             878.36 20130528          ----------kentest                         
+20133 ALSITMPSS202SUB6---CB  11GLCBAG201311001  452test for database filename save no6            1531.69 20130528          ----------kentest                         
+20133 ALSITMPSS219SUB6---CB  11GLCBAG201311001  453test for database filename save no6             780.16 20130528          ----------kentest                         
+20133 ALTITMPA121BSUB6---CB  11GLCBAG201311001  454test for database filename save no6             237.26 20130528          ----------kentest                         
+20133 ALTITMPA270BSUB6---CB  11GLCBAG201311001  455test for database filename save no6            1084.83 20130528          ----------kentest                         
+20133 ALTITMPAS005SUB6---CB  11GLCBAG201311001  456test for database filename save no6            1034.83 20130528          ----------kentest                         
+20133 ALTITMPAS006SUB6---CB  11GLCBAG201311001  457test for database filename save no6            3835.01 20130528          ----------kentest                         
+20133 ALTITMPAS010SUB6---CB  11GLCBAG201311001  458test for database filename save no6            2364.49 20130528          ----------kentest                         
+20133 ALTITMPAS110SUB6---CB  11GLCBAG201311001  459test for database filename save no6             892.58 20130528          ----------kentest                         
+20133 ALTITMPAS124SUB6---CB  11GLCBAG201311001  460test for database filename save no6            2364.49 20130528          ----------kentest                         
+20133 ALTITMPAS160SUB6---CB  11GLCBAG201311001  461test for database filename save no6             723.01 20130528          ----------kentest                         
+20133 ALTRGAB-----SB28---CB  11GLCBAG201311001  462test for database filename save no6            -138.44 20130528          ----------kentest                         
+20133 ALTRGAB-----SB28---CB  11GLCBAG201311001  463test for database filename save no6            -138.44 20130528          ADOEES    kentest                         
+20133 ALTRGAB-----SB28---CB  11GLCBAG201311001  464test for database filename save no6            -225.50 20130528          ADOMMM    kentest                         
+20133 ALTRGAB-----SUB6---CB  11GLCBAG201311001  465test for database filename save no6           -1433.14 20130528          ----------kentest                         
+20133 ALTRGAB-----SUB6---CB  11GLCBAG201311001  466test for database filename save no6           -1433.14 20130528          ADOEES    kentest                         
+20133 ALTRGAB-----SUB6---CB  11GLCBAG201311001  467test for database filename save no6           -2334.56 20130528          ADOMMM    kentest                         
+20133 ALWIGAA-----SB28---CB  11GLCBAG201311001  468test for database filename save no6             -39.00 20130528          241WEXLER kentest                         
+20133 ALWIGAA-----SUB6---CB  11GLCBAG201311001  469test for database filename save no6            -131.34 20130528          241WEXLER kentest                         
+20133 ALWIGAAAASAOSB28---CB  11GLCBAG201311001  470test for database filename save no6            -199.88 20130528          250NGUYEN kentest                         
+20133 ALWIGAAAASAOSB28---CB  11GLCBAG201311001  471test for database filename save no6            -140.66 20130528          250SHULL  kentest                         
+20133 ALWIGAAAASAOSUB6---CB  11GLCBAG201311001  472test for database filename save no6           -1753.99 20130528          250NGUYEN kentest                         
+20133 ALWIGAAAASAOSUB6---CB  11GLCBAG201311001  473test for database filename save no6            -902.34 20130528          250SHULL  kentest                         
+20133 ALWIGAAAASRASB28---CB  11GLCBAG201311001  474test for database filename save no6           -2671.32 20130528          242LOUIE  kentest                         
+20133 ALWIGAAAASRASUB6---CB  11GLCBAG201311001  475test for database filename save no6              -0.01 20130528          242BERGENSkentest                         
+20133 ALWIGAAAASRASUB6---CB  11GLCBAG201311001  476test for database filename save no6           15397.07 20130528          242LOUIE  kentest                         
+20133 ALWRGAA-----SB28---CB  11GLCBAG201311001  477test for database filename save no6              39.01 20130528          ----------kentest                         
+20133 ALWRGAA-----SUB6---CB  11GLCBAG201311001  478test for database filename save no6             131.26 20130528          ----------kentest                         
+20133 ALWRGAAAAITSSB28---CB  11GLCBAG201311001  479test for database filename save no6             -95.36 20130528          AETXSSV   kentest                         
+20133 ALWRGAAAAITSSUB6---CB  11GLCBAG201311001  480test for database filename save no6            -611.78 20130528          AETXSSV   kentest                         
+20133 ALWRGAAAASRASB28---CB  11GLCBAG201311001  481test for database filename save no6           -2727.99 20130528          242LOUIE  kentest                         
+20133 ALWRGAAAASRASB28---CB  11GLCBAG201311001  482test for database filename save no6            1250.11 20130528          242MATISTAkentest                         
+20133 ALWRGAAAASRASUB6---CB  11GLCBAG201311001  483test for database filename save no6            -925.94 20130528          242LOUIE  kentest                         
+20133 ALWRGAAAASRASUB6---CB  11GLCBAG201311001  484test for database filename save no6            -714.06 20130528          242MATISTAkentest                         
+20133 AMRRGAA-----SB28---CB  11GLCBAG201311001  485test for database filename save no6           -1210.41 20130528          ----------kentest                         
+20133 AMRRGAA-----SUB6---CB  11GLCBAG201311001  486test for database filename save no6           -3132.88 20130528          ----------kentest                         
+20133 ANSFALV-----SUB6---CB  11GLCBAG201311001  487test for database filename save no6            5825.97 20130528          ----------kentest                         
+20133 ANSFAMO-----SUB6---CB  11GLCBAG201311001  488test for database filename save no6           -3399.11 20130528          ----------kentest                         
+20133 ANSFDZK-----SB28---CB  11GLCBAG201311001  489test for database filename save no6            -210.52 20130528          ----------kentest                         
+20133 ANSFDZK-----SUB6---CB  11GLCBAG201311001  490test for database filename save no6           -1658.48 20130528          ----------kentest                         
+20133 ANSFHXZ-----SUB6---CB  11GLCBAG201311001  491test for database filename save no6            1710.00 20130528          ----------kentest                         
+20133 ANSFJAM-----SUB6---CB  11GLCBAG201311001  492test for database filename save no6            8548.97 20130528          ----------kentest                         
+20133 ANSFJFR-----SB28---CB  11GLCBAG201311001  493test for database filename save no6            -215.62 20130528          ----------kentest                         
+20133 ANSFJFR-----SUB6---CB  11GLCBAG201311001  494test for database filename save no6           -1098.46 20130528          ----------kentest                         
+20133 ANSFJGF-----SUB6---CB  11GLCBAG201311001  495test for database filename save no6           18711.94 20130528          ----------kentest                         
+20133 ANSFKCK-----SUB6---CB  11GLCBAG201311001  496test for database filename save no6            2911.97 20130528          ----------kentest                         
+20133 ANSFPJB-----SB28---CB  11GLCBAG201311001  497test for database filename save no6              14.52 20130528          ----------kentest                         
+20133 ANSFPJB-----SUB6---CB  11GLCBAG201311001  498test for database filename save no6             432.31 20130528          ----------kentest                         
+20133 ANSFPJR-----SB28---CB  11GLCBAG201311001  499test for database filename save no6            -187.45 20130528          ----------kentest                         
+20133 ANSFPJR-----SUB6---CB  11GLCBAG201311001  500test for database filename save no6             246.26 20130528          ----------kentest                         
+20133 ANSFRAZ-----SB28---CB  11GLCBAG201311001  501test for database filename save no6             357.20 20130528          ----------kentest                         
+20133 ANSFRAZ-----SUB6---CB  11GLCBAG201311001  502test for database filename save no6            -612.26 20130528          ----------kentest                         
+20133 ANSFRCH-----SUB6---CB  11GLCBAG201311001  503test for database filename save no6            1710.00 20130528          ----------kentest                         
+20133 ANSFSSH-----SUB6---CB  11GLCBAG201311001  504test for database filename save no6           10257.94 20130528          ----------kentest                         
+20133 ANTGGNBGRADSSB28---CB  11GLCBAG201311001  505test for database filename save no6            -111.18 20130528          NUTGRAD   kentest                         
+20133 ANTGGNBGRADSSUB6---CB  11GLCBAG201311001  506test for database filename save no6           -1465.12 20130528          NUTGRAD   kentest                         
+20133 ANTIGAAADVISSB28---CB  11GLCBAG201311001  507test for database filename save no6            -229.82 20130528          NUTUNDR   kentest                         
+20133 ANTIGAAADVISSUB6---CB  11GLCBAG201311001  508test for database filename save no6           -1794.62 20130528          NUTUNDR   kentest                         
+20133 ANTIGAASALRYSB28---CB  11GLCBAG201311001  509test for database filename save no6              58.62 20130528          NUTKGD    kentest                         
+20133 ANTIGAASALRYSB28---CB  11GLCBAG201311001  510test for database filename save no6             905.28 20130528          NUTPIO    kentest                         
+20133 ANTIGAASALRYSUB6---CB  11GLCBAG201311001  511test for database filename save no6             381.36 20130528          NUTKGD    kentest                         
+20133 ANTIGAASALRYSUB6---CB  11GLCBAG201311001  512test for database filename save no6             274.30 20130528          NUTPIO    kentest                         
+20133 ANTITMP-----SUB6---CB  11GLCBAG201311001  513test for database filename save no6            1413.98 20130528          ----------kentest                         
+20133 ANTITMP116ALSUB6---CB  11GLCBAG201311001  514test for database filename save no6            5145.88 20130528          ----------kentest                         
+20133 ANTITMPF120LSUB6---CB  11GLCBAG201311001  515test for database filename save no6             -38.11 20130528          ----------kentest                         
+20133 ANTITMPNU010SUB6---CB  11GLCBAG201311001  516test for database filename save no6           18833.79 20130528          ----------kentest                         
+20133 ANTITMPNU011SUB6---CB  11GLCBAG201311001  517test for database filename save no6            2827.10 20130528          ----------kentest                         
+20133 ANTITMPNU105SUB6---CB  11GLCBAG201311001  518test for database filename save no6             790.70 20130528          ----------kentest                         
+20133 ANTITMPNU112SUB6---CB  11GLCBAG201311001  519test for database filename save no6            1349.46 20130528          ----------kentest                         
+20133 ANTITMPNUTAVSUB6---CB  11GLCBAG201311001  520test for database filename save no6             829.84 20130528          ----------kentest                         
+20133 ANTRGAA-----SB28---CB  11GLCBAG201311001  521test for database filename save no6            -531.30 20130528          ----------kentest                         
+20133 ANTRGAA-----SUB6---CB  11GLCBAG201311001  522test for database filename save no6           -4699.27 20130528          ----------kentest                         
+20133 ANTRGAASALRYSB28---CB  11GLCBAG201311001  523test for database filename save no6             732.69 20130528          NUTKGD    kentest                         
+20133 ANTRGAASALRYSB28---CB  11GLCBAG201311001  524test for database filename save no6             740.68 20130528          NUTPIO    kentest                         
+20133 ANTRGAASALRYSUB6---CB  11GLCBAG201311001  525test for database filename save no6            4585.20 20130528          NUTKGD    kentest                         
+20133 ANTRGAASALRYSUB6---CB  11GLCBAG201311001  526test for database filename save no6             224.43 20130528          NUTPIO    kentest                         
+20133 ANTUNDR-----SUB6---CB  11GLCBAG201311001  527test for database filename save no6              -9.07 20130528          ----------kentest                         
+20133 ANTUNDRADVISSUB6---CB  11GLCBAG201311001  528test for database filename save no6             -18.66 20130528          ----------kentest                         
+20133 APFIGAAXPSTXSB28---CB  11GLCBAG201311001  529test for database filename save no6             -35.32 20130528          MONTOYA-P kentest                         
+20133 APFIGAAXPSTXSUB6---CB  11GLCBAG201311001  530test for database filename save no6            -238.60 20130528          MONTOYA-P kentest                         
+20133 APPITMP-----SUB6---CB  11GLCBAG201311001  531test for database filename save no6            1527.76 20130528          ----------kentest                         
+20133 APPITMPP0040SUB6---CB  11GLCBAG201311001  532test for database filename save no6            2283.89 20130528          ----------kentest                         
+20133 APPITMPP0120SUB6---CB  11GLCBAG201311001  533test for database filename save no6           11587.73 20130528          ----------kentest                         
+20133 APPITMPP0148SUB6---CB  11GLCBAG201311001  534test for database filename save no6            4297.43 20130528          ----------kentest                         
+20133 APPITMPP0150SUB6---CB  11GLCBAG201311001  535test for database filename save no6            3054.58 20130528          ----------kentest                         
+20133 APPITMPP0206SUB6---CB  11GLCBAG201311001  536test for database filename save no6             768.14 20130528          ----------kentest                         
+20133 APPRGAA-----SB28---CB  11GLCBAG201311001  537test for database filename save no6            -191.42 20130528          JCRP      kentest                         
+20133 APPRGAA-----SB28---CB  11GLCBAG201311001  538test for database filename save no6            -199.30 20130528          RWWP      kentest                         
+20133 APPRGAA-----SB28---CB  11GLCBAG201311001  539test for database filename save no6             540.54 20130528          TEKP      kentest                         
+20133 APPRGAA-----SUB6---CB  11GLCBAG201311001  540test for database filename save no6           -1047.15 20130528          ----------kentest                         
+20133 APPRGAA-----SUB6---CB  11GLCBAG201311001  541test for database filename save no6           -1494.76 20130528          JCRP      kentest                         
+20133 APPRGAA-----SUB6---CB  11GLCBAG201311001  542test for database filename save no6           -2760.74 20130528          RWWP      kentest                         
+20133 APPRGAA-----SUB6---CB  11GLCBAG201311001  543test for database filename save no6            2753.84 20130528          TEKP      kentest                         
+20133 APRIGAU-----SB28---CB  11GLCBAG201311001  544test for database filename save no6            6561.18 20130528          ----------kentest                         
+20133 APRIGAU-----SUB6---CB  11GLCBAG201311001  545test for database filename save no6         -229543.14 20130528          ----------kentest                         
+20133 APRRGAU-----SB28---CB  11GLCBAG201311001  546test for database filename save no6          -29229.94 20130528          ----------kentest                         
+20133 APRRGAU-----SUB6---CB  11GLCBAG201311001  547test for database filename save no6         -532734.26 20130528          ----------kentest                         
+20133 APSIGAAAEUGASUB6---CB  11GLCBAG201311001  548test for database filename save no6              -6.86 20130528          BRESLIN-EMkentest                         
+20133 APSIGAAAEUGASUB6---CB  11GLCBAG201311001  549test for database filename save no6              -6.63 20130528          ONG-HOONSAkentest                         
+20133 APSIGAAASADVSB28---CB  11GLCBAG201311001  550test for database filename save no6            -299.40 20130528          BROWNL    kentest                         
+20133 APSIGAAASADVSB28---CB  11GLCBAG201311001  551test for database filename save no6             850.36 20130528          COSTA,T   kentest                         
+20133 APSIGAAASADVSB28---CB  11GLCBAG201311001  552test for database filename save no6             -91.96 20130528          FLEMING-BRkentest                         
+20133 APSIGAAASADVSUB6---CB  11GLCBAG201311001  553test for database filename save no6           -1942.05 20130528          BROWNL    kentest                         
+20133 APSIGAAASADVSUB6---CB  11GLCBAG201311001  554test for database filename save no6           -1372.34 20130528          COSTA,T   kentest                         
+20133 APSIGAAASADVSUB6---CB  11GLCBAG201311001  555test for database filename save no6            -718.14 20130528          FLEMING-BRkentest                         
+20133 APSIGAAASADVSUB6---CB  11GLCBAG201311001  556test for database filename save no6             -75.42 20130528          MARICICH,Dkentest                         
+20133 APSIGAAASFLESB28---CB  11GLCBAG201311001  557test for database filename save no6             -35.37 20130528          PITTON,BRUkentest                         
+20133 APSIGAAASFLESUB6---CB  11GLCBAG201311001  558test for database filename save no6            -471.39 20130528          PITTON,BRUkentest                         
+20133 APSIGAAASFLVSB28---CB  11GLCBAG201311001  559test for database filename save no6            -163.04 20130528          MANDRES   kentest                         
+20133 APSIGAAASFLVSB28---CB  11GLCBAG201311001  560test for database filename save no6             -17.66 20130528          MONTOYA   kentest                         
+20133 APSIGAAASFLVSUB6---CB  11GLCBAG201311001  561test for database filename save no6           -1687.98 20130528          MANDRES   kentest                         
+20133 APSIGAAASFLVSUB6---CB  11GLCBAG201311001  562test for database filename save no6            -119.28 20130528          MONTOYA   kentest                         
+20133 APSIGAAASFLWSB28---CB  11GLCBAG201311001  563test for database filename save no6            -288.42 20130528          CRISTLER  kentest                         
+20133 APSIGAAASFLWSUB6---CB  11GLCBAG201311001  564test for database filename save no6           -1948.10 20130528          CRISTLER  kentest                         
+20133 APSIGAAASITESB28---CB  11GLCBAG201311001  565test for database filename save no6            -177.84 20130528          CHOWN-ZAC kentest                         
+20133 APSIGAAASITESB28---CB  11GLCBAG201311001  566test for database filename save no6             -39.88 20130528          SZETO,B   kentest                         
+20133 APSIGAAASITESB28---CB  11GLCBAG201311001  567test for database filename save no6              50.38 20130528          VIDACA-J  kentest                         
+20133 APSIGAAASITESUB6---CB  11GLCBAG201311001  568test for database filename save no6           -1388.64 20130528          CHOWN-ZAC kentest                         
+20133 APSIGAAASITESUB6---CB  11GLCBAG201311001  569test for database filename save no6            -311.46 20130528          SZETO,B   kentest                         
+20133 APSIGAAASITESUB6---CB  11GLCBAG201311001  570test for database filename save no6            -891.42 20130528          VIDACA-J  kentest                         
+20133 APSIGAAASOFCSB28---CB  11GLCBAG201311001  571test for database filename save no6              13.54 20130528          ADAMS     kentest                         
+20133 APSIGAAASOFCSB28---CB  11GLCBAG201311001  572test for database filename save no6             926.74 20130528          BAILEY    kentest                         
+20133 APSIGAAASOFCSB28---CB  11GLCBAG201311001  573test for database filename save no6              66.53 20130528          JOHNSTON  kentest                         
+20133 APSIGAAASOFCSB28---CB  11GLCBAG201311001  574test for database filename save no6             -15.62 20130528          MILLS     kentest                         
+20133 APSIGAAASOFCSB28---CB  11GLCBAG201311001  575test for database filename save no6              36.84 20130528          REIDS     kentest                         
+20133 APSIGAAASOFCSB28---CB  11GLCBAG201311001  576test for database filename save no6            -117.40 20130528          SALAZAR,C kentest                         
+20133 APSIGAAASOFCSB28---CB  11GLCBAG201311001  577test for database filename save no6            -122.84 20130528          WATERSON-Kkentest                         
+20133 APSIGAAASOFCSUB6---CB  11GLCBAG201311001  578test for database filename save no6             -78.03 20130528          ADAMS     kentest                         
+20133 APSIGAAASOFCSUB6---CB  11GLCBAG201311001  579test for database filename save no6             -32.73 20130528          BAILEY    kentest                         
+20133 APSIGAAASOFCSUB6---CB  11GLCBAG201311001  580test for database filename save no6            -281.63 20130528          JOHNSTON  kentest                         
+20133 APSIGAAASOFCSUB6---CB  11GLCBAG201311001  581test for database filename save no6            -697.13 20130528          MILLS     kentest                         
+20133 APSIGAAASOFCSUB6---CB  11GLCBAG201311001  582test for database filename save no6             -76.21 20130528          REIDS     kentest                         
+20133 APSIGAAASOFCSUB6---CB  11GLCBAG201311001  583test for database filename save no6            -916.80 20130528          SALAZAR,C kentest                         
+20133 APSIGAAASOFCSUB6---CB  11GLCBAG201311001  584test for database filename save no6            -959.16 20130528          WATERSON-Kkentest                         
+20133 APSIGAAASSAFSB28---CB  11GLCBAG201311001  585test for database filename save no6             -97.96 20130528          WARREN,B  kentest                         
+20133 APSIGAAASSAFSUB6---CB  11GLCBAG201311001  586test for database filename save no6            -765.00 20130528          WARREN,B  kentest                         
+20133 APSITMPCB001SUB6---CB  11GLCBAG201311001  587test for database filename save no6            1014.18 20130528          ----------kentest                         
+20133 APSITMPCB16ASUB6---CB  11GLCBAG201311001  588test for database filename save no6            3520.70 20130528          NIROULA-MOkentest                         
+20133 APSITMPCB16BSUB6---CB  11GLCBAG201311001  589test for database filename save no6            2989.47 20130528          ----------kentest                         
+20133 APSITMPCB16BSUB6---CB  11GLCBAG201311001  590test for database filename save no6            2824.73 20130528          KIM,HO-YOUkentest                         
+20133 APSITMPCE006SUB6---CB  11GLCBAG201311001  591test for database filename save no6            2775.77 20130528          CONTADOR-Mkentest                         
+20133 APSITMPCE100SUB6---CB  11GLCBAG201311001  592test for database filename save no6             536.01 20130528          TSO-JJ    kentest                         
+20133 APSITMPCE101SUB6---CB  11GLCBAG201311001  593test for database filename save no6             267.99 20130528          TSO-JJ    kentest                         
+20133 APSITMPCI010SUB6---CB  11GLCBAG201311001  594test for database filename save no6            2775.79 20130528          WILKUS-ERIkentest                         
+20133 APSITMPCP116SUB6---CB  11GLCBAG201311001  595test for database filename save no6            4202.80 20130528          ----------kentest                         
+20133 APSITMPCS005SUB6---CB  11GLCBAG201311001  596test for database filename save no6              -7.02 20130528          ----------kentest                         
+20133 APSITMPCS005SUB6---CB  11GLCBAG201311001  597test for database filename save no6              -9.27 20130528          CHUNG     kentest                         
+20133 APSITMPCS005SUB6---CB  11GLCBAG201311001  598test for database filename save no6              -6.74 20130528          FRIEDMAN  kentest                         
+20133 APSITMPCS005SUB6---CB  11GLCBAG201311001  599test for database filename save no6            2364.49 20130528          SCHWEIGER kentest                         
+20133 APSITMPCS005SUB6---CB  11GLCBAG201311001  600test for database filename save no6              -7.96 20130528          TAYLOR    kentest                         
+20133 APSITMPCS005SUB6---CB  11GLCBAG201311001  601test for database filename save no6              -6.41 20130528          WEINER    kentest                         
+20133 APSITMPCS015SUB6---CB  11GLCBAG201311001  602test for database filename save no6             938.39 20130528          BOSSANGE-Akentest                         
+20133 APSITMPCS015SUB6---CB  11GLCBAG201311001  603test for database filename save no6             530.09 20130528          LLOYD-MARGkentest                         
+20133 APSITMPCS021SUB6---CB  11GLCBAG201311001  604test for database filename save no6              -7.16 20130528          CHAN-WILBUkentest                         
+20133 APSITMPCS021SUB6---CB  11GLCBAG201311001  605test for database filename save no6              -7.17 20130528          DU-THANH  kentest                         
+20133 APSITMPCS021SUB6---CB  11GLCBAG201311001  606test for database filename save no6              -7.08 20130528          GRANTERIN kentest                         
+20133 APSITMPCS021SUB6---CB  11GLCBAG201311001  607test for database filename save no6              -6.66 20130528          HARRISON-Skentest                         
+20133 APSITMPCS021SUB6---CB  11GLCBAG201311001  608test for database filename save no6              -7.00 20130528          HIPOLITO-Akentest                         
+20133 APSITMPCS021SUB6---CB  11GLCBAG201311001  609test for database filename save no6              -8.00 20130528          LEE-SHARONkentest                         
+20133 APSITMPCS021SUB6---CB  11GLCBAG201311001  610test for database filename save no6             -11.83 20130528          MINORSKY-Ckentest                         
+20133 APSITMPCS021SUB6---CB  11GLCBAG201311001  611test for database filename save no6              -7.58 20130528          PHUNG-KEVIkentest                         
+20133 APSITMPCS021SUB6---CB  11GLCBAG201311001  612test for database filename save no6              -6.83 20130528          STODDARD-Jkentest                         
+20133 APSITMPCS021SUB6---CB  11GLCBAG201311001  613test for database filename save no6              -6.83 20130528          THAIPETER kentest                         
+20133 APSITMPCS021SUB6---CB  11GLCBAG201311001  614test for database filename save no6             -13.84 20130528          TRAN-TERRYkentest                         
+20133 APSITMPCS021SUB6---CB  11GLCBAG201311001  615test for database filename save no6              -6.50 20130528          TRUONG-THAkentest                         
+20133 APSITMPCS101SUB6---CB  11GLCBAG201311001  616test for database filename save no6            2654.02 20130528          KIRK-EMILIkentest                         
+20133 APSITMPCS11CSUB6---CB  11GLCBAG201311001  617test for database filename save no6            2814.61 20130528          BOSSANGE-Akentest                         
+20133 APSITMPCS131SUB6---CB  11GLCBAG201311001  618test for database filename save no6             664.73 20130528          SKAER-MEG kentest                         
+20133 APSITMPCS144SUB6---CB  11GLCBAG201311001  619test for database filename save no6             865.07 20130528          ----------kentest                         
+20133 APSITMPCS144SUB6---CB  11GLCBAG201311001  620test for database filename save no6            1729.62 20130528          RIGGIO-JASkentest                         
+20133 APSITMPCS147SUB6---CB  11GLCBAG201311001  621test for database filename save no6             780.16 20130528          STEVENS-J kentest                         
+20133 APSITMPCS158SUB6---CB  11GLCBAG201311001  622test for database filename save no6             743.42 20130528          OLIVOS-ANDkentest                         
+20133 APSITMPCS172SUB6---CB  11GLCBAG201311001  623test for database filename save no6            2775.79 20130528          ----------kentest                         
+20133 APSITMPCS176SUB6---CB  11GLCBAG201311001  624test for database filename save no6            2929.74 20130528          MORETTI   kentest                         
+20133 APSITMPCS1ALSUB6---CB  11GLCBAG201311001  625test for database filename save no6            2241.99 20130528          ----------kentest                         
+20133 APSRG04JDU03SUB6---CB  11GLCBAG201311001  626test for database filename save no6            3419.48 20130528          HEGARTY-J kentest                         
+20133 APSRG11JEH01SB28---CB  11GLCBAG201311001  627test for database filename save no6            -198.44 20130528          STOGSDIL-Jkentest                         
+20133 APSRG11JEH01SUB6---CB  11GLCBAG201311001  628test for database filename save no6           -1549.50 20130528          STOGSDIL-Jkentest                         
+20133 APSRG19DHP02SB28---CB  11GLCBAG201311001  629test for database filename save no6            -120.91 20130528          DE BEN    kentest                         
+20133 APSRG19DHP02SUB6---CB  11GLCBAG201311001  630test for database filename save no6            -944.16 20130528          DE BEN    kentest                         
+20133 APSRG30FAMB2SB28---CB  11GLCBAG201311001  631test for database filename save no6            -137.28 20130528          CHUNG-SHI kentest                         
+20133 APSRG30FAMB2SUB6---CB  11GLCBAG201311001  632test for database filename save no6            -479.44 20130528          CHUNG-SHI kentest                         
+20133 APSRG30FAMB2SUB6---CB  11GLCBAG201311001  633test for database filename save no6              -0.42 20130528          COVBLIC-CRkentest                         
+20133 APSRG35-----SUB6---CB  11GLCBAG201311001  634test for database filename save no6              -3.29 20130528          ----------kentest                         
+20133 APSRG35FJHL2SUB6---CB  11GLCBAG201311001  635test for database filename save no6            2545.24 20130528          ----------kentest                         
+20133 APSRG44FAMD2SB28---CB  11GLCBAG201311001  636test for database filename save no6              -0.90 20130528          SANDOVAL-Zkentest                         
+20133 APSRG44FAMD2SUB6---CB  11GLCBAG201311001  637test for database filename save no6            7503.27 20130528          ----------kentest                         
+20133 APSRG44FAMD2SUB6---CB  11GLCBAG201311001  638test for database filename save no6              -9.28 20130528          SANDOVAL-Zkentest                         
+20133 APSRG45FTMD2SB28---CB  11GLCBAG201311001  639test for database filename save no6            -237.02 20130528          BRADLEY-S kentest                         
+20133 APSRG45FTMD2SUB6---CB  11GLCBAG201311001  640test for database filename save no6           -1850.84 20130528          BRADLEY-S kentest                         
+20133 APSRG51FJML0SUB6---CB  11GLCBAG201311001  641test for database filename save no6              -3.79 20130528          MCKINNON-Lkentest                         
+20133 APSRG55FEJM2SB28---CB  11GLCBAG201311001  642test for database filename save no6             -18.40 20130528          FLEMING-BRkentest                         
+20133 APSRG55FEJM2SUB6---CB  11GLCBAG201311001  643test for database filename save no6              -0.77 20130528          CORNER-JOSkentest                         
+20133 APSRG55FEJM2SUB6---CB  11GLCBAG201311001  644test for database filename save no6            -143.64 20130528          FLEMING-BRkentest                         
+20133 APSRG55FEJM2SUB6---CB  11GLCBAG201311001  645test for database filename save no6            5130.00 20130528          NHAM-NGOC kentest                         
+20133 APSRG55FEJM2SUB6---CB  11GLCBAG201311001  646test for database filename save no6              -1.66 20130528          WONG-JERRIkentest                         
+20133 APSRG56FDEP0SB28---CB  11GLCBAG201311001  647test for database filename save no6              38.55 20130528          CHAN-Z    kentest                         
+20133 APSRG56FDEP0SUB6---CB  11GLCBAG201311001  648test for database filename save no6            -279.28 20130528          CHAN-Z    kentest                         
+20133 APSRG72FJMD1SUB6---CB  11GLCBAG201311001  649test for database filename save no6            1710.00 20130528          CONSER-C  kentest                         
+20133 APSRG93FJWS2SUB6---CB  11GLCBAG201311001  650test for database filename save no6            2734.97 20130528          MURPHY-RY kentest                         
+20133 APSRGAAAEFLPSB28---CB  11GLCBAG201311001  651test for database filename save no6             -45.69 20130528          SANDOVAL-Zkentest                         
+20133 APSRGAAAEFLPSUB6---CB  11GLCBAG201311001  652test for database filename save no6            -223.44 20130528          PLOCHER   kentest                         
+20133 APSRGAAAEFLPSUB6---CB  11GLCBAG201311001  653test for database filename save no6            -472.97 20130528          SANDOVAL-Zkentest                         
+20133 APSRGAAAEITESUB6---CB  11GLCBAG201311001  654test for database filename save no6              -5.82 20130528          CHAN-KAI  kentest                         
+20133 APSRGAAAEITESUB6---CB  11GLCBAG201311001  655test for database filename save no6              -3.21 20130528          MENZ-LAUREkentest                         
+20133 APSRGAAAEMXWSUB6---CB  11GLCBAG201311001  656test for database filename save no6            8548.97 20130528          WILKER-M  kentest                         
+20133 APSRGAAAEOFCSB28---CB  11GLCBAG201311001  657test for database filename save no6            -149.74 20130528          SABERI-S  kentest                         
+20133 APSRGAAAEOFCSUB6---CB  11GLCBAG201311001  658test for database filename save no6              -2.21 20130528          NGUYEN-VIVkentest                         
+20133 APSRGAAAEOFCSUB6---CB  11GLCBAG201311001  659test for database filename save no6            2005.06 20130528          SABERI-S  kentest                         
+20133 APSRGAAAEOFCSUB6---CB  11GLCBAG201311001  660test for database filename save no6              -2.88 20130528          YOSHIDA-LAkentest                         
+20133 APSRGAAAESAFSUB6---CB  11GLCBAG201311001  661test for database filename save no6              -0.31 20130528          HAN-CHRISTkentest                         
+20133 APSRGAAAESAFSUB6---CB  11GLCBAG201311001  662test for database filename save no6              -0.80 20130528          PARK-G    kentest                         
+20133 APSRGAAASFLESB28---CB  11GLCBAG201311001  663test for database filename save no6             -35.37 20130528          PITTON,BRUkentest                         
+20133 APSRGAAASFLESUB6---CB  11GLCBAG201311001  664test for database filename save no6            -471.39 20130528          PITTON,BRUkentest                         
+20133 APSRGAAASFLVSB28---CB  11GLCBAG201311001  665test for database filename save no6             -88.90 20130528          BOONET    kentest                         
+20133 APSRGAAASFLVSB28---CB  11GLCBAG201311001  666test for database filename save no6            -101.82 20130528          HERRERA,NIkentest                         
+20133 APSRGAAASFLVSB28---CB  11GLCBAG201311001  667test for database filename save no6            -117.46 20130528          MANDRES   kentest                         
+20133 APSRGAAASFLVSB28---CB  11GLCBAG201311001  668test for database filename save no6            -105.98 20130528          MONTOYA   kentest                         
+20133 APSRGAAASFLVSB28---CB  11GLCBAG201311001  669test for database filename save no6             107.21 20130528          STEWARTF  kentest                         
+20133 APSRGAAASFLVSUB6---CB  11GLCBAG201311001  670test for database filename save no6            -920.32 20130528          BOONET    kentest                         
+20133 APSRGAAASFLVSUB6---CB  11GLCBAG201311001  671test for database filename save no6            -866.00 20130528          HERRERA,NIkentest                         
+20133 APSRGAAASFLVSUB6---CB  11GLCBAG201311001  672test for database filename save no6           -1216.08 20130528          MANDRES   kentest                         
+20133 APSRGAAASFLVSUB6---CB  11GLCBAG201311001  673test for database filename save no6            -715.80 20130528          MONTOYA   kentest                         
+20133 APSRGAAASFLVSUB6---CB  11GLCBAG201311001  674test for database filename save no6             546.17 20130528          STEWARTF  kentest                         
+20133 APSRGAAASFLWSB28---CB  11GLCBAG201311001  675test for database filename save no6             -92.58 20130528          CRISTLER  kentest                         
+20133 APSRGAAASFLWSUB6---CB  11GLCBAG201311001  676test for database filename save no6            -625.30 20130528          CRISTLER  kentest                         
+20133 APSRGAAASITESB28---CB  11GLCBAG201311001  677test for database filename save no6             -88.08 20130528          CHOWN-ZAC kentest                         
+20133 APSRGAAASITESB28---CB  11GLCBAG201311001  678test for database filename save no6            -124.86 20130528          DUSSAULT,Lkentest                         
+20133 APSRGAAASITESB28---CB  11GLCBAG201311001  679test for database filename save no6            -186.14 20130528          SZETO,B   kentest                         
+20133 APSRGAAASITESB28---CB  11GLCBAG201311001  680test for database filename save no6              50.38 20130528          VIDACA-J  kentest                         
+20133 APSRGAAASITESUB6---CB  11GLCBAG201311001  681test for database filename save no6            -687.84 20130528          CHOWN-ZAC kentest                         
+20133 APSRGAAASITESUB6---CB  11GLCBAG201311001  682test for database filename save no6           -1024.09 20130528          DUSSAULT,Lkentest                         
+20133 APSRGAAASITESUB6---CB  11GLCBAG201311001  683test for database filename save no6           -1453.54 20130528          SZETO,B   kentest                         
+20133 APSRGAAASITESUB6---CB  11GLCBAG201311001  684test for database filename save no6            -891.42 20130528          VIDACA-J  kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  685test for database filename save no6             164.90 20130528          ADAMS     kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  686test for database filename save no6             926.74 20130528          BAILEY    kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  687test for database filename save no6              37.16 20130528          CHAVEZ,DANkentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  688test for database filename save no6            -139.82 20130528          GREENLEAF kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  689test for database filename save no6              66.53 20130528          JOHNSTON  kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  690test for database filename save no6             -44.10 20130528          MARRUSH   kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  691test for database filename save no6             191.79 20130528          MCVARISH  kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  692test for database filename save no6             -15.62 20130528          MILLS     kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  693test for database filename save no6            -139.82 20130528          NIJJAR-BALkentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  694test for database filename save no6             613.08 20130528          REIDS     kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  695test for database filename save no6             -45.13 20130528          ROBERTS   kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  696test for database filename save no6             400.42 20130528          SABERI-S  kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  697test for database filename save no6            -117.40 20130528          SALAZAR,C kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  698test for database filename save no6            -216.82 20130528          SINGHVIDALkentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  699test for database filename save no6            -122.84 20130528          WATERSON-Kkentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  700test for database filename save no6             -36.44 20130528          ----------kentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  701test for database filename save no6           -1355.38 20130528          ADAMS     kentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  702test for database filename save no6             -32.73 20130528          BAILEY    kentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  703test for database filename save no6           -1024.03 20130528          CHAVEZ,DANkentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  704test for database filename save no6           -1091.76 20130528          GREENLEAF kentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  705test for database filename save no6            -281.63 20130528          JOHNSTON  kentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  706test for database filename save no6            -872.10 20130528          MARRUSH   kentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  707test for database filename save no6            -727.02 20130528          MCVARISH  kentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  708test for database filename save no6            -697.13 20130528          MILLS     kentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  709test for database filename save no6           -1091.76 20130528          NIJJAR-BALkentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  710test for database filename save no6           -1301.55 20130528          REIDS     kentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  711test for database filename save no6            -352.40 20130528          ROBERTS   kentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  712test for database filename save no6            3562.19 20130528          SABERI-S  kentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  713test for database filename save no6            -916.80 20130528          SALAZAR,C kentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  714test for database filename save no6           -1390.86 20130528          SINGHVIDALkentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  715test for database filename save no6            -959.16 20130528          WATERSON-Kkentest                         
+20133 APSRGAAASPHVSB28---CB  11GLCBAG201311001  716test for database filename save no6            -120.32 20130528          RICHMOND,Lkentest                         
+20133 APSRGAAASPHVSUB6---CB  11GLCBAG201311001  717test for database filename save no6            -939.58 20130528          RICHMOND,Lkentest                         
+20133 APSRGAAASRICSB28---CB  11GLCBAG201311001  718test for database filename save no6            -107.81 20130528          DUSSAULT,Lkentest                         
+20133 APSRGAAASRICSUB6---CB  11GLCBAG201311001  719test for database filename save no6            -840.39 20130528          DUSSAULT,Lkentest                         
+20133 APSRGAAASSAFSB28---CB  11GLCBAG201311001  720test for database filename save no6             -97.96 20130528          WARREN,B  kentest                         
+20133 APSRGAAASSAFSUB6---CB  11GLCBAG201311001  721test for database filename save no6            -765.00 20130528          WARREN,B  kentest                         
+20133 APSRGAAGSBXVSUB6---CB  11GLCBAG201311001  722test for database filename save no6            7135.25 20130528          VERHOEVEN kentest                         
+20133 APSRGAAGSBXWSUB6---CB  11GLCBAG201311001  723test for database filename save no6            8202.53 20130528          WAITMAN   kentest                         
+20133 APSRGAAGSJXHSUB6---CB  11GLCBAG201311001  724test for database filename save no6            5128.97 20130528          HAGGARD-J kentest                         
+20133 APSRGAAGSKJSSUB6---CB  11GLCBAG201311001  725test for database filename save no6            4274.49 20130528          JAVIS-SHEAkentest                         
+20133 APSRGAAGSKLCSUB6---CB  11GLCBAG201311001  726test for database filename save no6           10162.97 20130528          LAMCHENG  kentest                         
+20133 APSRGAAGSRXJSUB6---CB  11GLCBAG201311001  727test for database filename save no6            2545.24 20130528          JIMENEZ   kentest                         
+20133 APSRGAAGSRXNSUB6---CB  11GLCBAG201311001  728test for database filename save no6            3419.49 20130528          NITCHER-R kentest                         
+20133 APSRGABFABB2SB28---CB  11GLCBAG201311001  729test for database filename save no6             -84.18 20130528          BESS,K    kentest                         
+20133 APSRGABFABB2SUB6---CB  11GLCBAG201311001  730test for database filename save no6            -657.28 20130528          BESS,K    kentest                         
+20133 APSRGAGASGRHSB28---CB  11GLCBAG201311001  731test for database filename save no6             117.46 20130528          JOHNSTON  kentest                         
+20133 APSRGAGASGRHSUB6---CB  11GLCBAG201311001  732test for database filename save no6            -496.67 20130528          JOHNSTON  kentest                         
+20133 APSRGJDFJAD2SUB6---CB  11GLCBAG201311001  733test for database filename save no6              -8.63 20130528          LEE-JUSTINkentest                         
+20133 APSRGJDFJAD2SUB6---CB  11GLCBAG201311001  734test for database filename save no6              -4.16 20130528          WILKERSON kentest                         
+20133 APSRHMIFJXD2SB28---CB  11GLCBAG201311001  735test for database filename save no6             -40.62 20130528          BUFFALO-VIkentest                         
+20133 APSRHMIFJXD2SUB6---CB  11GLCBAG201311001  736test for database filename save no6           -1813.54 20130528          BUFFALO-VIkentest                         
+20133 APSRHMIFJXD2SUB6---CB  11GLCBAG201311001  737test for database filename save no6            2564.48 20130528          HOWELL-TYSkentest                         
+20133 AREUNDR-----SUB6---CB  11GLCBAG201311001  738test for database filename save no6             -11.95 20130528          ----------kentest                         
+20133 ASP982H-----SUB6---CB  11GLCBAG201311001  739test for database filename save no6              -3.10 20130528          ----------kentest                         
+20133 ASSIGAASAS20SUB6---CB  11GLCBAG201311001  740test for database filename save no6           -3975.69 20130528          ----------kentest                         
+20133 ASSIGAASAS30SUB6---CB  11GLCBAG201311001  741test for database filename save no6            4297.43 20130528          ----------kentest                         
+20133 ASSITMPSAS02SUB6---CB  11GLCBAG201311001  742test for database filename save no6            4608.28 20130528          ----------kentest                         
+20133 ASSITMPSAS05SUB6---CB  11GLCBAG201311001  743test for database filename save no6            5266.38 20130528          ----------kentest                         
+20133 ASSITMPSAS11SUB6---CB  11GLCBAG201311001  744test for database filename save no6            2280.50 20130528          ----------kentest                         
+20133 ASSITMPSAS20SUB6---CB  11GLCBAG201311001  745test for database filename save no6           22187.41 20130528          ----------kentest                         
+20133 ASSITMPSAS30SUB6---CB  11GLCBAG201311001  746test for database filename save no6            2283.89 20130528          ----------kentest                         
+20133 ASTEACHADMINSUB6---CB  11GLCBAG201311001  747test for database filename save no6             -11.07 20130528          ----------kentest                         
+20133 ASTEACHADVSNSUB6---CB  11GLCBAG201311001  748test for database filename save no6             -24.91 20130528          ----------kentest                         
+20133 ATXIGAATXADVSUB6---CB  11GLCBAG201311001  749test for database filename save no6              -1.76 20130528          ----------kentest                         
+20133 ATXITMPTX107SUB6---CB  11GLCBAG201311001  750test for database filename save no6            2120.51 20130528          ----------kentest                         
+20133 ATXITMPTXC06SUB6---CB  11GLCBAG201311001  751test for database filename save no6            5348.12 20130528          ----------kentest                         
+20133 AVEITMP-----SUB6---CB  11GLCBAG201311001  752test for database filename save no6            5941.92 20130528          ----------kentest                         
+20133 AVERGAA-----SB28---CB  11GLCBAG201311001  753test for database filename save no6              20.16 20130528          AVITPLG   kentest                         
+20133 AVERGAA-----SB28---CB  11GLCBAG201311001  754test for database filename save no6            -188.74 20130528          AVITSCB   kentest                         
+20133 AVERGAA-----SUB6---CB  11GLCBAG201311001  755test for database filename save no6           -1772.54 20130528          AVITPLG   kentest                         
+20133 AVERGAA-----SUB6---CB  11GLCBAG201311001  756test for database filename save no6           -1953.92 20130528          AVITSCB   kentest                         
+20133 AWFIGAASACARSB28---CB  11GLCBAG201311001  757test for database filename save no6            -166.46 20130528          250ROBERTSkentest                         
+20133 AWFIGAASACARSUB6---CB  11GLCBAG201311001  758test for database filename save no6             862.10 20130528          ----------kentest                         
+20133 AWFIGAASACARSUB6---CB  11GLCBAG201311001  759test for database filename save no6           -2161.97 20130528          250ROBERTSkentest                         
+20133 AWFIGAATEACHSUB6---CB  11GLCBAG201311001  760test for database filename save no6              -3.31 20130528          ----------kentest                         
+20133 AWFITMPW102LSUB6---CB  11GLCBAG201311001  761test for database filename save no6            1558.15 20130528          ----------kentest                         
+20133 AWFITMPWF011SUB6---CB  11GLCBAG201311001  762test for database filename save no6            -297.19 20130528          ----------kentest                         
+20133 AWFITMPWF050SUB6---CB  11GLCBAG201311001  763test for database filename save no6            3213.80 20130528          ----------kentest                         
+20133 AWFITMPWF120SUB6---CB  11GLCBAG201311001  764test for database filename save no6            2536.47 20130528          ----------kentest                         
+20133 AWFITMPWF130SUB6---CB  11GLCBAG201311001  765test for database filename save no6            3000.53 20130528          ----------kentest                         
+20133 AWFRGAAAAITSSB28---CB  11GLCBAG201311001  766test for database filename save no6             -24.94 20130528          AETXSSV   kentest                         
+20133 AWFRGAAAAITSSUB6---CB  11GLCBAG201311001  767test for database filename save no6            -160.00 20130528          AETXSSV   kentest                         
+20133 AWFRGAAMUSEMSB28---CB  11GLCBAG201311001  768test for database filename save no6             -53.48 20130528          ----------kentest                         
+20133 AWFRGAAMUSEMSUB6---CB  11GLCBAG201311001  769test for database filename save no6            -417.56 20130528          ----------kentest                         
+20133 AWFRGAASACARSB28---CB  11GLCBAG201311001  770test for database filename save no6             -54.28 20130528          AWFCSJG   kentest                         
+20133 AWFRGAASACARSUB6---CB  11GLCBAG201311001  771test for database filename save no6            -366.42 20130528          AWFCSJG   kentest                         
+20133 AXEIGAAABIXXSUB6---CB  11GLCBAG201311001  772test for database filename save no6              -4.28 20130528          ----------kentest                         
+20133 AXERGAA-----SB28---CB  11GLCBAG201311001  773test for database filename save no6            -160.42 20130528          ----------kentest                         
+20133 AXERGAA-----SUB6---CB  11GLCBAG201311001  774test for database filename save no6           -1252.64 20130528          ----------kentest                         
+20133 BLLSALR-----SB28---CB  11GLCBAG201311001  775test for database filename save no6            -135.37 20130528          ----------kentest                         
+20133 BLLSALR-----SUB6---CB  11GLCBAG201311001  776test for database filename save no6           -1064.45 20130528          ----------kentest                         
+20133 BRJ0046-----SUB6---CB  11GLCBAG201311001  777test for database filename save no6           -1574.26 20130528          ----------kentest                         
+20133 BUS9047-----SUB6---CB  11GLCBAG201311001  778test for database filename save no6              -2.93 20130528          ----------kentest                         
+20133 CLKGENA-----SB28---CB  11GLCBAG201311001  779test for database filename save no6             533.62 20130528          ----------kentest                         
+20133 CLKGENA-----SUB6---CB  11GLCBAG201311001  780test for database filename save no6           38541.12 20130528          ----------kentest                         
+20133 CRU9033-----SB28---CB  11GLCBAG201311001  781test for database filename save no6            -162.35 20130528          ----------kentest                         
+20133 CRU9033-----SUB6---CB  11GLCBAG201311001  782test for database filename save no6           -1285.84 20130528          ----------kentest                         
+20133 CSVCGEN-----SUB6---CB  11GLCBAG201311001  783test for database filename save no6              -3.71 20130528          ----------kentest                         
+20133 DAH108H-----SUB6---CB  11GLCBAG201311001  784test for database filename save no6           19548.68 20130528          ----------kentest                         
+20133 DAH7779-----SUB6---CB  11GLCBAG201311001  785test for database filename save no6           23935.88 20130528          ----------kentest                         
+20133 DAS3SAL-----SUB6---CB  11GLCBAG201311001  786test for database filename save no6           46629.33 20130528          ----------kentest                         
+20133 DEL0519-----SUB6---CB  11GLCBAG201311001  787test for database filename save no6            3134.51 20130528          ----------kentest                         
+20133 DNM1630-----SUB6---CB  11GLCBAG201311001  788test for database filename save no6           11964.62 20130528          ----------kentest                         
+20133 EAD0129-----SUB6---CB  11GLCBAG201311001  789test for database filename save no6           10234.40 20130528          ----------kentest                         
+20133 EEL0214-----SB28---CB  11GLCBAG201311001  790test for database filename save no6             -16.28 20130528          ----------kentest                         
+20133 EEL0214-----SUB6---CB  11GLCBAG201311001  791test for database filename save no6            -726.42 20130528          ----------kentest                         
+20133 ESG7E23-----SUB6---CB  11GLCBAG201311001  792test for database filename save no6              -4.16 20130528          ----------kentest                         
+20133 ESP7E63-----SUB6---CB  11GLCBAG201311001  793test for database filename save no6            4368.97 20130528          ----------kentest                         
+20133 ESP8E87-----SUB6---CB  11GLCBAG201311001  794test for database filename save no6              -5.79 20130528          ----------kentest                         
+20133 ESP9E96-----SUB6---CB  11GLCBAG201311001  795test for database filename save no6             863.89 20130528          ----------kentest                         
+20133 FMSCHAR-----SB28---CB  11GLCBAG201311001  796test for database filename save no6             -15.35 20130528          ----------kentest                         
+20133 FMSCHAR-----SUB6---CB  11GLCBAG201311001  797test for database filename save no6            -200.65 20130528          ----------kentest                         
+20133 FMSSALR-----SB28---CB  11GLCBAG201311001  798test for database filename save no6             -15.35 20130528          ----------kentest                         
+20133 FMSSALR-----SUB6---CB  11GLCBAG201311001  799test for database filename save no6            -200.65 20130528          ----------kentest                         
+20133 FST104L-----SUB6---CB  11GLCBAG201311001  800test for database filename save no6              -9.55 20130528          ----------kentest                         
+20133 GENFNC2-----SUB6---CB  11GLCBAG201311001  801test for database filename save no6              -0.47 20130528          LENG-J    kentest                         
+20133 GOD25LG-----SUB6---CB  11GLCBAG201311001  802test for database filename save no6            1710.00 20130528          ----------kentest                         
+20133 HAR7771-----SUB6---CB  11GLCBAG201311001  803test for database filename save no6             -20.75 20130528          ----------kentest                         
+20133 HEMK3VC-----SUB6---CB  11GLCBAG201311001  804test for database filename save no6              -4.42 20130528          ----------kentest                         
+20133 HER7771-----SUB6---CB  11GLCBAG201311001  805test for database filename save no6              -2.49 20130528          ----------kentest                         
+20133 HERBARIASHERSB28---CB  11GLCBAG201311001  806test for database filename save no6            -221.14 20130528          SHEPARD   kentest                         
+20133 HERBARIASHERSUB6---CB  11GLCBAG201311001  807test for database filename save no6           -1247.64 20130528          SHEPARD   kentest                         
+20133 HOR7779-----SUB6---CB  11GLCBAG201311001  808test for database filename save no6           10257.94 20130528          ----------kentest                         
+20133 HOU7779-----SUB6---CB  11GLCBAG201311001  809test for database filename save no6           11277.15 20130528          ----------kentest                         
+20133 JCW3FAC-----SUB6---CB  11GLCBAG201311001  810test for database filename save no6            3388.00 20130528          ----------kentest                         
+20133 JEWCNRP-----SUB6---CB  11GLCBAG201311001  811test for database filename save no6            6838.97 20130528          ----------kentest                         
+20133 KGDPINS-----SB28---CB  11GLCBAG201311001  812test for database filename save no6            -791.31 20130528          ----------kentest                         
+20133 KGDPINS-----SUB6---CB  11GLCBAG201311001  813test for database filename save no6           -4966.56 20130528          ----------kentest                         
+20133 KHBSALR-----SUB6---CB  11GLCBAG201311001  814test for database filename save no6           15908.44 20130528          ----------kentest                         
+20133 KIM25LK-----SUB6---CB  11GLCBAG201311001  815test for database filename save no6              -1.99 20130528          ----------kentest                         
+20133 LAW25SL-----SB28---CB  11GLCBAG201311001  816test for database filename save no6             893.10 20130528          ----------kentest                         
+20133 LAW25SL-----SUB6---CB  11GLCBAG201311001  817test for database filename save no6           -2240.98 20130528          ----------kentest                         
+20133 LFBS199-----SUB6---CB  11GLCBAG201311001  818test for database filename save no6              -2.08 20130528          ----------kentest                         
+20133 LLKSALR-----SUB6---CB  11GLCBAG201311001  819test for database filename save no6           10257.94 20130528          ----------kentest                         
+20133 LSJBLUM-----SUB6---CB  11GLCBAG201311001  820test for database filename save no6              -0.88 20130528          ----------kentest                         
+20133 LYGSSUP-----SUB6---CB  11GLCBAG201311001  821test for database filename save no6            1710.00 20130528          ----------kentest                         
+20133 MDELANY-----SUB6---CB  11GLCBAG201311001  822test for database filename save no6           21501.85 20130528          ----------kentest                         
+20133 METROC2STASTSUB6---CB  11GLCBAG201311001  823test for database filename save no6             -20.88 20130528          ----------kentest                         
+20133 MJM9990-----SUB6---CB  11GLCBAG201311001  824test for database filename save no6            1710.00 20130528          ----------kentest                         
+20133 MRCSALR-----SUB6---CB  11GLCBAG201311001  825test for database filename save no6           27382.37 20130528          ----------kentest                         
+20133 NE19900-----SUB6---CB  11GLCBAG201311001  826test for database filename save no6             275.07 20130528          ----------kentest                         
+20133 PAN1990-----SUB6---CB  11GLCBAG201311001  827test for database filename save no6           11904.97 20130528          ----------kentest                         
+20133 PAR25MP-----SUB6---CB  11GLCBAG201311001  828test for database filename save no6            1332.93 20130528          ----------kentest                         
+20133 PAR7779-----SUB6---CB  11GLCBAG201311001  829test for database filename save no6           19045.42 20130528          ----------kentest                         
+20133 PAR7779-----SUB6---CB  11GLCBAG201311001  830test for database filename save no6            1710.00 20130528          MURPHY-RY kentest                         
+20133 PIE0519-----SUB6---CB  11GLCBAG201311001  831test for database filename save no6            6268.46 20130528          ----------kentest                         
+20133 PJBBIOG-----SUB6---CB  11GLCBAG201311001  832test for database filename save no6            5128.97 20130528          ----------kentest                         
+20133 PRM3FAC-----SUB6---CB  11GLCBAG201311001  833test for database filename save no6           30265.32 20130528          ----------kentest                         
+20133 RJSCHAI-----SUB6---CB  11GLCBAG201311001  834test for database filename save no6            5128.97 20130528          ----------kentest                         
+20133 RMIADMN-----SB28---CB  11GLCBAG201311001  835test for database filename save no6            -152.54 20130528          ----------kentest                         
+20133 RMIADMN-----SB28---CB  11GLCBAG201311001  836test for database filename save no6            2114.28 20130528          ADOCMH    kentest                         
+20133 RMIADMN-----SB28---CB  11GLCBAG201311001  837test for database filename save no6            -168.96 20130528          ADODLN    kentest                         
+20133 RMIADMN-----SUB6---CB  11GLCBAG201311001  838test for database filename save no6           -2369.91 20130528          ----------kentest                         
+20133 RMIADMN-----SUB6---CB  11GLCBAG201311001  839test for database filename save no6            8177.38 20130528          ADOCMH    kentest                         
+20133 RMIADMN-----SUB6---CB  11GLCBAG201311001  840test for database filename save no6           -1319.36 20130528          ADODLN    kentest                         
+20133 RUC1990-----SUB6---CB  11GLCBAG201311001  841test for database filename save no6            7058.29 20130528          ----------kentest                         
+20133 SAV3FAC-----SUB6---CB  11GLCBAG201311001  842test for database filename save no6              -6.44 20130528          ----------kentest                         
+20133 SIN1990-----SUB6---CB  11GLCBAG201311001  843test for database filename save no6            2944.94 20130528          ----------kentest                         
+20133 SRB3FAC-----SUB6---CB  11GLCBAG201311001  844test for database filename save no6            1454.78 20130528          ----------kentest                         
+20133 SRB3SAL-----SUB6---CB  11GLCBAG201311001  845test for database filename save no6            1710.00 20130528          ----------kentest                         
+20133 SRC9090-----SUB6---CB  11GLCBAG201311001  846test for database filename save no6            5948.54 20130528          ----------kentest                         
+20133 SRCHOLD-----SB28---CB  11GLCBAG201311001  847test for database filename save no6             237.85 20130528          ----------kentest                         
+20133 SRCHOLD-----SUB6---CB  11GLCBAG201311001  848test for database filename save no6            -501.38 20130528          ----------kentest                         
+20133 SS001JL-----SUB6---CB  11GLCBAG201311001  849test for database filename save no6            5638.02 20130528          ----------kentest                         
+20133 SZCGENA-----SUB6---CB  11GLCBAG201311001  850test for database filename save no6              -0.72 20130528          ----------kentest                         
+20133 SZCGRAD-----SUB6---CB  11GLCBAG201311001  851test for database filename save no6           11959.02 20130528          ----------kentest                         
+20133 TJE0265-----SUB6---CB  11GLCBAG201311001  852test for database filename save no6           15472.40 20130528          ----------kentest                         
+20133 UAP983H-----SUB6---CB  11GLCBAG201311001  853test for database filename save no6             -10.99 20130528          ----------kentest                         
+20133 UAP997H-----SUB6---CB  11GLCBAG201311001  854test for database filename save no6              -9.36 20130528          ----------kentest                         
+20133 UAP997HFIELDSUB6---CB  11GLCBAG201311001  855test for database filename save no6              -0.96 20130528          ----------kentest                         
+20133 ULL25DU-----SB28---CB  11GLCBAG201311001  856test for database filename save no6            -197.33 20130528          ----------kentest                         
+20133 ULL25DU-----SUB6---CB  11GLCBAG201311001  857test for database filename save no6           11630.28 20130528          ----------kentest                         
+20133 UNDGRADPERADSUB6---CB  11GLCBAG201311001  858test for database filename save no6             -13.23 20130528          ----------kentest                         
+20133 VENDEPT-----SUB6---CB  11GLCBAG201311001  859test for database filename save no6            3862.62 20130528          ----------kentest                         
+20133 WFFANSU-----SUB6---CB  11GLCBAG201311001  860test for database filename save no6           14096.38 20130528          ----------kentest                         
+20133 WFSRCAR-----SUB6---CB  11GLCBAG201311001  861test for database filename save no6            5061.97 20130528          ----------kentest                         
+20133 WFSREAD-----SUB6---CB  11GLCBAG201311001  862test for database filename save no6             -11.55 20130528          ----------kentest                         
+20133 WFSRFAN-----SB28---CB  11GLCBAG201311001  863test for database filename save no6             187.48 20130528          ----------kentest                         
+20133 WFSRFAN-----SUB6---CB  11GLCBAG201311001  864test for database filename save no6            -753.39 20130528          ----------kentest                         
+20133 WFSRMOY-----SUB6---CB  11GLCBAG201311001  865test for database filename save no6            5914.36 20130528          ----------kentest                         
+20133 WFSRTHO-----SUB6---CB  11GLCBAG201311001  866test for database filename save no6              -3.71 20130528          ----------kentest                         
+20133 WTHRSTA-----SUB6---CB  11GLCBAG201311001  867test for database filename save no6            1419.44 20130528          ----------kentest                         
+20133 YLH1990-----SUB6---CB  11GLCBAG201311001  868test for database filename save no6           30239.76 20130528          ----------kentest                         

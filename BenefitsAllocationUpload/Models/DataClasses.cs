@@ -36,7 +36,7 @@ namespace BenefitsAllocationUpload.Models
                 });
                 i = i + 1;
             }
-            using (var db = new FISDataMartEntities1())
+            using (var db = new FISDataMartEntities())
             {
                 var unitFiles = db.UnitFiles.ToList();
                 foreach (var file in lstFiles)
@@ -128,7 +128,7 @@ namespace BenefitsAllocationUpload.Models
 
         public static User FindByLoginId(string loginId)
         {
-            using (var db = new CATBERT3Entities1())
+            using (var db = new CATBERT3Entities())
             {
                 var user =
                     db.Database.SqlQuery<User>(

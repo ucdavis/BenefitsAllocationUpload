@@ -7,8 +7,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-using System.Configuration;
-
 namespace BenefitsAllocationUpload.Models
 {
     using System;
@@ -33,7 +31,7 @@ namespace BenefitsAllocationUpload.Models
         public string UserImage { get; set; }
         public string SID { get; set; }
         public bool Inactive { get; set; }
-        public Guid UserKey { get; set; }
+        public System.Guid UserKey { get; set; }
     
         public virtual ICollection<Permission> Permissions { get; set; }
         public virtual ICollection<UnitAssociation> UnitAssociations { get; set; }

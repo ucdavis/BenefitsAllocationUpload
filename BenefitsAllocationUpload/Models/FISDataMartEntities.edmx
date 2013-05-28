@@ -102,7 +102,7 @@
     <!-- CSDL content -->
     <edmx:ConceptualModels>
       <Schema Namespace="FISDataMartModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
-        <EntityContainer Name="FISDataMartEntities1" p1:LazyLoadingEnabled="true">
+        <EntityContainer Name="FISDataMartEntities" p1:LazyLoadingEnabled="true">
           <EntitySet Name="UnitFiles" EntityType="FISDataMartModel.UnitFile" />
           <FunctionImport Name="udf_TrueFalseSelectionList" ReturnType="Collection(FISDataMartModel.udf_TrueFalseSelectionList_Result)" IsComposable="true" />
           <FunctionImport Name="usp_GetBudgetAdjustmentUploadDataForOrg" ReturnType="Collection(FISDataMartModel.BudgetAdjustmentUploadDataResults)">
@@ -173,7 +173,7 @@
     <!-- C-S mapping content -->
     <edmx:Mappings>
       <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-        <EntityContainerMapping StorageEntityContainer="FISDataMartModelStoreContainer" CdmEntityContainer="FISDataMartEntities1">
+        <EntityContainerMapping StorageEntityContainer="FISDataMartModelStoreContainer" CdmEntityContainer="FISDataMartEntities">
           <EntitySetMapping Name="UnitFiles">
             <EntityTypeMapping TypeName="FISDataMartModel.UnitFile">
               <MappingFragment StoreEntitySet="UnitFiles">
