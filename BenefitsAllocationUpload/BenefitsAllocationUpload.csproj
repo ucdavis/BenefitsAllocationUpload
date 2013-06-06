@@ -424,7 +424,9 @@
     <Content Include="Images\caes_logo.png" />
     <Content Include="Images\caes_logo_blue.jpg" />
     <Content Include="Files\BA Flat File Import Template.xltx" />
-    <Content Include="AppSettings.config" />
+    <Content Include="AppSettings.config">
+      <SubType>Designer</SubType>
+    </Content>
     <EntityDeploy Include="Models\Catbert3.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
       <LastGenOutput>Catbert3.Designer.cs</LastGenOutput>
