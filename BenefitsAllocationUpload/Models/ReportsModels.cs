@@ -110,7 +110,11 @@ namespace BenefitsAllocationUpload.Models
             get
             {
                 var month = DateTime.Now.Month;
+                var day = DateTime.Now.Day;
+ 
                 var retval = (month > 6 ? month - 6 : month + 6);
+                if (day <= 5)
+                    retval = retval - 1;
 
                 return retval.ToString();
             }
