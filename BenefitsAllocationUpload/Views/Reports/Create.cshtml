@@ -41,9 +41,9 @@
                             @Html.LabelFor(model => model.FiscalPeriod, new { @class = "control-label" })<span>*</span>
                         </div>
                         <div class="controls">
-                            @Html.DropDownListFor(x => x.FiscalPeriod,
-                                                  new SelectList(Model.FiscalPeriods),      
-                                                  null, new { id = "fiscalPeriodsDropDown" }
+                            @Html.DropDownListFor(x => x.FiscalPeriod.Period,
+                                                  new SelectList(Model.FiscalPeriods, "Period", "Name", Model.FiscalPeriod), null      
+                                                  , new { id = "fiscalPeriodsDropDown" }
                                  )
                             @Html.ValidationMessageFor(model => model.FiscalPeriod)
                         </div>

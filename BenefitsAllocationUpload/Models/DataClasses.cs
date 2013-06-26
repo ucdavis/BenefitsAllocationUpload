@@ -26,14 +26,18 @@ namespace BenefitsAllocationUpload.Models
             var user = User.FindByLoginId(System.Web.HttpContext.Current.User.Identity.Name);
             var lstFiles = new List<FileNames>();
             var dirInfo = new DirectoryInfo(HostingEnvironment.MapPath(_storageLocation));
-            
+
             int i = 0;
             foreach (var item in dirInfo.GetFiles())
             {
-                lstFiles.Add(new FileNames() { 
+                lstFiles.Add(new FileNames()
+                    {
 
-                FileId = i + 1, FileName = item.Name, TimeStamp = item.CreationTime, FilePath = dirInfo.FullName+@"\"+item.Name
-                });
+                        FileId = i + 1,
+                        FileName = item.Name,
+                        TimeStamp = item.CreationTime,
+                        FilePath = dirInfo.FullName + @"\" + item.Name
+                    });
                 i = i + 1;
             }
             using (var db = new FISDataMartEntities())
@@ -52,7 +56,7 @@ namespace BenefitsAllocationUpload.Models
                 }
             }
 
-            return lstFiles; 
+            return lstFiles;
         }
 
         public List<FileNames> GetFiles(string schoolCode)
@@ -69,7 +73,7 @@ namespace BenefitsAllocationUpload.Models
             return retval;
         }
     }
- 
+
     public class FileNames
     {
         public int FileId { get; set; }
@@ -94,7 +98,9 @@ namespace BenefitsAllocationUpload.Models
     public partial class Unit
     {
         private string _deansOfficeSchoolCode;
-        public virtual string DeansOfficeSchoolCode {
+
+        public virtual string DeansOfficeSchoolCode
+        {
             get
             {
                 _deansOfficeSchoolCode = SchoolCode;
@@ -141,26 +147,27 @@ namespace BenefitsAllocationUpload.Models
 
                 if (user != null)
                 {
-                     user.Units = db.Database.SqlQuery<Unit>("SELECT unit.* " +
-                         "FROM catbert3.dbo.Unit unit " +
-                                                           "INNER JOIN Catbert3.dbo.UnitAssociations AS unitAssociations ON unit.UnitID = unitAssociations.UnitID " +
-                                                           "INNER JOIN Catbert3.dbo.Applications AS applications ON unitAssociations.ApplicationID = applications.ApplicationID " +
-                                                           "INNER JOIN Catbert3.dbo.Users AS users ON unitAssociations.UserID = users.UserID " +
-                                                           "WHERE (applications.Abbr LIKE '" + ApplicationsAbbr + "') " +
-                                                           "    AND (unitAssociations.Inactive = 0) " +
-                                                           "    AND users.LoginID = '" + loginId + "'").ToList();
-                      
-                     user.Roles = db.Database.SqlQuery<Role>("SELECT roles.RoleID, roles.Role AS Role1, permissions.Inactive " +
-                                                             "FROM catbert3.dbo.Roles roles " +
-                                                             "INNER JOIN Catbert3.dbo.Permissions AS permissions ON roles.RoleID = permissions.RoleID " +
-                                                             "INNER JOIN Catbert3.dbo.Applications AS applications ON permissions.ApplicationID = applications.ApplicationID " +
-                                                             "INNER JOIN Catbert3.dbo.Users AS users ON permissions.UserID = users.UserID " +
-                                                             "WHERE applications.Abbr LIKE '" + ApplicationsAbbr + "' " +
-                                                             "  AND permissions.Inactive = 0 " +
-                                                             "  AND users.LoginID = '" + loginId + "'").ToList();
+                    user.Units = db.Database.SqlQuery<Unit>("SELECT unit.* " +
+                                                            "FROM catbert3.dbo.Unit unit " +
+                                                            "INNER JOIN Catbert3.dbo.UnitAssociations AS unitAssociations ON unit.UnitID = unitAssociations.UnitID " +
+                                                            "INNER JOIN Catbert3.dbo.Applications AS applications ON unitAssociations.ApplicationID = applications.ApplicationID " +
+                                                            "INNER JOIN Catbert3.dbo.Users AS users ON unitAssociations.UserID = users.UserID " +
+                                                            "WHERE (applications.Abbr LIKE '" + ApplicationsAbbr + "') " +
+                                                            "    AND (unitAssociations.Inactive = 0) " +
+                                                            "    AND users.LoginID = '" + loginId + "'").ToList();
+
+                    user.Roles =
+                        db.Database.SqlQuery<Role>("SELECT roles.RoleID, roles.Role AS Role1, permissions.Inactive " +
+                                                   "FROM catbert3.dbo.Roles roles " +
+                                                   "INNER JOIN Catbert3.dbo.Permissions AS permissions ON roles.RoleID = permissions.RoleID " +
+                                                   "INNER JOIN Catbert3.dbo.Applications AS applications ON permissions.ApplicationID = applications.ApplicationID " +
+                                                   "INNER JOIN Catbert3.dbo.Users AS users ON permissions.UserID = users.UserID " +
+                                                   "WHERE applications.Abbr LIKE '" + ApplicationsAbbr + "' " +
+                                                   "  AND permissions.Inactive = 0 " +
+                                                   "  AND users.LoginID = '" + loginId + "'").ToList();
                     return user;
                 }
-                    return null;
+                return null;
             }
         }
     }
@@ -168,5 +175,11 @@ namespace BenefitsAllocationUpload.Models
     public class TransDocOriginCode
     {
         public virtual string FsOriginCode { get; set; }
+    }
+
+    public class FiscalPeriod
+    {
+        public string Period { get; set; }
+        public string Name { get; set; }
     }
 }

@@ -1,0 +1,608 @@
+2013L 234SBA1-----SB28---CB  12GLCBDA201312001    1test after all DANR changes                       0.50 20130618          ----------danrtest                        
+2013L 234SBA1-----SUB6---CB  12GLCBDA201312001    2test after all DANR changes                    1794.47 20130618          ----------danrtest                        
+2013L 424SBA1-----SUB6---CB  12GLCBDA201312001    3test after all DANR changes                     109.50 20130618          ----------danrtest                        
+2013L 5P21056PPEIPSB28---CB  12GLCBDA201312001    4test after all DANR changes                     346.10 20130618          ----------danrtest                        
+2013L 5P21058PPEIPSB28---CB  12GLCBDA201312001    5test after all DANR changes                     957.53 20130618          ----------danrtest                        
+2013L 5P21058PPEIPSB28---CB  12GLCBDA201312001    6test after all DANR changes                     455.37 20130618          AL KHAT-KAdanrtest                        
+2013L 5P69085-----SB28---CB  12GLCBDA201312001    7test after all DANR changes                    -480.97 20130618          ----------danrtest                        
+2013L 5PSOPIC-----SB28---CB  12GLCBDA201312001    8test after all DANR changes                    -648.12 20130618          ----------danrtest                        
+2013L 5R69085-----SUB6---CB  12GLCBDA201312001    9test after all DANR changes                     -59.76 20130618          ----------danrtest                        
+2013L 5S69085-----SB28---CB  12GLCBDA201312001   10test after all DANR changes                    -897.38 20130618          ----------danrtest                        
+2013L 5S69085-----SB28---CB  12GLCBDA201312001   11test after all DANR changes                    -206.70 20130618          ADOAEH    danrtest                        
+2013L 5S69085-----SB28---CB  12GLCBDA201312001   12test after all DANR changes                    -933.86 20130618          ADOBAR    danrtest                        
+2013L 5S69085-----SB28---CB  12GLCBDA201312001   13test after all DANR changes                    -478.44 20130618          ADODMS    danrtest                        
+2013L 5S69085-----SB28---CB  12GLCBDA201312001   14test after all DANR changes                    -532.79 20130618          ADOGWF    danrtest                        
+2013L 5S69085-----SB28---CB  12GLCBDA201312001   15test after all DANR changes                    -756.68 20130618          ADOSGY    danrtest                        
+2013L 5S69085-----SB28---CB  12GLCBDA201312001   16test after all DANR changes                    -766.09 20130618          ADOSXB    danrtest                        
+2013L 5S69085-----SB28---CB  12GLCBDA201312001   17test after all DANR changes                   -1340.54 20130618          ADOTPT    danrtest                        
+2013L 6AR44SA-----SB28---CB  12GLCBDA201312001   18test after all DANR changes                     146.91 20130618          TIBOR     danrtest                        
+2013L 6AR44SA03000SB28---CB  12GLCBDA201312001   19test after all DANR changes                    -146.91 20130618          TIBOR     danrtest                        
+2013L 6AR44SA03000SUB6---CB  12GLCBDA201312001   20test after all DANR changes                    -611.50 20130618          TIBOR     danrtest                        
+2013L 6AR6203PPSNESB28---CB  12GLCBDA201312001   21test after all DANR changes                     274.45 20130618          FISCHERL  danrtest                        
+2013L 6AR64SA-----SB28---CB  12GLCBDA201312001   22test after all DANR changes                    -458.52 20130618          FISCHERL  danrtest                        
+2013L 6AR64SA-----SB28---CB  12GLCBDA201312001   23test after all DANR changes                   -1984.35 20130618          OGLETREE  danrtest                        
+2013L 6CP64SA-----SB28---CB  12GLCBDA201312001   24test after all DANR changes                    -321.96 20130618          ----------danrtest                        
+2013L 6CP64SA-----SB28---CB  12GLCBDA201312001   25test after all DANR changes                   -2425.03 20130618          MARTIN    danrtest                        
+2013L 6CP64SA-----SB28---CB  12GLCBDA201312001   26test after all DANR changes                   -7476.94 20130618          TIBOR     danrtest                        
+2013L 6DD6203-----SB28---CB  12GLCBDA201312001   27test after all DANR changes                     196.65 20130618          WANGSAM   danrtest                        
+2013L 6DD64SA-----SB28---CB  12GLCBDA201312001   28test after all DANR changes                   -1716.56 20130618          DRISKILL  danrtest                        
+2013L 6DD64SA-----SB28---CB  12GLCBDA201312001   29test after all DANR changes                    -224.81 20130618          MARTINEZS danrtest                        
+2013L 6DD64SA-----SB28---CB  12GLCBDA201312001   30test after all DANR changes                    -771.31 20130618          MIRAMONTESdanrtest                        
+2013L 6DD64SA-----SB28---CB  12GLCBDA201312001   31test after all DANR changes                   -1960.55 20130618          PRECIADO  danrtest                        
+2013L 6DD64SA-----SB28---CB  12GLCBDA201312001   32test after all DANR changes                     -96.71 20130618          SILVAA    danrtest                        
+2013L 6HH6202PPEIPSB28---CB  12GLCBDA201312001   33test after all DANR changes                     343.43 20130618          TIMM      danrtest                        
+2013L 6HH64SA-----SB28---CB  12GLCBDA201312001   34test after all DANR changes                    -497.58 20130618          KEIFFER   danrtest                        
+2013L 6HH64SA-----SB28---CB  12GLCBDA201312001   35test after all DANR changes                    -870.04 20130618          LEWMAN    danrtest                        
+2013L 6HH64SA-----SB28---CB  12GLCBDA201312001   36test after all DANR changes                    -507.94 20130618          MARSTON   danrtest                        
+2013L 6HH64SA-----SB28---CB  12GLCBDA201312001   37test after all DANR changes                    -269.45 20130618          MCWILLIAMSdanrtest                        
+2013L 6HH64SA-----SB28---CB  12GLCBDA201312001   38test after all DANR changes                    -464.02 20130618          POOR      danrtest                        
+2013L 6HH64SA-----SB28---CB  12GLCBDA201312001   39test after all DANR changes                   -1523.54 20130618          TIMM      danrtest                        
+2013L 6HH64SA-----SB28---CB  12GLCBDA201312001   40test after all DANR changes                    -662.48 20130618          WILSEY    danrtest                        
+2013L 6HL64SA-----SB28---CB  12GLCBDA201312001   41test after all DANR changes                    -311.90 20130618          MANNING   danrtest                        
+2013L 6II6202PPGFSSB28---CB  12GLCBDA201312001   42test after all DANR changes                     168.63 20130618          WILSON    danrtest                        
+2013L 6II62SA-----SB28---CB  12GLCBDA201312001   43test after all DANR changes                    -281.04 20130618          WILSON    danrtest                        
+2013L 6II64SA-----SB28---CB  12GLCBDA201312001   44test after all DANR changes                    -551.28 20130618          DONE      danrtest                        
+2013L 6II64SA-----SB28---CB  12GLCBDA201312001   45test after all DANR changes                    -382.06 20130618          KIRBY     danrtest                        
+2013L 6II64SA-----SB28---CB  12GLCBDA201312001   46test after all DANR changes                   -2521.35 20130618          MCCULLEY  danrtest                        
+2013L 6II64SA-----SB28---CB  12GLCBDA201312001   47test after all DANR changes                    -167.39 20130618          SALAZAR   danrtest                        
+2013L 6II64SA-----SB28---CB  12GLCBDA201312001   48test after all DANR changes                   -1458.41 20130618          TAPPAN    danrtest                        
+2013L 6KK44SA-----SB28---CB  12GLCBDA201312001   49test after all DANR changes                     195.18 20130618          CHRISTIANSdanrtest                        
+2013L 6KK44SA-----SB28---CB  12GLCBDA201312001   50test after all DANR changes                      57.13 20130618          VANDERSTAYdanrtest                        
+2013L 6KK44SA-----SUB6---CB  12GLCBDA201312001   51test after all DANR changes                    1337.02 20130618          CHRISTIANSdanrtest                        
+2013L 6KK44SA-----SUB6---CB  12GLCBDA201312001   52test after all DANR changes                     310.82 20130618          VANDERSTAYdanrtest                        
+2013L 6KK6204PPGFSSB28---CB  12GLCBDA201312001   53test after all DANR changes                     145.65 20130618          DAHLBERG  danrtest                        
+2013L 6KK6204PPSBESB28---CB  12GLCBDA201312001   54test after all DANR changes                     145.65 20130618          DAHLBERG  danrtest                        
+2013L 6KK62SA-----SB28---CB  12GLCBDA201312001   55test after all DANR changes                    -194.20 20130618          DAHLBERG  danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001   56test after all DANR changes                    -969.80 20130618          ALDANAI   danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001   57test after all DANR changes                    -883.86 20130618          CARY      danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001   58test after all DANR changes                   -1363.99 20130618          DURAN     danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001   59test after all DANR changes                    -449.33 20130618          GARCIAS   danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001   60test after all DANR changes                    -290.84 20130618          HOLMES    danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001   61test after all DANR changes                   -1579.62 20130618          KULOW     danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001   62test after all DANR changes                   -2183.90 20130618          PADILLA   danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001   63test after all DANR changes                   -2340.72 20130618          RAY       danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001   64test after all DANR changes                    -289.59 20130618          ROBLESM   danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001   65test after all DANR changes                    -239.48 20130618          SOARES    danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001   66test after all DANR changes                    -932.93 20130618          TRUJILLOP danrtest                        
+2013L 6KK64SA-----SUB6---CB  12GLCBDA201312001   67test after all DANR changes                     124.78 20130618          KULOW     danrtest                        
+2013L 6KK64SA-----SUB6---CB  12GLCBDA201312001   68test after all DANR changes                      35.10 20130618          PADILLA   danrtest                        
+2013L 6KK64SA-----SUB6---CB  12GLCBDA201312001   69test after all DANR changes                     119.75 20130618          ROBLESM   danrtest                        
+2013L 6LL64SA-----SB28---CB  12GLCBDA201312001   70test after all DANR changes                    -913.01 20130618          HERNANDEZPdanrtest                        
+2013L 6LL64SA-----SB28---CB  12GLCBDA201312001   71test after all DANR changes                    -632.84 20130618          HUNT      danrtest                        
+2013L 6LL64SA-----SB28---CB  12GLCBDA201312001   72test after all DANR changes                   -1074.64 20130618          SANCHEZ   danrtest                        
+2013L 6LL64SA-----SB28---CB  12GLCBDA201312001   73test after all DANR changes                    -602.91 20130618          SCHMIDT   danrtest                        
+2013L 6LL64SA-----SB28---CB  12GLCBDA201312001   74test after all DANR changes                   -2812.57 20130618          SEYMORED  danrtest                        
+2013L 6LL64SA-----SB28---CB  12GLCBDA201312001   75test after all DANR changes                    -448.40 20130618          TRUJILLO  danrtest                        
+2013L 6SC6203-----SB28---CB  12GLCBDA201312001   76test after all DANR changes                       7.60 20130618          ----------danrtest                        
+2013L 6SC6203PPSNESB28---CB  12GLCBDA201312001   77test after all DANR changes                     196.41 20130618          ----------danrtest                        
+2013L 6SC64SA-----SB28---CB  12GLCBDA201312001   78test after all DANR changes                    -556.70 20130618          DRISKILL  danrtest                        
+2013L 6SC64SA-----SB28---CB  12GLCBDA201312001   79test after all DANR changes                   -1006.56 20130618          HERNANDEZVdanrtest                        
+2013L 6SC64SA-----SB28---CB  12GLCBDA201312001   80test after all DANR changes                   -2237.21 20130618          MARTINEZC danrtest                        
+2013L 6SC64SA-----SB28---CB  12GLCBDA201312001   81test after all DANR changes                    -551.26 20130618          NIEBLAS   danrtest                        
+2013L 6SC64SA-----SB28---CB  12GLCBDA201312001   82test after all DANR changes                    -579.92 20130618          WATKINSJOAdanrtest                        
+2013L 6SF6202-----SB28---CB  12GLCBDA201312001   83test after all DANR changes                     158.33 20130618          JAMES     danrtest                        
+2013L 6SF6203PPSNESB28---CB  12GLCBDA201312001   84test after all DANR changes                      79.17 20130618          JAMES     danrtest                        
+2013L 6SF62SA-----SB28---CB  12GLCBDA201312001   85test after all DANR changes                   -1108.34 20130618          JAMES     danrtest                        
+2013L 6SF64SA-----SB28---CB  12GLCBDA201312001   86test after all DANR changes                    -304.83 20130618          ----------danrtest                        
+2013L 6SF64SA-----SB28---CB  12GLCBDA201312001   87test after all DANR changes                    -616.05 20130618          BEATON    danrtest                        
+2013L 6SF64SA-----SB28---CB  12GLCBDA201312001   88test after all DANR changes                    -885.09 20130618          CHILDERS  danrtest                        
+2013L 6SF64SA-----SB28---CB  12GLCBDA201312001   89test after all DANR changes                   -1428.03 20130618          FEDDERSEN danrtest                        
+2013L 6SF64SA-----SB28---CB  12GLCBDA201312001   90test after all DANR changes                    -430.65 20130618          FLAVELL   danrtest                        
+2013L 6SF64SA-----SB28---CB  12GLCBDA201312001   91test after all DANR changes                    -164.51 20130618          MECHAM    danrtest                        
+2013L 6SF64SA-----SB28---CB  12GLCBDA201312001   92test after all DANR changes                    -441.11 20130618          MENDOZA   danrtest                        
+2013L 6SF64SA-----SB28---CB  12GLCBDA201312001   93test after all DANR changes                   -1471.42 20130618          WEDGEWORTHdanrtest                        
+2013L 6SF64SA-----SB28---CB  12GLCBDA201312001   94test after all DANR changes                    -308.29 20130618          WILLIAMSM danrtest                        
+2013L 6WS6203PPGFSSB28---CB  12GLCBDA201312001   95test after all DANR changes                     273.60 20130618          HUTMACHER danrtest                        
+2013L 6WS64SA-----SB28---CB  12GLCBDA201312001   96test after all DANR changes                   -1616.65 20130618          COLE      danrtest                        
+2013L 6WS64SA-----SB28---CB  12GLCBDA201312001   97test after all DANR changes                   -1095.87 20130618          GARZA     danrtest                        
+2013L 6WS64SA-----SB28---CB  12GLCBDA201312001   98test after all DANR changes                   -2842.12 20130618          MOTLEYK   danrtest                        
+2013L 6WS64SA-----SB28---CB  12GLCBDA201312001   99test after all DANR changes                    -781.00 20130618          SOLORIOJ  danrtest                        
+2013L 6WS64SA-----SB28---CB  12GLCBDA201312001  100test after all DANR changes                    -226.16 20130618          SOLORIOR  danrtest                        
+2013L 743HYT1-----SUB6---CB  12GLCBDA201312001  101test after all DANR changes                      25.31 20130618          ----------danrtest                        
+2013L 744FDSP-----SUB6---CB  12GLCBDA201312001  102test after all DANR changes                     152.14 20130618          ----------danrtest                        
+2013L 844999969085SUB8---CB  12GLCBDA201312001  103test after all DANR changes                   -1228.89 20130618          ----------danrtest                        
+2013L 862999969085SUB8---CB  12GLCBDA201312001  104test after all DANR changes                  345916.26 20130618          ----------danrtest                        
+2013L 864999969085SUB8---CB  12GLCBDA201312001  105test after all DANR changes                   67775.82 20130618          ----------danrtest                        
+2013L AASCSTM-----SB28---CB  12GLCBDA201312001  106test after all DANR changes                   -1974.18 20130618          ----------danrtest                        
+2013L AASCSTM-----SB28---CB  12GLCBDA201312001  107test after all DANR changes                   -1698.60 20130618          MITLOEHNERdanrtest                        
+2013L AASCSTM-----SB28---CB  12GLCBDA201312001  108test after all DANR changes                    -957.14 20130618          OLTJEN    danrtest                        
+2013L AASCSTM-----SB28---CB  12GLCBDA201312001  109test after all DANR changes                   -2115.34 20130618          ROBINSON  danrtest                        
+2013L AASCSTM-----SB28---CB  12GLCBDA201312001  110test after all DANR changes                    -750.10 20130618          VANEENENNAdanrtest                        
+2013L AC1CSTM-----SB28---CB  12GLCBDA201312001  111test after all DANR changes                    -289.94 20130618          FCCBAR    danrtest                        
+2013L AC1CSTM-----SB28---CB  12GLCBDA201312001  112test after all DANR changes                    -676.98 20130618          FCCNLA    danrtest                        
+2013L AC1CSTM-----SB28---CB  12GLCBDA201312001  113test after all DANR changes                    -367.44 20130618          FCCSEJ    danrtest                        
+2013L AC2CSTM-----SB28---CB  12GLCBDA201312001  114test after all DANR changes                     540.02 20130618          250BOOTON danrtest                        
+2013L AC2CSTM-----SB28---CB  12GLCBDA201312001  115test after all DANR changes                     186.60 20130618          250CLARK  danrtest                        
+2013L AC2CSTM-----SB28---CB  12GLCBDA201312001  116test after all DANR changes                    -494.91 20130618          250GARCIA danrtest                        
+2013L AC2CSTM-----SB28---CB  12GLCBDA201312001  117test after all DANR changes                     905.29 20130618          250GOMEZ  danrtest                        
+2013L AC2CSTM-----SB28---CB  12GLCBDA201312001  118test after all DANR changes                      47.28 20130618          250ISAAC  danrtest                        
+2013L AC2CSTM-----SB28---CB  12GLCBDA201312001  119test after all DANR changes                     446.46 20130618          250LORENZEdanrtest                        
+2013L AC2CSTM-----SB28---CB  12GLCBDA201312001  120test after all DANR changes                    1520.32 20130618          250MASSA  danrtest                        
+2013L AC2CSTM-----SB28---CB  12GLCBDA201312001  121test after all DANR changes                    2754.30 20130618          250RIVERA danrtest                        
+2013L AC2CSTM-----SB28---CB  12GLCBDA201312001  122test after all DANR changes                     169.55 20130618          250TORRES danrtest                        
+2013L AC2CSTM-----SUB6---CB  12GLCBDA201312001  123test after all DANR changes                    4502.57 20130618          250BOOTON danrtest                        
+2013L AC2CSTM-----SUB6---CB  12GLCBDA201312001  124test after all DANR changes                    3300.57 20130618          250CLARK  danrtest                        
+2013L AC2CSTM-----SUB6---CB  12GLCBDA201312001  125test after all DANR changes                    4340.99 20130618          250GARCIA danrtest                        
+2013L AC2CSTM-----SUB6---CB  12GLCBDA201312001  126test after all DANR changes                    7870.18 20130618          250GOMEZ  danrtest                        
+2013L AC2CSTM-----SUB6---CB  12GLCBDA201312001  127test after all DANR changes                    3621.91 20130618          250ISAAC  danrtest                        
+2013L AC2CSTM-----SUB6---CB  12GLCBDA201312001  128test after all DANR changes                    2428.89 20130618          250LORENZEdanrtest                        
+2013L AC2CSTM-----SUB6---CB  12GLCBDA201312001  129test after all DANR changes                   11968.72 20130618          250MASSA  danrtest                        
+2013L AC2CSTM-----SUB6---CB  12GLCBDA201312001  130test after all DANR changes                   18868.10 20130618          250RIVERA danrtest                        
+2013L AC2CSTM-----SUB6---CB  12GLCBDA201312001  131test after all DANR changes                    2737.93 20130618          250TORRES danrtest                        
+2013L AC2CSTMITSTFSB28---CB  12GLCBDA201312001  132test after all DANR changes                    -540.02 20130618          250BOOTON danrtest                        
+2013L AC2CSTMITSTFSB28---CB  12GLCBDA201312001  133test after all DANR changes                   -1520.32 20130618          250MASSA  danrtest                        
+2013L AC2CSTMITSTFSB28---CB  12GLCBDA201312001  134test after all DANR changes                   -2754.30 20130618          250RIVERA danrtest                        
+2013L AC2CSTMITSTFSUB6---CB  12GLCBDA201312001  135test after all DANR changes                   -4502.57 20130618          250BOOTON danrtest                        
+2013L AC2CSTMITSTFSUB6---CB  12GLCBDA201312001  136test after all DANR changes                  -11968.72 20130618          250MASSA  danrtest                        
+2013L AC2CSTMITSTFSUB6---CB  12GLCBDA201312001  137test after all DANR changes                  -18868.10 20130618          250RIVERA danrtest                        
+2013L AC2CSTMOFSTFSB28---CB  12GLCBDA201312001  138test after all DANR changes                    -186.60 20130618          250CLARK  danrtest                        
+2013L AC2CSTMOFSTFSB28---CB  12GLCBDA201312001  139test after all DANR changes                     494.91 20130618          250GARCIA danrtest                        
+2013L AC2CSTMOFSTFSB28---CB  12GLCBDA201312001  140test after all DANR changes                    -905.29 20130618          250GOMEZ  danrtest                        
+2013L AC2CSTMOFSTFSB28---CB  12GLCBDA201312001  141test after all DANR changes                     -47.28 20130618          250ISAAC  danrtest                        
+2013L AC2CSTMOFSTFSB28---CB  12GLCBDA201312001  142test after all DANR changes                    -446.46 20130618          250LORENZEdanrtest                        
+2013L AC2CSTMOFSTFSB28---CB  12GLCBDA201312001  143test after all DANR changes                    -293.55 20130618          250TORRES danrtest                        
+2013L AC2CSTMOFSTFSUB6---CB  12GLCBDA201312001  144test after all DANR changes                   -3300.57 20130618          250CLARK  danrtest                        
+2013L AC2CSTMOFSTFSUB6---CB  12GLCBDA201312001  145test after all DANR changes                   -4340.99 20130618          250GARCIA danrtest                        
+2013L AC2CSTMOFSTFSUB6---CB  12GLCBDA201312001  146test after all DANR changes                   -7870.18 20130618          250GOMEZ  danrtest                        
+2013L AC2CSTMOFSTFSUB6---CB  12GLCBDA201312001  147test after all DANR changes                   -3621.91 20130618          250ISAAC  danrtest                        
+2013L AC2CSTMOFSTFSUB6---CB  12GLCBDA201312001  148test after all DANR changes                   -2428.89 20130618          250LORENZEdanrtest                        
+2013L AC2CSTMOFSTFSUB6---CB  12GLCBDA201312001  149test after all DANR changes                   -2737.93 20130618          250TORRES danrtest                        
+2013L AC3CSTM-----SB28---CB  12GLCBDA201312001  150test after all DANR changes                    -678.94 20130618          DECBFTV   danrtest                        
+2013L AC3CSTM-----SB28---CB  12GLCBDA201312001  151test after all DANR changes                    -266.96 20130618          LCWBFTV   danrtest                        
+2013L AC3CSTM-----SB28---CB  12GLCBDA201312001  152test after all DANR changes                    -455.58 20130618          MXGBFTV   danrtest                        
+2013L AC4CSTM-----SB28---CB  12GLCBDA201312001  153test after all DANR changes                    -538.72 20130618          DGWP      danrtest                        
+2013L AC4CSTM-----SUB6---CB  12GLCBDA201312001  154test after all DANR changes                     562.07 20130618          DGWP      danrtest                        
+2013L ACADTRN-----SUB6---CB  12GLCBDA201312001  155test after all DANR changes                     130.00 20130618          ----------danrtest                        
+2013L ACADTRNCRUCLSUB6---CB  12GLCBDA201312001  156test after all DANR changes                    -130.00 20130618          ----------danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  157test after all DANR changes                    -274.38 20130618          ADOACG    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  158test after all DANR changes                    -112.87 20130618          ADOAKF    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  159test after all DANR changes                     -55.90 20130618          ADOALG    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  160test after all DANR changes                    -109.48 20130618          ADOANL    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  161test after all DANR changes                    -120.40 20130618          ADOBJN    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  162test after all DANR changes                     -70.12 20130618          ADOBRM    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  163test after all DANR changes                    -132.28 20130618          ADOBTC    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  164test after all DANR changes                    -132.92 20130618          ADOCD     danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  165test after all DANR changes                     -82.72 20130618          ADOCEH    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  166test after all DANR changes                    -511.12 20130618          ADODMK    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  167test after all DANR changes                    -267.88 20130618          ADOJAB    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  168test after all DANR changes                    -132.92 20130618          ADOKAD    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  169test after all DANR changes                    -143.76 20130618          ADOKJT    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  170test after all DANR changes                    -138.82 20130618          ADOLAF    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  171test after all DANR changes                     -61.34 20130618          ADOMXW    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  172test after all DANR changes                    -136.54 20130618          ADONO     danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  173test after all DANR changes                     -96.62 20130618          ADOPXG    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  174test after all DANR changes                    -191.62 20130618          ADORMS    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  175test after all DANR changes                     -73.22 20130618          ADORSF    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  176test after all DANR changes                    -218.42 20130618          ADOSCP    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  177test after all DANR changes                    -130.84 20130618          ADOSRK    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  178test after all DANR changes                     -88.94 20130618          ADOSRS    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  179test after all DANR changes                    -144.54 20130618          ADOTEP    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  180test after all DANR changes                    -382.72 20130618          ADOTMK    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  181test after all DANR changes                    -139.00 20130618          ADOYXC    danrtest                        
+2013L AECCSTM-----SB28---CB  12GLCBDA201312001  182test after all DANR changes                   -1804.00 20130618          AREF_KMKL danrtest                        
+2013L AECCSTM-----SB28---CB  12GLCBDA201312001  183test after all DANR changes                   -1355.04 20130618          AREF_RLCL danrtest                        
+2013L AFSCSTM-----SB28---CB  12GLCBDA201312001  184test after all DANR changes                     284.56 20130618          ----------danrtest                        
+2013L AFSCSTM-----SB28---CB  12GLCBDA201312001  185test after all DANR changes                   -1953.84 20130618          CKW       danrtest                        
+2013L AFSCSTM-----SB28---CB  12GLCBDA201312001  186test after all DANR changes                   -1712.40 20130618          CMB       danrtest                        
+2013L AFSCSTM-----SB28---CB  12GLCBDA201312001  187test after all DANR changes                    -284.56 20130618          CSM       danrtest                        
+2013L AFSCSTM-----SB28---CB  12GLCBDA201312001  188test after all DANR changes                   -2133.14 20130618          DMB       danrtest                        
+2013L AFSCSTM-----SB28---CB  12GLCBDA201312001  189test after all DANR changes                    -619.44 20130618          LJH       danrtest                        
+2013L AFSCSTM-----SUB6---CB  12GLCBDA201312001  190test after all DANR changes                   -1747.53 20130618          ----------danrtest                        
+2013L AHECSTM-----SB28---CB  12GLCBDA201312001  191test after all DANR changes                   -1583.32 20130618          HCESMITHM danrtest                        
+2013L AHECSTM-----SB28---CB  12GLCBDA201312001  192test after all DANR changes                    -125.08 20130618          LOKI      danrtest                        
+2013L ALALCES-----SB28---CB  12GLCBDA201312001  193test after all DANR changes                     157.26 20130618          ----------danrtest                        
+2013L ALALCES-----SB28---CB  12GLCBDA201312001  194test after all DANR changes                    -157.26 20130618          SISNEROZ,Jdanrtest                        
+2013L ALALCES-----SUB6---CB  12GLCBDA201312001  195test after all DANR changes                    1162.73 20130618          ----------danrtest                        
+2013L ALALCES-----SUB6---CB  12GLCBDA201312001  196test after all DANR changes                   -1162.73 20130618          SISNEROZ,Jdanrtest                        
+2013L ALVANEE-----SB28---CB  12GLCBDA201312001  197test after all DANR changes                    -115.23 20130618          ----------danrtest                        
+2013L ALWCSTM-----SB28---CB  12GLCBDA201312001  198test after all DANR changes                   -1766.70 20130618          240PETTYGRdanrtest                        
+2013L ALWCSTM-----SB28---CB  12GLCBDA201312001  199test after all DANR changes                    -863.14 20130618          240SANDOVAdanrtest                        
+2013L ALWCSTM-----SB28---CB  12GLCBDA201312001  200test after all DANR changes                    -802.56 20130618          240SCHWANKdanrtest                        
+2013L ALWCSTM-----SB28---CB  12GLCBDA201312001  201test after all DANR changes                   -1474.79 20130618          242LOUIE  danrtest                        
+2013L ALWCSTM-----SB28---CB  12GLCBDA201312001  202test after all DANR changes                      36.34 20130618          242MATISTAdanrtest                        
+2013L ALWCSTM-----SB28---CB  12GLCBDA201312001  203test after all DANR changes                   -1229.87 20130618          243MATA   danrtest                        
+2013L ALWCSTM-----SUB6---CB  12GLCBDA201312001  204test after all DANR changes                   -5853.31 20130618          242LOUIE  danrtest                        
+2013L ALWCSTM-----SUB6---CB  12GLCBDA201312001  205test after all DANR changes                    -656.22 20130618          242MATISTAdanrtest                        
+2013L ALWCSTM-----SUB6---CB  12GLCBDA201312001  206test after all DANR changes                   -8157.80 20130618          243MATA   danrtest                        
+2013L ALWCSTMAAFOPSB28---CB  12GLCBDA201312001  207test after all DANR changes                     619.83 20130618          243MATA   danrtest                        
+2013L ALWCSTMAAFOPSUB6---CB  12GLCBDA201312001  208test after all DANR changes                    8157.80 20130618          243MATA   danrtest                        
+2013L ALWCSTMAASRASB28---CB  12GLCBDA201312001  209test after all DANR changes                     518.94 20130618          242LOUIE  danrtest                        
+2013L ALWCSTMAASRASB28---CB  12GLCBDA201312001  210test after all DANR changes                     -95.52 20130618          242MATISTAdanrtest                        
+2013L ALWCSTMAASRASUB6---CB  12GLCBDA201312001  211test after all DANR changes                    6096.79 20130618          242LOUIE  danrtest                        
+2013L ALWCSTMAASRASUB6---CB  12GLCBDA201312001  212test after all DANR changes                     656.22 20130618          242MATISTAdanrtest                        
+2013L ANTCSTM-----SB28---CB  12GLCBDA201312001  213test after all DANR changes                   -1188.68 20130618          NUTLLK    danrtest                        
+2013L ANTCSTM-----SB28---CB  12GLCBDA201312001  214test after all DANR changes                   -1465.38 20130618          NUTSZC    danrtest                        
+2013L APPCSABPPEIPSB28---CB  12GLCBDA201312001  215test after all DANR changes                     360.36 20130618          ----------danrtest                        
+2013L APPCSABPPEIPSUB6---CB  12GLCBDA201312001  216test after all DANR changes                    1459.18 20130618          ----------danrtest                        
+2013L APPCSTM-----SB28---CB  12GLCBDA201312001  217test after all DANR changes                     360.36 20130618          DAGP      danrtest                        
+2013L APPCSTM-----SB28---CB  12GLCBDA201312001  218test after all DANR changes                    -799.93 20130618          KVSP      danrtest                        
+2013L APPCSTM-----SUB6---CB  12GLCBDA201312001  219test after all DANR changes                    1459.18 20130618          DAGP      danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  220test after all DANR changes                    1573.27 20130618          ----------danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  221test after all DANR changes                     -14.94 20130618          ADAMS     danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  222test after all DANR changes                     216.75 20130618          BIASI     danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  223test after all DANR changes                      71.84 20130618          BONIN     danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  224test after all DANR changes                     177.80 20130618          BOONET    danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  225test after all DANR changes                    1882.49 20130618          CANTWELL  danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  226test after all DANR changes                     105.27 20130618          CHOWN-ZAC danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  227test after all DANR changes                    1758.45 20130618          CRISOSTO  danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  228test after all DANR changes                     297.68 20130618          CRISTLER  danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  229test after all DANR changes                      18.51 20130618          CUBBAGE   danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  230test after all DANR changes                    1616.00 20130618          DEJONG    danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  231test after all DANR changes                    3742.56 20130618          DITOMASO  danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  232test after all DANR changes                      89.35 20130618          DODGE     danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  233test after all DANR changes                    1635.75 20130618          EVANS     danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  234test after all DANR changes                     595.18 20130618          FENNIMORE danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  235test after all DANR changes                    2546.03 20130618          FERGUSON  danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  236test after all DANR changes                     355.92 20130618          GREENLEAF danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  237test after all DANR changes                    1153.96 20130618          HALL-JOHN danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  238test after all DANR changes                   -3480.49 20130618          HILLJ     danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  239test after all DANR changes                     870.07 20130618          HOOKER    danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  240test after all DANR changes                     191.35 20130618          JACKSONJ  danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  241test after all DANR changes                   -3760.34 20130618          JOHNSON   danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  242test after all DANR changes                    -536.78 20130618          KERNER    danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  243test after all DANR changes                      47.12 20130618          LAMPINEN  danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  244test after all DANR changes                      34.20 20130618          LANINI    danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  245test after all DANR changes                    1360.40 20130618          LARSON    danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  246test after all DANR changes                     727.12 20130618          LIETH     danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  247test after all DANR changes                     859.89 20130618          MADDERRA  danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  248test after all DANR changes                   -1153.75 20130618          MANDRES   danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  249test after all DANR changes                     339.19 20130618          MARRUSH   danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  250test after all DANR changes                     136.18 20130618          MCVARISH  danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  251test after all DANR changes                     514.80 20130618          NIJJAR-BALdanrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  252test after all DANR changes                     401.64 20130618          OKI       danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  253test after all DANR changes                     738.45 20130618          PINNEY-R  danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  254test after all DANR changes                      21.69 20130618          REIDS     danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  255test after all DANR changes                     354.04 20130618          ROBERTS   danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  256test after all DANR changes                     367.01 20130618          SABERI-S  danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  257test after all DANR changes                     418.14 20130618          SINGHVIDALdanrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  258test after all DANR changes                     812.63 20130618          SMAYSTRLA danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  259test after all DANR changes                      72.25 20130618          STEWARTF  danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  260test after all DANR changes                    2051.88 20130618          SUSLOW    danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  261test after all DANR changes                    -143.54 20130618          VIDACA-J  danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  262test after all DANR changes                   52047.93 20130618          ----------danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  263test after all DANR changes                     807.29 20130618          ADAMS     danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  264test after all DANR changes                   12709.00 20130618          AJWA      danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  265test after all DANR changes                    1455.55 20130618          BIASI     danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  266test after all DANR changes                    2365.44 20130618          BONIN     danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  267test after all DANR changes                    1881.48 20130618          BOONET    danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  268test after all DANR changes                   14300.28 20130618          CANTWELL  danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  269test after all DANR changes                    1522.50 20130618          CHOWN-ZAC danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  270test after all DANR changes                      28.24 20130618          COLLINS,K danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  271test after all DANR changes                    9385.64 20130618          CRISOSTO  danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  272test after all DANR changes                    2222.86 20130618          CRISTLER  danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  273test after all DANR changes                    1681.39 20130618          CUBBAGE   danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  274test after all DANR changes                    6612.36 20130618          DEJONG    danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  275test after all DANR changes                   15313.92 20130618          DITOMASO  danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  276test after all DANR changes                    5352.28 20130618          DODGE     danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  277test after all DANR changes                   12425.84 20130618          EVANS     danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  278test after all DANR changes                    9107.61 20130618          FENNIMORE danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  279test after all DANR changes                   10417.94 20130618          FERGUSON  danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  280test after all DANR changes                    5395.69 20130618          GREENLEAF danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  281test after all DANR changes                    9657.59 20130618          HALL-JOHN danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  282test after all DANR changes                   12058.92 20130618          HARTZ     danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  283test after all DANR changes                    7147.12 20130618          HILLJ     danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  284test after all DANR changes                   10645.86 20130618          HOOKER    danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  285test after all DANR changes                    5452.80 20130618          HUTMACHER danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  286test after all DANR changes                    2600.59 20130618          JACKSONJ  danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  287test after all DANR changes                   15909.20 20130618          JOHNSON   danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  288test after all DANR changes                   13632.00 20130618          KAFFKA    danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  289test after all DANR changes                   14461.52 20130618          KERNER    danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  290test after all DANR changes                   10998.05 20130618          LAMPINEN  danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  291test after all DANR changes                   15954.58 20130618          LANINI    danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  292test after all DANR changes                    5566.56 20130618          LARSON    danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  293test after all DANR changes                    5692.44 20130618          LIETH     danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  294test after all DANR changes                    5319.61 20130618          MADDERRA  danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  295test after all DANR changes                    8177.10 20130618          MANDRES   danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  296test after all DANR changes                    4493.28 20130618          MARRUSH   danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  297test after all DANR changes                    4174.78 20130618          MCVARISH  danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  298test after all DANR changes                      16.13 20130618          MCWAYNE   danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  299test after all DANR changes                    3854.28 20130618          MITCHAM   danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  300test after all DANR changes                    9531.76 20130618          MITCHELL  danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  301test after all DANR changes                    5490.86 20130618          NIJJAR-BALdanrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  302test after all DANR changes                    7298.74 20130618          OKI       danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  303test after all DANR changes                    7684.56 20130618          PINNEY-R  danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  304test after all DANR changes                    7595.40 20130618          PUTNAM    danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  305test after all DANR changes                    1150.80 20130618          REIDS     danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  306test after all DANR changes                    3786.94 20130618          ROBERTS   danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  307test after all DANR changes                    9378.05 20130618          SABERI-S  danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  308test after all DANR changes                    3663.80 20130618          SINGHVIDALdanrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  309test after all DANR changes                    8668.55 20130618          SMAYSTRLA danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  310test after all DANR changes                    3105.35 20130618          STEWARTF  danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  311test after all DANR changes                   16856.62 20130618          SUSLOW    danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  312test after all DANR changes                   14863.64 20130618          TATE      danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  313test after all DANR changes                    4199.85 20130618          VIDACA-J  danrtest                        
+2013L APSCSTMASFLPSB28---CB  12GLCBDA201312001  314test after all DANR changes                      73.13 20130618          ----------danrtest                        
+2013L APSCSTMASFLPSB28---CB  12GLCBDA201312001  315test after all DANR changes                     -73.13 20130618          CRUM,R    danrtest                        
+2013L APSCSTMASFLPSB28---CB  12GLCBDA201312001  316test after all DANR changes                   -1206.95 20130618          SMAYSTRLA danrtest                        
+2013L APSCSTMASFLPSUB6---CB  12GLCBDA201312001  317test after all DANR changes                    1197.09 20130618          ----------danrtest                        
+2013L APSCSTMASFLPSUB6---CB  12GLCBDA201312001  318test after all DANR changes                   -1305.33 20130618          CRUM,R    danrtest                        
+2013L APSCSTMASFLPSUB6---CB  12GLCBDA201312001  319test after all DANR changes                   -8668.55 20130618          SMAYSTRLA danrtest                        
+2013L APSCSTMASFLVSB28---CB  12GLCBDA201312001  320test after all DANR changes                    -763.99 20130618          ----------danrtest                        
+2013L APSCSTMASFLVSB28---CB  12GLCBDA201312001  321test after all DANR changes                    -177.80 20130618          BOONET    danrtest                        
+2013L APSCSTMASFLVSB28---CB  12GLCBDA201312001  322test after all DANR changes                    -271.08 20130618          HERRERA,NIdanrtest                        
+2013L APSCSTMASFLVSB28---CB  12GLCBDA201312001  323test after all DANR changes                    -433.53 20130618          JACKSONJ  danrtest                        
+2013L APSCSTMASFLVSB28---CB  12GLCBDA201312001  324test after all DANR changes                    1153.75 20130618          MANDRES   danrtest                        
+2013L APSCSTMASFLVSB28---CB  12GLCBDA201312001  325test after all DANR changes                    -116.28 20130618          MONTOYA   danrtest                        
+2013L APSCSTMASFLVSB28---CB  12GLCBDA201312001  326test after all DANR changes                    -477.31 20130618          MONTOYA,-Sdanrtest                        
+2013L APSCSTMASFLVSB28---CB  12GLCBDA201312001  327test after all DANR changes                    -335.87 20130618          STEWARTF  danrtest                        
+2013L APSCSTMASFLVSUB6---CB  12GLCBDA201312001  328test after all DANR changes                   17194.84 20130618          ----------danrtest                        
+2013L APSCSTMASFLVSUB6---CB  12GLCBDA201312001  329test after all DANR changes                   -1881.48 20130618          BOONET    danrtest                        
+2013L APSCSTMASFLVSUB6---CB  12GLCBDA201312001  330test after all DANR changes                     -28.24 20130618          COLLINS,K danrtest                        
+2013L APSCSTMASFLVSUB6---CB  12GLCBDA201312001  331test after all DANR changes                  -10540.48 20130618          HERRERA,NIdanrtest                        
+2013L APSCSTMASFLVSUB6---CB  12GLCBDA201312001  332test after all DANR changes                   -2600.59 20130618          JACKSONJ  danrtest                        
+2013L APSCSTMASFLVSUB6---CB  12GLCBDA201312001  333test after all DANR changes                   -8177.10 20130618          MANDRES   danrtest                        
+2013L APSCSTMASFLVSUB6---CB  12GLCBDA201312001  334test after all DANR changes                  -16874.20 20130618          MONTOYA,-Sdanrtest                        
+2013L APSCSTMASFLVSUB6---CB  12GLCBDA201312001  335test after all DANR changes                   -3105.35 20130618          STEWARTF  danrtest                        
+2013L APSCSTMASFLWSB28---CB  12GLCBDA201312001  336test after all DANR changes                    -306.48 20130618          BONIN     danrtest                        
+2013L APSCSTMASFLWSB28---CB  12GLCBDA201312001  337test after all DANR changes                    -439.66 20130618          CRISTLER  danrtest                        
+2013L APSCSTMASFLWSUB6---CB  12GLCBDA201312001  338test after all DANR changes                   -2365.44 20130618          BONIN     danrtest                        
+2013L APSCSTMASFLWSUB6---CB  12GLCBDA201312001  339test after all DANR changes                   -2222.86 20130618          CRISTLER  danrtest                        
+2013L APSCSTMASITESB28---CB  12GLCBDA201312001  340test after all DANR changes                     263.61 20130618          ----------danrtest                        
+2013L APSCSTMASITESB28---CB  12GLCBDA201312001  341test after all DANR changes                    -105.27 20130618          CHOWN-ZAC danrtest                        
+2013L APSCSTMASITESB28---CB  12GLCBDA201312001  342test after all DANR changes                     -18.51 20130618          CUBBAGE   danrtest                        
+2013L APSCSTMASITESB28---CB  12GLCBDA201312001  343test after all DANR changes                    1047.67 20130618          DUSSAULT,Ldanrtest                        
+2013L APSCSTMASITESB28---CB  12GLCBDA201312001  344test after all DANR changes                   -1197.36 20130618          HALL-JOHN danrtest                        
+2013L APSCSTMASITESB28---CB  12GLCBDA201312001  345test after all DANR changes                     384.70 20130618          KERNER    danrtest                        
+2013L APSCSTMASITESB28---CB  12GLCBDA201312001  346test after all DANR changes                     282.55 20130618          SZETO,B   danrtest                        
+2013L APSCSTMASITESB28---CB  12GLCBDA201312001  347test after all DANR changes                     143.54 20130618          VIDACA-J  danrtest                        
+2013L APSCSTMASITESUB6---CB  12GLCBDA201312001  348test after all DANR changes                    2637.32 20130618          ----------danrtest                        
+2013L APSCSTMASITESUB6---CB  12GLCBDA201312001  349test after all DANR changes                   -1522.50 20130618          CHOWN-ZAC danrtest                        
+2013L APSCSTMASITESUB6---CB  12GLCBDA201312001  350test after all DANR changes                   -1681.39 20130618          CUBBAGE   danrtest                        
+2013L APSCSTMASITESUB6---CB  12GLCBDA201312001  351test after all DANR changes                   -1640.78 20130618          DUSSAULT,Ldanrtest                        
+2013L APSCSTMASITESUB6---CB  12GLCBDA201312001  352test after all DANR changes                   -9657.59 20130618          HALL-JOHN danrtest                        
+2013L APSCSTMASITESUB6---CB  12GLCBDA201312001  353test after all DANR changes                  -14461.52 20130618          KERNER    danrtest                        
+2013L APSCSTMASITESUB6---CB  12GLCBDA201312001  354test after all DANR changes                   -7728.13 20130618          SZETO,B   danrtest                        
+2013L APSCSTMASITESUB6---CB  12GLCBDA201312001  355test after all DANR changes                   -4199.85 20130618          VIDACA-J  danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  356test after all DANR changes                    -885.84 20130618          ----------danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  357test after all DANR changes                     -55.34 20130618          ADAMS     danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  358test after all DANR changes                     598.90 20130618          CHAVEZ,DANdanrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  359test after all DANR changes                    -604.64 20130618          GREENLEAF danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  360test after all DANR changes                   -1027.63 20130618          MADDERRA  danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  361test after all DANR changes                    -593.13 20130618          MARRUSH   danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  362test after all DANR changes                    -447.48 20130618          MCVARISH  danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  363test after all DANR changes                      23.62 20130618          MCWAYNE   danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  364test after all DANR changes                     -70.39 20130618          MCWAYNE,T danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  365test after all DANR changes                    -763.52 20130618          NIJJAR-BALdanrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  366test after all DANR changes                     -89.05 20130618          REIDS     danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  367test after all DANR changes                    -583.86 20130618          ROBERTS   danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  368test after all DANR changes                    -367.01 20130618          SABERI-S  danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  369test after all DANR changes                    -620.20 20130618          SINGHVIDALdanrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  370test after all DANR changes                   11656.75 20130618          ----------danrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  371test after all DANR changes                    -807.29 20130618          ADAMS     danrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  372test after all DANR changes                  -14223.42 20130618          CHAVEZ,DANdanrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  373test after all DANR changes                   -5395.69 20130618          GREENLEAF danrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  374test after all DANR changes                   -5319.61 20130618          MADDERRA  danrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  375test after all DANR changes                   -4493.28 20130618          MARRUSH   danrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  376test after all DANR changes                   -4174.78 20130618          MCVARISH  danrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  377test after all DANR changes                     -16.13 20130618          MCWAYNE   danrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  378test after all DANR changes                   -2641.11 20130618          MCWAYNE,T danrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  379test after all DANR changes                   -5490.86 20130618          NIJJAR-BALdanrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  380test after all DANR changes                   -1150.80 20130618          REIDS     danrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  381test after all DANR changes                   -3786.94 20130618          ROBERTS   danrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  382test after all DANR changes                   -9378.05 20130618          SABERI-S  danrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  383test after all DANR changes                   -3663.80 20130618          SINGHVIDALdanrtest                        
+2013L APSCSTMASPHPSB28---CB  12GLCBDA201312001  384test after all DANR changes                    -216.75 20130618          BIASI     danrtest                        
+2013L APSCSTMASPHPSUB6---CB  12GLCBDA201312001  385test after all DANR changes                   -1455.55 20130618          BIASI     danrtest                        
+2013L APSCSTMASRICSB28---CB  12GLCBDA201312001  386test after all DANR changes                   -1656.70 20130618          ----------danrtest                        
+2013L APSCSTMASRICSB28---CB  12GLCBDA201312001  387test after all DANR changes                     -89.35 20130618          DODGE     danrtest                        
+2013L APSCSTMASRICSB28---CB  12GLCBDA201312001  388test after all DANR changes                   -1323.28 20130618          DUSSAULT,Ldanrtest                        
+2013L APSCSTMASRICSB28---CB  12GLCBDA201312001  389test after all DANR changes                   -1046.16 20130618          HOOKER    danrtest                        
+2013L APSCSTMASRICSB28---CB  12GLCBDA201312001  390test after all DANR changes                    2116.10 20130618          NELSON,D  danrtest                        
+2013L APSCSTMASRICSB28---CB  12GLCBDA201312001  391test after all DANR changes                   -1283.39 20130618          WEBSTER,-Sdanrtest                        
+2013L APSCSTMASRICSUB6---CB  12GLCBDA201312001  392test after all DANR changes                   13213.66 20130618          ----------danrtest                        
+2013L APSCSTMASRICSUB6---CB  12GLCBDA201312001  393test after all DANR changes                   -5352.28 20130618          DODGE     danrtest                        
+2013L APSCSTMASRICSUB6---CB  12GLCBDA201312001  394test after all DANR changes                   -9626.13 20130618          DUSSAULT,Ldanrtest                        
+2013L APSCSTMASRICSUB6---CB  12GLCBDA201312001  395test after all DANR changes                  -10645.86 20130618          HOOKER    danrtest                        
+2013L APSCSTMASRICSUB6---CB  12GLCBDA201312001  396test after all DANR changes                     -90.41 20130618          NELSON, D danrtest                        
+2013L APSCSTMASRICSUB6---CB  12GLCBDA201312001  397test after all DANR changes                  -15055.05 20130618          NELSON,D  danrtest                        
+2013L APSCSTMASRICSUB6---CB  12GLCBDA201312001  398test after all DANR changes                   -8725.43 20130618          WEBSTER,-Sdanrtest                        
+2013L APSCSTMASSAFSB28---CB  12GLCBDA201312001  399test after all DANR changes                    -738.45 20130618          PINNEY-R  danrtest                        
+2013L APSCSTMASSAFSUB6---CB  12GLCBDA201312001  400test after all DANR changes                    1576.63 20130618          ----------danrtest                        
+2013L APSCSTMASSAFSUB6---CB  12GLCBDA201312001  401test after all DANR changes                   -7684.56 20130618          PINNEY-R  danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  402test after all DANR changes                   -1700.50 20130618          AJWA      danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  403test after all DANR changes                   -3706.49 20130618          CANTWELL  danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  404test after all DANR changes                   -2930.75 20130618          CRISOSTO  danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  405test after all DANR changes                   -2424.00 20130618          DEJONG    danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  406test after all DANR changes                   -5613.84 20130618          DITOMASO  danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  407test after all DANR changes                   -3220.67 20130618          EVANS     danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  408test after all DANR changes                   -1785.54 20130618          FENNIMORE danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  409test after all DANR changes                   -2546.03 20130618          FERGUSON  danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  410test after all DANR changes                    -806.76 20130618          HARTZ     danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  411test after all DANR changes                    2460.81 20130618          HILLJ     danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  412test after all DANR changes                    1453.02 20130618          JOHNSON   danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  413test after all DANR changes                     -47.12 20130618          LAMPINEN  danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  414test after all DANR changes                     -34.20 20130618          LANINI    danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  415test after all DANR changes                   -2040.60 20130618          LARSON    danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  416test after all DANR changes                   -1090.68 20130618          LIETH     danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  417test after all DANR changes                    -515.72 20130618          MITCHAM   danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  418test after all DANR changes                    -901.97 20130618          OKI       danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  419test after all DANR changes                   -2051.88 20130618          SUSLOW    danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  420test after all DANR changes                    5103.39 20130618          ----------danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  421test after all DANR changes                  -12709.00 20130618          AJWA      danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  422test after all DANR changes                  -14300.28 20130618          CANTWELL  danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  423test after all DANR changes                   -9385.64 20130618          CRISOSTO  danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  424test after all DANR changes                   -6612.36 20130618          DEJONG    danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  425test after all DANR changes                  -15313.92 20130618          DITOMASO  danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  426test after all DANR changes                  -12425.84 20130618          EVANS     danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  427test after all DANR changes                   -9107.61 20130618          FENNIMORE danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  428test after all DANR changes                  -10417.94 20130618          FERGUSON  danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  429test after all DANR changes                  -16177.14 20130618          HANSON-B  danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  430test after all DANR changes                  -12058.92 20130618          HARTZ     danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  431test after all DANR changes                   -7147.12 20130618          HILLJ     danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  432test after all DANR changes                   -5452.80 20130618          HUTMACHER danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  433test after all DANR changes                  -15909.20 20130618          JOHNSON   danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  434test after all DANR changes                  -13632.00 20130618          KAFFKA    danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  435test after all DANR changes                  -10998.05 20130618          LAMPINEN  danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  436test after all DANR changes                  -15954.58 20130618          LANINI    danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  437test after all DANR changes                   -5566.56 20130618          LARSON    danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  438test after all DANR changes                   -5692.44 20130618          LIETH     danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  439test after all DANR changes                   -3854.28 20130618          MITCHAM   danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  440test after all DANR changes                   -9531.76 20130618          MITCHELL  danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  441test after all DANR changes                   -7298.74 20130618          OKI       danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  442test after all DANR changes                   -7595.40 20130618          PUTNAM    danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  443test after all DANR changes                  -16856.62 20130618          SUSLOW    danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  444test after all DANR changes                  -14863.64 20130618          TATE      danrtest                        
+2013L APU62SA-----SB28---CB  12GLCBDA201312001  445test after all DANR changes                     -44.66 20130618          ----------danrtest                        
+2013L APU62SA-----SB28---CB  12GLCBDA201312001  446test after all DANR changes                    -553.58 20130618          ELLSWORTH danrtest                        
+2013L APU62SA-----SB28---CB  12GLCBDA201312001  447test after all DANR changes                    -334.70 20130618          JORDAN    danrtest                        
+2013L APU62SA-----SB28---CB  12GLCBDA201312001  448test after all DANR changes                   -1101.48 20130618          RODRIGUESKdanrtest                        
+2013L APU62SA-----SB28---CB  12GLCBDA201312001  449test after all DANR changes                    -318.24 20130618          TISE      danrtest                        
+2013L ASIGFI1-----SUB6---CB  12GLCBDA201312001  450test after all DANR changes                      22.96 20130618          ----------danrtest                        
+2013L AVECSTM-----SB28---CB  12GLCBDA201312001  451test after all DANR changes                     -85.78 20130618          AVICCAB   danrtest                        
+2013L AVECSTM-----SB28---CB  12GLCBDA201312001  452test after all DANR changes                   -1124.24 20130618          AVITAO    danrtest                        
+2013L AVECSTM-----SB28---CB  12GLCBDA201312001  453test after all DANR changes                    -691.92 20130618          AVITMWF   danrtest                        
+2013L AVPPSA4-----SB28---CB  12GLCBDA201312001  454test after all DANR changes                    -801.24 20130618          ----------danrtest                        
+2013L AVPPSA4-----SB28---CB  12GLCBDA201312001  455test after all DANR changes                    1832.95 20130618          CARUSOME  danrtest                        
+2013L AVPPSA4-----SB28---CB  12GLCBDA201312001  456test after all DANR changes                    3311.16 20130618          FROST     danrtest                        
+2013L AVPPSA4-----SB28---CB  12GLCBDA201312001  457test after all DANR changes                     289.46 20130618          WARRENJOA danrtest                        
+2013L AVPPSA4-----SUB6---CB  12GLCBDA201312001  458test after all DANR changes                    -284.44 20130618          ----------danrtest                        
+2013L AVPPSA4-----SUB6---CB  12GLCBDA201312001  459test after all DANR changes                   14345.64 20130618          CARUSOME  danrtest                        
+2013L AVPPSA4-----SUB6---CB  12GLCBDA201312001  460test after all DANR changes                   16642.08 20130618          FROST     danrtest                        
+2013L AVPPSA4-----SUB6---CB  12GLCBDA201312001  461test after all DANR changes                   10723.80 20130618          WARRENJOA danrtest                        
+2013L AVPPSA4ADMINSB28---CB  12GLCBDA201312001  462test after all DANR changes                   -1832.95 20130618          CARUSOME  danrtest                        
+2013L AVPPSA4ADMINSB28---CB  12GLCBDA201312001  463test after all DANR changes                    -289.46 20130618          WARRENJOA danrtest                        
+2013L AVPPSA4ADMINSUB6---CB  12GLCBDA201312001  464test after all DANR changes                  -14345.64 20130618          CARUSOME  danrtest                        
+2013L AVPPSA4ADMINSUB6---CB  12GLCBDA201312001  465test after all DANR changes                  -10723.80 20130618          WARRENJOA danrtest                        
+2013L AVPPSA4WEFGNSB28---CB  12GLCBDA201312001  466test after all DANR changes                     801.24 20130618          ----------danrtest                        
+2013L AVPPSA4WEFGNSB28---CB  12GLCBDA201312001  467test after all DANR changes                   -3311.16 20130618          FROST     danrtest                        
+2013L AVPPSA4WEFGNSUB6---CB  12GLCBDA201312001  468test after all DANR changes                     284.44 20130618          ----------danrtest                        
+2013L AVPPSA4WEFGNSUB6---CB  12GLCBDA201312001  469test after all DANR changes                  -16642.08 20130618          FROST     danrtest                        
+2013L AVPPSA6-----SB28---CB  12GLCBDA201312001  470test after all DANR changes                    -239.33 20130618          ----------danrtest                        
+2013L AVPPSA6-----SB28---CB  12GLCBDA201312001  471test after all DANR changes                    2504.13 20130618          FROST     danrtest                        
+2013L AVPPSA6-----SB28---CB  12GLCBDA201312001  472test after all DANR changes                     289.46 20130618          WARRENJOA danrtest                        
+2013L AVPPSA6-----SUB6---CB  12GLCBDA201312001  473test after all DANR changes                     396.01 20130618          ----------danrtest                        
+2013L AVPPSA6-----SUB6---CB  12GLCBDA201312001  474test after all DANR changes                   13365.68 20130618          FROST     danrtest                        
+2013L AVPPSA6-----SUB6---CB  12GLCBDA201312001  475test after all DANR changes                   10711.19 20130618          WARRENJOA danrtest                        
+2013L AVPPSA6ADMINSB28---CB  12GLCBDA201312001  476test after all DANR changes                    -289.46 20130618          WARRENJOA danrtest                        
+2013L AVPPSA6ADMINSUB6---CB  12GLCBDA201312001  477test after all DANR changes                  -10711.19 20130618          WARRENJOA danrtest                        
+2013L AVPPSA6ETAKESUB6---CB  12GLCBDA201312001  478test after all DANR changes                    -480.97 20130618          ----------danrtest                        
+2013L AVPPSA6WEFGNSB28---CB  12GLCBDA201312001  479test after all DANR changes                     239.33 20130618          ----------danrtest                        
+2013L AVPPSA6WEFGNSB28---CB  12GLCBDA201312001  480test after all DANR changes                   -4173.55 20130618          FROST     danrtest                        
+2013L AVPPSA6WEFGNSUB6---CB  12GLCBDA201312001  481test after all DANR changes                      84.96 20130618          ----------danrtest                        
+2013L AVPPSA6WEFGNSUB6---CB  12GLCBDA201312001  482test after all DANR changes                  -13365.68 20130618          FROST     danrtest                        
+2013L AWFCSTM-----SB28---CB  12GLCBDA201312001  483test after all DANR changes                    -735.46 20130618          WFCCACALCTdanrtest                        
+2013L AXECSTM-----SB28---CB  12GLCBDA201312001  484test after all DANR changes                   -1909.64 20130618          ENTECM6780danrtest                        
+2013L AXECSTM-----SB28---CB  12GLCBDA201312001  485test after all DANR changes                   -1751.76 20130618          ENTFGZ1513danrtest                        
+2013L AXECSTM-----SB28---CB  12GLCBDA201312001  486test after all DANR changes                    -850.68 20130618          ENTKXG8753danrtest                        
+2013L AXECSTM-----SB28---CB  12GLCBDA201312001  487test after all DANR changes                    -230.73 20130618          ENTMLF9516danrtest                        
+2013L BCD62SA-----SB28---CB  12GLCBDA201312001  488test after all DANR changes                    -275.36 20130618          DORE      danrtest                        
+2013L BCD62SA-----SB28---CB  12GLCBDA201312001  489test after all DANR changes                    -176.16 20130618          GARCIAT   danrtest                        
+2013L BCD62SA-----SB28---CB  12GLCBDA201312001  490test after all DANR changes                    -246.64 20130618          HANSENJERIdanrtest                        
+2013L BCD62SA-----SB28---CB  12GLCBDA201312001  491test after all DANR changes                    -749.14 20130618          HUMPHREYS danrtest                        
+2013L BCD62SA-----SB28---CB  12GLCBDA201312001  492test after all DANR changes                    -495.66 20130618          PRECIAD1  danrtest                        
+2013L BCD62SA-----SB28---CB  12GLCBDA201312001  493test after all DANR changes                    -172.66 20130618          SCHUTZMAN danrtest                        
+2013L BCK62SA-----SB28---CB  12GLCBDA201312001  494test after all DANR changes                   -8906.62 20130618          ----------danrtest                        
+2013L BCKCTY1-----SB28---CB  12GLCBDA201312001  495test after all DANR changes                   -1226.57 20130618          ----------danrtest                        
+2013L BCKCTY1-----SUB6---CB  12GLCBDA201312001  496test after all DANR changes                     137.13 20130618          ----------danrtest                        
+2013L CECAFAD-----SB28---CB  12GLCBDA201312001  497test after all DANR changes                   -1976.00 20130618          ----------danrtest                        
+2013L CECAFAS-----SB28---CB  12GLCBDA201312001  498test after all DANR changes                  -10279.00 20130618          ----------danrtest                        
+2013L CECAFEM-----SB28---CB  12GLCBDA201312001  499test after all DANR changes                  -17432.53 20130618          ----------danrtest                        
+2013L CECAFFY-----SB28---CB  12GLCBDA201312001  500test after all DANR changes                  -16905.28 20130618          ----------danrtest                        
+2013L CECAFNH-----SB28---CB  12GLCBDA201312001  501test after all DANR changes                  -17905.62 20130618          ----------danrtest                        
+2013L CECAFNR-----SB28---CB  12GLCBDA201312001  502test after all DANR changes                  -33827.62 20130618          ----------danrtest                        
+2013L CECAFPS-----SB28---CB  12GLCBDA201312001  503test after all DANR changes                 -108331.75 20130618          ----------danrtest                        
+2013L CEGSLNHPPHFCSB28---CB  12GLCBDA201312001  504test after all DANR changes                      37.92 20130618          ----------danrtest                        
+2013L CEIMSFYPPGFSSB28---CB  12GLCBDA201312001  505test after all DANR changes                      37.92 20130618          ----------danrtest                        
+2013L CEIMSFYPPHFCSB28---CB  12GLCBDA201312001  506test after all DANR changes                     303.77 20130618          ----------danrtest                        
+2013L CEIMSNRPPSNESB28---CB  12GLCBDA201312001  507test after all DANR changes                     145.89 20130618          ----------danrtest                        
+2013L CEIMSPSPPEIPSB28---CB  12GLCBDA201312001  508test after all DANR changes                     944.55 20130618          ----------danrtest                        
+2013L CEIMSPSPPGFSSB28---CB  12GLCBDA201312001  509test after all DANR changes                     601.45 20130618          ----------danrtest                        
+2013L CEIMSPSPPWQQSB28---CB  12GLCBDA201312001  510test after all DANR changes                      30.16 20130618          ----------danrtest                        
+2013L CEISLNRPPGFSSB28---CB  12GLCBDA201312001  511test after all DANR changes                     336.11 20130618          ----------danrtest                        
+2013L CEISLNRPPSBESB28---CB  12GLCBDA201312001  512test after all DANR changes                     328.70 20130618          ----------danrtest                        
+2013L CEISLNRPPSNESB28---CB  12GLCBDA201312001  513test after all DANR changes                     975.41 20130618          ----------danrtest                        
+2013L CEISLPSPPEIPSB28---CB  12GLCBDA201312001  514test after all DANR changes                     567.47 20130618          ----------danrtest                        
+2013L CEISLPSPPGFSSB28---CB  12GLCBDA201312001  515test after all DANR changes                     163.68 20130618          ----------danrtest                        
+2013L CEISLPSPPSNESB28---CB  12GLCBDA201312001  516test after all DANR changes                     188.73 20130618          ----------danrtest                        
+2013L CEMSLASPPCLCSB28---CB  12GLCBDA201312001  517test after all DANR changes                      44.89 20130618          ----------danrtest                        
+2013L CEMSLASPPGFSSB28---CB  12GLCBDA201312001  518test after all DANR changes                     345.70 20130618          ----------danrtest                        
+2013L CEMSLEMPPGFSSB28---CB  12GLCBDA201312001  519test after all DANR changes                     242.25 20130618          ----------danrtest                        
+2013L CEMSLEMPPSNESB28---CB  12GLCBDA201312001  520test after all DANR changes                      53.09 20130618          ----------danrtest                        
+2013L CEMSLFYPPHFCSB28---CB  12GLCBDA201312001  521test after all DANR changes                     309.74 20130618          ----------danrtest                        
+2013L CEMSLNHPPHFCSB28---CB  12GLCBDA201312001  522test after all DANR changes                     267.22 20130618          ----------danrtest                        
+2013L CEMSLNRPPGFSSB28---CB  12GLCBDA201312001  523test after all DANR changes                      35.91 20130618          ----------danrtest                        
+2013L CEMSLNRPPSNESB28---CB  12GLCBDA201312001  524test after all DANR changes                     284.84 20130618          ----------danrtest                        
+2013L CEMSLNRPPWQQSB28---CB  12GLCBDA201312001  525test after all DANR changes                     106.28 20130618          ----------danrtest                        
+2013L CEMSLPSPPEIPSB28---CB  12GLCBDA201312001  526test after all DANR changes                    1347.80 20130618          ----------danrtest                        
+2013L CEMSLPSPPGFSSB28---CB  12GLCBDA201312001  527test after all DANR changes                     492.13 20130618          ----------danrtest                        
+2013L CEMSLPSPPSNESB28---CB  12GLCBDA201312001  528test after all DANR changes                      45.51 20130618          ----------danrtest                        
+2013L CEMSLPSPPWQQSB28---CB  12GLCBDA201312001  529test after all DANR changes                      32.74 20130618          ----------danrtest                        
+2013L CEPRSTF-----SB28---CB  12GLCBDA201312001  530test after all DANR changes                   -8388.45 20130618          ----------danrtest                        
+2013L CESWCON-----SUB6---CB  12GLCBDA201312001  531test after all DANR changes                   14099.84 20130618          ----------danrtest                        
+2013L CGU62SA-----SB28---CB  12GLCBDA201312001  532test after all DANR changes                    -219.04 20130618          DAVISAND  danrtest                        
+2013L CGU62SA-----SB28---CB  12GLCBDA201312001  533test after all DANR changes                    -795.02 20130618          DEETZ     danrtest                        
+2013L CGU62SA-----SB28---CB  12GLCBDA201312001  534test after all DANR changes                    -558.54 20130618          SMITHBERN danrtest                        
+2013L CGU62SA-----SB28---CB  12GLCBDA201312001  535test after all DANR changes                    -178.96 20130618          TURNERMAY danrtest                        
+2013L CGU62SA-----SB28---CB  12GLCBDA201312001  536test after all DANR changes                    -342.42 20130618          VONGELDERNdanrtest                        
+2013L CGU62SA-----SUB6---CB  12GLCBDA201312001  537test after all DANR changes                    -464.57 20130618          ----------danrtest                        
+2013L CGU62SA-----SUB6---CB  12GLCBDA201312001  538test after all DANR changes                     464.57 20130618          SMITHBERN danrtest                        
+2013L CSADMIN-----SB28---CB  12GLCBDA201312001  539test after all DANR changes                    -202.16 20130618          ----------danrtest                        
+2013L CSADPAY-----SB28---CB  12GLCBDA201312001  540test after all DANR changes                   -4984.46 20130618          ----------danrtest                        
+2013L CSADVCY-----SB28---CB  12GLCBDA201312001  541test after all DANR changes                   -1220.62 20130618          ----------danrtest                        
+2013L CSCAJEX-----SB28---CB  12GLCBDA201312001  542test after all DANR changes                    -707.34 20130618          ----------danrtest                        
+2013L CSEDPAY-----SB28---CB  12GLCBDA201312001  543test after all DANR changes                   -5053.48 20130618          ----------danrtest                        
+2013L CSGISTF-----SB28---CB  12GLCBDA201312001  544test after all DANR changes                    -904.20 20130618          ----------danrtest                        
+2013L CSITGPY-----SB28---CB  12GLCBDA201312001  545test after all DANR changes                   -2602.16 20130618          ----------danrtest                        
+2013L CSMPIII-----SB28---CB  12GLCBDA201312001  546test after all DANR changes                    -450.00 20130618          ----------danrtest                        
+2013L CSMUPAY-----SB28---CB  12GLCBDA201312001  547test after all DANR changes                   -1727.13 20130618          ----------danrtest                        
+2013L CSMUVID-----SUB6---CB  12GLCBDA201312001  548test after all DANR changes                      -1.14 20130618          ----------danrtest                        
+2013L CSNIOPY-----SB28---CB  12GLCBDA201312001  549test after all DANR changes                   -2183.47 20130618          ----------danrtest                        
+2013L CSNIOPY-----SUB6---CB  12GLCBDA201312001  550test after all DANR changes                     -60.22 20130618          ----------danrtest                        
+2013L CSWTPAY-----SB28---CB  12GLCBDA201312001  551test after all DANR changes                   -2835.32 20130618          ----------danrtest                        
+2013L EDGLCES-----SB28---CB  12GLCBDA201312001  552test after all DANR changes                    -596.08 20130618          ----------danrtest                        
+2013L EDGLCES-----SUB6---CB  12GLCBDA201312001  553test after all DANR changes                   -3587.44 20130618          ----------danrtest                        
+2013L EHS62SA-----SB28---CB  12GLCBDA201312001  554test after all DANR changes                    -501.30 20130618          OHARRIS   danrtest                        
+2013L EHS64SA-----SB28---CB  12GLCBDA201312001  555test after all DANR changes                   -1310.55 20130618          BARROS    danrtest                        
+2013L EHS64SA-----SB28---CB  12GLCBDA201312001  556test after all DANR changes                   -3139.44 20130618          OATMAN    danrtest                        
+2013L ELK64SA-----SB28---CB  12GLCBDA201312001  557test after all DANR changes                    -429.42 20130618          ----------danrtest                        
+2013L FMMITLO-----SB28---CB  12GLCBDA201312001  558test after all DANR changes                    -627.00 20130618          ZHAO      danrtest                        
+2013L IGISISL-----SB28---CB  12GLCBDA201312001  559test after all DANR changes                     285.86 20130618          KLYNN     danrtest                        
+2013L LJH9085-----SB28---CB  12GLCBDA201312001  560test after all DANR changes                     -30.20 20130618          ----------danrtest                        
+2013L MLF0090-----SUB6---CB  12GLCBDA201312001  561test after all DANR changes                   -1736.29 20130618          ----------danrtest                        
+2013L PIT62SA-----SB28---CB  12GLCBDA201312001  562test after all DANR changes                    -132.55 20130618          ----------danrtest                        
+2013L PR2105021050SUB8---CB  12GLCBDA201312001  563test after all DANR changes                     -57.46 20130618          ----------danrtest                        
+2013L PR2105621056SUB8---CB  12GLCBDA201312001  564test after all DANR changes                   -4219.94 20130618          ----------danrtest                        
+2013L PR2105721057SUB8---CB  12GLCBDA201312001  565test after all DANR changes                   -3640.17 20130618          ----------danrtest                        
+2013L PR2105821058SUB8---CB  12GLCBDA201312001  566test after all DANR changes                   -6310.75 20130618          ----------danrtest                        
+2013L PSU62SA-----SB28---CB  12GLCBDA201312001  567test after all DANR changes                   -1115.21 20130618          ----------danrtest                        
+2013L PSU62SA-----SB28---CB  12GLCBDA201312001  568test after all DANR changes                    -426.12 20130618          AOATES    danrtest                        
+2013L PSU62SA-----SB28---CB  12GLCBDA201312001  569test after all DANR changes                    -305.64 20130618          BERTSCHINGdanrtest                        
+2013L PSU62SA-----SB28---CB  12GLCBDA201312001  570test after all DANR changes                    -698.08 20130618          COOPERS   danrtest                        
+2013L PSU62SA-----SB28---CB  12GLCBDA201312001  571test after all DANR changes                    -109.12 20130618          MCNEES    danrtest                        
+2013L PSU62SA-----SB28---CB  12GLCBDA201312001  572test after all DANR changes                    -216.27 20130618          WARRENJ   danrtest                        
+2013L SFPACSA-----SB28---CB  12GLCBDA201312001  573test after all DANR changes                    -881.32 20130618          ----------danrtest                        
+2013L SPU44SA-----SB28---CB  12GLCBDA201312001  574test after all DANR changes                     115.29 20130618          ----------danrtest                        
+2013L SPU44SA-----SB28---CB  12GLCBDA201312001  575test after all DANR changes                    -115.29 20130618          LATOYA    danrtest                        
+2013L SPU44SA-----SUB6---CB  12GLCBDA201312001  576test after all DANR changes                    2335.21 20130618          ----------danrtest                        
+2013L SPU44SA-----SUB6---CB  12GLCBDA201312001  577test after all DANR changes                   -2335.21 20130618          LATOYA    danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001  578test after all DANR changes                     -91.72 20130618          ----------danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001  579test after all DANR changes                    -210.20 20130618          BANTA     danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001  580test after all DANR changes                    -308.88 20130618          HOBART    danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001  581test after all DANR changes                    -308.57 20130618          LATOYA    danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001  582test after all DANR changes                   -1176.04 20130618          MANTON    danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001  583test after all DANR changes                    -777.38 20130618          MARTINEZR danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001  584test after all DANR changes                    -404.32 20130618          MCCARTY   danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001  585test after all DANR changes                    -193.28 20130618          NGUYENA   danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001  586test after all DANR changes                    -448.14 20130618          PEREZT    danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001  587test after all DANR changes                    -516.04 20130618          SERVISS   danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001  588test after all DANR changes                    -535.10 20130618          WHITED    danrtest                        
+2013L SPU62SA-----SUB6---CB  12GLCBDA201312001  589test after all DANR changes                     548.21 20130618          ----------danrtest                        
+2013L SPU62SA-----SUB6---CB  12GLCBDA201312001  590test after all DANR changes                    -548.21 20130618          LATOYA    danrtest                        
+2013L TAK62SA-----SB28---CB  12GLCBDA201312001  591test after all DANR changes                    -294.93 20130618          ----------danrtest                        
+2013L V619EXT-----SB28---CB  12GLCBDA201312001  592test after all DANR changes                   -7639.06 20130618          ----------danrtest                        
+2013L V619MSL-----SB28---CB  12GLCBDA201312001  593test after all DANR changes                      52.88 20130618          ----------danrtest                        
+2013L YFC4HSA-----SB28---CB  12GLCBDA201312001  594test after all DANR changes                  -13398.92 20130618          ----------danrtest                        
+2013L YFC4HSA-----SB28---CB  12GLCBDA201312001  595test after all DANR changes                     -91.47 20130618          YFCBELL   danrtest                        
+2013L YFC4HSA-----SB28---CB  12GLCBDA201312001  596test after all DANR changes                    -244.07 20130618          YFCWORKER danrtest                        
+2013L YFCMSSLPPHFCSB28---CB  12GLCBDA201312001  597test after all DANR changes                      32.07 20130618          YFCDOGAN  danrtest                        
+2013L YFCOPER-----SB28---CB  12GLCBDA201312001  598test after all DANR changes                      19.54 20130618          TOWNSEND  danrtest                        
+2013L YFCPROG-----SB28---CB  12GLCBDA201312001  599test after all DANR changes                   11668.74 20130618          ----------danrtest                        
+2013L YFCPROG-----SB28---CB  12GLCBDA201312001  600test after all DANR changes                      25.02 20130618          YFCBELL   danrtest                        
+2013L YFCPROG-----SB28---CB  12GLCBDA201312001  601test after all DANR changes                   -3063.21 20130618          YFCDOGAN  danrtest                        
+2013L YFCPROG-----SB28---CB  12GLCBDA201312001  602test after all DANR changes                   -1746.74 20130618          YFCMINER  danrtest                        
+2013L YFCPROG-----SB28---CB  12GLCBDA201312001  603test after all DANR changes                   -3745.50 20130618          YFCMOYER  danrtest                        
+2013L YFCPROG-----SB28---CB  12GLCBDA201312001  604test after all DANR changes                   -1544.60 20130618          YFCSCHNEIDdanrtest                        
+2013L YFCPROG-----SB28---CB  12GLCBDA201312001  605test after all DANR changes                    -600.96 20130618          YFCWORKER danrtest                        
+2013L YFCPROG-----SUB6---CB  12GLCBDA201312001  606test after all DANR changes                    2647.22 20130618          ----------danrtest                        
+2013L YFCPROG-----SUB6---CB  12GLCBDA201312001  607test after all DANR changes                   -2647.22 20130618          YFCMOYER  danrtest                        
+2013L YOUTHRI-----SUB6---CB  12GLCBDA201312001  608test after all DANR changes                    1312.46 20130618          ----------danrtest                        
