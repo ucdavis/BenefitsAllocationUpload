@@ -25,9 +25,11 @@ namespace BenefitsAllocationUpload.Services
     {
         private static readonly string FileTimeStampFormat = ConfigurationManager.AppSettings["FileTimeStampFormat"]; // File name timestamp format.
         private readonly string _storageLocation = ConfigurationManager.AppSettings["StorageLocation"]; // Directory where the files are created and stored on the server or file system.
+        private static readonly int _commandTimeout = int.Parse(ConfigurationManager.AppSettings["CommandTimeout"]);
         private const string FilenamePrefix = "journal.";
         private const string FilenameExtension = ".txt";
         private string _fileName = String.Empty; // Name for new file when created.
+       
         public static readonly string DefaultCollegeLevelOrg = "AAES";
         public static readonly string DefaultDivisionLevelOrgs = string.Empty;
 
@@ -179,7 +181,7 @@ namespace BenefitsAllocationUpload.Services
                 var command = context.Database.Connection.CreateCommand();
                 // Set the command timeout because query can run longer than 
                 // default time of 30 seconds:
-                command.CommandTimeout = 60;
+                command.CommandTimeout = _commandTimeout;
                 command.CommandText = "dbo.usp_GetBudgetAdjustmentUploadDataForOrg";
                 command.CommandType = CommandType.StoredProcedure;
 
