@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{571B8B
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "BenefitsAllocationUpload Database", "BenefitsAllocationUpload Database\BenefitsAllocationUpload Database.sqlproj", "{036C6DEA-734A-4695-82A8-5EAC104EB60B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,12 @@ Global
 		{31BE6ED0-118E-4E5E-811B-ED5C34E48E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31BE6ED0-118E-4E5E-811B-ED5C34E48E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31BE6ED0-118E-4E5E-811B-ED5C34E48E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{036C6DEA-734A-4695-82A8-5EAC104EB60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036C6DEA-734A-4695-82A8-5EAC104EB60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{036C6DEA-734A-4695-82A8-5EAC104EB60B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{036C6DEA-734A-4695-82A8-5EAC104EB60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{036C6DEA-734A-4695-82A8-5EAC104EB60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{036C6DEA-734A-4695-82A8-5EAC104EB60B}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

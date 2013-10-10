@@ -1,0 +1,581 @@
+20143 A400344ADMTCSUB6---CB  04GLCBAG201404001    1test using BAU database                          -3.59 20131008          ----------kentest                         
+20143 A464444VHRENSUB6---CB  04GLCBAG201404001    2test using BAU database                          -0.20 20131008          ----------kentest                         
+20143 AAFRGAA-----SB28---CB  04GLCBAG201404001    3test using BAU database                        -228.84 20131008          ADOEFH    kentest                         
+20143 AAFRGAA-----SB28---CB  04GLCBAG201404001    4test using BAU database                           1.74 20131008          ADOVXW    kentest                         
+20143 AAFRGAA-----SUB6---CB  04GLCBAG201404001    5test using BAU database                       -1273.98 20131008          ADOEFH    kentest                         
+20143 AAFRGAA-----SUB6---CB  04GLCBAG201404001    6test using BAU database                        -334.56 20131008          ADOVXW    kentest                         
+20143 AASIGAA-----SB28---CB  04GLCBAG201404001    7test using BAU database                          -4.28 20131008          ----------kentest                         
+20143 AASIGAA-----SB28---CB  04GLCBAG201404001    8test using BAU database                         -94.32 20131008          KJACKSON  kentest                         
+20143 AASIGAA-----SUB6---CB  04GLCBAG201404001    9test using BAU database                        -263.24 20131008          ----------kentest                         
+20143 AASIGAA-----SUB6---CB  04GLCBAG201404001   10test using BAU database                        -804.84 20131008          KJACKSON  kentest                         
+20143 AASIGAB-----SB28---CB  04GLCBAG201404001   11test using BAU database                         -46.00 20131008          ----------kentest                         
+20143 AASIGAB-----SUB6---CB  04GLCBAG201404001   12test using BAU database                        -256.09 20131008          ----------kentest                         
+20143 AASRGAA-----SB28---CB  04GLCBAG201404001   13test using BAU database                        -857.91 20131008          ----------kentest                         
+20143 AASRGAA-----SUB6---CB  04GLCBAG201404001   14test using BAU database                       -8164.42 20131008          ----------kentest                         
+20143 ABAIGAA-----SUB6---CB  04GLCBAG201404001   15test using BAU database                          -0.84 20131008          ----------kentest                         
+20143 ABARGAA-----SUB6---CB  04GLCBAG201404001   16test using BAU database                          -0.30 20131008          ----------kentest                         
+20143 ABARGAACOMPLSUB6---CB  04GLCBAG201404001   17test using BAU database                         -11.05 20131008          ----------kentest                         
+20143 AC1IGAA-----SB28---CB  04GLCBAG201404001   18test using BAU database                         -94.32 20131008          EMARTINEZ kentest                         
+20143 AC1IGAA-----SB28---CB  04GLCBAG201404001   19test using BAU database                          52.00 20131008          FCCAER    kentest                         
+20143 AC1IGAA-----SB28---CB  04GLCBAG201404001   20test using BAU database                        -122.19 20131008          FCCCIS    kentest                         
+20143 AC1IGAA-----SB28---CB  04GLCBAG201404001   21test using BAU database                          86.95 20131008          FCCETH    kentest                         
+20143 AC1IGAA-----SB28---CB  04GLCBAG201404001   22test using BAU database                        -108.38 20131008          FCCEXV    kentest                         
+20143 AC1IGAA-----SB28---CB  04GLCBAG201404001   23test using BAU database                        -117.46 20131008          FCCJAV    kentest                         
+20143 AC1IGAA-----SB28---CB  04GLCBAG201404001   24test using BAU database                          71.06 20131008          FCCMDJ    kentest                         
+20143 AC1IGAA-----SB28---CB  04GLCBAG201404001   25test using BAU database                        -133.67 20131008          FCCSKS    kentest                         
+20143 AC1IGAA-----SUB6---CB  04GLCBAG201404001   26test using BAU database                         -21.55 20131008          ----------kentest                         
+20143 AC1IGAA-----SUB6---CB  04GLCBAG201404001   27test using BAU database                        -804.84 20131008          EMARTINEZ kentest                         
+20143 AC1IGAA-----SUB6---CB  04GLCBAG201404001   28test using BAU database                        -940.88 20131008          FCCAER    kentest                         
+20143 AC1IGAA-----SUB6---CB  04GLCBAG201404001   29test using BAU database                        -856.55 20131008          FCCCIS    kentest                         
+20143 AC1IGAA-----SUB6---CB  04GLCBAG201404001   30test using BAU database                        -672.84 20131008          FCCETH    kentest                         
+20143 AC1IGAA-----SUB6---CB  04GLCBAG201404001   31test using BAU database                        -941.20 20131008          FCCEXV    kentest                         
+20143 AC1IGAA-----SUB6---CB  04GLCBAG201404001   32test using BAU database                       -1002.25 20131008          FCCJAV    kentest                         
+20143 AC1IGAA-----SUB6---CB  04GLCBAG201404001   33test using BAU database                        -857.09 20131008          FCCMDJ    kentest                         
+20143 AC1IGAA-----SUB6---CB  04GLCBAG201404001   34test using BAU database                        -937.05 20131008          FCCSKS    kentest                         
+20143 AC1RGAA-----SB28---CB  04GLCBAG201404001   35test using BAU database                          86.62 20131008          ----------kentest                         
+20143 AC1RGAA-----SB28---CB  04GLCBAG201404001   36test using BAU database                          87.94 20131008          FCCAZI    kentest                         
+20143 AC1RGAA-----SB28---CB  04GLCBAG201404001   37test using BAU database                         -98.93 20131008          FCCBAR    kentest                         
+20143 AC1RGAA-----SB28---CB  04GLCBAG201404001   38test using BAU database                        -132.22 20131008          FCCMLR    kentest                         
+20143 AC1RGAA-----SB28---CB  04GLCBAG201404001   39test using BAU database                          94.76 20131008          FCCSAW    kentest                         
+20143 AC1RGAA-----SB28---CB  04GLCBAG201404001   40test using BAU database                        -161.44 20131008          FCCSMP    kentest                         
+20143 AC1RGAA-----SB28---CB  04GLCBAG201404001   41test using BAU database                         -67.51 20131008          FCCVMO    kentest                         
+20143 AC1RGAA-----SUB6---CB  04GLCBAG201404001   42test using BAU database                       -1018.90 20131008          ----------kentest                         
+20143 AC1RGAA-----SUB6---CB  04GLCBAG201404001   43test using BAU database                       -1034.62 20131008          FCCAZI    kentest                         
+20143 AC1RGAA-----SUB6---CB  04GLCBAG201404001   44test using BAU database                        -550.77 20131008          FCCBAR    kentest                         
+20143 AC1RGAA-----SUB6---CB  04GLCBAG201404001   45test using BAU database                        -976.15 20131008          FCCMLR    kentest                         
+20143 AC1RGAA-----SUB6---CB  04GLCBAG201404001   46test using BAU database                       -1031.13 20131008          FCCSAW    kentest                         
+20143 AC1RGAA-----SUB6---CB  04GLCBAG201404001   47test using BAU database                       -1131.69 20131008          FCCSMP    kentest                         
+20143 AC1RGAA-----SUB6---CB  04GLCBAG201404001   48test using BAU database                        -964.22 20131008          FCCVMO    kentest                         
+20143 AC2IGAAITSTFSB28---CB  04GLCBAG201404001   49test using BAU database                         -63.46 20131008          250PARSONSkentest                         
+20143 AC2IGAAITSTFSB28---CB  04GLCBAG201404001   50test using BAU database                         -78.26 20131008          250RIVERA kentest                         
+20143 AC2IGAAITSTFSUB6---CB  04GLCBAG201404001   51test using BAU database                        -541.47 20131008          250PARSONSkentest                         
+20143 AC2IGAAITSTFSUB6---CB  04GLCBAG201404001   52test using BAU database                        -548.62 20131008          250RIVERA kentest                         
+20143 AC2IGAAOFSTFSB28---CB  04GLCBAG201404001   53test using BAU database                        -123.70 20131008          250ANNALEEkentest                         
+20143 AC2IGAAOFSTFSB28---CB  04GLCBAG201404001   54test using BAU database                        -103.06 20131008          250EDGAR  kentest                         
+20143 AC2IGAAOFSTFSB28---CB  04GLCBAG201404001   55test using BAU database                         -51.26 20131008          250GARCIA kentest                         
+20143 AC2IGAAOFSTFSB28---CB  04GLCBAG201404001   56test using BAU database                         -23.19 20131008          250GOMEZ  kentest                         
+20143 AC2IGAAOFSTFSB28---CB  04GLCBAG201404001   57test using BAU database                        -209.24 20131008          250MATT   kentest                         
+20143 AC2IGAAOFSTFSB28---CB  04GLCBAG201404001   58test using BAU database                         -87.08 20131008          250TORRES kentest                         
+20143 AC2IGAAOFSTFSUB6---CB  04GLCBAG201404001   59test using BAU database                       -1055.50 20131008          250ANNALEEkentest                         
+20143 AC2IGAAOFSTFSUB6---CB  04GLCBAG201404001   60test using BAU database                        -890.55 20131008          250EDGAR  kentest                         
+20143 AC2IGAAOFSTFSUB6---CB  04GLCBAG201404001   61test using BAU database                        -574.99 20131008          250GARCIA kentest                         
+20143 AC2IGAAOFSTFSUB6---CB  04GLCBAG201404001   62test using BAU database                        -162.53 20131008          250GOMEZ  kentest                         
+20143 AC2IGAAOFSTFSUB6---CB  04GLCBAG201404001   63test using BAU database                       -1324.79 20131008          250MATT   kentest                         
+20143 AC2IGAAOFSTFSUB6---CB  04GLCBAG201404001   64test using BAU database                        -801.88 20131008          250TORRES kentest                         
+20143 AC2RGAAITSTFSB28---CB  04GLCBAG201404001   65test using BAU database                        -126.91 20131008          250BOOTON kentest                         
+20143 AC2RGAAITSTFSB28---CB  04GLCBAG201404001   66test using BAU database                        -124.56 20131008          250CHRUDINkentest                         
+20143 AC2RGAAITSTFSB28---CB  04GLCBAG201404001   67test using BAU database                        -130.27 20131008          250JIMENEZkentest                         
+20143 AC2RGAAITSTFSB28---CB  04GLCBAG201404001   68test using BAU database                         -63.46 20131008          250PARSONSkentest                         
+20143 AC2RGAAITSTFSB28---CB  04GLCBAG201404001   69test using BAU database                         -78.26 20131008          250RIVERA kentest                         
+20143 AC2RGAAITSTFSB28---CB  04GLCBAG201404001   70test using BAU database                        -113.93 20131008          AETXSSV   kentest                         
+20143 AC2RGAAITSTFSUB6---CB  04GLCBAG201404001   71test using BAU database                       -1082.94 20131008          250BOOTON kentest                         
+20143 AC2RGAAITSTFSUB6---CB  04GLCBAG201404001   72test using BAU database                       -1092.24 20131008          250CHRUDINkentest                         
+20143 AC2RGAAITSTFSUB6---CB  04GLCBAG201404001   73test using BAU database                       -1142.14 20131008          250JIMENEZkentest                         
+20143 AC2RGAAITSTFSUB6---CB  04GLCBAG201404001   74test using BAU database                        -541.47 20131008          250PARSONSkentest                         
+20143 AC2RGAAITSTFSUB6---CB  04GLCBAG201404001   75test using BAU database                        -548.62 20131008          250RIVERA kentest                         
+20143 AC2RGAAITSTFSUB6---CB  04GLCBAG201404001   76test using BAU database                        -820.36 20131008          AETXSSV   kentest                         
+20143 AC2RGAAOFSTFSB28---CB  04GLCBAG201404001   77test using BAU database                           5.22 20131008          250CLARK  kentest                         
+20143 AC2RGAAOFSTFSB28---CB  04GLCBAG201404001   78test using BAU database                        -131.39 20131008          250GOMEZ  kentest                         
+20143 AC2RGAAOFSTFSB28---CB  04GLCBAG201404001   79test using BAU database                         -52.13 20131008          250SKYBERGkentest                         
+20143 AC2RGAAOFSTFSB28---CB  04GLCBAG201404001   80test using BAU database                         -86.59 20131008          250WALLACEkentest                         
+20143 AC2RGAAOFSTFSB28---CB  04GLCBAG201404001   81test using BAU database                        -110.74 20131008          AETXWLN   kentest                         
+20143 AC2RGAAOFSTFSUB6---CB  04GLCBAG201404001   82test using BAU database                        -501.93 20131008          250CLARK  kentest                         
+20143 AC2RGAAOFSTFSUB6---CB  04GLCBAG201404001   83test using BAU database                        -921.02 20131008          250GOMEZ  kentest                         
+20143 AC2RGAAOFSTFSUB6---CB  04GLCBAG201404001   84test using BAU database                        -857.49 20131008          250SKYBERGkentest                         
+20143 AC2RGAAOFSTFSUB6---CB  04GLCBAG201404001   85test using BAU database                        -738.88 20131008          250WALLACEkentest                         
+20143 AC2RGAAOFSTFSUB6---CB  04GLCBAG201404001   86test using BAU database                        -944.91 20131008          AETXWLN   kentest                         
+20143 AC3IGAA-----SB28---CB  04GLCBAG201404001   87test using BAU database                          22.33 20131008          BEBBFTV   kentest                         
+20143 AC3IGAA-----SB28---CB  04GLCBAG201404001   88test using BAU database                         -35.16 20131008          BLLBFTV   kentest                         
+20143 AC3IGAA-----SB28---CB  04GLCBAG201404001   89test using BAU database                         -37.01 20131008          EDDBFTV   kentest                         
+20143 AC3IGAA-----SB28---CB  04GLCBAG201404001   90test using BAU database                         -50.68 20131008          GLTBFTV   kentest                         
+20143 AC3IGAA-----SB28---CB  04GLCBAG201404001   91test using BAU database                         -56.90 20131008          JADBFTV   kentest                         
+20143 AC3IGAA-----SB28---CB  04GLCBAG201404001   92test using BAU database                         -36.02 20131008          JCSBFTV   kentest                         
+20143 AC3IGAA-----SB28---CB  04GLCBAG201404001   93test using BAU database                         -13.44 20131008          JEBBFTV   kentest                         
+20143 AC3IGAA-----SB28---CB  04GLCBAG201404001   94test using BAU database                         -46.79 20131008          JLABFTV   kentest                         
+20143 AC3IGAA-----SB28---CB  04GLCBAG201404001   95test using BAU database                        -112.82 20131008          JLBBFTV   kentest                         
+20143 AC3IGAA-----SB28---CB  04GLCBAG201404001   96test using BAU database                         -52.87 20131008          KANBFTV   kentest                         
+20143 AC3IGAA-----SB28---CB  04GLCBAG201404001   97test using BAU database                          -9.77 20131008          LALBFTV   kentest                         
+20143 AC3IGAA-----SB28---CB  04GLCBAG201404001   98test using BAU database                         -17.03 20131008          LAMBFTV   kentest                         
+20143 AC3IGAA-----SB28---CB  04GLCBAG201404001   99test using BAU database                         -51.92 20131008          LPSBFTV   kentest                         
+20143 AC3IGAA-----SB28---CB  04GLCBAG201404001  100test using BAU database                         -34.66 20131008          MXGBFTV   kentest                         
+20143 AC3IGAA-----SB28---CB  04GLCBAG201404001  101test using BAU database                           2.17 20131008          TLCBFTV   kentest                         
+20143 AC3IGAA-----SB28---CB  04GLCBAG201404001  102test using BAU database                         -57.46 20131008          TMJBFTV   kentest                         
+20143 AC3IGAA-----SB28---CB  04GLCBAG201404001  103test using BAU database                         -72.37 20131008          TXMBFTV   kentest                         
+20143 AC3IGAA-----SUB6---CB  04GLCBAG201404001  104test using BAU database                          -7.47 20131008          ----------kentest                         
+20143 AC3IGAA-----SUB6---CB  04GLCBAG201404001  105test using BAU database                        -346.71 20131008          BEBBFTV   kentest                         
+20143 AC3IGAA-----SUB6---CB  04GLCBAG201404001  106test using BAU database                        -414.21 20131008          BLLBFTV   kentest                         
+20143 AC3IGAA-----SUB6---CB  04GLCBAG201404001  107test using BAU database                        -315.81 20131008          EDDBFTV   kentest                         
+20143 AC3IGAA-----SUB6---CB  04GLCBAG201404001  108test using BAU database                        -570.82 20131008          GLTBFTV   kentest                         
+20143 AC3IGAA-----SUB6---CB  04GLCBAG201404001  109test using BAU database                        -346.78 20131008          JADBFTV   kentest                         
+20143 AC3IGAA-----SUB6---CB  04GLCBAG201404001  110test using BAU database                        -259.37 20131008          JCSBFTV   kentest                         
+20143 AC3IGAA-----SUB6---CB  04GLCBAG201404001  111test using BAU database                        -587.44 20131008          JEBBFTV   kentest                         
+20143 AC3IGAA-----SUB6---CB  04GLCBAG201404001  112test using BAU database                         -13.33 20131008          JKPBFTV   kentest                         
+20143 AC3IGAA-----SUB6---CB  04GLCBAG201404001  113test using BAU database                        -327.97 20131008          JLABFTV   kentest                         
+20143 AC3IGAA-----SUB6---CB  04GLCBAG201404001  114test using BAU database                        -644.61 20131008          JLBBFTV   kentest                         
+20143 AC3IGAA-----SUB6---CB  04GLCBAG201404001  115test using BAU database                        -451.16 20131008          KANBFTV   kentest                         
+20143 AC3IGAA-----SUB6---CB  04GLCBAG201404001  116test using BAU database                        -362.43 20131008          LALBFTV   kentest                         
+20143 AC3IGAA-----SUB6---CB  04GLCBAG201404001  117test using BAU database                        -145.29 20131008          LAMBFTV   kentest                         
+20143 AC3IGAA-----SUB6---CB  04GLCBAG201404001  118test using BAU database                        -349.96 20131008          LPSBFTV   kentest                         
+20143 AC3IGAA-----SUB6---CB  04GLCBAG201404001  119test using BAU database                        -238.23 20131008          MXGBFTV   kentest                         
+20143 AC3IGAA-----SUB6---CB  04GLCBAG201404001  120test using BAU database                        -260.98 20131008          TLCBFTV   kentest                         
+20143 AC3IGAA-----SUB6---CB  04GLCBAG201404001  121test using BAU database                        -490.27 20131008          TMJBFTV   kentest                         
+20143 AC3IGAA-----SUB6---CB  04GLCBAG201404001  122test using BAU database                        -617.56 20131008          TXMBFTV   kentest                         
+20143 AC3RGAA-----SB28---CB  04GLCBAG201404001  123test using BAU database                          30.72 20131008          BEBBFTV   kentest                         
+20143 AC3RGAA-----SB28---CB  04GLCBAG201404001  124test using BAU database                         -35.16 20131008          BLLBFTV   kentest                         
+20143 AC3RGAA-----SB28---CB  04GLCBAG201404001  125test using BAU database                          87.45 20131008          DECBFTV   kentest                         
+20143 AC3RGAA-----SB28---CB  04GLCBAG201404001  126test using BAU database                         -68.73 20131008          EDDBFTV   kentest                         
+20143 AC3RGAA-----SB28---CB  04GLCBAG201404001  127test using BAU database                         -65.34 20131008          GLTBFTV   kentest                         
+20143 AC3RGAA-----SB28---CB  04GLCBAG201404001  128test using BAU database                         -98.93 20131008          JADBFTV   kentest                         
+20143 AC3RGAA-----SB28---CB  04GLCBAG201404001  129test using BAU database                        -144.07 20131008          JCSBFTV   kentest                         
+20143 AC3RGAA-----SB28---CB  04GLCBAG201404001  130test using BAU database                         -13.44 20131008          JEBBFTV   kentest                         
+20143 AC3RGAA-----SB28---CB  04GLCBAG201404001  131test using BAU database                         -86.89 20131008          JLABFTV   kentest                         
+20143 AC3RGAA-----SB28---CB  04GLCBAG201404001  132test using BAU database                        -112.82 20131008          JLBBFTV   kentest                         
+20143 AC3RGAA-----SB28---CB  04GLCBAG201404001  133test using BAU database                         -52.87 20131008          KANBFTV   kentest                         
+20143 AC3RGAA-----SB28---CB  04GLCBAG201404001  134test using BAU database                         -10.79 20131008          LALBFTV   kentest                         
+20143 AC3RGAA-----SB28---CB  04GLCBAG201404001  135test using BAU database                         -33.42 20131008          LAMBFTV   kentest                         
+20143 AC3RGAA-----SB28---CB  04GLCBAG201404001  136test using BAU database                         174.96 20131008          LCWBFTV   kentest                         
+20143 AC3RGAA-----SB28---CB  04GLCBAG201404001  137test using BAU database                         -75.25 20131008          LPSBFTV   kentest                         
+20143 AC3RGAA-----SB28---CB  04GLCBAG201404001  138test using BAU database                         -76.28 20131008          MXGBFTV   kentest                         
+20143 AC3RGAA-----SB28---CB  04GLCBAG201404001  139test using BAU database                         -95.81 20131008          MXPBFTV   kentest                         
+20143 AC3RGAA-----SB28---CB  04GLCBAG201404001  140test using BAU database                          -0.95 20131008          TLCBFTV   kentest                         
+20143 AC3RGAA-----SB28---CB  04GLCBAG201404001  141test using BAU database                         -57.46 20131008          TMJBFTV   kentest                         
+20143 AC3RGAA-----SB28---CB  04GLCBAG201404001  142test using BAU database                         -31.02 20131008          TXMBFTV   kentest                         
+20143 AC3RGAA-----SB28---CB  04GLCBAG201404001  143test using BAU database                        -123.36 20131008          VRWBFTV   kentest                         
+20143 AC3RGAA-----SUB6---CB  04GLCBAG201404001  144test using BAU database                          -4.06 20131008          ----------kentest                         
+20143 AC3RGAA-----SUB6---CB  04GLCBAG201404001  145test using BAU database                        -422.10 20131008          BEBBFTV   kentest                         
+20143 AC3RGAA-----SUB6---CB  04GLCBAG201404001  146test using BAU database                        -414.21 20131008          BLLBFTV   kentest                         
+20143 AC3RGAA-----SUB6---CB  04GLCBAG201404001  147test using BAU database                        -238.19 20131008          DECBFTV   kentest                         
+20143 AC3RGAA-----SUB6---CB  04GLCBAG201404001  148test using BAU database                        -586.51 20131008          EDDBFTV   kentest                         
+20143 AC3RGAA-----SUB6---CB  04GLCBAG201404001  149test using BAU database                        -699.29 20131008          GLTBFTV   kentest                         
+20143 AC3RGAA-----SUB6---CB  04GLCBAG201404001  150test using BAU database                        -640.77 20131008          JADBFTV   kentest                         
+20143 AC3RGAA-----SUB6---CB  04GLCBAG201404001  151test using BAU database                       -1037.44 20131008          JCSBFTV   kentest                         
+20143 AC3RGAA-----SUB6---CB  04GLCBAG201404001  152test using BAU database                        -587.44 20131008          JEBBFTV   kentest                         
+20143 AC3RGAA-----SUB6---CB  04GLCBAG201404001  153test using BAU database                         -13.33 20131008          JKPBFTV   kentest                         
+20143 AC3RGAA-----SUB6---CB  04GLCBAG201404001  154test using BAU database                        -609.09 20131008          JLABFTV   kentest                         
+20143 AC3RGAA-----SUB6---CB  04GLCBAG201404001  155test using BAU database                        -644.51 20131008          JLBBFTV   kentest                         
+20143 AC3RGAA-----SUB6---CB  04GLCBAG201404001  156test using BAU database                        -451.16 20131008          KANBFTV   kentest                         
+20143 AC3RGAA-----SUB6---CB  04GLCBAG201404001  157test using BAU database                        -669.53 20131008          LALBFTV   kentest                         
+20143 AC3RGAA-----SUB6---CB  04GLCBAG201404001  158test using BAU database                        -285.19 20131008          LAMBFTV   kentest                         
+20143 AC3RGAA-----SUB6---CB  04GLCBAG201404001  159test using BAU database                        -665.64 20131008          LCWBFTV   kentest                         
+20143 AC3RGAA-----SUB6---CB  04GLCBAG201404001  160test using BAU database                        -523.67 20131008          LPSBFTV   kentest                         
+20143 AC3RGAA-----SUB6---CB  04GLCBAG201404001  161test using BAU database                        -476.32 20131008          MXGBFTV   kentest                         
+20143 AC3RGAA-----SUB6---CB  04GLCBAG201404001  162test using BAU database                        -817.53 20131008          MXPBFTV   kentest                         
+20143 AC3RGAA-----SUB6---CB  04GLCBAG201404001  163test using BAU database                        -392.45 20131008          TLCBFTV   kentest                         
+20143 AC3RGAA-----SUB6---CB  04GLCBAG201404001  164test using BAU database                        -490.27 20131008          TMJBFTV   kentest                         
+20143 AC3RGAA-----SUB6---CB  04GLCBAG201404001  165test using BAU database                        -264.67 20131008          TXMBFTV   kentest                         
+20143 AC3RGAA-----SUB6---CB  04GLCBAG201404001  166test using BAU database                       -1081.61 20131008          VRWBFTV   kentest                         
+20143 AC3RGAAITEXPSUB6---CB  04GLCBAG201404001  167test using BAU database                          -0.39 20131008          ----------kentest                         
+20143 AC4IGAA-----SB28---CB  04GLCBAG201404001  168test using BAU database                        -194.68 20131008          ----------kentest                         
+20143 AC4IGAA-----SB28---CB  04GLCBAG201404001  169test using BAU database                        -115.01 20131008          ALIP      kentest                         
+20143 AC4IGAA-----SB28---CB  04GLCBAG201404001  170test using BAU database                         190.77 20131008          KXDP      kentest                         
+20143 AC4IGAA-----SB28---CB  04GLCBAG201404001  171test using BAU database                        -100.90 20131008          LJJP      kentest                         
+20143 AC4IGAA-----SB28---CB  04GLCBAG201404001  172test using BAU database                          37.12 20131008          SGGP      kentest                         
+20143 AC4IGAA-----SUB6---CB  04GLCBAG201404001  173test using BAU database                       -1231.40 20131008          ----------kentest                         
+20143 AC4IGAA-----SUB6---CB  04GLCBAG201404001  174test using BAU database                        -981.33 20131008          ALIP      kentest                         
+20143 AC4IGAA-----SUB6---CB  04GLCBAG201404001  175test using BAU database                       -1014.02 20131008          KXDP      kentest                         
+20143 AC4IGAA-----SUB6---CB  04GLCBAG201404001  176test using BAU database                        -860.94 20131008          LJJP      kentest                         
+20143 AC4IGAA-----SUB6---CB  04GLCBAG201404001  177test using BAU database                       -1211.99 20131008          SGGP      kentest                         
+20143 AC4RGAA-----SB28---CB  04GLCBAG201404001  178test using BAU database                        -106.61 20131008          BAMP      kentest                         
+20143 AC4RGAA-----SB28---CB  04GLCBAG201404001  179test using BAU database                        -111.70 20131008          EGHP      kentest                         
+20143 AC4RGAA-----SB28---CB  04GLCBAG201404001  180test using BAU database                         -50.58 20131008          ENTSANCHEZkentest                         
+20143 AC4RGAA-----SB28---CB  04GLCBAG201404001  181test using BAU database                        -226.25 20131008          GFYP      kentest                         
+20143 AC4RGAA-----SB28---CB  04GLCBAG201404001  182test using BAU database                        -103.34 20131008          JCDP      kentest                         
+20143 AC4RGAA-----SB28---CB  04GLCBAG201404001  183test using BAU database                         -85.30 20131008          JMEP      kentest                         
+20143 AC4RGAA-----SB28---CB  04GLCBAG201404001  184test using BAU database                          59.24 20131008          JMKP      kentest                         
+20143 AC4RGAA-----SB28---CB  04GLCBAG201404001  185test using BAU database                        -113.33 20131008          MTTP      kentest                         
+20143 AC4RGAA-----SB28---CB  04GLCBAG201404001  186test using BAU database                        -168.60 20131008          WJMP      kentest                         
+20143 AC4RGAA-----SUB6---CB  04GLCBAG201404001  187test using BAU database                          -5.27 20131008          ----------kentest                         
+20143 AC4RGAA-----SUB6---CB  04GLCBAG201404001  188test using BAU database                        -935.40 20131008          BAMP      kentest                         
+20143 AC4RGAA-----SUB6---CB  04GLCBAG201404001  189test using BAU database                        -979.38 20131008          EGHP      kentest                         
+20143 AC4RGAA-----SUB6---CB  04GLCBAG201404001  190test using BAU database                        -354.57 20131008          ENTSANCHEZkentest                         
+20143 AC4RGAA-----SUB6---CB  04GLCBAG201404001  191test using BAU database                       -1259.59 20131008          GFYP      kentest                         
+20143 AC4RGAA-----SUB6---CB  04GLCBAG201404001  192test using BAU database                        -908.77 20131008          JCDP      kentest                         
+20143 AC4RGAA-----SUB6---CB  04GLCBAG201404001  193test using BAU database                        -727.83 20131008          JMEP      kentest                         
+20143 AC4RGAA-----SUB6---CB  04GLCBAG201404001  194test using BAU database                       -1071.85 20131008          JMKP      kentest                         
+20143 AC4RGAA-----SUB6---CB  04GLCBAG201404001  195test using BAU database                        -967.03 20131008          MTTP      kentest                         
+20143 AC4RGAA-----SUB6---CB  04GLCBAG201404001  196test using BAU database                       -1228.33 20131008          WJMP      kentest                         
+20143 AC5IGAA-----SB28---CB  04GLCBAG201404001  197test using BAU database                         -98.69 20131008          ACL5LEVINEkentest                         
+20143 AC5IGAA-----SB28---CB  04GLCBAG201404001  198test using BAU database                        -116.28 20131008          ACL5SMITHRkentest                         
+20143 AC5IGAA-----SB28---CB  04GLCBAG201404001  199test using BAU database                         -85.30 20131008          ACL5SUTTONkentest                         
+20143 AC5IGAA-----SB28---CB  04GLCBAG201404001  200test using BAU database                        -108.38 20131008          ARERAUBACHkentest                         
+20143 AC5IGAA-----SB28---CB  04GLCBAG201404001  201test using BAU database                        -133.44 20131008          ARES_POHL kentest                         
+20143 AC5IGAA-----SB28---CB  04GLCBAG201404001  202test using BAU database                         -83.47 20131008          CLOPEZ    kentest                         
+20143 AC5IGAA-----SB28---CB  04GLCBAG201404001  203test using BAU database                        -224.12 20131008          DWHITAKER kentest                         
+20143 AC5IGAA-----SB28---CB  04GLCBAG201404001  204test using BAU database                        -127.52 20131008          ESPSHONE  kentest                         
+20143 AC5IGAA-----SB28---CB  04GLCBAG201404001  205test using BAU database                         -20.13 20131008          FMCCLEERY kentest                         
+20143 AC5IGAA-----SB28---CB  04GLCBAG201404001  206test using BAU database                         -75.97 20131008          JELLISON  kentest                         
+20143 AC5IGAA-----SB28---CB  04GLCBAG201404001  207test using BAU database                        -105.74 20131008          RJTAYLOR  kentest                         
+20143 AC5IGAA-----SUB6---CB  04GLCBAG201404001  208test using BAU database                         -11.83 20131008          ----------kentest                         
+20143 AC5IGAA-----SUB6---CB  04GLCBAG201404001  209test using BAU database                        -842.11 20131008          ACL5LEVINEkentest                         
+20143 AC5IGAA-----SUB6---CB  04GLCBAG201404001  210test using BAU database                        -992.16 20131008          ACL5SMITHRkentest                         
+20143 AC5IGAA-----SUB6---CB  04GLCBAG201404001  211test using BAU database                        -727.83 20131008          ACL5SUTTONkentest                         
+20143 AC5IGAA-----SUB6---CB  04GLCBAG201404001  212test using BAU database                        -924.84 20131008          ARERAUBACHkentest                         
+20143 AC5IGAA-----SUB6---CB  04GLCBAG201404001  213test using BAU database                        -935.40 20131008          ARES_POHL kentest                         
+20143 AC5IGAA-----SUB6---CB  04GLCBAG201404001  214test using BAU database                        -712.27 20131008          CLOPEZ    kentest                         
+20143 AC5IGAA-----SUB6---CB  04GLCBAG201404001  215test using BAU database                       -1280.97 20131008          DWHITAKER kentest                         
+20143 AC5IGAA-----SUB6---CB  04GLCBAG201404001  216test using BAU database                        -893.90 20131008          ESPSHONE  kentest                         
+20143 AC5IGAA-----SUB6---CB  04GLCBAG201404001  217test using BAU database                       -1010.11 20131008          FMCCLEERY kentest                         
+20143 AC5IGAA-----SUB6---CB  04GLCBAG201404001  218test using BAU database                        -666.13 20131008          JELLISON  kentest                         
+20143 AC5IGAA-----SUB6---CB  04GLCBAG201404001  219test using BAU database                        -902.31 20131008          RJTAYLOR  kentest                         
+20143 AC5RGAA-----SB28---CB  04GLCBAG201404001  220test using BAU database                         861.34 20131008          ACL5CKEMPLkentest                         
+20143 AC5RGAA-----SB28---CB  04GLCBAG201404001  221test using BAU database                        -108.93 20131008          ACL5KELLY kentest                         
+20143 AC5RGAA-----SB28---CB  04GLCBAG201404001  222test using BAU database                         394.75 20131008          LSEVILLEJAkentest                         
+20143 AC5RGAA-----SB28---CB  04GLCBAG201404001  223test using BAU database                        -172.45 20131008          SRAGSDALE kentest                         
+20143 AC5RGAA-----SUB6---CB  04GLCBAG201404001  224test using BAU database                        -137.52 20131008          ----------kentest                         
+20143 AC5RGAA-----SUB6---CB  04GLCBAG201404001  225test using BAU database                        -529.49 20131008          ACL5CKEMPLkentest                         
+20143 AC5RGAA-----SUB6---CB  04GLCBAG201404001  226test using BAU database                        -977.65 20131008          ACL5KELLY kentest                         
+20143 AC5RGAA-----SUB6---CB  04GLCBAG201404001  227test using BAU database                        -603.78 20131008          LSEVILLEJAkentest                         
+20143 AC5RGAA-----SUB6---CB  04GLCBAG201404001  228test using BAU database                       -1208.87 20131008          SRAGSDALE kentest                         
+20143 ADOIGAA-----SB28---CB  04GLCBAG201404001  229test using BAU database                         -66.13 20131008          ----------kentest                         
+20143 ADOIGAA-----SB28---CB  04GLCBAG201404001  230test using BAU database                         -50.80 20131008          ADOBJN    kentest                         
+20143 ADOIGAA-----SB28---CB  04GLCBAG201404001  231test using BAU database                         -83.47 20131008          ADOCAR    kentest                         
+20143 ADOIGAA-----SB28---CB  04GLCBAG201404001  232test using BAU database                        -122.40 20131008          ADOCAS    kentest                         
+20143 ADOIGAA-----SB28---CB  04GLCBAG201404001  233test using BAU database                          71.49 20131008          ADOFRR    kentest                         
+20143 ADOIGAA-----SB28---CB  04GLCBAG201404001  234test using BAU database                         -65.76 20131008          ADOLAF    kentest                         
+20143 ADOIGAA-----SB28---CB  04GLCBAG201404001  235test using BAU database                         -30.80 20131008          ADOLFM    kentest                         
+20143 ADOIGAA-----SB28---CB  04GLCBAG201404001  236test using BAU database                         -28.76 20131008          ADOMXW    kentest                         
+20143 ADOIGAA-----SB28---CB  04GLCBAG201404001  237test using BAU database                         385.87 20131008          ADOPXG    kentest                         
+20143 ADOIGAA-----SB28---CB  04GLCBAG201404001  238test using BAU database                        -124.80 20131008          ADOSKS    kentest                         
+20143 ADOIGAA-----SB28---CB  04GLCBAG201404001  239test using BAU database                         -42.12 20131008          ADOSRS    kentest                         
+20143 ADOIGAA-----SB28---CB  04GLCBAG201404001  240test using BAU database                         -65.82 20131008          ADOYXC    kentest                         
+20143 ADOIGAA-----SUB6---CB  04GLCBAG201404001  241test using BAU database                        -626.23 20131008          ----------kentest                         
+20143 ADOIGAA-----SUB6---CB  04GLCBAG201404001  242test using BAU database                        -323.03 20131008          ADOBJN    kentest                         
+20143 ADOIGAA-----SUB6---CB  04GLCBAG201404001  243test using BAU database                        -712.27 20131008          ADOCAR    kentest                         
+20143 ADOIGAA-----SUB6---CB  04GLCBAG201404001  244test using BAU database                       -1073.03 20131008          ADOCAS    kentest                         
+20143 ADOIGAA-----SUB6---CB  04GLCBAG201404001  245test using BAU database                        -853.81 20131008          ADOFRR    kentest                         
+20143 ADOIGAA-----SUB6---CB  04GLCBAG201404001  246test using BAU database                        -375.81 20131008          ADOLAF    kentest                         
+20143 ADOIGAA-----SUB6---CB  04GLCBAG201404001  247test using BAU database                        -248.81 20131008          ADOLFM    kentest                         
+20143 ADOIGAA-----SUB6---CB  04GLCBAG201404001  248test using BAU database                        -245.38 20131008          ADOMXW    kentest                         
+20143 ADOIGAA-----SUB6---CB  04GLCBAG201404001  249test using BAU database                        -112.36 20131008          ADOPXG    kentest                         
+20143 ADOIGAA-----SUB6---CB  04GLCBAG201404001  250test using BAU database                       -1064.92 20131008          ADOSKS    kentest                         
+20143 ADOIGAA-----SUB6---CB  04GLCBAG201404001  251test using BAU database                        -369.26 20131008          ADOSRS    kentest                         
+20143 ADOIGAA-----SUB6---CB  04GLCBAG201404001  252test using BAU database                        -376.29 20131008          ADOYXC    kentest                         
+20143 ADORGA2-----SB28---CB  04GLCBAG201404001  253test using BAU database                         -94.32 20131008          ----------kentest                         
+20143 ADORGA2-----SB28---CB  04GLCBAG201404001  254test using BAU database                         -94.79 20131008          ADOCRC    kentest                         
+20143 ADORGA2-----SB28---CB  04GLCBAG201404001  255test using BAU database                         -79.91 20131008          ADOECR    kentest                         
+20143 ADORGA2-----SB28---CB  04GLCBAG201404001  256test using BAU database                        -116.09 20131008          ADOLXF    kentest                         
+20143 ADORGA2-----SUB6---CB  04GLCBAG201404001  257test using BAU database                        -804.84 20131008          ----------kentest                         
+20143 ADORGA2-----SUB6---CB  04GLCBAG201404001  258test using BAU database                        -831.13 20131008          ADOCRC    kentest                         
+20143 ADORGA2-----SUB6---CB  04GLCBAG201404001  259test using BAU database                       -1141.39 20131008          ADOECR    kentest                         
+20143 ADORGA2-----SUB6---CB  04GLCBAG201404001  260test using BAU database                        -813.78 20131008          ADOLXF    kentest                         
+20143 ADORGAA-----SB28---CB  04GLCBAG201404001  261test using BAU database                         -92.07 20131008          ADOBJN    kentest                         
+20143 ADORGAA-----SB28---CB  04GLCBAG201404001  262test using BAU database                        -120.55 20131008          ADOLAF    kentest                         
+20143 ADORGAA-----SB28---CB  04GLCBAG201404001  263test using BAU database                         -48.72 20131008          ADOLFM    kentest                         
+20143 ADORGAA-----SB28---CB  04GLCBAG201404001  264test using BAU database                         -29.06 20131008          ADOMXW    kentest                         
+20143 ADORGAA-----SB28---CB  04GLCBAG201404001  265test using BAU database                         708.51 20131008          ADOPXG    kentest                         
+20143 ADORGAA-----SB28---CB  04GLCBAG201404001  266test using BAU database                         -63.18 20131008          ADOSRS    kentest                         
+20143 ADORGAA-----SB28---CB  04GLCBAG201404001  267test using BAU database                         -75.74 20131008          ADOUXR    kentest                         
+20143 ADORGAA-----SB28---CB  04GLCBAG201404001  268test using BAU database                        -120.68 20131008          ADOYXC    kentest                         
+20143 ADORGAA-----SUB6---CB  04GLCBAG201404001  269test using BAU database                        -281.05 20131008          ----------kentest                         
+20143 ADORGAA-----SUB6---CB  04GLCBAG201404001  270test using BAU database                        -591.71 20131008          ADOBJN    kentest                         
+20143 ADORGAA-----SUB6---CB  04GLCBAG201404001  271test using BAU database                        -688.99 20131008          ADOLAF    kentest                         
+20143 ADORGAA-----SUB6---CB  04GLCBAG201404001  272test using BAU database                        -374.43 20131008          ADOLFM    kentest                         
+20143 ADORGAA-----SUB6---CB  04GLCBAG201404001  273test using BAU database                        -247.97 20131008          ADOMXW    kentest                         
+20143 ADORGAA-----SUB6---CB  04GLCBAG201404001  274test using BAU database                        -205.45 20131008          ADOPXG    kentest                         
+20143 ADORGAA-----SUB6---CB  04GLCBAG201404001  275test using BAU database                        -553.90 20131008          ADOSRS    kentest                         
+20143 ADORGAA-----SUB6---CB  04GLCBAG201404001  276test using BAU database                        -664.09 20131008          ADOUXR    kentest                         
+20143 ADORGAA-----SUB6---CB  04GLCBAG201404001  277test using BAU database                        -689.49 20131008          ADOYXC    kentest                         
+20143 AECIGAA-----SB28---CB  04GLCBAG201404001  278test using BAU database                        -168.60 20131008          ARES_CLAR kentest                         
+20143 AECIGAA-----SB28---CB  04GLCBAG201404001  279test using BAU database                         -96.41 20131008          ARES_GOET kentest                         
+20143 AECIGAA-----SB28---CB  04GLCBAG201404001  280test using BAU database                        -168.60 20131008          ARES_HANS kentest                         
+20143 AECIGAA-----SB28---CB  04GLCBAG201404001  281test using BAU database                        -185.07 20131008          SHANNON   kentest                         
+20143 AECIGAA-----SUB6---CB  04GLCBAG201404001  282test using BAU database                       -1181.90 20131008          ARES_CLAR kentest                         
+20143 AECIGAA-----SUB6---CB  04GLCBAG201404001  283test using BAU database                        -822.65 20131008          ARES_GOET kentest                         
+20143 AECIGAA-----SUB6---CB  04GLCBAG201404001  284test using BAU database                       -1181.90 20131008          ARES_HANS kentest                         
+20143 AECIGAA-----SUB6---CB  04GLCBAG201404001  285test using BAU database                       -1030.34 20131008          SHANNON   kentest                         
+20143 AESIGAA-----SB28---CB  04GLCBAG201404001  286test using BAU database                         -39.86 20131008          CARRIERE  kentest                         
+20143 AESIGAA-----SB28---CB  04GLCBAG201404001  287test using BAU database                        -113.66 20131008          DESMWHALEYkentest                         
+20143 AESIGAA-----SB28---CB  04GLCBAG201404001  288test using BAU database                        9399.59 20131008          ESPHANDY  kentest                         
+20143 AESIGAA-----SB28---CB  04GLCBAG201404001  289test using BAU database                        -134.21 20131008          HHATFIELD kentest                         
+20143 AESIGAA-----SUB6---CB  04GLCBAG201404001  290test using BAU database                        -340.16 20131008          CARRIERE  kentest                         
+20143 AESIGAA-----SUB6---CB  04GLCBAG201404001  291test using BAU database                        -996.56 20131008          DESMWHALEYkentest                         
+20143 AESIGAA-----SUB6---CB  04GLCBAG201404001  292test using BAU database                        3383.85 20131008          ESPHANDY  kentest                         
+20143 AESIGAA-----SUB6---CB  04GLCBAG201404001  293test using BAU database                       -1176.49 20131008          HHATFIELD kentest                         
+20143 AESRG50-----SUB6---CB  04GLCBAG201404001  294test using BAU database                        -423.47 20131008          ----------kentest                         
+20143 AESRGAA-----SB28---CB  04GLCBAG201404001  295test using BAU database                         -19.93 20131008          CARRIERE  kentest                         
+20143 AESRGAA-----SB28---CB  04GLCBAG201404001  296test using BAU database                        3133.19 20131008          ESPHANDY  kentest                         
+20143 AESRGAA-----SB28---CB  04GLCBAG201404001  297test using BAU database                         -50.45 20131008          ESPPOLOSKEkentest                         
+20143 AESRGAA-----SUB6---CB  04GLCBAG201404001  298test using BAU database                        -170.08 20131008          CARRIERE  kentest                         
+20143 AESRGAA-----SUB6---CB  04GLCBAG201404001  299test using BAU database                        1127.95 20131008          ESPHANDY  kentest                         
+20143 AESRGAA-----SUB6---CB  04GLCBAG201404001  300test using BAU database                        -430.48 20131008          ESPPOLOSKEkentest                         
+20143 AETIGAA-----SB28---CB  04GLCBAG201404001  301test using BAU database                         188.79 20131008          AETXPIO   kentest                         
+20143 AETIGAA-----SUB6---CB  04GLCBAG201404001  302test using BAU database                          67.96 20131008          AETXPIO   kentest                         
+20143 AETIGAAAASAOSB28---CB  04GLCBAG201404001  303test using BAU database                         145.58 20131008          AETXSGK   kentest                         
+20143 AETIGAAAASAOSUB6---CB  04GLCBAG201404001  304test using BAU database                       -1001.95 20131008          AETXSGK   kentest                         
+20143 AETRGAA-----SB28---CB  04GLCBAG201404001  305test using BAU database                         230.74 20131008          AETXPIO   kentest                         
+20143 AETRGAA-----SUB6---CB  04GLCBAG201404001  306test using BAU database                          83.07 20131008          AETXPIO   kentest                         
+20143 AETRGAAAAITSSB28---CB  04GLCBAG201404001  307test using BAU database                         -12.99 20131008          AETXSSV   kentest                         
+20143 AETRGAAAAITSSUB6---CB  04GLCBAG201404001  308test using BAU database                         -93.51 20131008          AETXSSV   kentest                         
+20143 AETRGAAAGCHMSB28---CB  04GLCBAG201404001  309test using BAU database                         -45.81 20131008          AETXGJE   kentest                         
+20143 AETRGAAAGCHMSUB6---CB  04GLCBAG201404001  310test using BAU database                        -255.03 20131008          AETXGJE   kentest                         
+20143 AETRGAAPHTOXSB28---CB  04GLCBAG201404001  311test using BAU database                        -137.43 20131008          AETXGJE   kentest                         
+20143 AETRGAAPHTOXSUB6---CB  04GLCBAG201404001  312test using BAU database                        -765.09 20131008          AETXGJE   kentest                         
+20143 AHCRG08-----SUB6---CB  04GLCBAG201404001  313test using BAU database                         -34.90 20131008          ----------kentest                         
+20143 AHEAV02-----SUB6---CB  04GLCBAG201404001  314test using BAU database                          -1.11 20131008          ----------kentest                         
+20143 AHEIGAACRDSBSB28---CB  04GLCBAG201404001  315test using BAU database                          21.94 20131008          CARMSTRONGkentest                         
+20143 AHEIGAACRDSBSB28---CB  04GLCBAG201404001  316test using BAU database                         113.55 20131008          HCDERDMAN kentest                         
+20143 AHEIGAACRDSBSB28---CB  04GLCBAG201404001  317test using BAU database                         -30.24 20131008          HCDMCDONELkentest                         
+20143 AHEIGAACRDSBSB28---CB  04GLCBAG201404001  318test using BAU database                         -33.91 20131008          HCEHOANG  kentest                         
+20143 AHEIGAACRDSBSB28---CB  04GLCBAG201404001  319test using BAU database                         228.65 20131008          HETRANHUY kentest                         
+20143 AHEIGAACRDSBSB28---CB  04GLCBAG201404001  320test using BAU database                         -37.88 20131008          RCROTTY   kentest                         
+20143 AHEIGAACRDSBSUB6---CB  04GLCBAG201404001  321test using BAU database                        -383.18 20131008          CARMSTRONGkentest                         
+20143 AHEIGAACRDSBSUB6---CB  04GLCBAG201404001  322test using BAU database                        -382.25 20131008          HCDERDMAN kentest                         
+20143 AHEIGAACRDSBSUB6---CB  04GLCBAG201404001  323test using BAU database                        -191.07 20131008          HCDMCDONELkentest                         
+20143 AHEIGAACRDSBSUB6---CB  04GLCBAG201404001  324test using BAU database                        -289.37 20131008          HCEHOANG  kentest                         
+20143 AHEIGAACRDSBSUB6---CB  04GLCBAG201404001  325test using BAU database                        -313.53 20131008          HETRANHUY kentest                         
+20143 AHEIGAACRDSBSUB6---CB  04GLCBAG201404001  326test using BAU database                        -323.25 20131008          RCROTTY   kentest                         
+20143 AHEIGAAHDESBSB28---CB  04GLCBAG201404001  327test using BAU database                         163.45 20131008          HCDERDMAN kentest                         
+20143 AHEIGAAHDESBSB28---CB  04GLCBAG201404001  328test using BAU database                         -75.46 20131008          HCDLOGANJOkentest                         
+20143 AHEIGAAHDESBSB28---CB  04GLCBAG201404001  329test using BAU database                         -45.82 20131008          HCDMCDONELkentest                         
+20143 AHEIGAAHDESBSB28---CB  04GLCBAG201404001  330test using BAU database                          53.83 20131008          HETRANHUY kentest                         
+20143 AHEIGAAHDESBSB28---CB  04GLCBAG201404001  331test using BAU database                         488.38 20131008          JGOUINE   kentest                         
+20143 AHEIGAAHDESBSB28---CB  04GLCBAG201404001  332test using BAU database                         -56.82 20131008          RCROTTY   kentest                         
+20143 AHEIGAAHDESBSUB6---CB  04GLCBAG201404001  333test using BAU database                          -9.75 20131008          ----------kentest                         
+20143 AHEIGAAHDESBSUB6---CB  04GLCBAG201404001  334test using BAU database                        -576.71 20131008          HCDERDMAN kentest                         
+20143 AHEIGAAHDESBSUB6---CB  04GLCBAG201404001  335test using BAU database                        -643.87 20131008          HCDLOGANJOkentest                         
+20143 AHEIGAAHDESBSUB6---CB  04GLCBAG201404001  336test using BAU database                        -289.39 20131008          HCDMCDONELkentest                         
+20143 AHEIGAAHDESBSUB6---CB  04GLCBAG201404001  337test using BAU database                         -83.01 20131008          HETRANHUY kentest                         
+20143 AHEIGAAHDESBSUB6---CB  04GLCBAG201404001  338test using BAU database                        -457.89 20131008          JGOUINE   kentest                         
+20143 AHEIGAAHDESBSUB6---CB  04GLCBAG201404001  339test using BAU database                        -484.86 20131008          RCROTTY   kentest                         
+20143 AHEIGAALDASBSB28---CB  04GLCBAG201404001  340test using BAU database                          33.91 20131008          CARMSTRONGkentest                         
+20143 AHEIGAALDASBSB28---CB  04GLCBAG201404001  341test using BAU database                         824.74 20131008          CHENEY    kentest                         
+20143 AHEIGAALDASBSUB6---CB  04GLCBAG201404001  342test using BAU database                        -114.91 20131008          ----------kentest                         
+20143 AHEIGAALDASBSUB6---CB  04GLCBAG201404001  343test using BAU database                        -657.46 20131008          CARMSTRONGkentest                         
+20143 AHEIGAALDASBSUB6---CB  04GLCBAG201404001  344test using BAU database                        -506.99 20131008          CHENEY    kentest                         
+20143 AHERGAAHDESBSB28---CB  04GLCBAG201404001  345test using BAU database                         -67.82 20131008          HCEHOANG  kentest                         
+20143 AHERGAAHDESBSB28---CB  04GLCBAG201404001  346test using BAU database                         228.65 20131008          HETRANHUY kentest                         
+20143 AHERGAAHDESBSUB6---CB  04GLCBAG201404001  347test using BAU database                        -578.74 20131008          HCEHOANG  kentest                         
+20143 AHERGAAHDESBSUB6---CB  04GLCBAG201404001  348test using BAU database                        -313.53 20131008          HETRANHUY kentest                         
+20143 AHERGAALDASBSB28---CB  04GLCBAG201404001  349test using BAU database                          88.83 20131008          WILCOX    kentest                         
+20143 AHERGAALDASBSUB6---CB  04GLCBAG201404001  350test using BAU database                        -798.38 20131008          WILCOX    kentest                         
+20143 AIARGAA-----SB28---CB  04GLCBAG201404001  351test using BAU database                         -20.41 20131008          ----------kentest                         
+20143 AIARGAA-----SUB6---CB  04GLCBAG201404001  352test using BAU database                        -674.74 20131008          ----------kentest                         
+20143 ALTITMPA121BSUB6---CB  04GLCBAG201404001  353test using BAU database                           2.92 20131008          ----------kentest                         
+20143 ALTITMPAS005SUB6---CB  04GLCBAG201404001  354test using BAU database                          12.75 20131008          ----------kentest                         
+20143 ALTRGAB-----SB28---CB  04GLCBAG201404001  355test using BAU database                         -70.27 20131008          ----------kentest                         
+20143 ALTRGAB-----SB28---CB  04GLCBAG201404001  356test using BAU database                         -70.27 20131008          ADOEES    kentest                         
+20143 ALTRGAB-----SB28---CB  04GLCBAG201404001  357test using BAU database                        -114.96 20131008          ADOMMM    kentest                         
+20143 ALTRGAB-----SUB6---CB  04GLCBAG201404001  358test using BAU database                        -790.81 20131008          ----------kentest                         
+20143 ALTRGAB-----SUB6---CB  04GLCBAG201404001  359test using BAU database                        -790.81 20131008          ADOEES    kentest                         
+20143 ALTRGAB-----SUB6---CB  04GLCBAG201404001  360test using BAU database                       -1293.72 20131008          ADOMMM    kentest                         
+20143 ALWIGAAAASAOSB28---CB  04GLCBAG201404001  361test using BAU database                        -102.91 20131008          250NGUYEN kentest                         
+20143 ALWIGAAAASAOSB28---CB  04GLCBAG201404001  362test using BAU database                         612.73 20131008          250SHULL  kentest                         
+20143 ALWIGAAAASAOSUB6---CB  04GLCBAG201404001  363test using BAU database                        -902.11 20131008          250NGUYEN kentest                         
+20143 ALWIGAAAASAOSUB6---CB  04GLCBAG201404001  364test using BAU database                        -176.81 20131008          250SHULL  kentest                         
+20143 ALWRGAAAAITSSB28---CB  04GLCBAG201404001  365test using BAU database                         -49.00 20131008          AETXSSV   kentest                         
+20143 ALWRGAAAAITSSUB6---CB  04GLCBAG201404001  366test using BAU database                        -352.80 20131008          AETXSSV   kentest                         
+20143 ANSFJFM-----SB28---CB  04GLCBAG201404001  367test using BAU database                         231.75 20131008          TREJO     kentest                         
+20143 ANSFJFM-----SUB6---CB  04GLCBAG201404001  368test using BAU database                        -861.40 20131008          TREJO     kentest                         
+20143 ANSFJFR-----SB28---CB  04GLCBAG201404001  369test using BAU database                           5.67 20131008          ----------kentest                         
+20143 ANSFJFR-----SUB6---CB  04GLCBAG201404001  370test using BAU database                        -545.37 20131008          ----------kentest                         
+20143 ANSFPJB-----SB28---CB  04GLCBAG201404001  371test using BAU database                        -138.00 20131008          ----------kentest                         
+20143 ANSFPJB-----SUB6---CB  04GLCBAG201404001  372test using BAU database                        -768.26 20131008          ----------kentest                         
+20143 ANSFPJR-----SB28---CB  04GLCBAG201404001  373test using BAU database                         -97.30 20131008          ----------kentest                         
+20143 ANSFPJR-----SUB6---CB  04GLCBAG201404001  374test using BAU database                        -830.23 20131008          ----------kentest                         
+20143 ANSFRAZ-----SB28---CB  04GLCBAG201404001  375test using BAU database                           4.36 20131008          ----------kentest                         
+20143 ANSFRAZ-----SUB6---CB  04GLCBAG201404001  376test using BAU database                        -418.68 20131008          ----------kentest                         
+20143 ANTGGNBGRADSSB28---CB  04GLCBAG201404001  377test using BAU database                         -98.69 20131008          NUTGRAD   kentest                         
+20143 ANTGGNBGRADSSUB6---CB  04GLCBAG201404001  378test using BAU database                       -1035.76 20131008          NUTGRAD   kentest                         
+20143 ANTIGAA-----SUB6---CB  04GLCBAG201404001  379test using BAU database                        1637.78 20131008          ----------kentest                         
+20143 ANTIGAA-----SUB6---CB  04GLCBAG201404001  380test using BAU database                       -1637.78 20131008          ZIVKOVIC  kentest                         
+20143 ANTIGAAADVISSB28---CB  04GLCBAG201404001  381test using BAU database                        -116.89 20131008          NUTUNDR   kentest                         
+20143 ANTIGAAADVISSUB6---CB  04GLCBAG201404001  382test using BAU database                       -1025.23 20131008          NUTUNDR   kentest                         
+20143 ANTIGAASALRYSB28---CB  04GLCBAG201404001  383test using BAU database                         792.68 20131008          NUTKHB    kentest                         
+20143 ANTIGAASALRYSB28---CB  04GLCBAG201404001  384test using BAU database                         922.98 20131008          NUTPIO    kentest                         
+20143 ANTIGAASALRYSUB6---CB  04GLCBAG201404001  385test using BAU database                         285.36 20131008          NUTKHB    kentest                         
+20143 ANTIGAASALRYSUB6---CB  04GLCBAG201404001  386test using BAU database                         332.27 20131008          NUTPIO    kentest                         
+20143 ANTITMPNU112SUB6---CB  04GLCBAG201404001  387test using BAU database                           0.39 20131008          ----------kentest                         
+20143 ANTRGAA-----SB28---CB  04GLCBAG201404001  388test using BAU database                         -85.13 20131008          ----------kentest                         
+20143 ANTRGAA-----SUB6---CB  04GLCBAG201404001  389test using BAU database                        1253.53 20131008          ----------kentest                         
+20143 ANTRGAA-----SUB6---CB  04GLCBAG201404001  390test using BAU database                       -1979.98 20131008          ZIVKOVIC  kentest                         
+20143 ANTRGAASALRYSB28---CB  04GLCBAG201404001  391test using BAU database                         576.49 20131008          NUTKHB    kentest                         
+20143 ANTRGAASALRYSB28---CB  04GLCBAG201404001  392test using BAU database                         185.12 20131008          NUTLLK    kentest                         
+20143 ANTRGAASALRYSB28---CB  04GLCBAG201404001  393test using BAU database                         755.17 20131008          NUTPIO    kentest                         
+20143 ANTRGAASALRYSUB6---CB  04GLCBAG201404001  394test using BAU database                         207.54 20131008          NUTKHB    kentest                         
+20143 ANTRGAASALRYSUB6---CB  04GLCBAG201404001  395test using BAU database                          66.64 20131008          NUTLLK    kentest                         
+20143 ANTRGAASALRYSUB6---CB  04GLCBAG201404001  396test using BAU database                         271.86 20131008          NUTPIO    kentest                         
+20143 ANTUNDR-----SUB6---CB  04GLCBAG201404001  397test using BAU database                          -2.76 20131008          ----------kentest                         
+20143 ANTUNDRADVISSUB6---CB  04GLCBAG201404001  398test using BAU database                          -0.63 20131008          ----------kentest                         
+20143 APFIGAAXPSTXSB28---CB  04GLCBAG201404001  399test using BAU database                         -18.02 20131008          MONTOYA-P kentest                         
+20143 APFIGAAXPSTXSUB6---CB  04GLCBAG201404001  400test using BAU database                        -132.31 20131008          MONTOYA-P kentest                         
+20143 APPRGAA-----SB28---CB  04GLCBAG201404001  401test using BAU database                         -26.54 20131008          ABRP      kentest                         
+20143 APPRGAA-----SB28---CB  04GLCBAG201404001  402test using BAU database                         -95.71 20131008          JCRP      kentest                         
+20143 APPRGAA-----SB28---CB  04GLCBAG201404001  403test using BAU database                        -214.55 20131008          RWWP      kentest                         
+20143 APPRGAA-----SUB6---CB  04GLCBAG201404001  404test using BAU database                        -226.46 20131008          ABRP      kentest                         
+20143 APPRGAA-----SUB6---CB  04GLCBAG201404001  405test using BAU database                        -816.71 20131008          JCRP      kentest                         
+20143 APPRGAA-----SUB6---CB  04GLCBAG201404001  406test using BAU database                       -1575.27 20131008          RWWP      kentest                         
+20143 APRIGAU-----SB28---CB  04GLCBAG201404001  407test using BAU database                       -9698.16 20131008          ----------kentest                         
+20143 APRIGAU-----SUB6---CB  04GLCBAG201404001  408test using BAU database                       65128.01 20131008          ----------kentest                         
+20143 APRRGAU-----SB28---CB  04GLCBAG201404001  409test using BAU database                       -1028.24 20131008          ----------kentest                         
+20143 APRRGAU-----SUB6---CB  04GLCBAG201404001  410test using BAU database                       95747.69 20131008          ----------kentest                         
+20143 APSG153FKWTRSUB6---CB  04GLCBAG201404001  411test using BAU database                          -1.10 20131008          SCHOHR-TRAkentest                         
+20143 APSIGAAAEUGASUB6---CB  04GLCBAG201404001  412test using BAU database                          -3.09 20131008          ----------kentest                         
+20143 APSIGAAAEUGASUB6---CB  04GLCBAG201404001  413test using BAU database                          -2.76 20131008          ONG-HOONSAkentest                         
+20143 APSIGAAASADVSB28---CB  04GLCBAG201404001  414test using BAU database                        -200.34 20131008          BROWNL    kentest                         
+20143 APSIGAAASADVSB28---CB  04GLCBAG201404001  415test using BAU database                        -122.21 20131008          COSTA,T   kentest                         
+20143 APSIGAAASADVSB28---CB  04GLCBAG201404001  416test using BAU database                          28.02 20131008          FLEMING-BRkentest                         
+20143 APSIGAAASADVSUB6---CB  04GLCBAG201404001  417test using BAU database                       -1115.31 20131008          BROWNL    kentest                         
+20143 APSIGAAASADVSUB6---CB  04GLCBAG201404001  418test using BAU database                       -1071.39 20131008          COSTA,T   kentest                         
+20143 APSIGAAASADVSUB6---CB  04GLCBAG201404001  419test using BAU database                        -396.23 20131008          FLEMING-BRkentest                         
+20143 APSIGAAASFLESB28---CB  04GLCBAG201404001  420test using BAU database                         -25.78 20131008          PITTON,BRUkentest                         
+20143 APSIGAAASFLESUB6---CB  04GLCBAG201404001  421test using BAU database                        -290.08 20131008          PITTON,BRUkentest                         
+20143 APSIGAAASFLVSB28---CB  04GLCBAG201404001  422test using BAU database                         -83.14 20131008          MANDRES   kentest                         
+20143 APSIGAAASFLVSB28---CB  04GLCBAG201404001  423test using BAU database                          -9.01 20131008          MONTOYA   kentest                         
+20143 APSIGAAASFLVSUB6---CB  04GLCBAG201404001  424test using BAU database                        -935.65 20131008          MANDRES   kentest                         
+20143 APSIGAAASFLVSUB6---CB  04GLCBAG201404001  425test using BAU database                         -66.15 20131008          MONTOYA   kentest                         
+20143 APSIGAAASFLWSB28---CB  04GLCBAG201404001  426test using BAU database                        -142.97 20131008          CRISTLER  kentest                         
+20143 APSIGAAASFLWSUB6---CB  04GLCBAG201404001  427test using BAU database                       -1049.69 20131008          CRISTLER  kentest                         
+20143 APSIGAAASITESB28---CB  04GLCBAG201404001  428test using BAU database                         662.52 20131008          CHOWN-ZAC kentest                         
+20143 APSIGAAASITESB28---CB  04GLCBAG201404001  429test using BAU database                          21.61 20131008          SZETO,B   kentest                         
+20143 APSIGAAASITESB28---CB  04GLCBAG201404001  430test using BAU database                         -62.02 20131008          VIDACA-J  kentest                         
+20143 APSIGAAASITESUB6---CB  04GLCBAG201404001  431test using BAU database                        -432.89 20131008          CHOWN-ZAC kentest                         
+20143 APSIGAAASITESUB6---CB  04GLCBAG201404001  432test using BAU database                        -150.11 20131008          SZETO,B   kentest                         
+20143 APSIGAAASITESUB6---CB  04GLCBAG201404001  433test using BAU database                        -529.19 20131008          VIDACA-J  kentest                         
+20143 APSIGAAASOFCSB28---CB  04GLCBAG201404001  434test using BAU database                          -8.32 20131008          ADAMS     kentest                         
+20143 APSIGAAASOFCSB28---CB  04GLCBAG201404001  435test using BAU database                         -23.91 20131008          JOHNSTON  kentest                         
+20143 APSIGAAASOFCSB28---CB  04GLCBAG201404001  436test using BAU database                          -7.97 20131008          REIDS     kentest                         
+20143 APSIGAAASOFCSB28---CB  04GLCBAG201404001  437test using BAU database                         -63.26 20131008          SALAZAR,C kentest                         
+20143 APSIGAAASOFCSB28---CB  04GLCBAG201404001  438test using BAU database                         -50.61 20131008          WATERSON-Kkentest                         
+20143 APSIGAAASOFCSUB6---CB  04GLCBAG201404001  439test using BAU database                         -52.67 20131008          ADAMS     kentest                         
+20143 APSIGAAASOFCSUB6---CB  04GLCBAG201404001  440test using BAU database                        -204.02 20131008          JOHNSTON  kentest                         
+20143 APSIGAAASOFCSUB6---CB  04GLCBAG201404001  441test using BAU database                         -55.90 20131008          REIDS     kentest                         
+20143 APSIGAAASOFCSUB6---CB  04GLCBAG201404001  442test using BAU database                        -539.83 20131008          SALAZAR,C kentest                         
+20143 APSIGAAASOFCSUB6---CB  04GLCBAG201404001  443test using BAU database                        -431.86 20131008          WATERSON-Kkentest                         
+20143 APSIGAAASSAFSB28---CB  04GLCBAG201404001  444test using BAU database                         -50.45 20131008          WARREN,B  kentest                         
+20143 APSIGAAASSAFSUB6---CB  04GLCBAG201404001  445test using BAU database                        -430.48 20131008          WARREN,B  kentest                         
+20143 APSIGAAFACIRSB28---CB  04GLCBAG201404001  446test using BAU database                         839.08 20131008          FISCHER   kentest                         
+20143 APSIGAAFACIRSUB6---CB  04GLCBAG201404001  447test using BAU database                         302.07 20131008          FISCHER   kentest                         
+20143 APSITMPCS005SUB6---CB  04GLCBAG201404001  448test using BAU database                          -5.41 20131008          ----------kentest                         
+20143 APSITMPCS005SUB6---CB  04GLCBAG201404001  449test using BAU database                          -5.23 20131008          TAYLOR    kentest                         
+20143 APSITMPCS021SUB6---CB  04GLCBAG201404001  450test using BAU database                          -5.00 20131008          GRANTERIN kentest                         
+20143 APSITMPCS021SUB6---CB  04GLCBAG201404001  451test using BAU database                          -5.00 20131008          HIPOLITO-Akentest                         
+20143 APSRG11JEH01SB28---CB  04GLCBAG201404001  452test using BAU database                          29.96 20131008          STOGSDIL-Jkentest                         
+20143 APSRG11JEH01SUB6---CB  04GLCBAG201404001  453test using BAU database                        -784.22 20131008          STOGSDIL-Jkentest                         
+20143 APSRG55FEJM2SB28---CB  04GLCBAG201404001  454test using BAU database                          -8.88 20131008          FLEMING-BRkentest                         
+20143 APSRG55FEJM2SUB6---CB  04GLCBAG201404001  455test using BAU database                         -75.76 20131008          FLEMING-BRkentest                         
+20143 APSRG56FDEP0SB28---CB  04GLCBAG201404001  456test using BAU database                           8.38 20131008          CHAN-Z    kentest                         
+20143 APSRG56FDEP0SUB6---CB  04GLCBAG201404001  457test using BAU database                          -8.09 20131008          CHAN-Z    kentest                         
+20143 APSRG86FTVS1SUB6---CB  04GLCBAG201404001  458test using BAU database                        1195.60 20131008          ----------kentest                         
+20143 APSRGAAAEFLPSB28---CB  04GLCBAG201404001  459test using BAU database                         -10.05 20131008          SANDOVAL-Zkentest                         
+20143 APSRGAAAEFLPSUB6---CB  04GLCBAG201404001  460test using BAU database                         -98.20 20131008          PLOCHER   kentest                         
+20143 APSRGAAAEFLPSUB6---CB  04GLCBAG201404001  461test using BAU database                        -113.12 20131008          SANDOVAL-Zkentest                         
+20143 APSRGAAAEFLVSB28---CB  04GLCBAG201404001  462test using BAU database                         -31.07 20131008          SANDOVAL-Zkentest                         
+20143 APSRGAAAEFLVSUB6---CB  04GLCBAG201404001  463test using BAU database                        -349.64 20131008          SANDOVAL-Zkentest                         
+20143 APSRGAAAEITESUB6---CB  04GLCBAG201404001  464test using BAU database                          -3.07 20131008          CHAN-KAI  kentest                         
+20143 APSRGAAAEOFCSUB6---CB  04GLCBAG201404001  465test using BAU database                          -1.66 20131008          ----------kentest                         
+20143 APSRGAAAEOFCSUB6---CB  04GLCBAG201404001  466test using BAU database                          -0.94 20131008          YOSHIDA-LAkentest                         
+20143 APSRGAAAESAFSUB6---CB  04GLCBAG201404001  467test using BAU database                          -0.55 20131008          PARKJOHN  kentest                         
+20143 APSRGAAAESAFSUB6---CB  04GLCBAG201404001  468test using BAU database                          -0.55 20131008          SONDANIEL kentest                         
+20143 APSRGAAASFLESB28---CB  04GLCBAG201404001  469test using BAU database                         -25.78 20131008          PITTON,BRUkentest                         
+20143 APSRGAAASFLESUB6---CB  04GLCBAG201404001  470test using BAU database                        -290.08 20131008          PITTON,BRUkentest                         
+20143 APSRGAAASFLVSB28---CB  04GLCBAG201404001  471test using BAU database                         -44.45 20131008          BOONET    kentest                         
+20143 APSRGAAASFLVSB28---CB  04GLCBAG201404001  472test using BAU database                         -51.92 20131008          HERRERA,NIkentest                         
+20143 APSRGAAASFLVSB28---CB  04GLCBAG201404001  473test using BAU database                         -59.90 20131008          MANDRES   kentest                         
+20143 APSRGAAASFLVSB28---CB  04GLCBAG201404001  474test using BAU database                         -54.06 20131008          MONTOYA   kentest                         
+20143 APSRGAAASFLVSUB6---CB  04GLCBAG201404001  475test using BAU database                        -500.20 20131008          BOONET    kentest                         
+20143 APSRGAAASFLVSUB6---CB  04GLCBAG201404001  476test using BAU database                        -479.99 20131008          HERRERA,NIkentest                         
+20143 APSRGAAASFLVSUB6---CB  04GLCBAG201404001  477test using BAU database                        -674.08 20131008          MANDRES   kentest                         
+20143 APSRGAAASFLVSUB6---CB  04GLCBAG201404001  478test using BAU database                        -396.92 20131008          MONTOYA   kentest                         
+20143 APSRGAAASFLWSB28---CB  04GLCBAG201404001  479test using BAU database                         -49.54 20131008          CRISTLER  kentest                         
+20143 APSRGAAASFLWSUB6---CB  04GLCBAG201404001  480test using BAU database                        -363.76 20131008          CRISTLER  kentest                         
+20143 APSRGAAASITESB28---CB  04GLCBAG201404001  481test using BAU database                         465.99 20131008          CHOWN-ZAC kentest                         
+20143 APSRGAAASITESB28---CB  04GLCBAG201404001  482test using BAU database                         -83.55 20131008          DUSSAULT,Lkentest                         
+20143 APSRGAAASITESB28---CB  04GLCBAG201404001  483test using BAU database                         -62.02 20131008          VIDACA-J  kentest                         
+20143 APSRGAAASITESUB6---CB  04GLCBAG201404001  484test using BAU database                        -296.78 20131008          CHOWN-ZAC kentest                         
+20143 APSRGAAASITESUB6---CB  04GLCBAG201404001  485test using BAU database                        -601.62 20131008          DUSSAULT,Lkentest                         
+20143 APSRGAAASITESUB6---CB  04GLCBAG201404001  486test using BAU database                        -529.19 20131008          VIDACA-J  kentest                         
+20143 APSRGAAASOFCSB28---CB  04GLCBAG201404001  487test using BAU database                        -129.21 20131008          ADAMS     kentest                         
+20143 APSRGAAASOFCSB28---CB  04GLCBAG201404001  488test using BAU database                        -101.39 20131008          CHAVEZ,DANkentest                         
+20143 APSRGAAASOFCSB28---CB  04GLCBAG201404001  489test using BAU database                         -13.62 20131008          COUGHERSARkentest                         
+20143 APSRGAAASOFCSB28---CB  04GLCBAG201404001  490test using BAU database                         375.47 20131008          GEER      kentest                         
+20143 APSRGAAASOFCSB28---CB  04GLCBAG201404001  491test using BAU database                         766.56 20131008          GREENLEAF kentest                         
+20143 APSRGAAASOFCSB28---CB  04GLCBAG201404001  492test using BAU database                         -23.91 20131008          JOHNSTON  kentest                         
+20143 APSRGAAASOFCSB28---CB  04GLCBAG201404001  493test using BAU database                         -22.72 20131008          MARRUSH   kentest                         
+20143 APSRGAAASOFCSB28---CB  04GLCBAG201404001  494test using BAU database                         -68.56 20131008          MCVARISH  kentest                         
+20143 APSRGAAASOFCSB28---CB  04GLCBAG201404001  495test using BAU database                         -71.99 20131008          NIJJAR-BALkentest                         
+20143 APSRGAAASOFCSB28---CB  04GLCBAG201404001  496test using BAU database                        -135.56 20131008          REIDS     kentest                         
+20143 APSRGAAASOFCSB28---CB  04GLCBAG201404001  497test using BAU database                         -92.59 20131008          SABERI-S  kentest                         
+20143 APSRGAAASOFCSB28---CB  04GLCBAG201404001  498test using BAU database                         -63.26 20131008          SALAZAR,C kentest                         
+20143 APSRGAAASOFCSB28---CB  04GLCBAG201404001  499test using BAU database                         -75.92 20131008          WATERSON-Kkentest                         
+20143 APSRGAAASOFCSUB6---CB  04GLCBAG201404001  500test using BAU database                        -889.42 20131008          ADAMS     kentest                         
+20143 APSRGAAASOFCSUB6---CB  04GLCBAG201404001  501test using BAU database                        -639.49 20131008          CHAVEZ,DANkentest                         
+20143 APSRGAAASOFCSUB6---CB  04GLCBAG201404001  502test using BAU database                        -138.89 20131008          COUGHERSARkentest                         
+20143 APSRGAAASOFCSUB6---CB  04GLCBAG201404001  503test using BAU database                        -378.85 20131008          GEER      kentest                         
+20143 APSRGAAASOFCSUB6---CB  04GLCBAG201404001  504test using BAU database                        -209.29 20131008          GREENLEAF kentest                         
+20143 APSRGAAASOFCSUB6---CB  04GLCBAG201404001  505test using BAU database                        -204.02 20131008          JOHNSTON  kentest                         
+20143 APSRGAAASOFCSUB6---CB  04GLCBAG201404001  506test using BAU database                        -490.84 20131008          MARRUSH   kentest                         
+20143 APSRGAAASOFCSUB6---CB  04GLCBAG201404001  507test using BAU database                        -491.31 20131008          MCVARISH  kentest                         
+20143 APSRGAAASOFCSUB6---CB  04GLCBAG201404001  508test using BAU database                        -648.88 20131008          NIJJAR-BALkentest                         
+20143 APSRGAAASOFCSUB6---CB  04GLCBAG201404001  509test using BAU database                        -955.09 20131008          REIDS     kentest                         
+20143 APSRGAAASOFCSUB6---CB  04GLCBAG201404001  510test using BAU database                        -793.65 20131008          SABERI-S  kentest                         
+20143 APSRGAAASOFCSUB6---CB  04GLCBAG201404001  511test using BAU database                        -539.83 20131008          SALAZAR,C kentest                         
+20143 APSRGAAASOFCSUB6---CB  04GLCBAG201404001  512test using BAU database                        -652.42 20131008          WATERSON-Kkentest                         
+20143 APSRGAAASPHVSB28---CB  04GLCBAG201404001  513test using BAU database                         -60.16 20131008          RICHMOND,Lkentest                         
+20143 APSRGAAASPHVSUB6---CB  04GLCBAG201404001  514test using BAU database                       -1195.60 20131008          ----------kentest                         
+20143 APSRGAAASPHVSUB6---CB  04GLCBAG201404001  515test using BAU database                        -513.37 20131008          RICHMOND,Lkentest                         
+20143 APSRGAAASRICSB28---CB  04GLCBAG201404001  516test using BAU database                         -68.35 20131008          DUSSAULT,Lkentest                         
+20143 APSRGAAASRICSUB6---CB  04GLCBAG201404001  517test using BAU database                        -492.23 20131008          DUSSAULT,Lkentest                         
+20143 APSRGAAASSAFSB28---CB  04GLCBAG201404001  518test using BAU database                         -50.45 20131008          WARREN,B  kentest                         
+20143 APSRGAAASSAFSUB6---CB  04GLCBAG201404001  519test using BAU database                        -430.48 20131008          WARREN,B  kentest                         
+20143 APSRGAAFACORSB28---CB  04GLCBAG201404001  520test using BAU database                        1194.82 20131008          JASIENIUK kentest                         
+20143 APSRGAAFACORSUB6---CB  04GLCBAG201404001  521test using BAU database                         430.14 20131008          JASIENIUK kentest                         
+20143 APSRGABFABB2SB28---CB  04GLCBAG201404001  522test using BAU database                         -27.10 20131008          BESS,K    kentest                         
+20143 APSRGABFABB2SUB6---CB  04GLCBAG201404001  523test using BAU database                        -231.21 20131008          BESS,K    kentest                         
+20143 APSRGAGASGRHSB28---CB  04GLCBAG201404001  524test using BAU database                         -42.17 20131008          JOHNSTON  kentest                         
+20143 APSRGAGASGRHSUB6---CB  04GLCBAG201404001  525test using BAU database                        -359.81 20131008          JOHNSTON  kentest                         
+20143 AREUNDR-----SUB6---CB  04GLCBAG201404001  526test using BAU database                          -1.99 20131008          ----------kentest                         
+20143 ASP982H-----SUB6---CB  04GLCBAG201404001  527test using BAU database                          -1.71 20131008          ----------kentest                         
+20143 ASTEACHADMINSUB6---CB  04GLCBAG201404001  528test using BAU database                          -4.16 20131008          ----------kentest                         
+20143 ASTEACHADVSNSUB6---CB  04GLCBAG201404001  529test using BAU database                         -16.08 20131008          ----------kentest                         
+20143 ATXIGAA-----SUB6---CB  04GLCBAG201404001  530test using BAU database                        -126.00 20131008          ----------kentest                         
+20143 ATXIGAA-----SUB6---CB  04GLCBAG201404001  531test using BAU database                       -2673.01 20131008          MRUCKER   kentest                         
+20143 ATXRGAA-----SUB6---CB  04GLCBAG201404001  532test using BAU database                       -1782.01 20131008          MRUCKER   kentest                         
+20143 AVERGAA-----SB28---CB  04GLCBAG201404001  533test using BAU database                        -191.44 20131008          AVITPLG   kentest                         
+20143 AVERGAA-----SB28---CB  04GLCBAG201404001  534test using BAU database                         -96.24 20131008          AVITSCB   kentest                         
+20143 AVERGAA-----SUB6---CB  04GLCBAG201404001  535test using BAU database                       -1065.81 20131008          AVITPLG   kentest                         
+20143 AVERGAA-----SUB6---CB  04GLCBAG201404001  536test using BAU database                       -1083.05 20131008          AVITSCB   kentest                         
+20143 AWFIGAASACARSB28---CB  04GLCBAG201404001  537test using BAU database                         -74.02 20131008          250BIENATIkentest                         
+20143 AWFIGAASACARSUB6---CB  04GLCBAG201404001  538test using BAU database                        -631.58 20131008          250BIENATIkentest                         
+20143 AWFRGAAAAITSSB28---CB  04GLCBAG201404001  539test using BAU database                         -12.99 20131008          AETXSSV   kentest                         
+20143 AWFRGAAAAITSSUB6---CB  04GLCBAG201404001  540test using BAU database                         -93.51 20131008          AETXSSV   kentest                         
+20143 AWFRGAAMUSEMSB28---CB  04GLCBAG201404001  541test using BAU database                         -26.16 20131008          ----------kentest                         
+20143 AWFRGAAMUSEMSUB6---CB  04GLCBAG201404001  542test using BAU database                        -242.19 20131008          ----------kentest                         
+20143 AWFRGAASAFTYSB28---CB  04GLCBAG201404001  543test using BAU database                          17.20 20131008          ----------kentest                         
+20143 AWFRGAASAFTYSUB6---CB  04GLCBAG201404001  544test using BAU database                        -199.38 20131008          ----------kentest                         
+20143 AXEIGAAABIXXSUB6---CB  04GLCBAG201404001  545test using BAU database                          -0.64 20131008          ----------kentest                         
+20143 AXERGAA-----SB28---CB  04GLCBAG201404001  546test using BAU database                         -79.18 20131008          ----------kentest                         
+20143 AXERGAA-----SB28---CB  04GLCBAG201404001  547test using BAU database                         -24.44 20131008          ABRP      kentest                         
+20143 AXERGAA-----SUB6---CB  04GLCBAG201404001  548test using BAU database                        -743.20 20131008          ----------kentest                         
+20143 AXERGAA-----SUB6---CB  04GLCBAG201404001  549test using BAU database                        -208.57 20131008          ABRP      kentest                         
+20143 BLLSALR-----SUB6---CB  04GLCBAG201404001  550test using BAU database                         -27.49 20131008          ----------kentest                         
+20143 BRJ0046-----SUB6---CB  04GLCBAG201404001  551test using BAU database                          -0.66 20131008          ----------kentest                         
+20143 BUS9047-----SUB6---CB  04GLCBAG201404001  552test using BAU database                          -1.71 20131008          ----------kentest                         
+20143 CRU9033-----SB28---CB  04GLCBAG201404001  553test using BAU database                         -82.99 20131008          ----------kentest                         
+20143 CRU9033-----SUB6---CB  04GLCBAG201404001  554test using BAU database                        -709.80 20131008          ----------kentest                         
+20143 CUH9080-----SB28---CB  04GLCBAG201404001  555test using BAU database                         -97.98 20131008          ADOAES    kentest                         
+20143 CUH9080-----SUB6---CB  04GLCBAG201404001  556test using BAU database                        -836.08 20131008          ADOAES    kentest                         
+20143 ESG7E23-----SUB6---CB  04GLCBAG201404001  557test using BAU database                          -3.80 20131008          ----------kentest                         
+20143 ESP8E87-----SUB6---CB  04GLCBAG201404001  558test using BAU database                          -2.99 20131008          ----------kentest                         
+20143 FIELDOP-----SUB6---CB  04GLCBAG201404001  559test using BAU database                          -5.34 20131008          ----------kentest                         
+20143 FMSCHAR-----SB28---CB  04GLCBAG201404001  560test using BAU database                         -37.28 20131008          ----------kentest                         
+20143 FMSCHAR-----SUB6---CB  04GLCBAG201404001  561test using BAU database                        -229.85 20131008          ----------kentest                         
+20143 FMSGENA-----SB28---CB  04GLCBAG201404001  562test using BAU database                         -37.28 20131008          ----------kentest                         
+20143 FMSGENA-----SUB6---CB  04GLCBAG201404001  563test using BAU database                        -229.85 20131008          ----------kentest                         
+20143 HERBARIASHERSB28---CB  04GLCBAG201404001  564test using BAU database                         -56.37 20131008          SHEPARD   kentest                         
+20143 HERBARIASHERSUB6---CB  04GLCBAG201404001  565test using BAU database                        -655.52 20131008          SHEPARD   kentest                         
+20143 HERNMIN-----SB28---CB  04GLCBAG201404001  566test using BAU database                          -0.83 20131008          ----------kentest                         
+20143 HERNMIN-----SUB6---CB  04GLCBAG201404001  567test using BAU database                          -6.47 20131008          ----------kentest                         
+20143 LFBS199-----SUB6---CB  04GLCBAG201404001  568test using BAU database                          -0.31 20131008          ----------kentest                         
+20143 METROC2STASTSUB6---CB  04GLCBAG201404001  569test using BAU database                         -17.49 20131008          ----------kentest                         
+20143 RMIADMN-----SB28---CB  04GLCBAG201404001  570test using BAU database                         -85.94 20131008          ADODLN    kentest                         
+20143 RMIADMN-----SUB6---CB  04GLCBAG201404001  571test using BAU database                        -733.30 20131008          ADODLN    kentest                         
+20143 SRC9090-----SB28---CB  04GLCBAG201404001  572test using BAU database                         -86.22 20131008          ADOEYB    kentest                         
+20143 SRC9090-----SUB6---CB  04GLCBAG201404001  573test using BAU database                          -1.40 20131008          ----------kentest                         
+20143 SRC9090-----SUB6---CB  04GLCBAG201404001  574test using BAU database                        -735.71 20131008          ADOEYB    kentest                         
+20143 SZCGENA-----SB28---CB  04GLCBAG201404001  575test using BAU database                         -74.70 20131008          ----------kentest                         
+20143 SZCGENA-----SUB6---CB  04GLCBAG201404001  576test using BAU database                        -637.42 20131008          ----------kentest                         
+20143 UAP983H-----SUB6---CB  04GLCBAG201404001  577test using BAU database                          -4.11 20131008          ----------kentest                         
+20143 UAP997H-----SUB6---CB  04GLCBAG201404001  578test using BAU database                          -2.44 20131008          ----------kentest                         
+20143 ULL25DU-----SUB6---CB  04GLCBAG201404001  579test using BAU database                          -3.10 20131008          ----------kentest                         
+20143 UNDGRAD-----SUB6---CB  04GLCBAG201404001  580test using BAU database                          -2.21 20131008          ----------kentest                         
+20143 WTHRSTA-----SUB6---CB  04GLCBAG201404001  581test using BAU database                           4.32 20131008          ----------kentest                         
