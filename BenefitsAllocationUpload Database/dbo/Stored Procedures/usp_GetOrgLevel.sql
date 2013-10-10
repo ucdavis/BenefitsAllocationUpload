@@ -5,7 +5,7 @@
 -- Usage:
 /*
 -- AAES returns @OrgLevel = 4, i.e. CollegeLevelOrg
-USE [FISDataMart]
+USE [BenefitsAllocationUpload]
 GO
 
 DECLARE @OrgLevel smallint
@@ -15,7 +15,7 @@ EXEC	[dbo].[usp_GetOrgLevel]
 GO
 
 -- SSCI returns @OrgLevel = 5, i.e. DivisionLevelOrg
-USE [FISDataMart]
+USE [BenefitsAllocationUpload]
 GO
 
 DECLARE @OrgLevel smallint
