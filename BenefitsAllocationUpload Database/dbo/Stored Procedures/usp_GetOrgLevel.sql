@@ -45,9 +45,9 @@ FROM OPENQUERY('+ @LinkedServer + ','''
 	FINANCE.ORGANIZATION_HIERARCHY Orgs
   WHERE 
 	Orgs.FISCAL_YEAR = 9999 AND
-	Orgs.FISCAL_PERIOD =  ' + master.dbo.udf_CreateQuotedStringList(default, '--', default) + ' AND
-	Orgs.CHART_NUM = ' + master.dbo.udf_CreateQuotedStringList(default, '3', default)  + ' AND
-	Orgs.ORG_ID = ' + master.dbo.udf_CreateQuotedStringList(default, @OrgId, default) + 
+	Orgs.FISCAL_PERIOD =  ' + dbo.udf_CreateQuotedStringList(default, '--', default) + ' AND
+	Orgs.CHART_NUM = ' + dbo.udf_CreateQuotedStringList(default, '3', default)  + ' AND
+	Orgs.ORG_ID = ' + dbo.udf_CreateQuotedStringList(default, @OrgId, default) + 
 	'
 ''))'
  

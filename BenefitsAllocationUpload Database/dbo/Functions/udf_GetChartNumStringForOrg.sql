@@ -31,7 +31,7 @@ BEGIN
 	IF @ChartNum IS NULL 
 		SELECT @ChartNum = @Chart3
 
-	SELECT @ChartNumString = master.dbo.udf_CreateQuotedStringList(@NumSingleQuotes, RTRIM(@ChartNum), DEFAULT)
+	SELECT @ChartNumString = dbo.udf_CreateQuotedStringList(@NumSingleQuotes, RTRIM(@ChartNum), DEFAULT)
 
 	-- Return the result of the function
 	RETURN @ChartNumString

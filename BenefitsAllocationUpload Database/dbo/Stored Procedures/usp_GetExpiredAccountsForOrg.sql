@@ -191,7 +191,7 @@ ELSE -- @UseDaFIS = 1 AND/OR @CollegeLevelOrg NOT LIKE 'AAES'
 			BEGIN
 				SELECT @UseCollegeLevelOrg = 0
 				--Find parent org for DivisionLevelOrg(s) 
-				SELECT @QuotedOrgsString = (SELECT master.dbo.udf_CreateQuotedStringList(DEFAULT, @OrgId, DEFAULT))
+				SELECT @QuotedOrgsString = (SELECT dbo.udf_CreateQuotedStringList(DEFAULT, @OrgId, DEFAULT))
 				--IF @IsDebug = 1 PRINT @QuotedOrgsString
 
 				SELECT @statement = 'SELECT @OrgForTableName = (SELECT TOP 1 * FROM OPENQUERY(FIS_DS, ''
