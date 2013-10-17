@@ -34,7 +34,7 @@ BEGIN
 	WHILE @@FETCH_STATUS <> -1
 	BEGIN
 		--Build @IncludeOpFundsString
-		SELECT @IncludeOpFundsString += '(OA.CHART_NUM = ' + master.dbo.udf_CreateQuotedStringList(@NumSingleQuotes, @Chart, DEFAULT) + ' AND OA.OP_FUND_NUM = ' + master.dbo.udf_CreateQuotedStringList(@NumSingleQuotes, @OpFund, DEFAULT) + ')'
+		SELECT @IncludeOpFundsString += '(OA.CHART_NUM = ' + dbo.udf_CreateQuotedStringList(@NumSingleQuotes, @Chart, DEFAULT) + ' AND OA.OP_FUND_NUM = ' + dbo.udf_CreateQuotedStringList(@NumSingleQuotes, @OpFund, DEFAULT) + ')'
 		FETCH NEXT FROM opFundCursor INTO @Chart, @OpFund
 		IF @@FETCH_STATUS <> -1
 			SELECT @IncludeOpFundsString += ' OR

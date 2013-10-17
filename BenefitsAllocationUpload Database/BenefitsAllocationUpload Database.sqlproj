@@ -64,6 +64,7 @@
     <Folder Include="dbo\Functions\" />
     <Folder Include="dbo\Stored Procedures\" />
     <Folder Include="dbo\User Defined Types\" />
+    <Folder Include="dbo\Data" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\ReimbursableBenefitsAccounts.sql" />
@@ -83,5 +84,10 @@
     <Build Include="dbo\Stored Procedures\usp_GetBudgetAdjustmentUploadDataForOrg.sql" />
     <Build Include="dbo\Stored Procedures\usp_GetExpiredAccountsForOrg.sql" />
     <Build Include="dbo\User Defined Types\TransactionsForSummationTableType.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="dbo\Data\dbo.UnitFiles.txt" />
+    <None Include="dbo\Data\dbo.ReimbursableBenefitsAccounts.txt" />
+    <None Include="dbo\Data\dbo.CentralAccounts.txt" />
   </ItemGroup>
 </Project>

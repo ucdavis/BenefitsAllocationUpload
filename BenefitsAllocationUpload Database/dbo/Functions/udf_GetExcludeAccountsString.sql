@@ -38,7 +38,7 @@ BEGIN
 	CLOSE mycursor
 	DEALLOCATE mycursor
 
-	SELECT @ExcludeAccountsString = master.dbo.udf_CreateQuotedStringList(@NumSingleQuotes, @ExcludeAccountsString, DEFAULT)
+	SELECT @ExcludeAccountsString = dbo.udf_CreateQuotedStringList(@NumSingleQuotes, @ExcludeAccountsString, DEFAULT)
 	
 	-- Return the result of the function
 	RETURN @ExcludeAccountsString

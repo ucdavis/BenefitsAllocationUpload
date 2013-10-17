@@ -51,7 +51,7 @@ BEGIN
 	DEALLOCATE objectCursor
 
 	IF LEN(@ExcludeObjectsString) > 0
-		SELECT @ExcludeObjectsString = master.dbo.udf_CreateQuotedStringList(@NumSingleQuotes, @ExcludeObjectsString, DEFAULT)
+		SELECT @ExcludeObjectsString = dbo.udf_CreateQuotedStringList(@NumSingleQuotes, @ExcludeObjectsString, DEFAULT)
 
 	-- Return the result of the function
 	RETURN @ExcludeObjectsString

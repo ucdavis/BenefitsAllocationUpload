@@ -27,7 +27,7 @@ BEGIN
 
 	DECLARE mycursor CURSOR FOR
 		SELECT [Account]
-		FROM [dbo].ReimbursableBenefitsAccounts
+		FROM [dbo].[ReimbursableBenefitsAccounts]
 		WHERE isactive = 1 AND OrgID = @OrgId
 		ORDER BY Account
 		FOR READ ONLY
@@ -47,7 +47,7 @@ BEGIN
 	
 	-- Add the appropriate number of single quotes between account numbers:
 	IF LEN(@IncludeAccountsString) > 0  
-		SELECT @IncludeAccountsString = (SELECT master.dbo.udf_CreateQuotedStringList(@NumSingleQuotes, @IncludeAccountsString, DEFAULT))
+		SELECT @IncludeAccountsString = (SELECT dbo.udf_CreateQuotedStringList(@NumSingleQuotes, @IncludeAccountsString, DEFAULT))
 
 	-- Return the result of the function
 	RETURN @IncludeAccountsString

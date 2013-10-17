@@ -31,19 +31,19 @@ BEGIN
 	IF EXISTS(SELECT 1 FROM dbo.udf_GetIncludeOpFunds(@OrgId) WHERE ChartNum = 'L' AND OpFund = '69085')
 	BEGIN
 		SELECT @CASE_FUNCTION_CODE += '
-				CASE WHEN OA.OP_FUND_NUM = ' +  master.dbo.udf_CreateQuotedStringList(@NumSingleQuotes, '69085', DEFAULT) + ' THEN
-					CASE WHEN HIGHER_ED_FUNC_CODE = ' + master.dbo.udf_CreateQuotedStringList(@NumSingleQuotes, 'ORES', DEFAULT) + ' OR SUBSTR(OA.A11_ACCT_NUM, 1, 2) BETWEEN ' + master.dbo.udf_CreateQuotedStringList(@NumSingleQuotes, '44', DEFAULT) + ' AND ' +  master.dbo.udf_CreateQuotedStringList(@NumSingleQuotes, '59', DEFAULT) + ' THEN ' + master.dbo.udf_CreateQuotedStringList(@NumSingleQuotes, 'ORES', DEFAULT) + '
-						 WHEN HIGHER_ED_FUNC_CODE = ' + master.dbo.udf_CreateQuotedStringList(@NumSingleQuotes, 'PBSV', DEFAULT) + ' OR SUBSTR(OA.A11_ACCT_NUM, 1, 2) IN (' + master.dbo.udf_CreateQuotedStringList(@NumSingleQuotes, '62', DEFAULT) + ') THEN ' + master.dbo.udf_CreateQuotedStringList(@NumSingleQuotes, 'PBSV', DEFAULT) + '
-						 WHEN HIGHER_ED_FUNC_CODE = ' + master.dbo.udf_CreateQuotedStringList(@NumSingleQuotes, 'MOPP', DEFAULT) + ' OR SUBSTR(OA.A11_ACCT_NUM, 1, 2) IN (' + master.dbo.udf_CreateQuotedStringList(@NumSingleQuotes, '64', DEFAULT) + ') THEN ' + master.dbo.udf_CreateQuotedStringList(@NumSingleQuotes, 'MOPP', DEFAULT) + '
+				CASE WHEN OA.OP_FUND_NUM = ' +  dbo.udf_CreateQuotedStringList(@NumSingleQuotes, '69085', DEFAULT) + ' THEN
+					CASE WHEN HIGHER_ED_FUNC_CODE = ' + dbo.udf_CreateQuotedStringList(@NumSingleQuotes, 'ORES', DEFAULT) + ' OR SUBSTR(OA.A11_ACCT_NUM, 1, 2) BETWEEN ' + dbo.udf_CreateQuotedStringList(@NumSingleQuotes, '44', DEFAULT) + ' AND ' +  dbo.udf_CreateQuotedStringList(@NumSingleQuotes, '59', DEFAULT) + ' THEN ' + dbo.udf_CreateQuotedStringList(@NumSingleQuotes, 'ORES', DEFAULT) + '
+						 WHEN HIGHER_ED_FUNC_CODE = ' + dbo.udf_CreateQuotedStringList(@NumSingleQuotes, 'PBSV', DEFAULT) + ' OR SUBSTR(OA.A11_ACCT_NUM, 1, 2) IN (' + dbo.udf_CreateQuotedStringList(@NumSingleQuotes, '62', DEFAULT) + ') THEN ' + dbo.udf_CreateQuotedStringList(@NumSingleQuotes, 'PBSV', DEFAULT) + '
+						 WHEN HIGHER_ED_FUNC_CODE = ' + dbo.udf_CreateQuotedStringList(@NumSingleQuotes, 'MOPP', DEFAULT) + ' OR SUBSTR(OA.A11_ACCT_NUM, 1, 2) IN (' + dbo.udf_CreateQuotedStringList(@NumSingleQuotes, '64', DEFAULT) + ') THEN ' + dbo.udf_CreateQuotedStringList(@NumSingleQuotes, 'MOPP', DEFAULT) + '
 					END 
 				ELSE OA.OP_FUND_NUM END'
 	END
 	ELSE
 		SELECT @CASE_FUNCTION_CODE += '
-				CASE WHEN HIGHER_ED_FUNC_CODE = ' + master.dbo.udf_CreateQuotedStringList(@NumSingleQuotes, 'ORES', DEFAULT) + ' OR 
-					SUBSTR(OA.A11_ACCT_NUM, 1, 2) BETWEEN ' + master.dbo.udf_CreateQuotedStringList(@NumSingleQuotes, '44', DEFAULT) + ' AND ' + master.dbo.udf_CreateQuotedStringList(@NumSingleQuotes, '59', DEFAULT) + ' OR 
-					SUBSTR(OA.A11_ACCT_NUM, 1, 2) IN (' + master.dbo.udf_CreateQuotedStringList(@NumSingleQuotes, '62', DEFAULT) + ') THEN ' + master.dbo.udf_CreateQuotedStringList(@NumSingleQuotes, 'R', DEFAULT) + ' 
-				ELSE ' + master.dbo.udf_CreateQuotedStringList(@NumSingleQuotes, 'I', DEFAULT) + ' END'
+				CASE WHEN HIGHER_ED_FUNC_CODE = ' + dbo.udf_CreateQuotedStringList(@NumSingleQuotes, 'ORES', DEFAULT) + ' OR 
+					SUBSTR(OA.A11_ACCT_NUM, 1, 2) BETWEEN ' + dbo.udf_CreateQuotedStringList(@NumSingleQuotes, '44', DEFAULT) + ' AND ' + dbo.udf_CreateQuotedStringList(@NumSingleQuotes, '59', DEFAULT) + ' OR 
+					SUBSTR(OA.A11_ACCT_NUM, 1, 2) IN (' + dbo.udf_CreateQuotedStringList(@NumSingleQuotes, '62', DEFAULT) + ') THEN ' + dbo.udf_CreateQuotedStringList(@NumSingleQuotes, 'R', DEFAULT) + ' 
+				ELSE ' + dbo.udf_CreateQuotedStringList(@NumSingleQuotes, 'I', DEFAULT) + ' END'
 
 	-- Return the result of the function
 	RETURN @CASE_FUNCTION_CODE
