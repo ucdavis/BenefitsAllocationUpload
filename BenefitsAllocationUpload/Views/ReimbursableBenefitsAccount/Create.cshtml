@@ -1,0 +1,51 @@
+﻿@model BenefitsAllocation.Core.Domain.ReimbursableBenefitsAccount
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+<div id="reimbursable-benefits-account-editor">
+    
+    @using (@Html.BeginForm("Create", "ReimbursableBenefitsAccount", FormMethod.Post))
+    {   
+        @Html.AntiForgeryToken();
+        <div class="control-group">
+            <div class="editor-label">
+                @Html.LabelFor(x => x.OrgId, null, new { id = "orgIdLabel", name = "OrgId" })
+            </div>
+            <div class="controls">
+                <input id="orgId" name="OrgId" value="@Model.OrgId" readonly="readonly"/>
+            </div>
+        </div>
+        <div class="control-group">
+            <div class="editor-label">
+                @Html.LabelFor(x => x.Chart, null, new{id="chartLabel", name="Chart"})
+                </div>
+            <div class="controls">
+                <input id="chart" name="Chart" value="@Model.Chart" readonly="readonly"/>
+            </div>
+        </div>
+        <div class="control-group">
+            <div class="editor-label">
+                @Html.LabelFor(x => x.Account, null, new { @class = "control-label required", id = "accountLabel", name = "Account" })
+            </div>
+            <div class="controls">
+                <input id="account" name="Account" value="" required="required" /><span>*</span>
+                @Html.ValidationMessageFor(model => model.Account)
+            </div>
+        </div>
+        <div class="control-group">
+            <div class="editor-label">
+                @Html.LabelFor(x => x.IsActive, null, new { id = "isActiveLabel", name = "IsActive" })
+            </div>
+            <div class="controls">
+                <input type="checkbox" id="isActive" name="isActive" value="true" checked="checked" readonly="readonly" />
+            </div>
+        </div>
+        <hr/>
+        <p><input id="submit" type="submit" value="Add Account" class="btn btn-primary" />&nbsp;
+            @Html.ActionLink("Cancel/Back", "Index", null, new {@class="btn"})
+        </p>
+    }
+</div>
