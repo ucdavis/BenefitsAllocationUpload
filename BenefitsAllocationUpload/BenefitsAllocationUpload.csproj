@@ -235,6 +235,7 @@
     <Compile Include="Controllers\ApplicationController.cs" />
     <Compile Include="Controllers\ExpiredAccountsController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ReimbursableBenefitsAccountController.cs" />
     <Compile Include="Controllers\ReportsController.cs" />
     <Compile Include="Controllers\UserAdministrationController.cs" />
     <Compile Include="default.aspx.cs">
@@ -460,6 +461,7 @@
     <None Include="Properties\PublishProfiles\Release.pubxml" />
     <None Include="Properties\PublishProfiles\Test.pubxml" />
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
+    <Content Include="Scripts\postify.js" />
     <Content Include="Scripts\jquery-1.7.1.js" />
     <Content Include="Scripts\jquery-1.7.1.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
@@ -523,6 +525,8 @@
     <Content Include="Views\Shared\EditorTemplates\Enum_RadioButtonList.cshtml" />
     <Content Include="Views\Reports\Details.cshtml" />
     <Content Include="Views\ExpiredAccounts\Index.cshtml" />
+    <Content Include="Views\ReimbursableBenefitsAccount\Index.cshtml" />
+    <Content Include="Views\ReimbursableBenefitsAccount\Create.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
