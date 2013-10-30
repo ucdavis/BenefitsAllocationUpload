@@ -1,34 +1,35 @@
-﻿@model IList<BenefitsAllocation.Core.Domain.ReimbursableBenefitsAccount>
+﻿@using BenefitsAllocation.Core.Domain
+@using Newtonsoft.Json
+@model IList<BenefitsAllocation.Core.Domain.ReimbursableBenefitsAccount>
 @{
     ViewBag.Title = "Reimbursable Benefits Accounts";
 }
 
 @section AdditionalScripts { 
     <script src="@Url.Script("postify.js")" type="text/javascript"></script>
+    <script src="@Url.Script("jquery.tmpl.js")" type="text/javascript" charset="utf-8"></script>
+    <script src="@Url.Script("jquery.confirm.js")" type="text/javascript"></script>
+
     <script type="text/javascript">
         $(function() {
             $('.optionReimburse').click(function() {
-                debugger;
-
                 var clickedBox = $(this);
                 var id = clickedBox.prop('id');
                 var checked = clickedBox.prop('checked');
                 var reqVerificationToken = $('@Html.AntiForgeryToken()').val();
-                var postData = $.postify({ Id: id, IsActive: checked, __RequestVerificationToken: reqVerificationToken });
+
+                var postData = $.postify({ Id: JSON.parse(id), IsActive: checked, __RequestVerificationToken: reqVerificationToken });
 
                 $.ajax({
                     url: '@Url.Action("Edit", "ReimbursableBenefitsAccount")',
                     type: 'POST',
-                    //data: "Id=" + id + "&IsActive=" + checked + "&__RequestVerificationToken=" + reqVerificationToken,
                     data: postData,
                     dataType: 'json',
-                    //contentType: 'application/json',
                     traditional: true,
                     success: function(result, status, jqxhr) {
-                            // some code after success
-                            debugger;
-                            var message = result.Text;
-                            $("#resultMessage").html(message);
+                        // some code after success
+                        var message = result.Text;
+                        $("#resultMessage").html(message);
                     },
                     error: function(result) {
                         //alert the error
@@ -36,7 +37,77 @@
                     }
                 });
             });
+            
+            $('.delete-form').submit(function() {
+                debugger;
+                var form = $(this);
+                var id = form.prop('Id');
+
+                $(function() {
+                    $.each(JSON.parse(id.value), function(index, value) {
+                        var result = [{ key: index, id: value }];
+                        $("#key-template").tmpl(result).prependTo("#key-fields");
+                    });
+                });
+                $("#Id").html(""); // remove the original Id field as this will cause model binding to not work.
+            });
         });
+
+        //var confirmed = false;
+
+        //$('.delete').click(function (e) {
+        //    debugger;
+        //    if (!confirmed) {
+        //        var that = $(this);
+
+        //        $('.delete-dialog').dialog({
+        //            buttons: {
+        //                "Delete": function () {
+        //                    debugger;
+        //                    confirmed = true;
+        //                    that.trigger('click');
+        //                    $(this).dialog("close");
+        //                },
+        //                Cancel: function () {
+        //                    debugger;
+        //                    $(this).dialog("close");
+        //                }
+        //            }
+        //        });
+
+        //        e.stopPropagation();
+        //    } else {
+        //        confirmed = false;
+        //    }
+        //});
+
+        $('.delete').click(function (e) {
+            var elem = $(this).closest('.item');
+
+            $.confirm({
+                'title': 'Delete Confirmation',
+                'message': 'You are about to delete this item. <br />It cannot be restored at a later time! Continue?',
+                'buttons': {
+                    'Yes': {
+                        'class': 'blue',
+                        'action': function () {
+                            $('.delete-form').submit();
+                            elem.slideUp();
+                        }
+                    },
+                    'No': {
+                        'class': 'gray',
+                        'action': function() {
+                        }	// Nothing to do in this case. You can as well omit the action property.
+                    }
+                }
+            });
+        });
+
+    </script>
+
+    <script type="text/x-jquery-tmpl" id="key-template">
+        <input type="hidden" id="keyIds" name='${key}' value='${id}' />
     </script>
 }
 
@@ -47,23 +118,33 @@
 {
     @Html.ActionLink("Add New Account", "Create", null, new {@class = "btn btn-primary"})
   <table>
-        <tr>
-            @*<th>Org Id</th>*@
-            <th> Chart </th> 
-            <th>&nbsp;</th> 
-            <th> Account</th> 
-            <th> Is Reimbursable?</th> 
-        </tr>
+      <tr>
+          <th>&nbsp;</th>
+          <th> Chart </th> 
+          <th>&nbsp;</th> 
+          <th> Account</th> 
+          <th> Is Reimbursable?</th>
+      </tr>
         @foreach (var a in Model)
         {
-            <tr>
-                @*<td>@a.OrgId</td>*@
+            <tr class="item">
+                <td class="delete">
+                    @using (Html.BeginForm("Delete", "ReimbursableBenefitsAccount", null, FormMethod.Post, new {@class="delete-form"}))
+                    {
+                        @Html.AntiForgeryToken();
+                        <div id="Id">
+                            <input type="hidden" name="Id" value="@JsonConvert.SerializeObject(a.Id)"/>
+                        </div>                      
+                        <div id="key-fields"></div>
+                        <input type="button" value="Delete" class = "btn btn-warning">
+                    }
+                </td>  
                 <td>@a.Chart</td>
                 <th>&nbsp;</th>
                 <td>@a.Account</td>
                 <td>
                     <div class="editor-field">
-                        @Html.CheckBox("IsActive", a.IsActive, new {@class = "optionReimburse", id = a.Id})
+                        @Html.CheckBox("IsActive", a.IsActive, new { @class = "optionReimburse", id = @JsonConvert.SerializeObject(a.Id) } )
                     </div>
                 </td>
             </tr>

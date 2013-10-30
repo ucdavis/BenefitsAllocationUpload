@@ -13,13 +13,14 @@ namespace BenefitsAllocationUpload.Controllers
 {
     public class ReimbursableBenefitsAccountController : ApplicationController
     {
-        private readonly IRepositoryWithTypedId<ReimbursableBenefitsAccount, string> _reimbursableBenefitsAccountRepository;
+        private readonly IRepositoryWithTypedId<ReimbursableBenefitsAccount, ReimbursableBenefitsAccountId> _reimbursableBenefitsAccountRepository;
 
         public ReimbursableBenefitsAccountController(
-            IRepositoryWithTypedId<ReimbursableBenefitsAccount, string> reimbursableBenefitsAccountRepository)
+            IRepositoryWithTypedId<ReimbursableBenefitsAccount, ReimbursableBenefitsAccountId> reimbursableBenefitsAccountRepository)
         {
             _reimbursableBenefitsAccountRepository = reimbursableBenefitsAccountRepository;
         }
+
         //
         // GET: /ReimbursableBenefitsAccount/
 
@@ -29,19 +30,17 @@ namespace BenefitsAllocationUpload.Controllers
         /// <returns></returns>
         public ActionResult Index()
         {
-            using (var db = new FISDataMartEntities())
+            var orgId = GetOrgIdForCurrentUser();
+            if (!String.IsNullOrEmpty(orgId))
             {
-                var user = Models.User.FindByLoginId(System.Web.HttpContext.Current.User.Identity.Name);
-                var unit = user.Units.FirstOrDefault();
-                var orgId = string.Empty;
+                var results =
+                    _reimbursableBenefitsAccountRepository.Queryable.Where(x => x.OrgId.Equals(orgId)).ToList();
 
-                var schoolCodeParameter = new SqlParameter("schoolCode", unit.SchoolCode);
-
-                orgId = db.Database.SqlQuery<string>(
-                    "SELECT dbo.udf_GetOrgIdForSchoolCode(@schoolCode)", schoolCodeParameter).FirstOrDefault();
-
-                var results = _reimbursableBenefitsAccountRepository.Queryable.Where(x => x.OrgId.Equals(orgId)).ToList();
-                ViewData.Model = results;  
+                ViewData.Model = results;
+            }
+            else
+            {
+                Message = "Error: No Organization found for current user!";
             }
 
             return View();
@@ -49,38 +48,38 @@ namespace BenefitsAllocationUpload.Controllers
 
         //
         // GET: /ReimbursableBenefitsAccount/Details/5
-
-        public ActionResult Details(int id)
+        // Passing the individual fields that makeup the ReimbursableBenefitsAccountId,
+        // i.e. OrgId=SSCI&Chart=3&Account=ANTGENA, etc.,
+        // in the query string will also allow proper binding of the Id object.
+        public ActionResult Details(ReimbursableBenefitsAccountId id)
         {
+            var results = _reimbursableBenefitsAccountRepository.GetNullableById(id);
+            ViewData.Model = results;
             return View();
         }
 
         //
         // GET: /ReimbursableBenefitsAccount/Create
-
         public ActionResult Create()
         {
-            using (var db = new FISDataMartEntities())
+            var model = new ReimbursableBenefitsAccount();
+
+            var orgId = GetOrgIdForCurrentUser();
+            if (!String.IsNullOrEmpty(orgId))
             {
-                var user = Models.User.FindByLoginId(System.Web.HttpContext.Current.User.Identity.Name);
-                var unit = user.Units.FirstOrDefault();
-                var orgId = string.Empty;
-
-                var schoolCodeParameter = new SqlParameter("schoolCode", unit.SchoolCode);
-
-                orgId = db.Database.SqlQuery<string>(
-                    "SELECT dbo.udf_GetOrgIdForSchoolCode(@schoolCode)", schoolCodeParameter).FirstOrDefault();
-
-                var model = new ReimbursableBenefitsAccount() {OrgId = orgId, Chart = "3", IsActive = true};
-                ViewData.Model = model;
+                model = new ReimbursableBenefitsAccount() {OrgId = orgId, Chart = "3", IsActive = true};
+            }
+            else
+            {
+                Message = "Error: No Organization found for current user!";
             }
 
+            ViewData.Model = model;    
             return View();
         }
 
         //
         // POST: /ReimbursableBenefitsAccount/Create
-
         [System.Web.Mvc.HttpPost]
         public ActionResult Create(ReimbursableBenefitsAccount collection)
         {
@@ -96,16 +95,18 @@ namespace BenefitsAllocationUpload.Controllers
                             IsActive = collection.IsActive
                         };
 
-                    if (_reimbursableBenefitsAccountRepository.Queryable.Any(x => x.IdString.Equals(newAccount.IdString)))
+                    // Optional way if an additional method is implemented in the datamap.
+                    //if (_reimbursableBenefitsAccountRepository.Queryable.Any(x => x.IdString.Equals(newAccount.IdString)))
+                    if (_reimbursableBenefitsAccountRepository.GetNullableById(newAccount.Id) != null)
                     {
-                        Message = "Account \"" + newAccount.IdString + "\" already exists!";
+                        Message = "Account \"" + newAccount.Id + "\" already exists!";
 
                         return RedirectToAction("Index");
                     }
 
                     _reimbursableBenefitsAccountRepository.EnsurePersistent(newAccount);
 
-                    Message = "New account \"" + newAccount.IdString + "\" has been created.";
+                    Message = "New account \"" + newAccount.Id + "\" has been created.";
 
                     return RedirectToAction("Index");
                 }
@@ -117,45 +118,15 @@ namespace BenefitsAllocationUpload.Controllers
             }
         }
 
-        //
-        // GET: /ReimbursableBenefitsAccount/Edit/5
-
-        public ActionResult Edit(int id)
-        {
-            return View();
-        }
-
-        //
-        // POST: /ReimbursableBenefitsAccount/Edit/5
-
-        //[HttpPost]
-        //public ActionResult Edit(int id, FormCollection collection)
-        //{
-        //    try
-        //    {
-        //        // TODO: Add update logic here
-
-        //        return RedirectToAction("Index");
-        //    }
-        //    catch
-        //    {
-        //        return View();
-        //    }
-        //}
-
-        
         [System.Web.Mvc.HttpPost]
-        public JsonResult Edit(string id, bool isActive)
+        public JsonResult Edit(ReimbursableBenefitsAccountId id, bool isActive)
         {
             Result res;
-            if (!string.IsNullOrEmpty(id))
+            if (id != null)
             {
                 res = new Result {Text = "Received and processed " + id + " successfully."};
-                var myId = new ReimbursableBenefitsAccountId(id);
-
                 var result =
-                    _reimbursableBenefitsAccountRepository.Queryable.FirstOrDefault(
-                        x => x.IdString.Equals(myId.ToString()));
+                    _reimbursableBenefitsAccountRepository.GetNullableById(id);
 
                 if (result != null)
                 {
@@ -178,30 +149,54 @@ namespace BenefitsAllocationUpload.Controllers
         }
 
         //
-        // GET: /ReimbursableBenefitsAccount/Delete/5
-
-        public ActionResult Delete(int id)
-        {
-            return View();
-        }
-
-        //
         // POST: /ReimbursableBenefitsAccount/Delete/5
-
         [System.Web.Mvc.HttpPost]
-        public ActionResult Delete(int id, FormCollection collection)
+        public ActionResult Delete(ReimbursableBenefitsAccountId id)
         {
-            try
+            if (id != null)
             {
-                // TODO: Add delete logic here
+                try
+                {
+                    var result = _reimbursableBenefitsAccountRepository.GetNullableById(id);
+                    if (result != null)
+                    {
+                        _reimbursableBenefitsAccountRepository.Remove(result);
+                        
+                        Message = "Delete succeeded: Reimbursable Benefits Account \"" + id + "\" has been deleted.";
+                    }
+                    else
+                    {
+                        Message = "Delete failed: Received and unable to delete \"" + id + "\"!";
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Message = "Unable to delete account: " + ex.Message;
+                }
+            }
+            else
+            {
+                Message = "Delete failed: Id was not privided!";
+            }
 
-                return RedirectToAction("Index");
-            }
-            catch
-            {
-                return View();
-            }
+           return RedirectToAction("Index");
         }
+
+        protected string GetOrgIdForCurrentUser()
+        {
+            var retval = string.Empty;
+
+            using (var db = new FISDataMartEntities())
+            {
+                var user = Models.User.FindByLoginId(System.Web.HttpContext.Current.User.Identity.Name);
+                var unit = user.Units.FirstOrDefault();
+                var schoolCodeParameter = new SqlParameter("schoolCode", unit.SchoolCode);
+
+                retval = db.Database.SqlQuery<string>(
+                    "SELECT dbo.udf_GetOrgIdForSchoolCode(@schoolCode)", schoolCodeParameter).FirstOrDefault();
+            }
+            return retval;
+        } 
     }
 
     public class Result

@@ -341,6 +341,7 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\cas.css" />
+    <Content Include="Content\jquery.confirm.css" />
     <Content Include="Content\layout.css" />
     <Content Include="Content\modal.css" />
     <Content Include="Content\Custom.css" />
@@ -417,6 +418,10 @@
     <Content Include="default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="Images\bg_tile.jpg" />
+    <Content Include="Images\bg_vertical.jpg" />
+    <Content Include="Images\body_bg.jpg" />
+    <Content Include="Images\buttons.png" />
     <Content Include="Images\caes-logo.jpg" />
     <Content Include="Images\caes_logo.png" />
     <Content Include="Images\caes_logo_blue.jpg" />
@@ -427,6 +432,12 @@
       <Generator>EntityModelCodeGenerator</Generator>
       <LastGenOutput>Catbert3.Designer.cs</LastGenOutput>
     </EntityDeploy>
+    <Content Include="Images\delete_icon.png" />
+    <Content Include="Images\header_bg.jpg" />
+    <Content Include="Images\ie.png" />
+    <Content Include="Images\shadow_wide.png" />
+    <Content Include="Images\tooltip.png" />
+    <Content Include="Images\tzine.png" />
     <Content Include="Models\Catbert3.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>Catbert3.edmx</DependentUpon>
@@ -461,6 +472,9 @@
     <None Include="Properties\PublishProfiles\Release.pubxml" />
     <None Include="Properties\PublishProfiles\Test.pubxml" />
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
+    <Content Include="Scripts\jquery.confirm.js" />
+    <Content Include="Scripts\jquery.tmpl.js" />
+    <Content Include="Scripts\jquery.tmpl.min.js" />
     <Content Include="Scripts\postify.js" />
     <Content Include="Scripts\jquery-1.7.1.js" />
     <Content Include="Scripts\jquery-1.7.1.min.js" />
@@ -527,6 +541,7 @@
     <Content Include="Views\ExpiredAccounts\Index.cshtml" />
     <Content Include="Views\ReimbursableBenefitsAccount\Index.cshtml" />
     <Content Include="Views\ReimbursableBenefitsAccount\Create.cshtml" />
+    <Content Include="Views\ReimbursableBenefitsAccount\Details.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
