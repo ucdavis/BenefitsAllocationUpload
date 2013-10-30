@@ -11,14 +11,6 @@ namespace BenefitsAllocation.Core.Domain
 {
     public class ReimbursableBenefitsAccount : DomainObjectWithTypedId<string>
     {
-        // Not a database field.
-        private string _idString;
-        public virtual string IdString
-        {
-            get { return _id.ToString(); }
-            set { _idString = value; }
-        }
-
         private ReimbursableBenefitsAccountId _id = new ReimbursableBenefitsAccountId();
         public new virtual ReimbursableBenefitsAccountId Id 
         {
@@ -75,15 +67,15 @@ namespace BenefitsAllocation.Core.Domain
         [Required]
         public virtual bool IsActive { get; set; }
 
-        public override bool Equals(Object obj)
-        {
-            return this.Id.Equals(obj);
-        }
+        //public override bool Equals(Object obj)
+        //{
+        //    return this.Id.Equals(obj);
+        //}
 
-        public override int GetHashCode()
-        {
-            return this.Id.GetHashCode();
-        }
+        //public override int GetHashCode()
+        //{
+        //    return this.Id.GetHashCode();
+        //}
     }
 
     public class ReimbursableBenefitsAccountId
@@ -91,26 +83,6 @@ namespace BenefitsAllocation.Core.Domain
         public virtual string OrgId { get; set; }
         public virtual string Chart { get; set; }
         public virtual string Account { get; set; }
-
-        public ReimbursableBenefitsAccountId() {}
-
-        public ReimbursableBenefitsAccountId(string id)
-        {
-            if (!String.IsNullOrEmpty(id))
-            {
-                try
-                {
-                    var pieces = id.Split('|');
-                    OrgId = pieces[0];
-                    Chart = pieces[1];
-                    Account = pieces[2];
-                }
-                catch (Exception ex)
-                {
-                    throw;
-                }
-            }
-        }
 
         public override bool Equals(Object obj)
         {
@@ -131,7 +103,7 @@ namespace BenefitsAllocation.Core.Domain
         public override string ToString()
         {
             return (OrgId + "|" + Chart + "|" + Account);
-        }
+        } 
     }
 
     public class ReimbursableBenefitsAccountMap : ClassMap<ReimbursableBenefitsAccount>
@@ -144,8 +116,6 @@ namespace BenefitsAllocation.Core.Domain
                 .KeyProperty(x => x.Chart, "Chart")
                 .KeyProperty(x => x.Account, "Account");
 
-            Map(x => x.IdString).Formula("(Select OrgId + '|' + Chart + '|' + Account)").Not.Update().Not.Insert();
-   
             Map(x => x.OrgId)
                 .Not.Update()
                 .Not.Insert();
