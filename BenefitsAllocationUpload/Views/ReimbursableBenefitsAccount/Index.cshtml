@@ -37,126 +37,102 @@
                     }
                 });
             });
-            
-            $('.delete-form').submit(function() {
-                debugger;
-                var form = $(this);
-                var id = form.prop('Id');
 
-                $(function() {
-                    $.each(JSON.parse(id.value), function(index, value) {
-                        var result = [{ key: index, id: value }];
-                        $("#key-template").tmpl(result).prependTo("#key-fields");
-                    });
-                });
-                $("#Id").html(""); // remove the original Id field as this will cause model binding to not work.
-            });
-        });
-
-        //var confirmed = false;
-
-        //$('.delete').click(function (e) {
-        //    debugger;
-        //    if (!confirmed) {
-        //        var that = $(this);
-
-        //        $('.delete-dialog').dialog({
-        //            buttons: {
-        //                "Delete": function () {
-        //                    debugger;
-        //                    confirmed = true;
-        //                    that.trigger('click');
-        //                    $(this).dialog("close");
-        //                },
-        //                Cancel: function () {
-        //                    debugger;
-        //                    $(this).dialog("close");
-        //                }
-        //            }
-        //        });
-
-        //        e.stopPropagation();
-        //    } else {
-        //        confirmed = false;
-        //    }
-        //});
-
-        $('.delete').click(function (e) {
-            var elem = $(this).closest('.item');
-
-            $.confirm({
-                'title': 'Delete Confirmation',
-                'message': 'You are about to delete this item. <br />It cannot be restored at a later time! Continue?',
-                'buttons': {
-                    'Yes': {
-                        'class': 'blue',
-                        'action': function () {
-                            $('.delete-form').submit();
-                            elem.slideUp();
+            $('.delete').click(function(e) {
+                var elem = $(this).closest('.item');
+                $.confirm({
+                    'title': 'Delete Confirmation',
+                    'message': 'You are about to delete this item. <br />It cannot be restored at a later time! Continue?',
+                    'buttons': {
+                        'Yes': {
+                            'class': 'blue',
+                            'action': function() {
+                                var form = $('form', elem);
+                                var id = form.prop('Id').value;
+                                var reqVerificationToken = $('@Html.AntiForgeryToken()').val();
+                                var postData = $.postify({ Id: JSON.parse(id), __RequestVerificationToken: reqVerificationToken });
+                                $.ajax({
+                                    url: '@Url.Action("DeleteJson", "ReimbursableBenefitsAccount")',
+                                    type: 'POST',
+                                    data: postData,
+                                    dataType: 'json',
+                                    traditional: true,
+                                    success: function(result, status, jqxhr) {
+                                        // some code after success
+                                        if (result.Success) {
+                                            elem.slideUp();
+                                        }
+                                        var message = result.Text;
+                                        // TODO: if div class alert alert-info replace with whatever message is there; otherwise put it here:
+                                        $("#resultMessage").html(message);
+                                    },
+                                    error: function(result) {
+                                        //alert the error
+                                        alert(result.ex);
+                                    }
+                                });
+                            }
+                        },
+                        'No': {
+                            'class': 'gray',
+                            'action': function() {
+                            }	// Nothing to do in this case. You can as well omit the action property.
                         }
-                    },
-                    'No': {
-                        'class': 'gray',
-                        'action': function() {
-                        }	// Nothing to do in this case. You can as well omit the action property.
                     }
-                }
+                });
             });
         });
-
     </script>
+    }
 
-    <script type="text/x-jquery-tmpl" id="key-template">
-        <input type="hidden" id="keyIds" name='${key}' value='${id}' />
-    </script>
-}
-
-<h2>@ViewBag.Title</h2>
-<div id="resultMessage"></div>
+    <h2>@ViewBag.Title</h2>
+    <div id="resultMessage"></div>
     <hr/>
-@if (Model.Count > 0)
-{
-    @Html.ActionLink("Add New Account", "Create", null, new {@class = "btn btn-primary"})
-  <table>
-      <tr>
-          <th>&nbsp;</th>
-          <th> Chart </th> 
-          <th>&nbsp;</th> 
-          <th> Account</th> 
-          <th> Is Reimbursable?</th>
-      </tr>
-        @foreach (var a in Model)
-        {
-            <tr class="item">
+    @if (Model.Count > 0)
+    {
+        @Html.ActionLink("Add New Account", "Create", null, new {@class = "btn btn-primary"})
+        <table>
+            <tr>
+                <th>&nbsp;</th>
+                <th> Chart </th> 
+                <th>&nbsp;</th> 
+                <th> Account</th> 
+                <th> Is Reimbursable?</th>
+            </tr>
+            @foreach (var a in Model)
+            {
+                <tr class="item">
                 <td class="delete">
-                    @using (Html.BeginForm("Delete", "ReimbursableBenefitsAccount", null, FormMethod.Post, new {@class="delete-form"}))
+                    @using (Html.BeginForm("DeleteJson", "ReimbursableBenefitsAccount", null, FormMethod.Post, new {@class = "delete-form"}))
                     {
-                        @Html.AntiForgeryToken();
+                        @Html.AntiForgeryToken()
+                        ;
                         <div id="Id">
                             <input type="hidden" name="Id" value="@JsonConvert.SerializeObject(a.Id)"/>
-                        </div>                      
+                        </div>
                         <div id="key-fields"></div>
                         <input type="button" value="Delete" class = "btn btn-warning">
-                    }
-                </td>  
-                <td>@a.Chart</td>
-                <th>&nbsp;</th>
-                <td>@a.Account</td>
-                <td>
-                    <div class="editor-field">
-                        @Html.CheckBox("IsActive", a.IsActive, new { @class = "optionReimburse", id = @JsonConvert.SerializeObject(a.Id) } )
-                    </div>
+                        }
                 </td>
-            </tr>
+                        <td>@a.Chart</td>
+                        <th>&nbsp;</th>
+                        <td>@a.Account</td>
+                        <td>
+                            <div class="editor-field">
+                                @Html.CheckBox("IsActive", a.IsActive, new {@class = "optionReimburse", id = @JsonConvert.SerializeObject(a.Id)})
+                            </div>
+                        </td>
+                        </tr>
+                    }
+        </table>
+                <hr/>
+                @Html.ActionLink("Add New Account", "Create", null, new {@class = "btn btn-primary"})
+            }
+        else
+        {
+        <div>
+            <h3>All accounts matching the predetermined criteria are being reimbursed.</h3>
+            <h4>There are no specific reimbursable benefits accounts defined.</h4>
+        </div>
         }
-    </table>
-    <hr/>
-    @Html.ActionLink("Add New Account", "Create", null, new {@class = "btn btn-primary"})
-}
-else
-{
-    <div>
-        <h3>All accounts matching the predetermined criteria are being reimbursed.</h3>
-        <h4>There are no specific reimbursable benefits accounts defined.</h4>
-    </div>
-}
+        
