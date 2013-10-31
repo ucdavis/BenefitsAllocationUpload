@@ -182,6 +182,57 @@ namespace BenefitsAllocationUpload.Controllers
            return RedirectToAction("Index");
         }
 
+        //
+        // POST: /ReimbursableBenefitsAccount/Delete/5
+        [System.Web.Mvc.HttpPost]
+        public JsonResult DeleteJson(ReimbursableBenefitsAccountId id)
+        {
+            Result res;
+            if (id != null)
+            {
+                try
+                {
+                    var result = _reimbursableBenefitsAccountRepository.GetNullableById(id);
+                    if (result != null)
+                    {
+                        _reimbursableBenefitsAccountRepository.Remove(result);
+
+                        res = new Result
+                            {
+                                Text = "Delete succeeded: Reimbursable Benefits Account \"" + id + "\" has been deleted.",
+                                Success = true
+                            };
+                    }
+                    else
+                    {
+                        res = new Result
+                            {
+                                Text = "Delete failed: Received and unable to delete \"" + id + "\"!",
+                                Success = false
+                            };
+                    }
+                }
+                catch (Exception ex)
+                {
+                    res = new Result
+                            {
+                                Text = "Unable to delete account: " + ex.Message,
+                                Success = false
+                            };
+                }
+            }
+            else
+            {
+                res = new Result
+                            {
+                                Text = "Delete failed: Id was not privided!",
+                                Success = false
+                            };
+            }
+
+            return Json(res);
+        }
+
         protected string GetOrgIdForCurrentUser()
         {
             var retval = string.Empty;
@@ -202,5 +253,6 @@ namespace BenefitsAllocationUpload.Controllers
     public class Result
     {
         public string Text { get; set; }
+        public bool Success { get; set; }
     }
 }
