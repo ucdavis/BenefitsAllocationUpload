@@ -119,12 +119,12 @@ namespace BenefitsAllocationUpload.Controllers
         }
 
         [System.Web.Mvc.HttpPost]
-        public JsonResult Edit(ReimbursableBenefitsAccountId id, bool isActive)
+        public JsonResult EditJson(ReimbursableBenefitsAccountId id, bool isActive)
         {
             Result res;
             if (id != null)
             {
-                res = new Result {Text = "Received and processed " + id + " successfully."};
+                res = new Result { Text = "Received and processed \"" + id + "\" successfully.", Success = true };
                 var result =
                     _reimbursableBenefitsAccountRepository.GetNullableById(id);
 
@@ -133,16 +133,16 @@ namespace BenefitsAllocationUpload.Controllers
                     result.IsActive = isActive;
                     _reimbursableBenefitsAccountRepository.EnsurePersistent(result);
 
-                    res = new Result {Text = "Update succeeded: Received and processed " + id + "."};
+                    res = new Result { Text = "Update succeeded: Received and processed \"" + id + "\".  Changed \"Is Reimbursable?\" to " + isActive.ToString() + ".", Success = true };
                 }
                 else
                 {
-                    res = new Result { Text = "Update failed: Received and unable to update " + id + "!" };
+                    res = new Result { Text = "Update failed: Received and unable to update \"" + id + "\"!", Success = false };
                 }
             }
             else
             {
-                res = new Result { Text = "Update failed: Id was not privided!" };
+                res = new Result { Text = "Update failed: Id was not privided!", Success = false };
             }
             
             return Json(res);
