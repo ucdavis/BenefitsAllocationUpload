@@ -1,0 +1,645 @@
+20133 2200203-----SB28---CB  11GLCBAG201311001    1test after register services in IoC              76.12 20130514----------kentest                         
+20133 2200203-----SUB6---CB  11GLCBAG201311001    2test after register services in IoC             548.01 20130514----------kentest                         
+20133 2200229-----SUB6---CB  11GLCBAG201311001    3test after register services in IoC              -3.34 20130514----------kentest                         
+20133 A400344ADMTCSUB6---CB  11GLCBAG201311001    4test after register services in IoC              -4.70 20130514----------kentest                         
+20133 AAFRGAA-----SB28---CB  11GLCBAG201311001    5test after register services in IoC            -228.84 20130514ADOEFH    kentest                         
+20133 AAFRGAA-----SB28---CB  11GLCBAG201311001    6test after register services in IoC             -57.29 20130514ADOVXW    kentest                         
+20133 AAFRGAA-----SUB6---CB  11GLCBAG201311001    7test after register services in IoC           -1384.66 20130514ADOEFH    kentest                         
+20133 AAFRGAA-----SUB6---CB  11GLCBAG201311001    8test after register services in IoC            -323.23 20130514ADOVXW    kentest                         
+20133 AASIGAA-----SB28---CB  11GLCBAG201311001    9test after register services in IoC             -82.17 20130514----------kentest                         
+20133 AASIGAA-----SUB6---CB  11GLCBAG201311001   10test after register services in IoC            -641.60 20130514----------kentest                         
+20133 AASIGAB-----SB28---CB  11GLCBAG201311001   11test after register services in IoC             -46.00 20130514----------kentest                         
+20133 AASIGAB-----SUB6---CB  11GLCBAG201311001   12test after register services in IoC            -234.35 20130514----------kentest                         
+20133 AASITMP-----SUB6---CB  11GLCBAG201311001   13test after register services in IoC             -76.50 20130514----------kentest                         
+20133 AASRGAA-----SB28---CB  11GLCBAG201311001   14test after register services in IoC            -263.89 20130514----------kentest                         
+20133 AASRGAA-----SB28---CB  11GLCBAG201311001   15test after register services in IoC            1904.95 20130514VAN E     kentest                         
+20133 AASRGAA-----SUB6---CB  11GLCBAG201311001   16test after register services in IoC           -7160.48 20130514----------kentest                         
+20133 AASRGAA-----SUB6---CB  11GLCBAG201311001   17test after register services in IoC             841.99 20130514VAN E     kentest                         
+20133 ABAITMP-----SUB6---CB  11GLCBAG201311001   18test after register services in IoC            -569.70 20130514----------kentest                         
+20133 ABAITMPABT49SUB6---CB  11GLCBAG201311001   19test after register services in IoC             -15.71 20130514----------kentest                         
+20133 ABARGAA-----SB28---CB  11GLCBAG201311001   20test after register services in IoC            1958.98 20130514----------kentest                         
+20133 ABARGAA-----SUB6---CB  11GLCBAG201311001   21test after register services in IoC          -23587.92 20130514----------kentest                         
+20133 ABARGAACOMPLSUB6---CB  11GLCBAG201311001   22test after register services in IoC              -4.01 20130514----------kentest                         
+20133 AC1IGAA-----SB28---CB  11GLCBAG201311001   23test after register services in IoC             -91.58 20130514----------kentest                         
+20133 AC1IGAA-----SB28---CB  11GLCBAG201311001   24test after register services in IoC            -143.68 20130514FCCAER    kentest                         
+20133 AC1IGAA-----SB28---CB  11GLCBAG201311001   25test after register services in IoC            -118.64 20130514FCCCIS    kentest                         
+20133 AC1IGAA-----SB28---CB  11GLCBAG201311001   26test after register services in IoC             650.15 20130514FCCETH    kentest                         
+20133 AC1IGAA-----SB28---CB  11GLCBAG201311001   27test after register services in IoC            -105.22 20130514FCCEXV    kentest                         
+20133 AC1IGAA-----SB28---CB  11GLCBAG201311001   28test after register services in IoC              76.03 20130514FCCJAV    kentest                         
+20133 AC1IGAA-----SB28---CB  11GLCBAG201311001   29test after register services in IoC             -35.14 20130514FCCJXF    kentest                         
+20133 AC1IGAA-----SB28---CB  11GLCBAG201311001   30test after register services in IoC             141.79 20130514FCCMDJ    kentest                         
+20133 AC1IGAA-----SUB6---CB  11GLCBAG201311001   31test after register services in IoC            -729.82 20130514----------kentest                         
+20133 AC1IGAA-----SUB6---CB  11GLCBAG201311001   32test after register services in IoC            -921.70 20130514FCCAER    kentest                         
+20133 AC1IGAA-----SUB6---CB  11GLCBAG201311001   33test after register services in IoC            -761.05 20130514FCCCIS    kentest                         
+20133 AC1IGAA-----SUB6---CB  11GLCBAG201311001   34test after register services in IoC            -347.70 20130514FCCETH    kentest                         
+20133 AC1IGAA-----SUB6---CB  11GLCBAG201311001   35test after register services in IoC            -850.67 20130514FCCEXV    kentest                         
+20133 AC1IGAA-----SUB6---CB  11GLCBAG201311001   36test after register services in IoC            -806.54 20130514FCCJAV    kentest                         
+20133 AC1IGAA-----SUB6---CB  11GLCBAG201311001   37test after register services in IoC            -705.77 20130514FCCJXF    kentest                         
+20133 AC1IGAA-----SUB6---CB  11GLCBAG201311001   38test after register services in IoC            -729.39 20130514FCCMDJ    kentest                         
+20133 AC1RGAA-----SB28---CB  11GLCBAG201311001   39test after register services in IoC               5.17 20130514----------kentest                         
+20133 AC1RGAA-----SB28---CB  11GLCBAG201311001   40test after register services in IoC             -70.31 20130514FCCAZI    kentest                         
+20133 AC1RGAA-----SB28---CB  11GLCBAG201311001   41test after register services in IoC             246.44 20130514FCCBAR    kentest                         
+20133 AC1RGAA-----SB28---CB  11GLCBAG201311001   42test after register services in IoC             375.89 20130514FCCMLR    kentest                         
+20133 AC1RGAA-----SB28---CB  11GLCBAG201311001   43test after register services in IoC            -104.19 20130514FCCSAW    kentest                         
+20133 AC1RGAA-----SB28---CB  11GLCBAG201311001   44test after register services in IoC             141.14 20130514FCCSMP    kentest                         
+20133 AC1RGAA-----SB28---CB  11GLCBAG201311001   45test after register services in IoC             423.25 20130514FCCVMO    kentest                         
+20133 AC1RGAA-----SUB6---CB  11GLCBAG201311001   46test after register services in IoC            -911.41 20130514----------kentest                         
+20133 AC1RGAA-----SUB6---CB  11GLCBAG201311001   47test after register services in IoC            -918.96 20130514FCCAZI    kentest                         
+20133 AC1RGAA-----SUB6---CB  11GLCBAG201311001   48test after register services in IoC            -337.53 20130514FCCBAR    kentest                         
+20133 AC1RGAA-----SUB6---CB  11GLCBAG201311001   49test after register services in IoC            -644.30 20130514FCCMLR    kentest                         
+20133 AC1RGAA-----SUB6---CB  11GLCBAG201311001   50test after register services in IoC           -1002.89 20130514FCCSAW    kentest                         
+20133 AC1RGAA-----SUB6---CB  11GLCBAG201311001   51test after register services in IoC            -873.95 20130514FCCSMP    kentest                         
+20133 AC1RGAA-----SUB6---CB  11GLCBAG201311001   52test after register services in IoC            -640.71 20130514FCCVMO    kentest                         
+20133 AC2IGAAITSTFSB28---CB  11GLCBAG201311001   53test after register services in IoC             -63.46 20130514250PARSONSkentest                         
+20133 AC2IGAAITSTFSB28---CB  11GLCBAG201311001   54test after register services in IoC             -78.26 20130514250RIVERA kentest                         
+20133 AC2IGAAITSTFSUB6---CB  11GLCBAG201311001   55test after register services in IoC            -495.51 20130514250PARSONSkentest                         
+20133 AC2IGAAITSTFSUB6---CB  11GLCBAG201311001   56test after register services in IoC            -502.05 20130514250RIVERA kentest                         
+20133 AC2IGAAOFSTFSB28---CB  11GLCBAG201311001   57test after register services in IoC             -72.50 20130514250EDGAR  kentest                         
+20133 AC2IGAAOFSTFSB28---CB  11GLCBAG201311001   58test after register services in IoC               5.53 20130514250GARCIA kentest                         
+20133 AC2IGAAOFSTFSB28---CB  11GLCBAG201311001   59test after register services in IoC             -23.47 20130514250GOMEZ  kentest                         
+20133 AC2IGAAOFSTFSB28---CB  11GLCBAG201311001   60test after register services in IoC             -60.45 20130514250ISAAC  kentest                         
+20133 AC2IGAAOFSTFSB28---CB  11GLCBAG201311001   61test after register services in IoC            -123.79 20130514250LEWIS  kentest                         
+20133 AC2IGAAOFSTFSB28---CB  11GLCBAG201311001   62test after register services in IoC            -143.45 20130514250MATT   kentest                         
+20133 AC2IGAAOFSTFSB28---CB  11GLCBAG201311001   63test after register services in IoC             -14.60 20130514250TORRES kentest                         
+20133 AC2IGAAOFSTFSB28---CB  11GLCBAG201311001   64test after register services in IoC             -54.27 20130514AWFCSJG   kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  11GLCBAG201311001   65test after register services in IoC            -706.72 20130514250EDGAR  kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  11GLCBAG201311001   66test after register services in IoC            -486.40 20130514250GARCIA kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  11GLCBAG201311001   67test after register services in IoC            -150.56 20130514250GOMEZ  kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  11GLCBAG201311001   68test after register services in IoC            -472.00 20130514250ISAAC  kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  11GLCBAG201311001   69test after register services in IoC            -794.10 20130514250LEWIS  kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  11GLCBAG201311001   70test after register services in IoC           -1275.26 20130514250MATT   kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  11GLCBAG201311001   71test after register services in IoC            -720.90 20130514250TORRES kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  11GLCBAG201311001   72test after register services in IoC            -384.64 20130514AWFCSJG   kentest                         
+20133 AC2RGAAITSTFSB28---CB  11GLCBAG201311001   73test after register services in IoC            -126.91 20130514250BOOTON kentest                         
+20133 AC2RGAAITSTFSB28---CB  11GLCBAG201311001   74test after register services in IoC            -120.91 20130514250CHRUDINkentest                         
+20133 AC2RGAAITSTFSB28---CB  11GLCBAG201311001   75test after register services in IoC            -126.48 20130514250JIMENEZkentest                         
+20133 AC2RGAAITSTFSB28---CB  11GLCBAG201311001   76test after register services in IoC             -63.46 20130514250PARSONSkentest                         
+20133 AC2RGAAITSTFSB28---CB  11GLCBAG201311001   77test after register services in IoC             -78.26 20130514250RIVERA kentest                         
+20133 AC2RGAAITSTFSB28---CB  11GLCBAG201311001   78test after register services in IoC             230.74 20130514AETXSSV   kentest                         
+20133 AC2RGAAITSTFSUB6---CB  11GLCBAG201311001   79test after register services in IoC            -991.01 20130514250BOOTON kentest                         
+20133 AC2RGAAITSTFSUB6---CB  11GLCBAG201311001   80test after register services in IoC            -944.16 20130514250CHRUDINkentest                         
+20133 AC2RGAAITSTFSUB6---CB  11GLCBAG201311001   81test after register services in IoC            -987.64 20130514250JIMENEZkentest                         
+20133 AC2RGAAITSTFSUB6---CB  11GLCBAG201311001   82test after register services in IoC            -495.51 20130514250PARSONSkentest                         
+20133 AC2RGAAITSTFSUB6---CB  11GLCBAG201311001   83test after register services in IoC            -502.05 20130514250RIVERA kentest                         
+20133 AC2RGAAITSTFSUB6---CB  11GLCBAG201311001   84test after register services in IoC            -555.29 20130514AETXSSV   kentest                         
+20133 AC2RGAAOFSTFSB28---CB  11GLCBAG201311001   85test after register services in IoC             -21.55 20130514250CLARK  kentest                         
+20133 AC2RGAAOFSTFSB28---CB  11GLCBAG201311001   86test after register services in IoC            -132.99 20130514250GOMEZ  kentest                         
+20133 AC2RGAAOFSTFSB28---CB  11GLCBAG201311001   87test after register services in IoC             153.27 20130514250WALLACEkentest                         
+20133 AC2RGAAOFSTFSB28---CB  11GLCBAG201311001   88test after register services in IoC            -102.67 20130514AETXWLN   kentest                         
+20133 AC2RGAAOFSTFSB28---CB  11GLCBAG201311001   89test after register services in IoC             -54.27 20130514AWFCSJG   kentest                         
+20133 AC2RGAAOFSTFSUB6---CB  11GLCBAG201311001   90test after register services in IoC            -345.66 20130514250CLARK  kentest                         
+20133 AC2RGAAOFSTFSUB6---CB  11GLCBAG201311001   91test after register services in IoC            -853.16 20130514250GOMEZ  kentest                         
+20133 AC2RGAAOFSTFSUB6---CB  11GLCBAG201311001   92test after register services in IoC            -343.54 20130514250WALLACEkentest                         
+20133 AC2RGAAOFSTFSUB6---CB  11GLCBAG201311001   93test after register services in IoC            -801.73 20130514AETXWLN   kentest                         
+20133 AC2RGAAOFSTFSUB6---CB  11GLCBAG201311001   94test after register services in IoC            -384.64 20130514AWFCSJG   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001   95test after register services in IoC             -48.58 20130514BEBBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001   96test after register services in IoC             -24.15 20130514BLLBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001   97test after register services in IoC             -20.97 20130514EDDBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001   98test after register services in IoC              -3.86 20130514GLTBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001   99test after register services in IoC              67.38 20130514JADBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  100test after register services in IoC             -34.96 20130514JCSBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  101test after register services in IoC             -68.09 20130514JEBBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  102test after register services in IoC             -56.27 20130514JKPBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  103test after register services in IoC              77.33 20130514JLABFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  104test after register services in IoC            -109.55 20130514JLBBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  105test after register services in IoC             -51.34 20130514KANBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  106test after register services in IoC             -59.38 20130514LALBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  107test after register services in IoC             -17.14 20130514LAMBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  108test after register services in IoC             -30.45 20130514LCGBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  109test after register services in IoC             -55.52 20130514LPSBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  110test after register services in IoC             -40.40 20130514MXGBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  111test after register services in IoC              -5.39 20130514TLCBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  112test after register services in IoC             -55.78 20130514TMJBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  11GLCBAG201311001  113test after register services in IoC              46.83 20130514TXMBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  114test after register services in IoC             -13.17 20130514----------kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  115test after register services in IoC            -339.07 20130514BEBBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  116test after register services in IoC            -363.56 20130514BLLBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  117test after register services in IoC            -273.99 20130514EDDBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  118test after register services in IoC            -473.34 20130514GLTBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  119test after register services in IoC            -253.88 20130514JADBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  120test after register services in IoC            -224.29 20130514JCSBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  121test after register services in IoC            -531.68 20130514JEBBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  122test after register services in IoC            -429.21 20130514JKPBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  123test after register services in IoC            -237.10 20130514JLABFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  124test after register services in IoC            -558.13 20130514JLBBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  125test after register services in IoC            -400.87 20130514KANBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  126test after register services in IoC            -335.03 20130514LALBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  127test after register services in IoC            -133.88 20130514LAMBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  128test after register services in IoC            -480.21 20130514LCGBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  129test after register services in IoC            -313.22 20130514LPSBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  130test after register services in IoC            -205.81 20130514MXGBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  131test after register services in IoC            -240.71 20130514TLCBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  132test after register services in IoC            -435.53 20130514TMJBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  11GLCBAG201311001  133test after register services in IoC            -496.86 20130514TXMBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  134test after register services in IoC             -59.61 20130514BEBBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  135test after register services in IoC             -24.15 20130514BLLBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  136test after register services in IoC             -52.04 20130514DECBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  137test after register services in IoC             -38.94 20130514EDDBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  138test after register services in IoC              -5.04 20130514GLTBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  139test after register services in IoC             125.14 20130514JADBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  140test after register services in IoC            -139.85 20130514JCSBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  141test after register services in IoC             -68.09 20130514JEBBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  142test after register services in IoC             -56.27 20130514JKPBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  143test after register services in IoC             143.61 20130514JLABFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  144test after register services in IoC            -109.55 20130514JLBBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  145test after register services in IoC             -51.34 20130514KANBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  146test after register services in IoC            -110.28 20130514LALBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  147test after register services in IoC             -31.84 20130514LAMBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  148test after register services in IoC             -10.04 20130514LCGBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  149test after register services in IoC            -124.86 20130514LCWBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  150test after register services in IoC             -83.27 20130514LPSBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  151test after register services in IoC             -81.64 20130514MXGBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  152test after register services in IoC              -8.09 20130514TLCBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  153test after register services in IoC             -55.78 20130514TMJBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  154test after register services in IoC              20.07 20130514TXMBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  11GLCBAG201311001  155test after register services in IoC            -119.76 20130514VRWBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  156test after register services in IoC              -5.75 20130514----------kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  157test after register services in IoC            -414.53 20130514BEBBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  158test after register services in IoC            -363.56 20130514BLLBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  159test after register services in IoC            -265.13 20130514DECBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  160test after register services in IoC            -508.84 20130514EDDBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  161test after register services in IoC            -578.67 20130514GLTBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  162test after register services in IoC            -471.47 20130514JADBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  163test after register services in IoC            -897.15 20130514JCSBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  164test after register services in IoC            -531.68 20130514JEBBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  165test after register services in IoC            -429.21 20130514JKPBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  166test after register services in IoC            -440.33 20130514JLABFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  167test after register services in IoC            -558.13 20130514JLBBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  168test after register services in IoC            -400.87 20130514KANBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  169test after register services in IoC            -622.19 20130514LALBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  170test after register services in IoC            -248.62 20130514LAMBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  171test after register services in IoC            -160.02 20130514LCGBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  172test after register services in IoC            -704.46 20130514LCWBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  173test after register services in IoC            -469.83 20130514LPSBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  174test after register services in IoC            -415.93 20130514MXGBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  175test after register services in IoC            -361.07 20130514TLCBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  176test after register services in IoC            -435.53 20130514TMJBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  177test after register services in IoC            -212.94 20130514TXMBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  11GLCBAG201311001  178test after register services in IoC            -935.16 20130514VRWBFTV   kentest                         
+20133 AC3RGAAITEXPSUB6---CB  11GLCBAG201311001  179test after register services in IoC              -3.25 20130514----------kentest                         
+20133 AC4IGAA-----SB28---CB  11GLCBAG201311001  180test after register services in IoC            -151.23 20130514----------kentest                         
+20133 AC4IGAA-----SB28---CB  11GLCBAG201311001  181test after register services in IoC            -126.69 20130514KXDP      kentest                         
+20133 AC4IGAA-----SB28---CB  11GLCBAG201311001  182test after register services in IoC             -50.29 20130514LJJP      kentest                         
+20133 AC4IGAA-----SB28---CB  11GLCBAG201311001  183test after register services in IoC            -204.20 20130514SGGP      kentest                         
+20133 AC4IGAA-----SUB6---CB  11GLCBAG201311001  184test after register services in IoC            -853.25 20130514----------kentest                         
+20133 AC4IGAA-----SUB6---CB  11GLCBAG201311001  185test after register services in IoC           -1046.81 20130514KXDP      kentest                         
+20133 AC4IGAA-----SUB6---CB  11GLCBAG201311001  186test after register services in IoC            -657.29 20130514LJJP      kentest                         
+20133 AC4IGAA-----SUB6---CB  11GLCBAG201311001  187test after register services in IoC           -1152.12 20130514SGGP      kentest                         
+20133 AC4RGAA-----SB28---CB  11GLCBAG201311001  188test after register services in IoC            -103.49 20130514BAMP      kentest                         
+20133 AC4RGAA-----SB28---CB  11GLCBAG201311001  189test after register services in IoC            -108.43 20130514EGHP      kentest                         
+20133 AC4RGAA-----SB28---CB  11GLCBAG201311001  190test after register services in IoC             -46.18 20130514ENTSANCHEZkentest                         
+20133 AC4RGAA-----SB28---CB  11GLCBAG201311001  191test after register services in IoC            -219.64 20130514GFYP      kentest                         
+20133 AC4RGAA-----SB28---CB  11GLCBAG201311001  192test after register services in IoC            -100.32 20130514JCDP      kentest                         
+20133 AC4RGAA-----SB28---CB  11GLCBAG201311001  193test after register services in IoC             -66.24 20130514JMEP      kentest                         
+20133 AC4RGAA-----SB28---CB  11GLCBAG201311001  194test after register services in IoC            -163.69 20130514JMKP      kentest                         
+20133 AC4RGAA-----SB28---CB  11GLCBAG201311001  195test after register services in IoC             325.13 20130514MTTP      kentest                         
+20133 AC4RGAA-----SB28---CB  11GLCBAG201311001  196test after register services in IoC            -163.69 20130514WJMP      kentest                         
+20133 AC4RGAA-----SUB6---CB  11GLCBAG201311001  197test after register services in IoC              -8.90 20130514----------kentest                         
+20133 AC4RGAA-----SUB6---CB  11GLCBAG201311001  198test after register services in IoC            -868.85 20130514BAMP      kentest                         
+20133 AC4RGAA-----SUB6---CB  11GLCBAG201311001  199test after register services in IoC            -846.71 20130514EGHP      kentest                         
+20133 AC4RGAA-----SUB6---CB  11GLCBAG201311001  200test after register services in IoC            -998.11 20130514ENTSANCHEZkentest                         
+20133 AC4RGAA-----SUB6---CB  11GLCBAG201311001  201test after register services in IoC           -1118.98 20130514GFYP      kentest                         
+20133 AC4RGAA-----SUB6---CB  11GLCBAG201311001  202test after register services in IoC            -831.86 20130514JCDP      kentest                         
+20133 AC4RGAA-----SUB6---CB  11GLCBAG201311001  203test after register services in IoC            -517.25 20130514JMEP      kentest                         
+20133 AC4RGAA-----SUB6---CB  11GLCBAG201311001  204test after register services in IoC           -1050.05 20130514JMKP      kentest                         
+20133 AC4RGAA-----SUB6---CB  11GLCBAG201311001  205test after register services in IoC            -612.64 20130514MTTP      kentest                         
+20133 AC4RGAA-----SUB6---CB  11GLCBAG201311001  206test after register services in IoC           -1050.05 20130514WJMP      kentest                         
+20133 AC5IGAA-----SB28---CB  11GLCBAG201311001  207test after register services in IoC             -79.30 20130514ACL5DELCARkentest                         
+20133 AC5IGAA-----SB28---CB  11GLCBAG201311001  208test after register services in IoC             -85.12 20130514ACL5SMITHRkentest                         
+20133 AC5IGAA-----SB28---CB  11GLCBAG201311001  209test after register services in IoC             -82.80 20130514ACL5SUTTONkentest                         
+20133 AC5IGAA-----SB28---CB  11GLCBAG201311001  210test after register services in IoC              70.14 20130514ARERAUBACHkentest                         
+20133 AC5IGAA-----SB28---CB  11GLCBAG201311001  211test after register services in IoC            -129.53 20130514ARES_POHL kentest                         
+20133 AC5IGAA-----SB28---CB  11GLCBAG201311001  212test after register services in IoC              54.02 20130514CLOPEZ    kentest                         
+20133 AC5IGAA-----SB28---CB  11GLCBAG201311001  213test after register services in IoC            -217.59 20130514DWHITAKER kentest                         
+20133 AC5IGAA-----SB28---CB  11GLCBAG201311001  214test after register services in IoC            -123.79 20130514ESPSHONE  kentest                         
+20133 AC5IGAA-----SB28---CB  11GLCBAG201311001  215test after register services in IoC              78.18 20130514FMCCLEERY kentest                         
+20133 AC5IGAA-----SB28---CB  11GLCBAG201311001  216test after register services in IoC             -73.76 20130514JELLISON  kentest                         
+20133 AC5IGAA-----SB28---CB  11GLCBAG201311001  217test after register services in IoC            -102.67 20130514RJTAYLOR  kentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  218test after register services in IoC              -4.76 20130514----------kentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  219test after register services in IoC            -619.20 20130514ACL5DELCARkentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  220test after register services in IoC            -829.68 20130514ACL5SMITHRkentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  221test after register services in IoC            -646.56 20130514ACL5SUTTONkentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  222test after register services in IoC            -744.09 20130514ARERAUBACHkentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  223test after register services in IoC            -830.93 20130514ARES_POHL kentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  224test after register services in IoC            -573.00 20130514CLOPEZ    kentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  225test after register services in IoC           -1108.53 20130514DWHITAKER kentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  226test after register services in IoC            -794.10 20130514ESPSHONE  kentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  227test after register services in IoC            -829.29 20130514FMCCLEERY kentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  228test after register services in IoC            -575.94 20130514JELLISON  kentest                         
+20133 AC5IGAA-----SUB6---CB  11GLCBAG201311001  229test after register services in IoC            -801.73 20130514RJTAYLOR  kentest                         
+20133 AC5RGAA-----SB28---CB  11GLCBAG201311001  230test after register services in IoC            -114.05 20130514ACL5CKEMPLkentest                         
+20133 AC5RGAA-----SB28---CB  11GLCBAG201311001  231test after register services in IoC            -111.55 20130514ACL5KELLY kentest                         
+20133 AC5RGAA-----SB28---CB  11GLCBAG201311001  232test after register services in IoC             -95.76 20130514LSEVILLEJAkentest                         
+20133 AC5RGAA-----SB28---CB  11GLCBAG201311001  233test after register services in IoC            -167.42 20130514SRAGSDALE kentest                         
+20133 AC5RGAA-----SUB6---CB  11GLCBAG201311001  234test after register services in IoC              -1.33 20130514----------kentest                         
+20133 AC5RGAA-----SUB6---CB  11GLCBAG201311001  235test after register services in IoC            -890.56 20130514ACL5CKEMPLkentest                         
+20133 AC5RGAA-----SUB6---CB  11GLCBAG201311001  236test after register services in IoC            -871.08 20130514ACL5KELLY kentest                         
+20133 AC5RGAA-----SUB6---CB  11GLCBAG201311001  237test after register services in IoC            -747.76 20130514LSEVILLEJAkentest                         
+20133 AC5RGAA-----SUB6---CB  11GLCBAG201311001  238test after register services in IoC           -1073.98 20130514SRAGSDALE kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  239test after register services in IoC            -105.74 20130514ADOASB    kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  240test after register services in IoC             -43.24 20130514ADOBJN    kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  241test after register services in IoC             -81.02 20130514ADOCAR    kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  242test after register services in IoC            -118.85 20130514ADOCAS    kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  243test after register services in IoC            -104.11 20130514ADOFRR    kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  244test after register services in IoC             -63.84 20130514ADOLAF    kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  245test after register services in IoC             -26.45 20130514ADOMXW    kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  246test after register services in IoC             -44.44 20130514ADOPXG    kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  247test after register services in IoC             -15.46 20130514ADORSF    kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  248test after register services in IoC             -40.90 20130514ADOSRS    kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  249test after register services in IoC             -59.68 20130514ADOTMK    kentest                         
+20133 ADOIGAA-----SB28---CB  11GLCBAG201311001  250test after register services in IoC               6.16 20130514ADOYXC    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  251test after register services in IoC            -333.48 20130514----------kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  252test after register services in IoC            -825.72 20130514ADOASB    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  253test after register services in IoC            -276.78 20130514ADOBJN    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  254test after register services in IoC            -632.69 20130514ADOCAR    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  255test after register services in IoC            -928.04 20130514ADOCAS    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  256test after register services in IoC            -812.98 20130514ADOFRR    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  257test after register services in IoC            -325.24 20130514ADOLAF    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  258test after register services in IoC            -206.51 20130514ADOMXW    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  259test after register services in IoC            -285.05 20130514ADOPXG    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  260test after register services in IoC            -244.45 20130514ADORSF    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  261test after register services in IoC            -319.35 20130514ADOSRS    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  262test after register services in IoC            -160.88 20130514ADOTMK    kentest                         
+20133 ADOIGAA-----SUB6---CB  11GLCBAG201311001  263test after register services in IoC            -294.62 20130514ADOYXC    kentest                         
+20133 ADORGA2-----SB28---CB  11GLCBAG201311001  264test after register services in IoC             -91.58 20130514----------kentest                         
+20133 ADORGA2-----SB28---CB  11GLCBAG201311001  265test after register services in IoC             -98.92 20130514ADOCRC    kentest                         
+20133 ADORGA2-----SB28---CB  11GLCBAG201311001  266test after register services in IoC            -136.99 20130514ADOECR    kentest                         
+20133 ADORGA2-----SB28---CB  11GLCBAG201311001  267test after register services in IoC             -67.92 20130514ADOLXF    kentest                         
+20133 ADORGA2-----SUB6---CB  11GLCBAG201311001  268test after register services in IoC            -715.15 20130514----------kentest                         
+20133 ADORGA2-----SUB6---CB  11GLCBAG201311001  269test after register services in IoC            -772.41 20130514ADOCRC    kentest                         
+20133 ADORGA2-----SUB6---CB  11GLCBAG201311001  270test after register services in IoC           -1069.72 20130514ADOECR    kentest                         
+20133 ADORGA2-----SUB6---CB  11GLCBAG201311001  271test after register services in IoC            -703.27 20130514ADOLXF    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  272test after register services in IoC            -457.30 20130514ADOACG    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  273test after register services in IoC             -71.17 20130514ADOBJN    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  274test after register services in IoC            -117.04 20130514ADOLAF    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  275test after register services in IoC             -26.45 20130514ADOMXW    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  276test after register services in IoC             -81.47 20130514ADOPXG    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  277test after register services in IoC             -25.54 20130514ADORSF    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  278test after register services in IoC             -68.16 20130514ADOSRS    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  279test after register services in IoC            -240.90 20130514ADOTEP    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  280test after register services in IoC            -109.42 20130514ADOTMK    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  281test after register services in IoC             -73.54 20130514ADOUXR    kentest                         
+20133 ADORGAA-----SB28---CB  11GLCBAG201311001  282test after register services in IoC               1.95 20130514ADOYXC    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  283test after register services in IoC           -1597.11 20130514ADOACG    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  284test after register services in IoC            -503.85 20130514ADOBJN    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  285test after register services in IoC            -596.27 20130514ADOLAF    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  286test after register services in IoC            -206.51 20130514ADOMXW    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  287test after register services in IoC            -522.60 20130514ADOPXG    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  288test after register services in IoC            -446.93 20130514ADORSF    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  289test after register services in IoC            -532.24 20130514ADOSRS    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  290test after register services in IoC           -1545.36 20130514ADOTEP    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  291test after register services in IoC            -294.96 20130514ADOTMK    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  292test after register services in IoC            -574.22 20130514ADOUXR    kentest                         
+20133 ADORGAA-----SUB6---CB  11GLCBAG201311001  293test after register services in IoC            -544.27 20130514ADOYXC    kentest                         
+20133 AECIGAA-----SB28---CB  11GLCBAG201311001  294test after register services in IoC            -143.68 20130514ARES_CLAR kentest                         
+20133 AECIGAA-----SB28---CB  11GLCBAG201311001  295test after register services in IoC            -124.80 20130514ARES_GOET kentest                         
+20133 AECIGAA-----SB28---CB  11GLCBAG201311001  296test after register services in IoC            -143.68 20130514ARES_HANS kentest                         
+20133 AECIGAA-----SB28---CB  11GLCBAG201311001  297test after register services in IoC            -181.94 20130514SHANNON   kentest                         
+20133 AECIGAA-----SUB6---CB  11GLCBAG201311001  298test after register services in IoC            -921.70 20130514ARES_CLAR kentest                         
+20133 AECIGAA-----SUB6---CB  11GLCBAG201311001  299test after register services in IoC            -974.52 20130514ARES_GOET kentest                         
+20133 AECIGAA-----SUB6---CB  11GLCBAG201311001  300test after register services in IoC            -921.70 20130514ARES_HANS kentest                         
+20133 AECIGAA-----SUB6---CB  11GLCBAG201311001  301test after register services in IoC            -926.94 20130514SHANNON   kentest                         
+20133 AECITMP-----SUB6---CB  11GLCBAG201311001  302test after register services in IoC             -36.32 20130514----------kentest                         
+20133 AESCEPB-----SB28---CB  11GLCBAG201311001  303test after register services in IoC              31.40 20130514HCDBARAHONkentest                         
+20133 AESCEPB-----SUB6---CB  11GLCBAG201311001  304test after register services in IoC             245.22 20130514HCDBARAHONkentest                         
+20133 AESIGAA-----SB28---CB  11GLCBAG201311001  305test after register services in IoC             283.89 20130514CARRIERE  kentest                         
+20133 AESIGAA-----SB28---CB  11GLCBAG201311001  306test after register services in IoC            -110.35 20130514DESMWHALEYkentest                         
+20133 AESIGAA-----SB28---CB  11GLCBAG201311001  307test after register services in IoC            -130.32 20130514HHATFIELD kentest                         
+20133 AESIGAA-----SUB6---CB  11GLCBAG201311001  308test after register services in IoC            -159.70 20130514CARRIERE  kentest                         
+20133 AESIGAA-----SUB6---CB  11GLCBAG201311001  309test after register services in IoC            -861.70 20130514DESMWHALEYkentest                         
+20133 AESIGAA-----SUB6---CB  11GLCBAG201311001  310test after register services in IoC           -1017.62 20130514HHATFIELD kentest                         
+20133 AESRG39-----SB28---CB  11GLCBAG201311001  311test after register services in IoC             352.02 20130514----------kentest                         
+20133 AESRG39-----SUB6---CB  11GLCBAG201311001  312test after register services in IoC            1845.26 20130514----------kentest                         
+20133 AESRG50-----SUB6---CB  11GLCBAG201311001  313test after register services in IoC            -647.80 20130514----------kentest                         
+20133 AESRG51-----SUB6---CB  11GLCBAG201311001  314test after register services in IoC             -21.39 20130514----------kentest                         
+20133 AESRGAA-----SB28---CB  11GLCBAG201311001  315test after register services in IoC             141.94 20130514CARRIERE  kentest                         
+20133 AESRGAA-----SB28---CB  11GLCBAG201311001  316test after register services in IoC             -48.98 20130514ESPPOLOSKEkentest                         
+20133 AESRGAA-----SUB6---CB  11GLCBAG201311001  317test after register services in IoC             -79.86 20130514CARRIERE  kentest                         
+20133 AESRGAA-----SUB6---CB  11GLCBAG201311001  318test after register services in IoC            -382.50 20130514ESPPOLOSKEkentest                         
+20133 AETIGAA-----SB28---CB  11GLCBAG201311001  319test after register services in IoC             185.17 20130514AETXPIO   kentest                         
+20133 AETIGAA-----SUB6---CB  11GLCBAG201311001  320test after register services in IoC              56.11 20130514AETXPIO   kentest                         
+20133 AETIGAAAASAOSB28---CB  11GLCBAG201311001  321test after register services in IoC            -198.89 20130514AETXSGK   kentest                         
+20133 AETIGAAAASAOSUB6---CB  11GLCBAG201311001  322test after register services in IoC           -1013.28 20130514AETXSGK   kentest                         
+20133 AETRGAA-----SB28---CB  11GLCBAG201311001  323test after register services in IoC             226.32 20130514AETXPIO   kentest                         
+20133 AETRGAA-----SUB6---CB  11GLCBAG201311001  324test after register services in IoC              68.58 20130514AETXPIO   kentest                         
+20133 AETRGAAAAITSSB28---CB  11GLCBAG201311001  325test after register services in IoC             -13.20 20130514AETXSSV   kentest                         
+20133 AETRGAAAAITSSUB6---CB  11GLCBAG201311001  326test after register services in IoC             -84.70 20130514AETXSSV   kentest                         
+20133 AETRGAAAGCHMSB28---CB  11GLCBAG201311001  327test after register services in IoC             -44.48 20130514AETXGJE   kentest                         
+20133 AETRGAAAGCHMSUB6---CB  11GLCBAG201311001  328test after register services in IoC            -226.60 20130514AETXGJE   kentest                         
+20133 AETRGAAPHTOXSB28---CB  11GLCBAG201311001  329test after register services in IoC            -133.44 20130514AETXGJE   kentest                         
+20133 AETRGAAPHTOXSUB6---CB  11GLCBAG201311001  330test after register services in IoC            -679.81 20130514AETXGJE   kentest                         
+20133 AHCRG08-----SUB6---CB  11GLCBAG201311001  331test after register services in IoC             -65.65 20130514----------kentest                         
+20133 AHCRG28-----SUB6---CB  11GLCBAG201311001  332test after register services in IoC              -0.41 20130514----------kentest                         
+20133 AHCRG55-----SUB6---CB  11GLCBAG201311001  333test after register services in IoC              -0.28 20130514----------kentest                         
+20133 AHEIGAACRDSBSB28---CB  11GLCBAG201311001  334test after register services in IoC             -56.91 20130514CARMSTRONGkentest                         
+20133 AHEIGAACRDSBSB28---CB  11GLCBAG201311001  335test after register services in IoC             -49.84 20130514HCDERDMAN kentest                         
+20133 AHEIGAACRDSBSB28---CB  11GLCBAG201311001  336test after register services in IoC             -33.80 20130514HCDMCDONELkentest                         
+20133 AHEIGAACRDSBSB28---CB  11GLCBAG201311001  337test after register services in IoC             -49.67 20130514HETRANHUY kentest                         
+20133 AHEIGAACRDSBSB28---CB  11GLCBAG201311001  338test after register services in IoC             -36.79 20130514RCROTTY   kentest                         
+20133 AHEIGAACRDSBSUB6---CB  11GLCBAG201311001  339test after register services in IoC              -2.18 20130514----------kentest                         
+20133 AHEIGAACRDSBSUB6---CB  11GLCBAG201311001  340test after register services in IoC            -365.08 20130514CARMSTRONGkentest                         
+20133 AHEIGAACRDSBSUB6---CB  11GLCBAG201311001  341test after register services in IoC            -399.39 20130514HCDERDMAN kentest                         
+20133 AHEIGAACRDSBSUB6---CB  11GLCBAG201311001  342test after register services in IoC            -190.71 20130514HCDMCDONELkentest                         
+20133 AHEIGAACRDSBSUB6---CB  11GLCBAG201311001  343test after register services in IoC            -387.86 20130514HETRANHUY kentest                         
+20133 AHEIGAACRDSBSUB6---CB  11GLCBAG201311001  344test after register services in IoC            -287.26 20130514RCROTTY   kentest                         
+20133 AHEIGAAHDESBSB28---CB  11GLCBAG201311001  345test after register services in IoC             -68.09 20130514HCDERDMAN kentest                         
+20133 AHEIGAAHDESBSB28---CB  11GLCBAG201311001  346test after register services in IoC               2.82 20130514HCDLOGANJOkentest                         
+20133 AHEIGAAHDESBSB28---CB  11GLCBAG201311001  347test after register services in IoC             -50.26 20130514HCDMCDONELkentest                         
+20133 AHEIGAAHDESBSB28---CB  11GLCBAG201311001  348test after register services in IoC             -24.84 20130514HETRANHUY kentest                         
+20133 AHEIGAAHDESBSB28---CB  11GLCBAG201311001  349test after register services in IoC             -83.66 20130514JGOUINE   kentest                         
+20133 AHEIGAAHDESBSB28---CB  11GLCBAG201311001  350test after register services in IoC             -55.18 20130514RCROTTY   kentest                         
+20133 AHEIGAAHDESBSUB6---CB  11GLCBAG201311001  351test after register services in IoC              -5.74 20130514----------kentest                         
+20133 AHEIGAAHDESBSUB6---CB  11GLCBAG201311001  352test after register services in IoC            -596.14 20130514HCDERDMAN kentest                         
+20133 AHEIGAAHDESBSUB6---CB  11GLCBAG201311001  353test after register services in IoC            -496.62 20130514HCDLOGANJOkentest                         
+20133 AHEIGAAHDESBSUB6---CB  11GLCBAG201311001  354test after register services in IoC            -283.55 20130514HCDMCDONELkentest                         
+20133 AHEIGAAHDESBSUB6---CB  11GLCBAG201311001  355test after register services in IoC            -193.93 20130514HETRANHUY kentest                         
+20133 AHEIGAAHDESBSUB6---CB  11GLCBAG201311001  356test after register services in IoC            -653.30 20130514JGOUINE   kentest                         
+20133 AHEIGAAHDESBSUB6---CB  11GLCBAG201311001  357test after register services in IoC            -430.89 20130514RCROTTY   kentest                         
+20133 AHEIGAALDASBSB28---CB  11GLCBAG201311001  358test after register services in IoC             -97.42 20130514CARMSTRONGkentest                         
+20133 AHEIGAALDASBSB28---CB  11GLCBAG201311001  359test after register services in IoC            -109.20 20130514CHENEY    kentest                         
+20133 AHEIGAALDASBSB28---CB  11GLCBAG201311001  360test after register services in IoC             -82.80 20130514LDABARKER kentest                         
+20133 AHEIGAALDASBSUB6---CB  11GLCBAG201311001  361test after register services in IoC              -2.98 20130514----------kentest                         
+20133 AHEIGAALDASBSUB6---CB  11GLCBAG201311001  362test after register services in IoC            -624.97 20130514CARMSTRONGkentest                         
+20133 AHEIGAALDASBSUB6---CB  11GLCBAG201311001  363test after register services in IoC            -852.71 20130514CHENEY    kentest                         
+20133 AHEIGAALDASBSUB6---CB  11GLCBAG201311001  364test after register services in IoC            -646.56 20130514LDABARKER kentest                         
+20133 AHEITMPCRDSBSUB6---CB  11GLCBAG201311001  365test after register services in IoC             148.14 20130514----------kentest                         
+20133 AHEITMPHDESBSUB6---CB  11GLCBAG201311001  366test after register services in IoC              12.75 20130514----------kentest                         
+20133 AHEITMPLDASBSUB6---CB  11GLCBAG201311001  367test after register services in IoC             -19.09 20130514----------kentest                         
+20133 AHERFAV-----SUB6---CB  11GLCBAG201311001  368test after register services in IoC              -1.99 20130514----------kentest                         
+20133 AHERGAACRDSBSB28---CB  11GLCBAG201311001  369test after register services in IoC             219.71 20130514HCEHOANG  kentest                         
+20133 AHERGAACRDSBSUB6---CB  11GLCBAG201311001  370test after register services in IoC            -235.98 20130514HCEHOANG  kentest                         
+20133 AHERGAAHDESBSB28---CB  11GLCBAG201311001  371test after register services in IoC             326.64 20130514HCEHOANG  kentest                         
+20133 AHERGAAHDESBSB28---CB  11GLCBAG201311001  372test after register services in IoC             -49.67 20130514HETRANHUY kentest                         
+20133 AHERGAAHDESBSUB6---CB  11GLCBAG201311001  373test after register services in IoC            -355.27 20130514HCEHOANG  kentest                         
+20133 AHERGAAHDESBSUB6---CB  11GLCBAG201311001  374test after register services in IoC            -387.86 20130514HETRANHUY kentest                         
+20133 AHERGAALDASBSB28---CB  11GLCBAG201311001  375test after register services in IoC            -133.19 20130514WILCOX    kentest                         
+20133 AHERGAALDASBSUB6---CB  11GLCBAG201311001  376test after register services in IoC            -854.41 20130514WILCOX    kentest                         
+20133 AIARGAA-----SB28---CB  11GLCBAG201311001  377test after register services in IoC             -79.06 20130514----------kentest                         
+20133 AIARGAA-----SUB6---CB  11GLCBAG201311001  378test after register services in IoC            -617.42 20130514----------kentest                         
+20133 ALTRGAB-----SB28---CB  11GLCBAG201311001  379test after register services in IoC             -69.22 20130514----------kentest                         
+20133 ALTRGAB-----SB28---CB  11GLCBAG201311001  380test after register services in IoC             -69.22 20130514ADOEES    kentest                         
+20133 ALTRGAB-----SB28---CB  11GLCBAG201311001  381test after register services in IoC            -112.75 20130514ADOMMM    kentest                         
+20133 ALTRGAB-----SUB6---CB  11GLCBAG201311001  382test after register services in IoC            -716.57 20130514----------kentest                         
+20133 ALTRGAB-----SUB6---CB  11GLCBAG201311001  383test after register services in IoC            -716.57 20130514ADOEES    kentest                         
+20133 ALTRGAB-----SUB6---CB  11GLCBAG201311001  384test after register services in IoC           -1167.28 20130514ADOMMM    kentest                         
+20133 ALWIGAAAASAOSB28---CB  11GLCBAG201311001  385test after register services in IoC             -99.94 20130514250NGUYEN kentest                         
+20133 ALWIGAAAASAOSB28---CB  11GLCBAG201311001  386test after register services in IoC             -70.33 20130514250SHULL  kentest                         
+20133 ALWIGAAAASAOSUB6---CB  11GLCBAG201311001  387test after register services in IoC            -904.60 20130514250NGUYEN kentest                         
+20133 ALWIGAAAASAOSUB6---CB  11GLCBAG201311001  388test after register services in IoC            -451.17 20130514250SHULL  kentest                         
+20133 ALWRGAAAAITSSB28---CB  11GLCBAG201311001  389test after register services in IoC             -47.68 20130514AETXSSV   kentest                         
+20133 ALWRGAAAAITSSUB6---CB  11GLCBAG201311001  390test after register services in IoC            -305.89 20130514AETXSSV   kentest                         
+20133 ALWRGAAAASRASB28---CB  11GLCBAG201311001  391test after register services in IoC             651.92 20130514242MATISTAkentest                         
+20133 ALWRGAAAASRASUB6---CB  11GLCBAG201311001  392test after register services in IoC            -345.16 20130514242MATISTAkentest                         
+20133 ANSFDZK-----SB28---CB  11GLCBAG201311001  393test after register services in IoC            -105.26 20130514----------kentest                         
+20133 ANSFDZK-----SUB6---CB  11GLCBAG201311001  394test after register services in IoC            -829.86 20130514----------kentest                         
+20133 ANSFHXZ-----SUB6---CB  11GLCBAG201311001  395test after register services in IoC           -1678.00 20130514----------kentest                         
+20133 ANSFJFR-----SB28---CB  11GLCBAG201311001  396test after register services in IoC            -107.81 20130514----------kentest                         
+20133 ANSFJFR-----SUB6---CB  11GLCBAG201311001  397test after register services in IoC            -549.23 20130514----------kentest                         
+20133 ANSFJGF-----SUB6---CB  11GLCBAG201311001  398test after register services in IoC           -1678.00 20130514----------kentest                         
+20133 ANSFPJB-----SB28---CB  11GLCBAG201311001  399test after register services in IoC             152.52 20130514----------kentest                         
+20133 ANSFPJB-----SUB6---CB  11GLCBAG201311001  400test after register services in IoC            -574.64 20130514----------kentest                         
+20133 ANSFPJR-----SB28---CB  11GLCBAG201311001  401test after register services in IoC             -91.34 20130514----------kentest                         
+20133 ANSFPJR-----SUB6---CB  11GLCBAG201311001  402test after register services in IoC            -713.27 20130514----------kentest                         
+20133 ANSFRAZ-----SB28---CB  11GLCBAG201311001  403test after register services in IoC             265.72 20130514----------kentest                         
+20133 ANSFRAZ-----SUB6---CB  11GLCBAG201311001  404test after register services in IoC            -267.62 20130514----------kentest                         
+20133 ANTGGNBGRADSSB28---CB  11GLCBAG201311001  405test after register services in IoC             -95.81 20130514NUTGRAD   kentest                         
+20133 ANTGGNBGRADSSUB6---CB  11GLCBAG201311001  406test after register services in IoC            -752.55 20130514NUTGRAD   kentest                         
+20133 ANTIGAAADVISSB28---CB  11GLCBAG201311001  407test after register services in IoC            -114.91 20130514NUTUNDR   kentest                         
+20133 ANTIGAAADVISSUB6---CB  11GLCBAG201311001  408test after register services in IoC            -897.31 20130514NUTUNDR   kentest                         
+20133 ANTIGAASALRYSB28---CB  11GLCBAG201311001  409test after register services in IoC             905.28 20130514NUTPIO    kentest                         
+20133 ANTIGAASALRYSUB6---CB  11GLCBAG201311001  410test after register services in IoC             274.30 20130514NUTPIO    kentest                         
+20133 ANTITMPNU010SUB6---CB  11GLCBAG201311001  411test after register services in IoC              -7.27 20130514----------kentest                         
+20133 ANTRGAASALRYSB28---CB  11GLCBAG201311001  412test after register services in IoC             740.68 20130514NUTPIO    kentest                         
+20133 ANTRGAASALRYSUB6---CB  11GLCBAG201311001  413test after register services in IoC             224.43 20130514NUTPIO    kentest                         
+20133 ANTUNDR-----SUB6---CB  11GLCBAG201311001  414test after register services in IoC              -4.15 20130514----------kentest                         
+20133 ANTUNDRADVISSUB6---CB  11GLCBAG201311001  415test after register services in IoC              -9.10 20130514----------kentest                         
+20133 APFIGAAXPSTXSB28---CB  11GLCBAG201311001  416test after register services in IoC             -17.66 20130514MONTOYA-P kentest                         
+20133 APFIGAAXPSTXSUB6---CB  11GLCBAG201311001  417test after register services in IoC            -119.30 20130514MONTOYA-P kentest                         
+20133 APPRGAA-----SB28---CB  11GLCBAG201311001  418test after register services in IoC             -95.71 20130514JCRP      kentest                         
+20133 APPRGAA-----SB28---CB  11GLCBAG201311001  419test after register services in IoC            -210.37 20130514RWWP      kentest                         
+20133 APPRGAA-----SUB6---CB  11GLCBAG201311001  420test after register services in IoC           -1047.15 20130514----------kentest                         
+20133 APPRGAA-----SUB6---CB  11GLCBAG201311001  421test after register services in IoC            -747.38 20130514JCRP      kentest                         
+20133 APPRGAA-----SUB6---CB  11GLCBAG201311001  422test after register services in IoC           -1420.92 20130514RWWP      kentest                         
+20133 APRIGAU-----SB28---CB  11GLCBAG201311001  423test after register services in IoC            2566.94 20130514----------kentest                         
+20133 APRIGAU-----SUB6---CB  11GLCBAG201311001  424test after register services in IoC           61289.61 20130514----------kentest                         
+20133 APRRGAU-----SB28---CB  11GLCBAG201311001  425test after register services in IoC           -4143.12 20130514----------kentest                         
+20133 APRRGAU-----SUB6---CB  11GLCBAG201311001  426test after register services in IoC           94073.00 20130514----------kentest                         
+20133 APSIGAAAEUGASUB6---CB  11GLCBAG201311001  427test after register services in IoC              -3.54 20130514BRESLIN-EMkentest                         
+20133 APSIGAAAEUGASUB6---CB  11GLCBAG201311001  428test after register services in IoC              -3.09 20130514ONG-HOONSAkentest                         
+20133 APSIGAAASADVSB28---CB  11GLCBAG201311001  429test after register services in IoC            -194.48 20130514BROWNL    kentest                         
+20133 APSIGAAASADVSB28---CB  11GLCBAG201311001  430test after register services in IoC             894.86 20130514COSTA,T   kentest                         
+20133 APSIGAAASADVSB28---CB  11GLCBAG201311001  431test after register services in IoC             -45.98 20130514FLEMING-BRkentest                         
+20133 APSIGAAASADVSUB6---CB  11GLCBAG201311001  432test after register services in IoC            -990.82 20130514BROWNL    kentest                         
+20133 APSIGAAASADVSUB6---CB  11GLCBAG201311001  433test after register services in IoC            -478.57 20130514COSTA,T   kentest                         
+20133 APSIGAAASADVSUB6---CB  11GLCBAG201311001  434test after register services in IoC            -359.07 20130514FLEMING-BRkentest                         
+20133 APSIGAAASADVSUB6---CB  11GLCBAG201311001  435test after register services in IoC             -75.42 20130514MARICICH,Dkentest                         
+20133 APSIGAAASFLESB28---CB  11GLCBAG201311001  436test after register services in IoC             -10.10 20130514PITTON,BRUkentest                         
+20133 APSIGAAASFLESUB6---CB  11GLCBAG201311001  437test after register services in IoC            -209.76 20130514PITTON,BRUkentest                         
+20133 APSIGAAASFLVSB28---CB  11GLCBAG201311001  438test after register services in IoC             -81.52 20130514MANDRES   kentest                         
+20133 APSIGAAASFLVSB28---CB  11GLCBAG201311001  439test after register services in IoC              -8.83 20130514MONTOYA   kentest                         
+20133 APSIGAAASFLVSUB6---CB  11GLCBAG201311001  440test after register services in IoC            -843.99 20130514MANDRES   kentest                         
+20133 APSIGAAASFLVSUB6---CB  11GLCBAG201311001  441test after register services in IoC             -59.64 20130514MONTOYA   kentest                         
+20133 APSIGAAASFLWSB28---CB  11GLCBAG201311001  442test after register services in IoC            -139.91 20130514CRISTLER  kentest                         
+20133 APSIGAAASFLWSUB6---CB  11GLCBAG201311001  443test after register services in IoC            -944.99 20130514CRISTLER  kentest                         
+20133 APSIGAAASITESB28---CB  11GLCBAG201311001  444test after register services in IoC             -88.92 20130514CHOWN-ZAC kentest                         
+20133 APSIGAAASITESB28---CB  11GLCBAG201311001  445test after register services in IoC             -19.94 20130514SZETO,B   kentest                         
+20133 APSIGAAASITESB28---CB  11GLCBAG201311001  446test after register services in IoC              93.02 20130514VIDACA-J  kentest                         
+20133 APSIGAAASITESUB6---CB  11GLCBAG201311001  447test after register services in IoC            -694.32 20130514CHOWN-ZAC kentest                         
+20133 APSIGAAASITESUB6---CB  11GLCBAG201311001  448test after register services in IoC            -155.73 20130514SZETO,B   kentest                         
+20133 APSIGAAASITESUB6---CB  11GLCBAG201311001  449test after register services in IoC            -415.73 20130514VIDACA-J  kentest                         
+20133 APSIGAAASOFCSB28---CB  11GLCBAG201311001  450test after register services in IoC               9.74 20130514ADAMS     kentest                         
+20133 APSIGAAASOFCSB28---CB  11GLCBAG201311001  451test after register services in IoC             926.74 20130514BAILEY    kentest                         
+20133 APSIGAAASOFCSB28---CB  11GLCBAG201311001  452test after register services in IoC             -21.11 20130514JOHNSTON  kentest                         
+20133 APSIGAAASOFCSB28---CB  11GLCBAG201311001  453test after register services in IoC             -66.37 20130514MILLS     kentest                         
+20133 APSIGAAASOFCSB28---CB  11GLCBAG201311001  454test after register services in IoC              -7.74 20130514REIDS     kentest                         
+20133 APSIGAAASOFCSB28---CB  11GLCBAG201311001  455test after register services in IoC             -58.70 20130514SALAZAR,C kentest                         
+20133 APSIGAAASOFCSB28---CB  11GLCBAG201311001  456test after register services in IoC             -61.42 20130514WATERSON-Kkentest                         
+20133 APSIGAAASOFCSUB6---CB  11GLCBAG201311001  457test after register services in IoC             -37.70 20130514ADAMS     kentest                         
+20133 APSIGAAASOFCSUB6---CB  11GLCBAG201311001  458test after register services in IoC             -32.73 20130514BAILEY    kentest                         
+20133 APSIGAAASOFCSUB6---CB  11GLCBAG201311001  459test after register services in IoC            -164.85 20130514JOHNSTON  kentest                         
+20133 APSIGAAASOFCSUB6---CB  11GLCBAG201311001  460test after register services in IoC            -374.45 20130514MILLS     kentest                         
+20133 APSIGAAASOFCSUB6---CB  11GLCBAG201311001  461test after register services in IoC             -49.67 20130514REIDS     kentest                         
+20133 APSIGAAASOFCSUB6---CB  11GLCBAG201311001  462test after register services in IoC            -458.40 20130514SALAZAR,C kentest                         
+20133 APSIGAAASOFCSUB6---CB  11GLCBAG201311001  463test after register services in IoC            -479.58 20130514WATERSON-Kkentest                         
+20133 APSIGAAASSAFSB28---CB  11GLCBAG201311001  464test after register services in IoC             -48.98 20130514WARREN,B  kentest                         
+20133 APSIGAAASSAFSUB6---CB  11GLCBAG201311001  465test after register services in IoC            -382.50 20130514WARREN,B  kentest                         
+20133 APSITMPCS005SUB6---CB  11GLCBAG201311001  466test after register services in IoC              -3.51 20130514----------kentest                         
+20133 APSITMPCS005SUB6---CB  11GLCBAG201311001  467test after register services in IoC              -4.55 20130514CHUNG     kentest                         
+20133 APSITMPCS005SUB6---CB  11GLCBAG201311001  468test after register services in IoC              -2.75 20130514FRIEDMAN  kentest                         
+20133 APSITMPCS005SUB6---CB  11GLCBAG201311001  469test after register services in IoC              -4.32 20130514TAYLOR    kentest                         
+20133 APSITMPCS005SUB6---CB  11GLCBAG201311001  470test after register services in IoC              -2.87 20130514WEINER    kentest                         
+20133 APSITMPCS021SUB6---CB  11GLCBAG201311001  471test after register services in IoC              -3.33 20130514CHAN-WILBUkentest                         
+20133 APSITMPCS021SUB6---CB  11GLCBAG201311001  472test after register services in IoC              -3.67 20130514DU-THANH  kentest                         
+20133 APSITMPCS021SUB6---CB  11GLCBAG201311001  473test after register services in IoC              -3.50 20130514GRANTERIN kentest                         
+20133 APSITMPCS021SUB6---CB  11GLCBAG201311001  474test after register services in IoC              -3.33 20130514HARRISON-Skentest                         
+20133 APSITMPCS021SUB6---CB  11GLCBAG201311001  475test after register services in IoC              -3.50 20130514HIPOLITO-Akentest                         
+20133 APSITMPCS021SUB6---CB  11GLCBAG201311001  476test after register services in IoC              -3.83 20130514LEE-SHARONkentest                         
+20133 APSITMPCS021SUB6---CB  11GLCBAG201311001  477test after register services in IoC              -5.83 20130514MINORSKY-Ckentest                         
+20133 APSITMPCS021SUB6---CB  11GLCBAG201311001  478test after register services in IoC              -3.58 20130514PHUNG-KEVIkentest                         
+20133 APSITMPCS021SUB6---CB  11GLCBAG201311001  479test after register services in IoC              -3.33 20130514STODDARD-Jkentest                         
+20133 APSITMPCS021SUB6---CB  11GLCBAG201311001  480test after register services in IoC              -7.17 20130514TRAN-TERRYkentest                         
+20133 APSITMPCS021SUB6---CB  11GLCBAG201311001  481test after register services in IoC              -2.83 20130514TRUONG-THAkentest                         
+20133 APSRG11JEH01SB28---CB  11GLCBAG201311001  482test after register services in IoC             -99.22 20130514STOGSDIL-Jkentest                         
+20133 APSRG11JEH01SUB6---CB  11GLCBAG201311001  483test after register services in IoC            -774.75 20130514STOGSDIL-Jkentest                         
+20133 APSRG30FAMB2SUB6---CB  11GLCBAG201311001  484test after register services in IoC              -0.42 20130514COVBLIC-CRkentest                         
+20133 APSRG35-----SUB6---CB  11GLCBAG201311001  485test after register services in IoC              -3.29 20130514----------kentest                         
+20133 APSRG45FTMD2SB28---CB  11GLCBAG201311001  486test after register services in IoC            -118.51 20130514BRADLEY-S kentest                         
+20133 APSRG45FTMD2SUB6---CB  11GLCBAG201311001  487test after register services in IoC            -925.42 20130514BRADLEY-S kentest                         
+20133 APSRG51FJML0SUB6---CB  11GLCBAG201311001  488test after register services in IoC              -2.00 20130514MCKINNON-Lkentest                         
+20133 APSRG55FEJM2SB28---CB  11GLCBAG201311001  489test after register services in IoC              -9.20 20130514FLEMING-BRkentest                         
+20133 APSRG55FEJM2SUB6---CB  11GLCBAG201311001  490test after register services in IoC              -0.77 20130514CORNER-JOSkentest                         
+20133 APSRG55FEJM2SUB6---CB  11GLCBAG201311001  491test after register services in IoC             -71.82 20130514FLEMING-BRkentest                         
+20133 APSRG55FEJM2SUB6---CB  11GLCBAG201311001  492test after register services in IoC              -0.39 20130514WONG-JERRIkentest                         
+20133 APSRG56FDEP0SB28---CB  11GLCBAG201311001  493test after register services in IoC              38.55 20130514CHAN-Z    kentest                         
+20133 APSRG56FDEP0SUB6---CB  11GLCBAG201311001  494test after register services in IoC            -131.12 20130514CHAN-Z    kentest                         
+20133 APSRGAAAEFLPSUB6---CB  11GLCBAG201311001  495test after register services in IoC             -80.05 20130514PLOCHER   kentest                         
+20133 APSRGAAAEFLVSB28---CB  11GLCBAG201311001  496test after register services in IoC             -71.66 20130514SANDOVAL-Zkentest                         
+20133 APSRGAAAEFLVSUB6---CB  11GLCBAG201311001  497test after register services in IoC            -741.91 20130514SANDOVAL-Zkentest                         
+20133 APSRGAAAEITESUB6---CB  11GLCBAG201311001  498test after register services in IoC              -3.74 20130514CHAN-KAI  kentest                         
+20133 APSRGAAAEITESUB6---CB  11GLCBAG201311001  499test after register services in IoC              -1.11 20130514MENZ-LAUREkentest                         
+20133 APSRGAAAEOFCSUB6---CB  11GLCBAG201311001  500test after register services in IoC              -2.21 20130514NGUYEN-VIVkentest                         
+20133 APSRGAAAEOFCSUB6---CB  11GLCBAG201311001  501test after register services in IoC              -1.33 20130514YOSHIDA-LAkentest                         
+20133 APSRGAAAESAFSUB6---CB  11GLCBAG201311001  502test after register services in IoC              -0.31 20130514HAN-CHRISTkentest                         
+20133 APSRGAAAESAFSUB6---CB  11GLCBAG201311001  503test after register services in IoC              -0.46 20130514PARK-G    kentest                         
+20133 APSRGAAASFLESB28---CB  11GLCBAG201311001  504test after register services in IoC             -10.10 20130514PITTON,BRUkentest                         
+20133 APSRGAAASFLESUB6---CB  11GLCBAG201311001  505test after register services in IoC            -209.76 20130514PITTON,BRUkentest                         
+20133 APSRGAAASFLVSB28---CB  11GLCBAG201311001  506test after register services in IoC             -44.45 20130514BOONET    kentest                         
+20133 APSRGAAASFLVSB28---CB  11GLCBAG201311001  507test after register services in IoC             -50.91 20130514HERRERA,NIkentest                         
+20133 APSRGAAASFLVSB28---CB  11GLCBAG201311001  508test after register services in IoC             -58.73 20130514MANDRES   kentest                         
+20133 APSRGAAASFLVSB28---CB  11GLCBAG201311001  509test after register services in IoC             -52.99 20130514MONTOYA   kentest                         
+20133 APSRGAAASFLVSB28---CB  11GLCBAG201311001  510test after register services in IoC             107.21 20130514STEWARTF  kentest                         
+20133 APSRGAAASFLVSUB6---CB  11GLCBAG201311001  511test after register services in IoC            -460.16 20130514BOONET    kentest                         
+20133 APSRGAAASFLVSUB6---CB  11GLCBAG201311001  512test after register services in IoC            -433.00 20130514HERRERA,NIkentest                         
+20133 APSRGAAASFLVSUB6---CB  11GLCBAG201311001  513test after register services in IoC            -608.04 20130514MANDRES   kentest                         
+20133 APSRGAAASFLVSUB6---CB  11GLCBAG201311001  514test after register services in IoC            -357.90 20130514MONTOYA   kentest                         
+20133 APSRGAAASFLVSUB6---CB  11GLCBAG201311001  515test after register services in IoC             546.17 20130514STEWARTF  kentest                         
+20133 APSRGAAASFLWSB28---CB  11GLCBAG201311001  516test after register services in IoC             -48.86 20130514CRISTLER  kentest                         
+20133 APSRGAAASFLWSUB6---CB  11GLCBAG201311001  517test after register services in IoC            -329.99 20130514CRISTLER  kentest                         
+20133 APSRGAAASITESB28---CB  11GLCBAG201311001  518test after register services in IoC             -44.04 20130514CHOWN-ZAC kentest                         
+20133 APSRGAAASITESB28---CB  11GLCBAG201311001  519test after register services in IoC             -81.11 20130514DUSSAULT,Lkentest                         
+20133 APSRGAAASITESB28---CB  11GLCBAG201311001  520test after register services in IoC             -93.07 20130514SZETO,B   kentest                         
+20133 APSRGAAASITESB28---CB  11GLCBAG201311001  521test after register services in IoC              93.02 20130514VIDACA-J  kentest                         
+20133 APSRGAAASITESUB6---CB  11GLCBAG201311001  522test after register services in IoC            -343.92 20130514CHOWN-ZAC kentest                         
+20133 APSRGAAASITESUB6---CB  11GLCBAG201311001  523test after register services in IoC            -520.30 20130514DUSSAULT,Lkentest                         
+20133 APSRGAAASITESUB6---CB  11GLCBAG201311001  524test after register services in IoC            -726.77 20130514SZETO,B   kentest                         
+20133 APSRGAAASITESUB6---CB  11GLCBAG201311001  525test after register services in IoC            -415.73 20130514VIDACA-J  kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  526test after register services in IoC             124.03 20130514ADAMS     kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  527test after register services in IoC             926.74 20130514BAILEY    kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  528test after register services in IoC              28.61 20130514CHAVEZ,DANkentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  529test after register services in IoC             -69.91 20130514GREENLEAF kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  530test after register services in IoC             -21.11 20130514JOHNSTON  kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  531test after register services in IoC              27.27 20130514MARRUSH   kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  532test after register services in IoC              27.62 20130514MCVARISH  kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  533test after register services in IoC             -66.37 20130514MILLS     kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  534test after register services in IoC             -69.91 20130514NIJJAR-BALkentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  535test after register services in IoC            -131.64 20130514REIDS     kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  536test after register services in IoC             -45.13 20130514ROBERTS   kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  537test after register services in IoC             -73.25 20130514SABERI-S  kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  538test after register services in IoC             -58.70 20130514SALAZAR,C kentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  539test after register services in IoC            -108.41 20130514SINGHVIDALkentest                         
+20133 APSRGAAASOFCSB28---CB  11GLCBAG201311001  540test after register services in IoC             -61.42 20130514WATERSON-Kkentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  541test after register services in IoC            -659.31 20130514ADAMS     kentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  542test after register services in IoC             -32.73 20130514BAILEY    kentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  543test after register services in IoC            -507.58 20130514CHAVEZ,DANkentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  544test after register services in IoC            -545.88 20130514GREENLEAF kentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  545test after register services in IoC            -164.85 20130514JOHNSTON  kentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  546test after register services in IoC            -414.25 20130514MARRUSH   kentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  547test after register services in IoC            -394.84 20130514MCVARISH  kentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  548test after register services in IoC            -374.45 20130514MILLS     kentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  549test after register services in IoC            -545.88 20130514NIJJAR-BALkentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  550test after register services in IoC            -844.45 20130514REIDS     kentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  551test after register services in IoC            -352.40 20130514ROBERTS   kentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  552test after register services in IoC            -779.07 20130514SABERI-S  kentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  553test after register services in IoC            -458.40 20130514SALAZAR,C kentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  554test after register services in IoC            -695.43 20130514SINGHVIDALkentest                         
+20133 APSRGAAASOFCSUB6---CB  11GLCBAG201311001  555test after register services in IoC            -479.58 20130514WATERSON-Kkentest                         
+20133 APSRGAAASPHVSB28---CB  11GLCBAG201311001  556test after register services in IoC             -60.16 20130514RICHMOND,Lkentest                         
+20133 APSRGAAASPHVSUB6---CB  11GLCBAG201311001  557test after register services in IoC            -469.79 20130514RICHMOND,Lkentest                         
+20133 APSRGAAASRICSB28---CB  11GLCBAG201311001  558test after register services in IoC             -66.36 20130514DUSSAULT,Lkentest                         
+20133 APSRGAAASRICSUB6---CB  11GLCBAG201311001  559test after register services in IoC            -425.70 20130514DUSSAULT,Lkentest                         
+20133 APSRGAAASSAFSB28---CB  11GLCBAG201311001  560test after register services in IoC             -48.98 20130514WARREN,B  kentest                         
+20133 APSRGAAASSAFSUB6---CB  11GLCBAG201311001  561test after register services in IoC            -382.50 20130514WARREN,B  kentest                         
+20133 APSRGABFABB2SB28---CB  11GLCBAG201311001  562test after register services in IoC             -42.09 20130514BESS,K    kentest                         
+20133 APSRGABFABB2SUB6---CB  11GLCBAG201311001  563test after register services in IoC            -328.64 20130514BESS,K    kentest                         
+20133 APSRGAGASGRHSB28---CB  11GLCBAG201311001  564test after register services in IoC             -37.23 20130514JOHNSTON  kentest                         
+20133 APSRGAGASGRHSUB6---CB  11GLCBAG201311001  565test after register services in IoC            -290.75 20130514JOHNSTON  kentest                         
+20133 APSRGJDFJAD2SUB6---CB  11GLCBAG201311001  566test after register services in IoC              -2.81 20130514LEE-JUSTINkentest                         
+20133 APSRGJDFJAD2SUB6---CB  11GLCBAG201311001  567test after register services in IoC              -4.16 20130514WILKERSON kentest                         
+20133 APSRHMIFJXD2SB28---CB  11GLCBAG201311001  568test after register services in IoC              81.25 20130514BUFFALO-VIkentest                         
+20133 APSRHMIFJXD2SUB6---CB  11GLCBAG201311001  569test after register services in IoC            -861.88 20130514BUFFALO-VIkentest                         
+20133 AREUNDR-----SUB6---CB  11GLCBAG201311001  570test after register services in IoC              -5.52 20130514----------kentest                         
+20133 ASP982H-----SUB6---CB  11GLCBAG201311001  571test after register services in IoC              -1.55 20130514----------kentest                         
+20133 ASTEACHADMINSUB6---CB  11GLCBAG201311001  572test after register services in IoC              -6.44 20130514----------kentest                         
+20133 ASTEACHADVSNSUB6---CB  11GLCBAG201311001  573test after register services in IoC             -12.90 20130514----------kentest                         
+20133 ATXIGAATXADVSUB6---CB  11GLCBAG201311001  574test after register services in IoC              -0.88 20130514----------kentest                         
+20133 AVERGAA-----SB28---CB  11GLCBAG201311001  575test after register services in IoC              10.08 20130514AVITPLG   kentest                         
+20133 AVERGAA-----SB28---CB  11GLCBAG201311001  576test after register services in IoC             -94.37 20130514AVITSCB   kentest                         
+20133 AVERGAA-----SUB6---CB  11GLCBAG201311001  577test after register services in IoC            -886.27 20130514AVITPLG   kentest                         
+20133 AVERGAA-----SUB6---CB  11GLCBAG201311001  578test after register services in IoC            -976.96 20130514AVITSCB   kentest                         
+20133 AWFIGAASACARSB28---CB  11GLCBAG201311001  579test after register services in IoC             -83.83 20130514250ROBERTSkentest                         
+20133 AWFIGAASACARSUB6---CB  11GLCBAG201311001  580test after register services in IoC            -654.61 20130514250ROBERTSkentest                         
+20133 AWFIGAATEACHSUB6---CB  11GLCBAG201311001  581test after register services in IoC              -1.93 20130514----------kentest                         
+20133 AWFITMPWF011SUB6---CB  11GLCBAG201311001  582test after register services in IoC            -297.19 20130514----------kentest                         
+20133 AWFRGAAAAITSSB28---CB  11GLCBAG201311001  583test after register services in IoC             -12.47 20130514AETXSSV   kentest                         
+20133 AWFRGAAAAITSSUB6---CB  11GLCBAG201311001  584test after register services in IoC             -80.00 20130514AETXSSV   kentest                         
+20133 AWFRGAAMUSEMSB28---CB  11GLCBAG201311001  585test after register services in IoC             -26.74 20130514----------kentest                         
+20133 AWFRGAAMUSEMSUB6---CB  11GLCBAG201311001  586test after register services in IoC            -208.78 20130514----------kentest                         
+20133 AWFRGAASACARSB28---CB  11GLCBAG201311001  587test after register services in IoC             -27.14 20130514AWFCSJG   kentest                         
+20133 AWFRGAASACARSUB6---CB  11GLCBAG201311001  588test after register services in IoC            -192.33 20130514AWFCSJG   kentest                         
+20133 AXEIGAAABIXXSUB6---CB  11GLCBAG201311001  589test after register services in IoC              -2.21 20130514----------kentest                         
+20133 AXERGAA-----SB28---CB  11GLCBAG201311001  590test after register services in IoC             -80.21 20130514----------kentest                         
+20133 AXERGAA-----SUB6---CB  11GLCBAG201311001  591test after register services in IoC            -626.32 20130514----------kentest                         
+20133 BLLSALR-----SB28---CB  11GLCBAG201311001  592test after register services in IoC             -80.86 20130514----------kentest                         
+20133 BLLSALR-----SUB6---CB  11GLCBAG201311001  593test after register services in IoC            -636.41 20130514----------kentest                         
+20133 BUS9047-----SUB6---CB  11GLCBAG201311001  594test after register services in IoC              -1.38 20130514----------kentest                         
+20133 CLKGENA-----SB28---CB  11GLCBAG201311001  595test after register services in IoC            -107.33 20130514----------kentest                         
+20133 CLKGENA-----SUB6---CB  11GLCBAG201311001  596test after register services in IoC            -838.09 20130514----------kentest                         
+20133 CRU9033-----SB28---CB  11GLCBAG201311001  597test after register services in IoC             -80.40 20130514----------kentest                         
+20133 CRU9033-----SUB6---CB  11GLCBAG201311001  598test after register services in IoC            -636.52 20130514----------kentest                         
+20133 CSVCGEN-----SUB6---CB  11GLCBAG201311001  599test after register services in IoC              -2.38 20130514----------kentest                         
+20133 DAS3SAL-----SUB6---CB  11GLCBAG201311001  600test after register services in IoC            3420.00 20130514----------kentest                         
+20133 DNM1630-----SUB6---CB  11GLCBAG201311001  601test after register services in IoC           -5128.97 20130514----------kentest                         
+20133 EEL0214-----SB28---CB  11GLCBAG201311001  602test after register services in IoC              32.54 20130514----------kentest                         
+20133 EEL0214-----SUB6---CB  11GLCBAG201311001  603test after register services in IoC            -345.23 20130514----------kentest                         
+20133 ESG7E23-----SUB6---CB  11GLCBAG201311001  604test after register services in IoC              -2.08 20130514----------kentest                         
+20133 ESP8E87-----SUB6---CB  11GLCBAG201311001  605test after register services in IoC              -3.06 20130514----------kentest                         
+20133 FMSCHAR-----SB28---CB  11GLCBAG201311001  606test after register services in IoC             -18.64 20130514----------kentest                         
+20133 FMSCHAR-----SUB6---CB  11GLCBAG201311001  607test after register services in IoC            -105.17 20130514----------kentest                         
+20133 FMSSALR-----SB28---CB  11GLCBAG201311001  608test after register services in IoC             -18.64 20130514----------kentest                         
+20133 FMSSALR-----SUB6---CB  11GLCBAG201311001  609test after register services in IoC            -105.17 20130514----------kentest                         
+20133 FST104L-----SUB6---CB  11GLCBAG201311001  610test after register services in IoC              -4.69 20130514----------kentest                         
+20133 GENFNC2-----SUB6---CB  11GLCBAG201311001  611test after register services in IoC              -0.47 20130514LENG-J    kentest                         
+20133 HEMK3VC-----SUB6---CB  11GLCBAG201311001  612test after register services in IoC              -2.21 20130514----------kentest                         
+20133 HER7771-----SUB6---CB  11GLCBAG201311001  613test after register services in IoC              -1.33 20130514----------kentest                         
+20133 HERBARIASHERSB28---CB  11GLCBAG201311001  614test after register services in IoC            -110.57 20130514SHEPARD   kentest                         
+20133 HERBARIASHERSUB6---CB  11GLCBAG201311001  615test after register services in IoC            -623.82 20130514SHEPARD   kentest                         
+20133 KHBSALR-----SUB6---CB  11GLCBAG201311001  616test after register services in IoC             349.53 20130514----------kentest                         
+20133 KIM25LK-----SUB6---CB  11GLCBAG201311001  617test after register services in IoC              -1.33 20130514----------kentest                         
+20133 LAW25SL-----SB28---CB  11GLCBAG201311001  618test after register services in IoC             893.10 20130514----------kentest                         
+20133 LAW25SL-----SUB6---CB  11GLCBAG201311001  619test after register services in IoC           -2240.98 20130514----------kentest                         
+20133 LFBS199-----SUB6---CB  11GLCBAG201311001  620test after register services in IoC              -1.04 20130514----------kentest                         
+20133 METROC2STASTSUB6---CB  11GLCBAG201311001  621test after register services in IoC             -11.61 20130514----------kentest                         
+20133 NE19900-----SUB6---CB  11GLCBAG201311001  622test after register services in IoC             446.99 20130514----------kentest                         
+20133 PRM3FAC-----SUB6---CB  11GLCBAG201311001  623test after register services in IoC           15132.66 20130514----------kentest                         
+20133 RMIADMN-----SB28---CB  11GLCBAG201311001  624test after register services in IoC             -90.96 20130514----------kentest                         
+20133 RMIADMN-----SB28---CB  11GLCBAG201311001  625test after register services in IoC            2114.28 20130514ADOCMH    kentest                         
+20133 RMIADMN-----SB28---CB  11GLCBAG201311001  626test after register services in IoC             -84.48 20130514ADODLN    kentest                         
+20133 RMIADMN-----SUB6---CB  11GLCBAG201311001  627test after register services in IoC            -712.59 20130514----------kentest                         
+20133 RMIADMN-----SUB6---CB  11GLCBAG201311001  628test after register services in IoC            8177.38 20130514ADOCMH    kentest                         
+20133 RMIADMN-----SUB6---CB  11GLCBAG201311001  629test after register services in IoC            -659.68 20130514ADODLN    kentest                         
+20133 RUC1990-----SUB6---CB  11GLCBAG201311001  630test after register services in IoC             964.66 20130514----------kentest                         
+20133 SAV3FAC-----SUB6---CB  11GLCBAG201311001  631test after register services in IoC              -2.28 20130514----------kentest                         
+20133 SRC9090-----SUB6---CB  11GLCBAG201311001  632test after register services in IoC              -0.48 20130514----------kentest                         
+20133 SRCHOLD-----SB28---CB  11GLCBAG201311001  633test after register services in IoC             292.74 20130514----------kentest                         
+20133 SRCHOLD-----SUB6---CB  11GLCBAG201311001  634test after register services in IoC             -72.78 20130514----------kentest                         
+20133 SZCGENA-----SUB6---CB  11GLCBAG201311001  635test after register services in IoC              -0.72 20130514----------kentest                         
+20133 SZCGRAD-----SUB6---CB  11GLCBAG201311001  636test after register services in IoC              -4.55 20130514----------kentest                         
+20133 UAP983H-----SUB6---CB  11GLCBAG201311001  637test after register services in IoC              -5.75 20130514----------kentest                         
+20133 UAP997H-----SUB6---CB  11GLCBAG201311001  638test after register services in IoC              -4.81 20130514----------kentest                         
+20133 ULL25DU-----SB28---CB  11GLCBAG201311001  639test after register services in IoC             -99.60 20130514----------kentest                         
+20133 ULL25DU-----SUB6---CB  11GLCBAG201311001  640test after register services in IoC            -168.18 20130514----------kentest                         
+20133 UNDGRADPERADSUB6---CB  11GLCBAG201311001  641test after register services in IoC              -7.30 20130514----------kentest                         
+20133 VENDEPT-----SUB6---CB  11GLCBAG201311001  642test after register services in IoC            1931.31 20130514----------kentest                         
+20133 WFSRFAN-----SB28---CB  11GLCBAG201311001  643test after register services in IoC             197.80 20130514----------kentest                         
+20133 WFSRFAN-----SUB6---CB  11GLCBAG201311001  644test after register services in IoC            -672.81 20130514----------kentest                         
+20133 WFSRTHO-----SUB6---CB  11GLCBAG201311001  645test after register services in IoC              -1.50 20130514----------kentest                         

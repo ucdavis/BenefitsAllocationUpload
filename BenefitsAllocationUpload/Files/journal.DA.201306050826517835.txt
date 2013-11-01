@@ -1,0 +1,1146 @@
+2013L 234SBA1-----SB28---CB  12GLCBDA201312001    1First UI test for DANR                            0.50 20130605          ----------danrtest                        
+2013L 234SBA1-----SUB6---CB  12GLCBDA201312001    2First UI test for DANR                          795.30 20130605          ----------danrtest                        
+2013L 240FED121072SUB8---CB  12GLCBDA201312001    3First UI test for DANR                        -7426.33 20130605          ----------danrtest                        
+2013L 312TCL1-----SUB6---CB  12GLCBDA201312001    4First UI test for DANR                         9912.00 20130605          ----------danrtest                        
+2013L 5P21056-----SUB6---CB  12GLCBDA201312001    5First UI test for DANR                         2770.45 20130605          ----------danrtest                        
+2013L 5P21056PPEIPSB28---CB  12GLCBDA201312001    6First UI test for DANR                         -692.20 20130605          ----------danrtest                        
+2013L 5P21056PPEIPSUB6---CB  12GLCBDA201312001    7First UI test for DANR                        -8189.43 20130605          ----------danrtest                        
+2013L 5P21058-----SB28---CB  12GLCBDA201312001    8First UI test for DANR                          155.24 20130605          ----------danrtest                        
+2013L 5P21058-----SUB6---CB  12GLCBDA201312001    9First UI test for DANR                        15148.54 20130605          ----------danrtest                        
+2013L 5P21058PPEIPSB28---CB  12GLCBDA201312001   10First UI test for DANR                        -1209.79 20130605          ----------danrtest                        
+2013L 5P21058PPEIPSUB6---CB  12GLCBDA201312001   11First UI test for DANR                       -38742.35 20130605          ----------danrtest                        
+2013L 5P21058PPEIPSUB6---CB  12GLCBDA201312001   12First UI test for DANR                        -6806.52 20130605          AL KHAT-KAdanrtest                        
+2013L 5P69085-----SB28---CB  12GLCBDA201312001   13First UI test for DANR                         -677.38 20130605          ----------danrtest                        
+2013L 5P69085-----SUB6---CB  12GLCBDA201312001   14First UI test for DANR                        -2764.19 20130605          ----------danrtest                        
+2013L 5PSOPIC-----SB28---CB  12GLCBDA201312001   15First UI test for DANR                         -457.55 20130605          ----------danrtest                        
+2013L 5PSOPIC-----SUB6---CB  12GLCBDA201312001   16First UI test for DANR                        -2955.12 20130605          ----------danrtest                        
+2013L 5R69085-----SB28---CB  12GLCBDA201312001   17First UI test for DANR                        -5530.27 20130605          ----------danrtest                        
+2013L 5R69085-----SUB6---CB  12GLCBDA201312001   18First UI test for DANR                      -113220.19 20130605          ----------danrtest                        
+2013L 5R69085-----SUB6---CB  12GLCBDA201312001   19First UI test for DANR                        -6706.14 20130605          AL KHAT-KAdanrtest                        
+2013L 5RIFWSA-----SB28---CB  12GLCBDA201312001   20First UI test for DANR                         -399.42 20130605          ----------danrtest                        
+2013L 5RIFWSA-----SUB6---CB  12GLCBDA201312001   21First UI test for DANR                        -1967.12 20130605          ----------danrtest                        
+2013L 5S69085-----SB28---CB  12GLCBDA201312001   22First UI test for DANR                        -1498.98 20130605          ----------danrtest                        
+2013L 5S69085-----SB28---CB  12GLCBDA201312001   23First UI test for DANR                            4.70 20130605          ADOAEH    danrtest                        
+2013L 5S69085-----SB28---CB  12GLCBDA201312001   24First UI test for DANR                        -2043.89 20130605          ADOBAR    danrtest                        
+2013L 5S69085-----SB28---CB  12GLCBDA201312001   25First UI test for DANR                         -918.54 20130605          ADODMS    danrtest                        
+2013L 5S69085-----SB28---CB  12GLCBDA201312001   26First UI test for DANR                        -1982.92 20130605          ADOGWF    danrtest                        
+2013L 5S69085-----SB28---CB  12GLCBDA201312001   27First UI test for DANR                         2375.28 20130605          ADOSGY    danrtest                        
+2013L 5S69085-----SB28---CB  12GLCBDA201312001   28First UI test for DANR                        -1353.29 20130605          ADOSXB    danrtest                        
+2013L 5S69085-----SB28---CB  12GLCBDA201312001   29First UI test for DANR                        -2724.08 20130605          ADOTPT    danrtest                        
+2013L 5S69085-----SB28---CB  12GLCBDA201312001   30First UI test for DANR                         -174.72 20130605          GFSALSVGS danrtest                        
+2013L 5S69085-----SUB6---CB  12GLCBDA201312001   31First UI test for DANR                       -13741.56 20130605          ----------danrtest                        
+2013L 5S69085-----SUB6---CB  12GLCBDA201312001   32First UI test for DANR                        -3822.12 20130605          ADOAEH    danrtest                        
+2013L 5S69085-----SUB6---CB  12GLCBDA201312001   33First UI test for DANR                        -8082.09 20130605          ADOBAR    danrtest                        
+2013L 5S69085-----SUB6---CB  12GLCBDA201312001   34First UI test for DANR                        -9000.10 20130605          ADODMS    danrtest                        
+2013L 5S69085-----SUB6---CB  12GLCBDA201312001   35First UI test for DANR                        -4821.88 20130605          ADOGWF    danrtest                        
+2013L 5S69085-----SUB6---CB  12GLCBDA201312001   36First UI test for DANR                         1091.07 20130605          ADOSGY    danrtest                        
+2013L 5S69085-----SUB6---CB  12GLCBDA201312001   37First UI test for DANR                        -4242.48 20130605          ADOSXB    danrtest                        
+2013L 5S69085-----SUB6---CB  12GLCBDA201312001   38First UI test for DANR                        -7767.30 20130605          ADOTPT    danrtest                        
+2013L 5S69085-----SUB6---CB  12GLCBDA201312001   39First UI test for DANR                        -1886.42 20130605          GFSALSVGS danrtest                        
+2013L 6AR44SA-----SB28---CB  12GLCBDA201312001   40First UI test for DANR                         -822.28 20130605          FISCHERL  danrtest                        
+2013L 6AR44SA-----SUB6---CB  12GLCBDA201312001   41First UI test for DANR                        -1127.97 20130605          ----------danrtest                        
+2013L 6AR44SA-----SUB6---CB  12GLCBDA201312001   42First UI test for DANR                        -6225.45 20130605          FISCHERL  danrtest                        
+2013L 6AR44SA03000SB28---CB  12GLCBDA201312001   43First UI test for DANR                         -146.91 20130605          TIBOR     danrtest                        
+2013L 6AR44SA03000SUB6---CB  12GLCBDA201312001   44First UI test for DANR                         -611.50 20130605          TIBOR     danrtest                        
+2013L 6AR6203PPSNESB28---CB  12GLCBDA201312001   45First UI test for DANR                         -704.79 20130605          FISCHERL  danrtest                        
+2013L 6AR6203PPSNESUB6---CB  12GLCBDA201312001   46First UI test for DANR                        -4352.60 20130605          FISCHERL  danrtest                        
+2013L 6AR64SA-----SB28---CB  12GLCBDA201312001   47First UI test for DANR                        -1280.80 20130605          FISCHERL  danrtest                        
+2013L 6AR64SA-----SB28---CB  12GLCBDA201312001   48First UI test for DANR                        -2877.69 20130605          OGLETREE  danrtest                        
+2013L 6AR64SA-----SUB6---CB  12GLCBDA201312001   49First UI test for DANR                        -3767.82 20130605          FISCHERL  danrtest                        
+2013L 6AR64SA-----SUB6---CB  12GLCBDA201312001   50First UI test for DANR                        -8684.17 20130605          OGLETREE  danrtest                        
+2013L 6CP64SA-----SB28---CB  12GLCBDA201312001   51First UI test for DANR                         -635.03 20130605          ----------danrtest                        
+2013L 6CP64SA-----SB28---CB  12GLCBDA201312001   52First UI test for DANR                        -2287.93 20130605          MARTIN    danrtest                        
+2013L 6CP64SA-----SB28---CB  12GLCBDA201312001   53First UI test for DANR                        -9548.85 20130605          TIBOR     danrtest                        
+2013L 6CP64SA-----SB28---CB  12GLCBDA201312001   54First UI test for DANR                          -39.65 20130605          ZWAHLEN   danrtest                        
+2013L 6CP64SA-----SUB6---CB  12GLCBDA201312001   55First UI test for DANR                        -2868.48 20130605          ----------danrtest                        
+2013L 6CP64SA-----SUB6---CB  12GLCBDA201312001   56First UI test for DANR                        -6379.00 20130605          MARTIN    danrtest                        
+2013L 6CP64SA-----SUB6---CB  12GLCBDA201312001   57First UI test for DANR                       -11518.22 20130605          TIBOR     danrtest                        
+2013L 6CP64SA-----SUB6---CB  12GLCBDA201312001   58First UI test for DANR                         -419.57 20130605          ZWAHLEN   danrtest                        
+2013L 6DD44SA-----SB28---CB  12GLCBDA201312001   59First UI test for DANR                         1301.06 20130605          ----------danrtest                        
+2013L 6DD44SA-----SB28---CB  12GLCBDA201312001   60First UI test for DANR                          875.02 20130605          CAYWOOD   danrtest                        
+2013L 6DD44SA-----SB28---CB  12GLCBDA201312001   61First UI test for DANR                          893.40 20130605          DRISKILL  danrtest                        
+2013L 6DD44SA-----SB28---CB  12GLCBDA201312001   62First UI test for DANR                         1752.52 20130605          GUNDERSON danrtest                        
+2013L 6DD44SA-----SB28---CB  12GLCBDA201312001   63First UI test for DANR                         3136.06 20130605          HAMILTON  danrtest                        
+2013L 6DD44SA-----SB28---CB  12GLCBDA201312001   64First UI test for DANR                         1837.57 20130605          MACIEL    danrtest                        
+2013L 6DD44SA-----SB28---CB  12GLCBDA201312001   65First UI test for DANR                         1470.91 20130605          MAGALLON  danrtest                        
+2013L 6DD44SA-----SB28---CB  12GLCBDA201312001   66First UI test for DANR                          975.89 20130605          MARTINEZS danrtest                        
+2013L 6DD44SA-----SB28---CB  12GLCBDA201312001   67First UI test for DANR                         1850.80 20130605          MIRAMONTESdanrtest                        
+2013L 6DD44SA-----SB28---CB  12GLCBDA201312001   68First UI test for DANR                         1578.04 20130605          QUINTANA  danrtest                        
+2013L 6DD44SA-----SB28---CB  12GLCBDA201312001   69First UI test for DANR                         1163.46 20130605          SILVAA    danrtest                        
+2013L 6DD44SA-----SB28---CB  12GLCBDA201312001   70First UI test for DANR                         -171.02 20130605          WANGSAM   danrtest                        
+2013L 6DD44SA-----SUB6---CB  12GLCBDA201312001   71First UI test for DANR                       -12341.02 20130605          ----------danrtest                        
+2013L 6DD44SA-----SUB6---CB  12GLCBDA201312001   72First UI test for DANR                        -6820.40 20130605          CAYWOOD   danrtest                        
+2013L 6DD44SA-----SUB6---CB  12GLCBDA201312001   73First UI test for DANR                        -5569.91 20130605          DRISKILL  danrtest                        
+2013L 6DD44SA-----SUB6---CB  12GLCBDA201312001   74First UI test for DANR                        -8906.43 20130605          GUNDERSON danrtest                        
+2013L 6DD44SA-----SUB6---CB  12GLCBDA201312001   75First UI test for DANR                       -14297.29 20130605          HAMILTON  danrtest                        
+2013L 6DD44SA-----SUB6---CB  12GLCBDA201312001   76First UI test for DANR                        -9704.87 20130605          MACIEL    danrtest                        
+2013L 6DD44SA-----SUB6---CB  12GLCBDA201312001   77First UI test for DANR                        -9651.95 20130605          MAGALLON  danrtest                        
+2013L 6DD44SA-----SUB6---CB  12GLCBDA201312001   78First UI test for DANR                        -6666.44 20130605          MARTINEZS danrtest                        
+2013L 6DD44SA-----SUB6---CB  12GLCBDA201312001   79First UI test for DANR                        -7995.25 20130605          MIRAMONTESdanrtest                        
+2013L 6DD44SA-----SUB6---CB  12GLCBDA201312001   80First UI test for DANR                          -50.43 20130605          PRESLEY   danrtest                        
+2013L 6DD44SA-----SUB6---CB  12GLCBDA201312001   81First UI test for DANR                        -7179.92 20130605          QUINTANA  danrtest                        
+2013L 6DD44SA-----SUB6---CB  12GLCBDA201312001   82First UI test for DANR                       -11523.14 20130605          SILVAA    danrtest                        
+2013L 6DD44SA-----SUB6---CB  12GLCBDA201312001   83First UI test for DANR                         -699.78 20130605          WANGSAM   danrtest                        
+2013L 6DD6203-----SB28---CB  12GLCBDA201312001   84First UI test for DANR                         -128.28 20130605          WANGSAM   danrtest                        
+2013L 6DD6203-----SUB6---CB  12GLCBDA201312001   85First UI test for DANR                         -524.91 20130605          WANGSAM   danrtest                        
+2013L 6DD62SA-----SB28---CB  12GLCBDA201312001   86First UI test for DANR                         -128.28 20130605          WANGSAM   danrtest                        
+2013L 6DD62SA-----SUB6---CB  12GLCBDA201312001   87First UI test for DANR                         -524.91 20130605          WANGSAM   danrtest                        
+2013L 6DD64SA-----SB28---CB  12GLCBDA201312001   88First UI test for DANR                         -386.48 20130605          ----------danrtest                        
+2013L 6DD64SA-----SB28---CB  12GLCBDA201312001   89First UI test for DANR                          299.48 20130605          ARREDONDOVdanrtest                        
+2013L 6DD64SA-----SB28---CB  12GLCBDA201312001   90First UI test for DANR                         -846.62 20130605          DRISKILL  danrtest                        
+2013L 6DD64SA-----SB28---CB  12GLCBDA201312001   91First UI test for DANR                          -51.55 20130605          MARTINEZS danrtest                        
+2013L 6DD64SA-----SB28---CB  12GLCBDA201312001   92First UI test for DANR                           20.00 20130605          MIRAMONTESdanrtest                        
+2013L 6DD64SA-----SB28---CB  12GLCBDA201312001   93First UI test for DANR                         -943.75 20130605          PRECIADO  danrtest                        
+2013L 6DD64SA-----SB28---CB  12GLCBDA201312001   94First UI test for DANR                          194.15 20130605          SILVAA    danrtest                        
+2013L 6DD64SA-----SUB6---CB  12GLCBDA201312001   95First UI test for DANR                        -4896.83 20130605          ----------danrtest                        
+2013L 6DD64SA-----SUB6---CB  12GLCBDA201312001   96First UI test for DANR                        -6031.74 20130605          ARREDONDOVdanrtest                        
+2013L 6DD64SA-----SUB6---CB  12GLCBDA201312001   97First UI test for DANR                        -4031.77 20130605          DRISKILL  danrtest                        
+2013L 6DD64SA-----SUB6---CB  12GLCBDA201312001   98First UI test for DANR                         -899.95 20130605          MARTINEZS danrtest                        
+2013L 6DD64SA-----SUB6---CB  12GLCBDA201312001   99First UI test for DANR                        -2285.69 20130605          MIRAMONTESdanrtest                        
+2013L 6DD64SA-----SUB6---CB  12GLCBDA201312001  100First UI test for DANR                        -9215.19 20130605          PRECIADO  danrtest                        
+2013L 6DD64SA-----SUB6---CB  12GLCBDA201312001  101First UI test for DANR                          -59.03 20130605          SALAZARS  danrtest                        
+2013L 6DD64SA-----SUB6---CB  12GLCBDA201312001  102First UI test for DANR                        -2062.13 20130605          SILVAA    danrtest                        
+2013L 6HH44SA-----SB28---CB  12GLCBDA201312001  103First UI test for DANR                          950.57 20130605          KAGLEY    danrtest                        
+2013L 6HH44SA-----SB28---CB  12GLCBDA201312001  104First UI test for DANR                         5303.94 20130605          KEIFFER   danrtest                        
+2013L 6HH44SA-----SB28---CB  12GLCBDA201312001  105First UI test for DANR                          528.32 20130605          LEWMAN    danrtest                        
+2013L 6HH44SA-----SB28---CB  12GLCBDA201312001  106First UI test for DANR                         1585.23 20130605          MCWILLIAMSdanrtest                        
+2013L 6HH44SA-----SB28---CB  12GLCBDA201312001  107First UI test for DANR                          935.64 20130605          POOR      danrtest                        
+2013L 6HH44SA-----SB28---CB  12GLCBDA201312001  108First UI test for DANR                          917.93 20130605          SHRUM     danrtest                        
+2013L 6HH44SA-----SB28---CB  12GLCBDA201312001  109First UI test for DANR                          773.59 20130605          SMITHJL   danrtest                        
+2013L 6HH44SA-----SB28---CB  12GLCBDA201312001  110First UI test for DANR                         5065.33 20130605          TIMM      danrtest                        
+2013L 6HH44SA-----SB28---CB  12GLCBDA201312001  111First UI test for DANR                         1796.58 20130605          WILSEY    danrtest                        
+2013L 6HH44SA-----SUB6---CB  12GLCBDA201312001  112First UI test for DANR                         -253.37 20130605          ----------danrtest                        
+2013L 6HH44SA-----SUB6---CB  12GLCBDA201312001  113First UI test for DANR                       -11111.18 20130605          KAGLEY    danrtest                        
+2013L 6HH44SA-----SUB6---CB  12GLCBDA201312001  114First UI test for DANR                       -13238.13 20130605          KEIFFER   danrtest                        
+2013L 6HH44SA-----SUB6---CB  12GLCBDA201312001  115First UI test for DANR                        -4778.04 20130605          LEWMAN    danrtest                        
+2013L 6HH44SA-----SUB6---CB  12GLCBDA201312001  116First UI test for DANR                        -8630.44 20130605          MCWILLIAMSdanrtest                        
+2013L 6HH44SA-----SUB6---CB  12GLCBDA201312001  117First UI test for DANR                        -8884.62 20130605          POOR      danrtest                        
+2013L 6HH44SA-----SUB6---CB  12GLCBDA201312001  118First UI test for DANR                        -8248.74 20130605          SHRUM     danrtest                        
+2013L 6HH44SA-----SUB6---CB  12GLCBDA201312001  119First UI test for DANR                        -8274.56 20130605          SMITHJL   danrtest                        
+2013L 6HH44SA-----SUB6---CB  12GLCBDA201312001  120First UI test for DANR                        -9655.47 20130605          TIMM      danrtest                        
+2013L 6HH44SA-----SUB6---CB  12GLCBDA201312001  121First UI test for DANR                       -15172.56 20130605          WILSEY    danrtest                        
+2013L 6HH6202PPEIPSB28---CB  12GLCBDA201312001  122First UI test for DANR                          291.79 20130605          TIMM      danrtest                        
+2013L 6HH6202PPEIPSUB6---CB  12GLCBDA201312001  123First UI test for DANR                        -5029.75 20130605          TIMM      danrtest                        
+2013L 6HH64SA-----SB28---CB  12GLCBDA201312001  124First UI test for DANR                         -241.44 20130605          GREENJ    danrtest                        
+2013L 6HH64SA-----SB28---CB  12GLCBDA201312001  125First UI test for DANR                          438.40 20130605          KEIFFER   danrtest                        
+2013L 6HH64SA-----SB28---CB  12GLCBDA201312001  126First UI test for DANR                         -341.72 20130605          LEWMAN    danrtest                        
+2013L 6HH64SA-----SB28---CB  12GLCBDA201312001  127First UI test for DANR                           16.83 20130605          MARSTON   danrtest                        
+2013L 6HH64SA-----SB28---CB  12GLCBDA201312001  128First UI test for DANR                           10.83 20130605          MCWILLIAMSdanrtest                        
+2013L 6HH64SA-----SB28---CB  12GLCBDA201312001  129First UI test for DANR                         -232.57 20130605          POOR      danrtest                        
+2013L 6HH64SA-----SB28---CB  12GLCBDA201312001  130First UI test for DANR                         -380.40 20130605          ROBERTSONBdanrtest                        
+2013L 6HH64SA-----SB28---CB  12GLCBDA201312001  131First UI test for DANR                         1292.45 20130605          TIMM      danrtest                        
+2013L 6HH64SA-----SB28---CB  12GLCBDA201312001  132First UI test for DANR                         -213.38 20130605          WILSEY    danrtest                        
+2013L 6HH64SA-----SUB6---CB  12GLCBDA201312001  133First UI test for DANR                        -6039.87 20130605          GREENJ    danrtest                        
+2013L 6HH64SA-----SUB6---CB  12GLCBDA201312001  134First UI test for DANR                        -1506.84 20130605          KEIFFER   danrtest                        
+2013L 6HH64SA-----SUB6---CB  12GLCBDA201312001  135First UI test for DANR                        -3492.28 20130605          LEWMAN    danrtest                        
+2013L 6HH64SA-----SUB6---CB  12GLCBDA201312001  136First UI test for DANR                         -239.75 20130605          MARSTON   danrtest                        
+2013L 6HH64SA-----SUB6---CB  12GLCBDA201312001  137First UI test for DANR                        -1155.29 20130605          MCWILLIAMSdanrtest                        
+2013L 6HH64SA-----SUB6---CB  12GLCBDA201312001  138First UI test for DANR                        -1800.16 20130605          POOR      danrtest                        
+2013L 6HH64SA-----SUB6---CB  12GLCBDA201312001  139First UI test for DANR                        -6907.83 20130605          ROBERTSONBdanrtest                        
+2013L 6HH64SA-----SUB6---CB  12GLCBDA201312001  140First UI test for DANR                        -3414.78 20130605          TIMM      danrtest                        
+2013L 6HH64SA-----SUB6---CB  12GLCBDA201312001  141First UI test for DANR                        -3010.21 20130605          WILSEY    danrtest                        
+2013L 6HL64SA-----SB28---CB  12GLCBDA201312001  142First UI test for DANR                           28.04 20130605          MANNING   danrtest                        
+2013L 6HL64SA-----SUB6---CB  12GLCBDA201312001  143First UI test for DANR                        -1244.36 20130605          MANNING   danrtest                        
+2013L 6II44SA-----SB28---CB  12GLCBDA201312001  144First UI test for DANR                         1408.99 20130605          CULP      danrtest                        
+2013L 6II44SA-----SB28---CB  12GLCBDA201312001  145First UI test for DANR                          605.77 20130605          DONE      danrtest                        
+2013L 6II44SA-----SB28---CB  12GLCBDA201312001  146First UI test for DANR                         3783.68 20130605          KIRBY     danrtest                        
+2013L 6II44SA-----SB28---CB  12GLCBDA201312001  147First UI test for DANR                          923.13 20130605          MCCULLEY  danrtest                        
+2013L 6II44SA-----SB28---CB  12GLCBDA201312001  148First UI test for DANR                          985.24 20130605          NICHOLSON danrtest                        
+2013L 6II44SA-----SB28---CB  12GLCBDA201312001  149First UI test for DANR                         1300.67 20130605          SALAZAR   danrtest                        
+2013L 6II44SA-----SB28---CB  12GLCBDA201312001  150First UI test for DANR                          985.66 20130605          TAPPAN    danrtest                        
+2013L 6II44SA-----SUB6---CB  12GLCBDA201312001  151First UI test for DANR                        -9752.32 20130605          CULP      danrtest                        
+2013L 6II44SA-----SUB6---CB  12GLCBDA201312001  152First UI test for DANR                        -3810.83 20130605          DONE      danrtest                        
+2013L 6II44SA-----SUB6---CB  12GLCBDA201312001  153First UI test for DANR                       -12738.39 20130605          KIRBY     danrtest                        
+2013L 6II44SA-----SUB6---CB  12GLCBDA201312001  154First UI test for DANR                        -4095.60 20130605          MCCULLEY  danrtest                        
+2013L 6II44SA-----SUB6---CB  12GLCBDA201312001  155First UI test for DANR                        -9269.46 20130605          NICHOLSON danrtest                        
+2013L 6II44SA-----SUB6---CB  12GLCBDA201312001  156First UI test for DANR                        -4093.52 20130605          SALAZAR   danrtest                        
+2013L 6II44SA-----SUB6---CB  12GLCBDA201312001  157First UI test for DANR                        -5813.81 20130605          TAPPAN    danrtest                        
+2013L 6II6202PPGFSSB28---CB  12GLCBDA201312001  158First UI test for DANR                         -674.52 20130605          WILSON    danrtest                        
+2013L 6II6202PPGFSSUB6---CB  12GLCBDA201312001  159First UI test for DANR                        -2759.96 20130605          WILSON    danrtest                        
+2013L 6II62SA-----SB28---CB  12GLCBDA201312001  160First UI test for DANR                         -843.12 20130605          WILSON    danrtest                        
+2013L 6II62SA-----SUB6---CB  12GLCBDA201312001  161First UI test for DANR                        -2494.96 20130605          WILSON    danrtest                        
+2013L 6II64SA-----SB28---CB  12GLCBDA201312001  162First UI test for DANR                           54.49 20130605          DONE      danrtest                        
+2013L 6II64SA-----SB28---CB  12GLCBDA201312001  163First UI test for DANR                           36.44 20130605          KIRBY     danrtest                        
+2013L 6II64SA-----SB28---CB  12GLCBDA201312001  164First UI test for DANR                          235.63 20130605          MCCULLEY  danrtest                        
+2013L 6II64SA-----SB28---CB  12GLCBDA201312001  165First UI test for DANR                          163.78 20130605          SALAZAR   danrtest                        
+2013L 6II64SA-----SB28---CB  12GLCBDA201312001  166First UI test for DANR                           16.83 20130605          TAPPAN    danrtest                        
+2013L 6II64SA-----SUB6---CB  12GLCBDA201312001  167First UI test for DANR                        -2812.05 20130605          DONE      danrtest                        
+2013L 6II64SA-----SUB6---CB  12GLCBDA201312001  168First UI test for DANR                         -918.60 20130605          KIRBY     danrtest                        
+2013L 6II64SA-----SUB6---CB  12GLCBDA201312001  169First UI test for DANR                        -8783.45 20130605          MCCULLEY  danrtest                        
+2013L 6II64SA-----SUB6---CB  12GLCBDA201312001  170First UI test for DANR                         -663.48 20130605          SALAZAR   danrtest                        
+2013L 6II64SA-----SUB6---CB  12GLCBDA201312001  171First UI test for DANR                        -6217.19 20130605          TAPPAN    danrtest                        
+2013L 6KA44SA-----SB28---CB  12GLCBDA201312001  172First UI test for DANR                         1653.58 20130605          ----------danrtest                        
+2013L 6KA44SA-----SB28---CB  12GLCBDA201312001  173First UI test for DANR                         1442.38 20130605          BYRUM     danrtest                        
+2013L 6KA44SA-----SB28---CB  12GLCBDA201312001  174First UI test for DANR                          455.71 20130605          CHRISTIANSdanrtest                        
+2013L 6KA44SA-----SB28---CB  12GLCBDA201312001  175First UI test for DANR                         1529.55 20130605          CONVILLE  danrtest                        
+2013L 6KA44SA-----SB28---CB  12GLCBDA201312001  176First UI test for DANR                         2223.95 20130605          DAHLBERG  danrtest                        
+2013L 6KA44SA-----SB28---CB  12GLCBDA201312001  177First UI test for DANR                          389.72 20130605          HOLMES    danrtest                        
+2013L 6KA44SA-----SB28---CB  12GLCBDA201312001  178First UI test for DANR                          584.55 20130605          KLYNN     danrtest                        
+2013L 6KA44SA-----SB28---CB  12GLCBDA201312001  179First UI test for DANR                         2148.06 20130605          NAKAIMA   danrtest                        
+2013L 6KA44SA-----SB28---CB  12GLCBDA201312001  180First UI test for DANR                         1887.90 20130605          NIX       danrtest                        
+2013L 6KA44SA-----SB28---CB  12GLCBDA201312001  181First UI test for DANR                          433.57 20130605          RJOHNSON  danrtest                        
+2013L 6KA44SA-----SUB6---CB  12GLCBDA201312001  182First UI test for DANR                       -11107.60 20130605          BYRUM     danrtest                        
+2013L 6KA44SA-----SUB6---CB  12GLCBDA201312001  183First UI test for DANR                        -3711.22 20130605          CHRISTIANSdanrtest                        
+2013L 6KA44SA-----SUB6---CB  12GLCBDA201312001  184First UI test for DANR                        -7567.98 20130605          CONVILLE  danrtest                        
+2013L 6KA44SA-----SUB6---CB  12GLCBDA201312001  185First UI test for DANR                        -7846.21 20130605          DAHLBERG  danrtest                        
+2013L 6KA44SA-----SUB6---CB  12GLCBDA201312001  186First UI test for DANR                        -2409.75 20130605          HOLMES    danrtest                        
+2013L 6KA44SA-----SUB6---CB  12GLCBDA201312001  187First UI test for DANR                        -3315.20 20130605          NAKAIMA   danrtest                        
+2013L 6KA44SA-----SUB6---CB  12GLCBDA201312001  188First UI test for DANR                       -12594.50 20130605          NIX       danrtest                        
+2013L 6KA44SA-----SUB6---CB  12GLCBDA201312001  189First UI test for DANR                        -4511.95 20130605          RJOHNSON  danrtest                        
+2013L 6KA62SA-----SB28---CB  12GLCBDA201312001  190First UI test for DANR                          109.21 20130605          ----------danrtest                        
+2013L 6KA62SA-----SB28---CB  12GLCBDA201312001  191First UI test for DANR                          233.81 20130605          KLYNN     danrtest                        
+2013L 6KK44SA-----SB28---CB  12GLCBDA201312001  192First UI test for DANR                          201.56 20130605          ----------danrtest                        
+2013L 6KK44SA-----SB28---CB  12GLCBDA201312001  193First UI test for DANR                         1818.55 20130605          ALDANA    danrtest                        
+2013L 6KK44SA-----SB28---CB  12GLCBDA201312001  194First UI test for DANR                         2944.61 20130605          BOLDWYN   danrtest                        
+2013L 6KK44SA-----SB28---CB  12GLCBDA201312001  195First UI test for DANR                         1332.81 20130605          CARY      danrtest                        
+2013L 6KK44SA-----SB28---CB  12GLCBDA201312001  196First UI test for DANR                           13.57 20130605          CHRISTIANSdanrtest                        
+2013L 6KK44SA-----SB28---CB  12GLCBDA201312001  197First UI test for DANR                         1616.88 20130605          CISNEROSG danrtest                        
+2013L 6KK44SA-----SB28---CB  12GLCBDA201312001  198First UI test for DANR                         2771.49 20130605          CISNEROSR danrtest                        
+2013L 6KK44SA-----SB28---CB  12GLCBDA201312001  199First UI test for DANR                         1200.08 20130605          DAHLBERG  danrtest                        
+2013L 6KK44SA-----SB28---CB  12GLCBDA201312001  200First UI test for DANR                         1605.47 20130605          DURAN     danrtest                        
+2013L 6KK44SA-----SB28---CB  12GLCBDA201312001  201First UI test for DANR                         2958.12 20130605          ENNS      danrtest                        
+2013L 6KK44SA-----SB28---CB  12GLCBDA201312001  202First UI test for DANR                         2746.02 20130605          GONZALESR danrtest                        
+2013L 6KK44SA-----SB28---CB  12GLCBDA201312001  203First UI test for DANR                         1235.95 20130605          GONZALEZ  danrtest                        
+2013L 6KK44SA-----SB28---CB  12GLCBDA201312001  204First UI test for DANR                         1132.83 20130605          HEYANO    danrtest                        
+2013L 6KK44SA-----SB28---CB  12GLCBDA201312001  205First UI test for DANR                          565.13 20130605          HOLMES    danrtest                        
+2013L 6KK44SA-----SB28---CB  12GLCBDA201312001  206First UI test for DANR                         2026.78 20130605          MULLIGAN  danrtest                        
+2013L 6KK44SA-----SB28---CB  12GLCBDA201312001  207First UI test for DANR                         4035.83 20130605          PATTIGAN  danrtest                        
+2013L 6KK44SA-----SB28---CB  12GLCBDA201312001  208First UI test for DANR                          702.69 20130605          RANGEL    danrtest                        
+2013L 6KK44SA-----SB28---CB  12GLCBDA201312001  209First UI test for DANR                         1666.10 20130605          SOARES    danrtest                        
+2013L 6KK44SA-----SB28---CB  12GLCBDA201312001  210First UI test for DANR                         2150.65 20130605          VANDERSTAYdanrtest                        
+2013L 6KK44SA-----SUB6---CB  12GLCBDA201312001  211First UI test for DANR                        -4540.60 20130605          ----------danrtest                        
+2013L 6KK44SA-----SUB6---CB  12GLCBDA201312001  212First UI test for DANR                       -12311.54 20130605          ALDANA    danrtest                        
+2013L 6KK44SA-----SUB6---CB  12GLCBDA201312001  213First UI test for DANR                       -17788.68 20130605          BOLDWYN   danrtest                        
+2013L 6KK44SA-----SUB6---CB  12GLCBDA201312001  214First UI test for DANR                        -8051.67 20130605          CARY      danrtest                        
+2013L 6KK44SA-----SUB6---CB  12GLCBDA201312001  215First UI test for DANR                        -3197.65 20130605          CHRISTIANSdanrtest                        
+2013L 6KK44SA-----SUB6---CB  12GLCBDA201312001  216First UI test for DANR                        -8997.42 20130605          CISNEROSG danrtest                        
+2013L 6KK44SA-----SUB6---CB  12GLCBDA201312001  217First UI test for DANR                       -12195.99 20130605          CISNEROSR danrtest                        
+2013L 6KK44SA-----SUB6---CB  12GLCBDA201312001  218First UI test for DANR                        -3891.83 20130605          DAHLBERG  danrtest                        
+2013L 6KK44SA-----SUB6---CB  12GLCBDA201312001  219First UI test for DANR                        -6231.86 20130605          DURAN     danrtest                        
+2013L 6KK44SA-----SUB6---CB  12GLCBDA201312001  220First UI test for DANR                       -14403.86 20130605          ENNS      danrtest                        
+2013L 6KK44SA-----SUB6---CB  12GLCBDA201312001  221First UI test for DANR                       -12345.19 20130605          GONZALESR danrtest                        
+2013L 6KK44SA-----SUB6---CB  12GLCBDA201312001  222First UI test for DANR                        -9225.59 20130605          GONZALEZ  danrtest                        
+2013L 6KK44SA-----SUB6---CB  12GLCBDA201312001  223First UI test for DANR                       -11722.03 20130605          HEYANO    danrtest                        
+2013L 6KK44SA-----SUB6---CB  12GLCBDA201312001  224First UI test for DANR                        -4819.45 20130605          HOLMES    danrtest                        
+2013L 6KK44SA-----SUB6---CB  12GLCBDA201312001  225First UI test for DANR                       -15298.80 20130605          MULLIGAN  danrtest                        
+2013L 6KK44SA-----SUB6---CB  12GLCBDA201312001  226First UI test for DANR                       -11543.18 20130605          PATTIGAN  danrtest                        
+2013L 6KK44SA-----SUB6---CB  12GLCBDA201312001  227First UI test for DANR                        -8237.86 20130605          RANGEL    danrtest                        
+2013L 6KK44SA-----SUB6---CB  12GLCBDA201312001  228First UI test for DANR                       -15422.47 20130605          SOARES    danrtest                        
+2013L 6KK44SA-----SUB6---CB  12GLCBDA201312001  229First UI test for DANR                       -10876.45 20130605          VANDERSTAYdanrtest                        
+2013L 6KK6204PPGFSSB28---CB  12GLCBDA201312001  230First UI test for DANR                         -403.45 20130605          DAHLBERG  danrtest                        
+2013L 6KK6204PPGFSSUB6---CB  12GLCBDA201312001  231First UI test for DANR                        -2320.33 20130605          DAHLBERG  danrtest                        
+2013L 6KK6204PPSBESB28---CB  12GLCBDA201312001  232First UI test for DANR                         -403.45 20130605          DAHLBERG  danrtest                        
+2013L 6KK6204PPSBESUB6---CB  12GLCBDA201312001  233First UI test for DANR                        -2320.33 20130605          DAHLBERG  danrtest                        
+2013L 6KK62SA-----SB28---CB  12GLCBDA201312001  234First UI test for DANR                          405.83 20130605          DAHLBERG  danrtest                        
+2013L 6KK62SA-----SUB6---CB  12GLCBDA201312001  235First UI test for DANR                        -1548.62 20130605          DAHLBERG  danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001  236First UI test for DANR                          157.08 20130605          ----------danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001  237First UI test for DANR                          511.54 20130605          ALDANAI   danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001  238First UI test for DANR                            4.69 20130605          CARY      danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001  239First UI test for DANR                          241.48 20130605          DURAN     danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001  240First UI test for DANR                         -449.33 20130605          GARCIAS   danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001  241First UI test for DANR                           98.88 20130605          HOLMES    danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001  242First UI test for DANR                          670.49 20130605          KULOW     danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001  243First UI test for DANR                          165.78 20130605          MARTINRC  danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001  244First UI test for DANR                         -621.01 20130605          PADILLA   danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001  245First UI test for DANR                         2601.34 20130605          RAY       danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001  246First UI test for DANR                         -259.94 20130605          ROBLESM   danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001  247First UI test for DANR                          -56.03 20130605          SOARES    danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001  248First UI test for DANR                         -183.12 20130605          TRUJILLOP danrtest                        
+2013L 6KK64SA-----SB28---CB  12GLCBDA201312001  249First UI test for DANR                         2256.51 20130605          WEST      danrtest                        
+2013L 6KK64SA-----SUB6---CB  12GLCBDA201312001  250First UI test for DANR                         -964.16 20130605          ----------danrtest                        
+2013L 6KK64SA-----SUB6---CB  12GLCBDA201312001  251First UI test for DANR                        -5018.69 20130605          ALDANAI   danrtest                        
+2013L 6KK64SA-----SUB6---CB  12GLCBDA201312001  252First UI test for DANR                        -3480.26 20130605          CARY      danrtest                        
+2013L 6KK64SA-----SUB6---CB  12GLCBDA201312001  253First UI test for DANR                        -4704.24 20130605          DURAN     danrtest                        
+2013L 6KK64SA-----SUB6---CB  12GLCBDA201312001  254First UI test for DANR                         -212.08 20130605          GARCIAS   danrtest                        
+2013L 6KK64SA-----SUB6---CB  12GLCBDA201312001  255First UI test for DANR                        -1725.11 20130605          HOLMES    danrtest                        
+2013L 6KK64SA-----SUB6---CB  12GLCBDA201312001  256First UI test for DANR                        -7987.53 20130605          KULOW     danrtest                        
+2013L 6KK64SA-----SUB6---CB  12GLCBDA201312001  257First UI test for DANR                        -9533.34 20130605          PADILLA   danrtest                        
+2013L 6KK64SA-----SUB6---CB  12GLCBDA201312001  258First UI test for DANR                        -3947.21 20130605          PADILLAC  danrtest                        
+2013L 6KK64SA-----SUB6---CB  12GLCBDA201312001  259First UI test for DANR                        -9733.17 20130605          RAY       danrtest                        
+2013L 6KK64SA-----SUB6---CB  12GLCBDA201312001  260First UI test for DANR                        -6461.16 20130605          ROBLESM   danrtest                        
+2013L 6KK64SA-----SUB6---CB  12GLCBDA201312001  261First UI test for DANR                        -1245.21 20130605          SOARES    danrtest                        
+2013L 6KK64SA-----SUB6---CB  12GLCBDA201312001  262First UI test for DANR                         -558.83 20130605          TRUJILLOP danrtest                        
+2013L 6KK64SA-----SUB6---CB  12GLCBDA201312001  263First UI test for DANR                       -11301.65 20130605          WEST      danrtest                        
+2013L 6LL44SA-----SB28---CB  12GLCBDA201312001  264First UI test for DANR                           81.41 20130605          ----------danrtest                        
+2013L 6LL44SA-----SB28---CB  12GLCBDA201312001  265First UI test for DANR                          734.81 20130605          CLEEK     danrtest                        
+2013L 6LL44SA-----SB28---CB  12GLCBDA201312001  266First UI test for DANR                          721.95 20130605          HERNANDEZPdanrtest                        
+2013L 6LL44SA-----SB28---CB  12GLCBDA201312001  267First UI test for DANR                          988.35 20130605          HUNT      danrtest                        
+2013L 6LL44SA-----SB28---CB  12GLCBDA201312001  268First UI test for DANR                         1673.08 20130605          KAPAUN    danrtest                        
+2013L 6LL44SA-----SB28---CB  12GLCBDA201312001  269First UI test for DANR                         1505.08 20130605          PEREZ     danrtest                        
+2013L 6LL44SA-----SB28---CB  12GLCBDA201312001  270First UI test for DANR                         1066.96 20130605          SANCHEZ   danrtest                        
+2013L 6LL44SA-----SB28---CB  12GLCBDA201312001  271First UI test for DANR                         1345.45 20130605          SCHMIDT   danrtest                        
+2013L 6LL44SA-----SB28---CB  12GLCBDA201312001  272First UI test for DANR                         2197.33 20130605          TRUJILLO  danrtest                        
+2013L 6LL44SA-----SUB6---CB  12GLCBDA201312001  273First UI test for DANR                           -4.91 20130605          ----------danrtest                        
+2013L 6LL44SA-----SUB6---CB  12GLCBDA201312001  274First UI test for DANR                        -8590.37 20130605          CLEEK     danrtest                        
+2013L 6LL44SA-----SUB6---CB  12GLCBDA201312001  275First UI test for DANR                        -5672.80 20130605          HERNANDEZPdanrtest                        
+2013L 6LL44SA-----SUB6---CB  12GLCBDA201312001  276First UI test for DANR                        -4748.10 20130605          HUNT      danrtest                        
+2013L 6LL44SA-----SUB6---CB  12GLCBDA201312001  277First UI test for DANR                        -9045.86 20130605          KAPAUN    danrtest                        
+2013L 6LL44SA-----SUB6---CB  12GLCBDA201312001  278First UI test for DANR                       -11475.71 20130605          PEREZ     danrtest                        
+2013L 6LL44SA-----SUB6---CB  12GLCBDA201312001  279First UI test for DANR                        -5256.44 20130605          SANCHEZ   danrtest                        
+2013L 6LL44SA-----SUB6---CB  12GLCBDA201312001  280First UI test for DANR                       -11219.10 20130605          SCHMIDT   danrtest                        
+2013L 6LL44SA-----SUB6---CB  12GLCBDA201312001  281First UI test for DANR                        -9934.40 20130605          TRUJILLO  danrtest                        
+2013L 6LL64SA-----SB28---CB  12GLCBDA201312001  282First UI test for DANR                          244.94 20130605          CLEEK     danrtest                        
+2013L 6LL64SA-----SB28---CB  12GLCBDA201312001  283First UI test for DANR                         -191.06 20130605          HERNANDEZPdanrtest                        
+2013L 6LL64SA-----SB28---CB  12GLCBDA201312001  284First UI test for DANR                          355.51 20130605          HUNT      danrtest                        
+2013L 6LL64SA-----SB28---CB  12GLCBDA201312001  285First UI test for DANR                           -7.68 20130605          SANCHEZ   danrtest                        
+2013L 6LL64SA-----SB28---CB  12GLCBDA201312001  286First UI test for DANR                         -245.26 20130605          SCHMIDT   danrtest                        
+2013L 6LL64SA-----SB28---CB  12GLCBDA201312001  287First UI test for DANR                        -1275.35 20130605          SEYMORED  danrtest                        
+2013L 6LL64SA-----SB28---CB  12GLCBDA201312001  288First UI test for DANR                          100.90 20130605          TRUJILLO  danrtest                        
+2013L 6LL64SA-----SUB6---CB  12GLCBDA201312001  289First UI test for DANR                           -4.91 20130605          ----------danrtest                        
+2013L 6LL64SA-----SUB6---CB  12GLCBDA201312001  290First UI test for DANR                        -1972.69 20130605          CLEEK     danrtest                        
+2013L 6LL64SA-----SUB6---CB  12GLCBDA201312001  291First UI test for DANR                        -3940.57 20130605          HERNANDEZPdanrtest                        
+2013L 6LL64SA-----SUB6---CB  12GLCBDA201312001  292First UI test for DANR                        -3422.23 20130605          HUNT      danrtest                        
+2013L 6LL64SA-----SUB6---CB  12GLCBDA201312001  293First UI test for DANR                        -3948.60 20130605          SANCHEZ   danrtest                        
+2013L 6LL64SA-----SUB6---CB  12GLCBDA201312001  294First UI test for DANR                        -2015.74 20130605          SCHMIDT   danrtest                        
+2013L 6LL64SA-----SUB6---CB  12GLCBDA201312001  295First UI test for DANR                        -9959.12 20130605          SEYMORED  danrtest                        
+2013L 6LL64SA-----SUB6---CB  12GLCBDA201312001  296First UI test for DANR                        -1783.79 20130605          TRUJILLO  danrtest                        
+2013L 6LLSRA2-----SB28---CB  12GLCBDA201312001  297First UI test for DANR                         -191.34 20130605          ----------danrtest                        
+2013L 6LLSRA2-----SUB6---CB  12GLCBDA201312001  298First UI test for DANR                        -9808.92 20130605          ----------danrtest                        
+2013L 6SC44SA-----SB28---CB  12GLCBDA201312001  299First UI test for DANR                          333.38 20130605          ----------danrtest                        
+2013L 6SC44SA-----SB28---CB  12GLCBDA201312001  300First UI test for DANR                         1396.99 20130605          BURNHAM   danrtest                        
+2013L 6SC44SA-----SB28---CB  12GLCBDA201312001  301First UI test for DANR                          305.65 20130605          DRISKILL  danrtest                        
+2013L 6SC44SA-----SB28---CB  12GLCBDA201312001  302First UI test for DANR                          913.06 20130605          HERNANDEZVdanrtest                        
+2013L 6SC44SA-----SB28---CB  12GLCBDA201312001  303First UI test for DANR                         2316.91 20130605          NIEBLAS   danrtest                        
+2013L 6SC44SA-----SB28---CB  12GLCBDA201312001  304First UI test for DANR                         1177.78 20130605          PALMER    danrtest                        
+2013L 6SC44SA-----SB28---CB  12GLCBDA201312001  305First UI test for DANR                         2598.76 20130605          WATKINSJOAdanrtest                        
+2013L 6SC44SA-----SB28---CB  12GLCBDA201312001  306First UI test for DANR                         1873.13 20130605          WETOVICK  danrtest                        
+2013L 6SC44SA-----SUB6---CB  12GLCBDA201312001  307First UI test for DANR                        -1456.63 20130605          ----------danrtest                        
+2013L 6SC44SA-----SUB6---CB  12GLCBDA201312001  308First UI test for DANR                       -10921.84 20130605          BURNHAM   danrtest                        
+2013L 6SC44SA-----SUB6---CB  12GLCBDA201312001  309First UI test for DANR                        -1905.52 20130605          DRISKILL  danrtest                        
+2013L 6SC44SA-----SUB6---CB  12GLCBDA201312001  310First UI test for DANR                        -5204.69 20130605          HERNANDEZVdanrtest                        
+2013L 6SC44SA-----SUB6---CB  12GLCBDA201312001  311First UI test for DANR                       -11552.81 20130605          NIEBLAS   danrtest                        
+2013L 6SC44SA-----SUB6---CB  12GLCBDA201312001  312First UI test for DANR                        -9870.29 20130605          PALMER    danrtest                        
+2013L 6SC44SA-----SUB6---CB  12GLCBDA201312001  313First UI test for DANR                       -11654.56 20130605          WATKINSJOAdanrtest                        
+2013L 6SC44SA-----SUB6---CB  12GLCBDA201312001  314First UI test for DANR                       -15113.40 20130605          WETOVICK  danrtest                        
+2013L 6SC6203-----SB28---CB  12GLCBDA201312001  315First UI test for DANR                          -22.80 20130605          ----------danrtest                        
+2013L 6SC6203-----SUB6---CB  12GLCBDA201312001  316First UI test for DANR                         -121.70 20130605          ----------danrtest                        
+2013L 6SC6203PPSNESB28---CB  12GLCBDA201312001  317First UI test for DANR                         -395.17 20130605          ----------danrtest                        
+2013L 6SC6203PPSNESUB6---CB  12GLCBDA201312001  318First UI test for DANR                        -3076.14 20130605          ----------danrtest                        
+2013L 6SC62DH-----SB28---CB  12GLCBDA201312001  319First UI test for DANR                         -267.19 20130605          ----------danrtest                        
+2013L 6SC62DH-----SUB6---CB  12GLCBDA201312001  320First UI test for DANR                        -4977.28 20130605          ----------danrtest                        
+2013L 6SC64SA-----SB28---CB  12GLCBDA201312001  321First UI test for DANR                         -274.60 20130605          DRISKILL  danrtest                        
+2013L 6SC64SA-----SB28---CB  12GLCBDA201312001  322First UI test for DANR                          -93.50 20130605          HERNANDEZVdanrtest                        
+2013L 6SC64SA-----SB28---CB  12GLCBDA201312001  323First UI test for DANR                        -1184.60 20130605          MARTINEZC danrtest                        
+2013L 6SC64SA-----SB28---CB  12GLCBDA201312001  324First UI test for DANR                           26.35 20130605          NIEBLAS   danrtest                        
+2013L 6SC64SA-----SB28---CB  12GLCBDA201312001  325First UI test for DANR                           71.81 20130605          WATKINSJOAdanrtest                        
+2013L 6SC64SA-----SUB6---CB  12GLCBDA201312001  326First UI test for DANR                        -1307.61 20130605          DRISKILL  danrtest                        
+2013L 6SC64SA-----SUB6---CB  12GLCBDA201312001  327First UI test for DANR                        -3985.05 20130605          HERNANDEZVdanrtest                        
+2013L 6SC64SA-----SUB6---CB  12GLCBDA201312001  328First UI test for DANR                        -9826.24 20130605          MARTINEZC danrtest                        
+2013L 6SC64SA-----SUB6---CB  12GLCBDA201312001  329First UI test for DANR                        -2237.68 20130605          NIEBLAS   danrtest                        
+2013L 6SC64SA-----SUB6---CB  12GLCBDA201312001  330First UI test for DANR                        -1976.25 20130605          WATKINSJOAdanrtest                        
+2013L 6SF44SA-----SB28---CB  12GLCBDA201312001  331First UI test for DANR                         2067.65 20130605          BEATON    danrtest                        
+2013L 6SF44SA-----SB28---CB  12GLCBDA201312001  332First UI test for DANR                         1158.07 20130605          CHILDERS  danrtest                        
+2013L 6SF44SA-----SB28---CB  12GLCBDA201312001  333First UI test for DANR                         1329.81 20130605          FEDDERSEN danrtest                        
+2013L 6SF44SA-----SB28---CB  12GLCBDA201312001  334First UI test for DANR                         2047.58 20130605          FLAVELL   danrtest                        
+2013L 6SF44SA-----SB28---CB  12GLCBDA201312001  335First UI test for DANR                          241.84 20130605          MECHAM    danrtest                        
+2013L 6SF44SA-----SB28---CB  12GLCBDA201312001  336First UI test for DANR                         1332.41 20130605          MENDOZA   danrtest                        
+2013L 6SF44SA-----SB28---CB  12GLCBDA201312001  337First UI test for DANR                          945.39 20130605          SCHWEITZENdanrtest                        
+2013L 6SF44SA-----SB28---CB  12GLCBDA201312001  338First UI test for DANR                          139.90 20130605          WEDGEWORTHdanrtest                        
+2013L 6SF44SA-----SB28---CB  12GLCBDA201312001  339First UI test for DANR                          875.26 20130605          WILLIAMSM danrtest                        
+2013L 6SF44SA-----SUB6---CB  12GLCBDA201312001  340First UI test for DANR                        -6665.14 20130605          BEATON    danrtest                        
+2013L 6SF44SA-----SUB6---CB  12GLCBDA201312001  341First UI test for DANR                        -8831.89 20130605          CHILDERS  danrtest                        
+2013L 6SF44SA-----SUB6---CB  12GLCBDA201312001  342First UI test for DANR                        -6038.44 20130605          FEDDERSEN danrtest                        
+2013L 6SF44SA-----SUB6---CB  12GLCBDA201312001  343First UI test for DANR                       -10138.53 20130605          FLAVELL   danrtest                        
+2013L 6SF44SA-----SUB6---CB  12GLCBDA201312001  344First UI test for DANR                        -3530.29 20130605          MECHAM    danrtest                        
+2013L 6SF44SA-----SUB6---CB  12GLCBDA201312001  345First UI test for DANR                        -7063.29 20130605          MENDOZA   danrtest                        
+2013L 6SF44SA-----SUB6---CB  12GLCBDA201312001  346First UI test for DANR                        -8912.07 20130605          SCHWEITZENdanrtest                        
+2013L 6SF44SA-----SUB6---CB  12GLCBDA201312001  347First UI test for DANR                        -1635.68 20130605          WEDGEWORTHdanrtest                        
+2013L 6SF44SA-----SUB6---CB  12GLCBDA201312001  348First UI test for DANR                        -5802.73 20130605          WILLIAMSM danrtest                        
+2013L 6SF6202-----SB28---CB  12GLCBDA201312001  349First UI test for DANR                         -422.21 20130605          JAMES     danrtest                        
+2013L 6SF6202-----SUB6---CB  12GLCBDA201312001  350First UI test for DANR                        -2516.58 20130605          JAMES     danrtest                        
+2013L 6SF6203PPSNESB28---CB  12GLCBDA201312001  351First UI test for DANR                         -205.57 20130605          JAMES     danrtest                        
+2013L 6SF6203PPSNESUB6---CB  12GLCBDA201312001  352First UI test for DANR                        -1256.28 20130605          JAMES     danrtest                        
+2013L 6SF62SA-----SB28---CB  12GLCBDA201312001  353First UI test for DANR                        -2580.58 20130605          JAMES     danrtest                        
+2013L 6SF62SA-----SUB6---CB  12GLCBDA201312001  354First UI test for DANR                        -8805.96 20130605          JAMES     danrtest                        
+2013L 6SF64SA-----SB28---CB  12GLCBDA201312001  355First UI test for DANR                         -304.83 20130605          ----------danrtest                        
+2013L 6SF64SA-----SB28---CB  12GLCBDA201312001  356First UI test for DANR                          497.30 20130605          BEATON    danrtest                        
+2013L 6SF64SA-----SB28---CB  12GLCBDA201312001  357First UI test for DANR                         -261.54 20130605          CHILDERS  danrtest                        
+2013L 6SF64SA-----SB28---CB  12GLCBDA201312001  358First UI test for DANR                          -98.22 20130605          FEDDERSEN danrtest                        
+2013L 6SF64SA-----SB28---CB  12GLCBDA201312001  359First UI test for DANR                          251.89 20130605          FLAVELL   danrtest                        
+2013L 6SF64SA-----SB28---CB  12GLCBDA201312001  360First UI test for DANR                          -60.92 20130605          MECHAM    danrtest                        
+2013L 6SF64SA-----SB28---CB  12GLCBDA201312001  361First UI test for DANR                          273.30 20130605          MENDOZA   danrtest                        
+2013L 6SF64SA-----SB28---CB  12GLCBDA201312001  362First UI test for DANR                         -678.84 20130605          WEDGEWORTHdanrtest                        
+2013L 6SF64SA-----SB28---CB  12GLCBDA201312001  363First UI test for DANR                          159.27 20130605          WILLIAMSM danrtest                        
+2013L 6SF64SA-----SUB6---CB  12GLCBDA201312001  364First UI test for DANR                        -2243.82 20130605          BEATON    danrtest                        
+2013L 6SF64SA-----SUB6---CB  12GLCBDA201312001  365First UI test for DANR                        -3574.75 20130605          CHILDERS  danrtest                        
+2013L 6SF64SA-----SUB6---CB  12GLCBDA201312001  366First UI test for DANR                        -4634.74 20130605          FEDDERSEN danrtest                        
+2013L 6SF64SA-----SUB6---CB  12GLCBDA201312001  367First UI test for DANR                        -2309.52 20130605          FLAVELL   danrtest                        
+2013L 6SF64SA-----SUB6---CB  12GLCBDA201312001  368First UI test for DANR                        -1135.30 20130605          MECHAM    danrtest                        
+2013L 6SF64SA-----SUB6---CB  12GLCBDA201312001  369First UI test for DANR                        -2793.67 20130605          MENDOZA   danrtest                        
+2013L 6SF64SA-----SUB6---CB  12GLCBDA201312001  370First UI test for DANR                        -6957.03 20130605          WEDGEWORTHdanrtest                        
+2013L 6SF64SA-----SUB6---CB  12GLCBDA201312001  371First UI test for DANR                        -2303.65 20130605          WILLIAMSM danrtest                        
+2013L 6WS44SA-----SB28---CB  12GLCBDA201312001  372First UI test for DANR                          269.09 20130605          ----------danrtest                        
+2013L 6WS44SA-----SB28---CB  12GLCBDA201312001  373First UI test for DANR                         2321.18 20130605          COLE      danrtest                        
+2013L 6WS44SA-----SB28---CB  12GLCBDA201312001  374First UI test for DANR                          392.13 20130605          GARZA     danrtest                        
+2013L 6WS44SA-----SB28---CB  12GLCBDA201312001  375First UI test for DANR                          125.33 20130605          MOTLEYK   danrtest                        
+2013L 6WS44SA-----SB28---CB  12GLCBDA201312001  376First UI test for DANR                         2350.25 20130605          SOLORIOJ  danrtest                        
+2013L 6WS44SA-----SB28---CB  12GLCBDA201312001  377First UI test for DANR                         1870.66 20130605          SOLORIOR  danrtest                        
+2013L 6WS44SA-----SB28---CB  12GLCBDA201312001  378First UI test for DANR                          979.75 20130605          VALLEJO   danrtest                        
+2013L 6WS44SA-----SB28---CB  12GLCBDA201312001  379First UI test for DANR                         1192.21 20130605          WALTRIP   danrtest                        
+2013L 6WS44SA-----SUB6---CB  12GLCBDA201312001  380First UI test for DANR                        -5560.24 20130605          ----------danrtest                        
+2013L 6WS44SA-----SUB6---CB  12GLCBDA201312001  381First UI test for DANR                        -4143.69 20130605          COLE      danrtest                        
+2013L 6WS44SA-----SUB6---CB  12GLCBDA201312001  382First UI test for DANR                        -4533.54 20130605          GARZA     danrtest                        
+2013L 6WS44SA-----SUB6---CB  12GLCBDA201312001  383First UI test for DANR                         -852.00 20130605          HUTMACHER danrtest                        
+2013L 6WS44SA-----SUB6---CB  12GLCBDA201312001  384First UI test for DANR                        -3737.24 20130605          MOTLEYK   danrtest                        
+2013L 6WS44SA-----SUB6---CB  12GLCBDA201312001  385First UI test for DANR                        -8782.59 20130605          SOLORIOJ  danrtest                        
+2013L 6WS44SA-----SUB6---CB  12GLCBDA201312001  386First UI test for DANR                        -8536.09 20130605          SOLORIOR  danrtest                        
+2013L 6WS44SA-----SUB6---CB  12GLCBDA201312001  387First UI test for DANR                       -11453.80 20130605          VALLEJO   danrtest                        
+2013L 6WS44SA-----SUB6---CB  12GLCBDA201312001  388First UI test for DANR                       -10071.93 20130605          WALTRIP   danrtest                        
+2013L 6WS6203PPGFSSUB6---CB  12GLCBDA201312001  389First UI test for DANR                         1022.40 20130605          ----------danrtest                        
+2013L 6WS6203PPGFSSUB6---CB  12GLCBDA201312001  390First UI test for DANR                        -5112.00 20130605          HUTMACHER danrtest                        
+2013L 6WS64SA-----SB28---CB  12GLCBDA201312001  391First UI test for DANR                          674.15 20130605          COLE      danrtest                        
+2013L 6WS64SA-----SB28---CB  12GLCBDA201312001  392First UI test for DANR                         -703.74 20130605          GARZA     danrtest                        
+2013L 6WS64SA-----SB28---CB  12GLCBDA201312001  393First UI test for DANR                        -2716.79 20130605          MOTLEYK   danrtest                        
+2013L 6WS64SA-----SB28---CB  12GLCBDA201312001  394First UI test for DANR                         -713.33 20130605          SOLORIOJ  danrtest                        
+2013L 6WS64SA-----SB28---CB  12GLCBDA201312001  395First UI test for DANR                          438.53 20130605          SOLORIOR  danrtest                        
+2013L 6WS64SA-----SUB6---CB  12GLCBDA201312001  396First UI test for DANR                        -1950.99 20130605          COLE      danrtest                        
+2013L 6WS64SA-----SUB6---CB  12GLCBDA201312001  397First UI test for DANR                        -3436.36 20130605          GARZA     danrtest                        
+2013L 6WS64SA-----SUB6---CB  12GLCBDA201312001  398First UI test for DANR                        -4263.09 20130605          MOTLEYK   danrtest                        
+2013L 6WS64SA-----SUB6---CB  12GLCBDA201312001  399First UI test for DANR                        -1880.97 20130605          SOLORIOJ  danrtest                        
+2013L 6WS64SA-----SUB6---CB  12GLCBDA201312001  400First UI test for DANR                        -1718.88 20130605          SOLORIOR  danrtest                        
+2013L 733FE4H-----SB28---CB  12GLCBDA201312001  401First UI test for DANR                         -233.72 20130605          ----------danrtest                        
+2013L 733FE4H-----SUB6---CB  12GLCBDA201312001  402First UI test for DANR                         7660.05 20130605          ----------danrtest                        
+2013L 743HYT1-----SUB6---CB  12GLCBDA201312001  403First UI test for DANR                           25.31 20130605          ----------danrtest                        
+2013L 744FDSP-----SUB6---CB  12GLCBDA201312001  404First UI test for DANR                           79.59 20130605          ----------danrtest                        
+2013L 844999969085SUB8---CB  12GLCBDA201312001  405First UI test for DANR                      1009964.24 20130605          ----------danrtest                        
+2013L 862999969085SUB8---CB  12GLCBDA201312001  406First UI test for DANR                      3194061.79 20130605          ----------danrtest                        
+2013L 864999969085SUB8---CB  12GLCBDA201312001  407First UI test for DANR                       302435.72 20130605          ----------danrtest                        
+2013L AASCSABPPGFSSB28---CB  12GLCBDA201312001  408First UI test for DANR                        -1829.67 20130605          ----------danrtest                        
+2013L AASCSABPPGFSSUB6---CB  12GLCBDA201312001  409First UI test for DANR                       -14919.33 20130605          ----------danrtest                        
+2013L AASCSTM-----SB28---CB  12GLCBDA201312001  410First UI test for DANR                        -3819.45 20130605          ----------danrtest                        
+2013L AASCSTM-----SB28---CB  12GLCBDA201312001  411First UI test for DANR                        -4458.84 20130605          MITLOEHNERdanrtest                        
+2013L AASCSTM-----SB28---CB  12GLCBDA201312001  412First UI test for DANR                         1299.08 20130605          OLTJEN    danrtest                        
+2013L AASCSTM-----SB28---CB  12GLCBDA201312001  413First UI test for DANR                        -2217.11 20130605          ROBINSON  danrtest                        
+2013L AASCSTM-----SB28---CB  12GLCBDA201312001  414First UI test for DANR                        -2750.44 20130605          VANEENENNAdanrtest                        
+2013L AASCSTM-----SUB6---CB  12GLCBDA201312001  415First UI test for DANR                       -11159.63 20130605          ----------danrtest                        
+2013L AASCSTM-----SUB6---CB  12GLCBDA201312001  416First UI test for DANR                        -4360.60 20130605          CONTE     danrtest                        
+2013L AASCSTM-----SUB6---CB  12GLCBDA201312001  417First UI test for DANR                        -8136.05 20130605          MEYER     danrtest                        
+2013L AASCSTM-----SUB6---CB  12GLCBDA201312001  418First UI test for DANR                       -11294.43 20130605          MITLOEHNERdanrtest                        
+2013L AASCSTM-----SUB6---CB  12GLCBDA201312001  419First UI test for DANR                       -13914.68 20130605          OLTJEN    danrtest                        
+2013L AASCSTM-----SUB6---CB  12GLCBDA201312001  420First UI test for DANR                       -15845.45 20130605          ROBINSON  danrtest                        
+2013L AASCSTM-----SUB6---CB  12GLCBDA201312001  421First UI test for DANR                        -8185.02 20130605          VANEENENNAdanrtest                        
+2013L AC1CSTM-----SB28---CB  12GLCBDA201312001  422First UI test for DANR                         -654.46 20130605          FCCBAR    danrtest                        
+2013L AC1CSTM-----SB28---CB  12GLCBDA201312001  423First UI test for DANR                         -372.87 20130605          FCCNLA    danrtest                        
+2013L AC1CSTM-----SB28---CB  12GLCBDA201312001  424First UI test for DANR                         -322.56 20130605          FCCSEJ    danrtest                        
+2013L AC1CSTM-----SUB6---CB  12GLCBDA201312001  425First UI test for DANR                        -4033.10 20130605          FCCBAR    danrtest                        
+2013L AC1CSTM-----SUB6---CB  12GLCBDA201312001  426First UI test for DANR                        -8725.05 20130605          FCCNLA    danrtest                        
+2013L AC1CSTM-----SUB6---CB  12GLCBDA201312001  427First UI test for DANR                        -7627.75 20130605          FCCSEJ    danrtest                        
+2013L AC2CSTMITSTFSB28---CB  12GLCBDA201312001  428First UI test for DANR                         -540.02 20130605          250BOOTON danrtest                        
+2013L AC2CSTMITSTFSB28---CB  12GLCBDA201312001  429First UI test for DANR                        -1520.32 20130605          250MASSA  danrtest                        
+2013L AC2CSTMITSTFSB28---CB  12GLCBDA201312001  430First UI test for DANR                        -2754.30 20130605          250RIVERA danrtest                        
+2013L AC2CSTMITSTFSUB6---CB  12GLCBDA201312001  431First UI test for DANR                        -4502.57 20130605          250BOOTON danrtest                        
+2013L AC2CSTMITSTFSUB6---CB  12GLCBDA201312001  432First UI test for DANR                       -11968.72 20130605          250MASSA  danrtest                        
+2013L AC2CSTMITSTFSUB6---CB  12GLCBDA201312001  433First UI test for DANR                       -18868.10 20130605          250RIVERA danrtest                        
+2013L AC2CSTMOFSTFSB28---CB  12GLCBDA201312001  434First UI test for DANR                         -186.60 20130605          250CLARK  danrtest                        
+2013L AC2CSTMOFSTFSB28---CB  12GLCBDA201312001  435First UI test for DANR                          494.91 20130605          250GARCIA danrtest                        
+2013L AC2CSTMOFSTFSB28---CB  12GLCBDA201312001  436First UI test for DANR                         -905.29 20130605          250GOMEZ  danrtest                        
+2013L AC2CSTMOFSTFSB28---CB  12GLCBDA201312001  437First UI test for DANR                          -47.28 20130605          250ISAAC  danrtest                        
+2013L AC2CSTMOFSTFSB28---CB  12GLCBDA201312001  438First UI test for DANR                         -446.46 20130605          250LORENZEdanrtest                        
+2013L AC2CSTMOFSTFSB28---CB  12GLCBDA201312001  439First UI test for DANR                         -293.55 20130605          250TORRES danrtest                        
+2013L AC2CSTMOFSTFSUB6---CB  12GLCBDA201312001  440First UI test for DANR                        -3300.57 20130605          250CLARK  danrtest                        
+2013L AC2CSTMOFSTFSUB6---CB  12GLCBDA201312001  441First UI test for DANR                        -4340.99 20130605          250GARCIA danrtest                        
+2013L AC2CSTMOFSTFSUB6---CB  12GLCBDA201312001  442First UI test for DANR                        -7870.18 20130605          250GOMEZ  danrtest                        
+2013L AC2CSTMOFSTFSUB6---CB  12GLCBDA201312001  443First UI test for DANR                        -3621.91 20130605          250ISAAC  danrtest                        
+2013L AC2CSTMOFSTFSUB6---CB  12GLCBDA201312001  444First UI test for DANR                        -2428.89 20130605          250LORENZEdanrtest                        
+2013L AC2CSTMOFSTFSUB6---CB  12GLCBDA201312001  445First UI test for DANR                        -2737.93 20130605          250TORRES danrtest                        
+2013L AC3CSTM-----SB28---CB  12GLCBDA201312001  446First UI test for DANR                         -830.94 20130605          DECBFTV   danrtest                        
+2013L AC3CSTM-----SB28---CB  12GLCBDA201312001  447First UI test for DANR                         -585.37 20130605          LCWBFTV   danrtest                        
+2013L AC3CSTM-----SB28---CB  12GLCBDA201312001  448First UI test for DANR                        -1090.74 20130605          MXGBFTV   danrtest                        
+2013L AC3CSTM-----SUB6---CB  12GLCBDA201312001  449First UI test for DANR                        -7111.87 20130605          DECBFTV   danrtest                        
+2013L AC3CSTM-----SUB6---CB  12GLCBDA201312001  450First UI test for DANR                        -3247.81 20130605          LCWBFTV   danrtest                        
+2013L AC3CSTM-----SUB6---CB  12GLCBDA201312001  451First UI test for DANR                        -5017.51 20130605          MXGBFTV   danrtest                        
+2013L AC4CSTM-----SB28---CB  12GLCBDA201312001  452First UI test for DANR                        -1656.97 20130605          DGWP      danrtest                        
+2013L AC4CSTM-----SUB6---CB  12GLCBDA201312001  453First UI test for DANR                       -11359.57 20130605          DGWP      danrtest                        
+2013L ACADTRNCRUCLSUB6---CB  12GLCBDA201312001  454First UI test for DANR                         -130.00 20130605          ----------danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  455First UI test for DANR                        -1301.29 20130605          ----------danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  456First UI test for DANR                         -823.14 20130605          ADOACG    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  457First UI test for DANR                          -89.18 20130605          ADOAKF    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  458First UI test for DANR                         -160.40 20130605          ADOALG    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  459First UI test for DANR                         -328.44 20130605          ADOANL    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  460First UI test for DANR                         -314.97 20130605          ADOBJN    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  461First UI test for DANR                         -214.62 20130605          ADOBRM    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  462First UI test for DANR                         -377.89 20130605          ADOBTC    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  463First UI test for DANR                         -378.53 20130605          ADOCD     danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  464First UI test for DANR                         -248.16 20130605          ADOCEH    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  465First UI test for DANR                        -1022.24 20130605          ADODMK    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  466First UI test for DANR                         -830.44 20130605          ADOJAB    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  467First UI test for DANR                         -185.45 20130605          ADOJXS    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  468First UI test for DANR                         -415.04 20130605          ADOKAD    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  469First UI test for DANR                         -350.29 20130605          ADOKJT    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  470First UI test for DANR                         -412.10 20130605          ADOLAF    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  471First UI test for DANR                         -108.72 20130605          ADOLXF    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  472First UI test for DANR                         -156.33 20130605          ADOMXW    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  473First UI test for DANR                         -405.51 20130605          ADONO     danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  474First UI test for DANR                         -296.60 20130605          ADOPXG    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  475First UI test for DANR                         -552.63 20130605          ADORMS    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  476First UI test for DANR                         -145.59 20130605          ADORSF    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  477First UI test for DANR                         -611.22 20130605          ADOSCP    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  478First UI test for DANR                         -392.52 20130605          ADOSRK    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  479First UI test for DANR                         -201.99 20130605          ADOSRS    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  480First UI test for DANR                         -433.62 20130605          ADOTEP    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  481First UI test for DANR                        -1207.86 20130605          ADOTMK    danrtest                        
+2013L ADOCSTM-----SB28---CB  12GLCBDA201312001  482First UI test for DANR                         -391.52 20130605          ADOYXC    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  483First UI test for DANR                       -17270.02 20130605          ----------danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  484First UI test for DANR                        -2245.44 20130605          ADOACG    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  485First UI test for DANR                        -1678.71 20130605          ADOAKF    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  486First UI test for DANR                         -715.78 20130605          ADOALG    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  487First UI test for DANR                        -1825.84 20130605          ADOANL    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  488First UI test for DANR                        -1340.51 20130605          ADOBJN    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  489First UI test for DANR                        -1511.58 20130605          ADOBRM    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  490First UI test for DANR                        -1915.37 20130605          ADOBTC    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  491First UI test for DANR                        -1915.37 20130605          ADOCD     danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  492First UI test for DANR                         -900.12 20130605          ADOCEH    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  493First UI test for DANR                        -7821.30 20130605          ADODMK    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  494First UI test for DANR                        -2301.92 20130605          ADOJAB    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  495First UI test for DANR                        -1546.33 20130605          ADOJXS    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  496First UI test for DANR                        -1932.60 20130605          ADOKAD    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  497First UI test for DANR                        -1694.05 20130605          ADOKJT    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  498First UI test for DANR                        -1568.39 20130605          ADOLAF    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  499First UI test for DANR                        -1353.17 20130605          ADOLXF    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  500First UI test for DANR                        -1352.54 20130605          ADOMXW    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  501First UI test for DANR                        -1577.60 20130605          ADONO     danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  502First UI test for DANR                        -1752.03 20130605          ADOPXG    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  503First UI test for DANR                        -2165.10 20130605          ADORMS    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  504First UI test for DANR                        -1504.66 20130605          ADORSF    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  505First UI test for DANR                        -2355.77 20130605          ADOSCP    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  506First UI test for DANR                        -2182.16 20130605          ADOSRK    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  507First UI test for DANR                        -1513.31 20130605          ADOSRS    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  508First UI test for DANR                        -1980.28 20130605          ADOTEP    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  509First UI test for DANR                        -3320.60 20130605          ADOTMK    danrtest                        
+2013L ADOCSTM-----SUB6---CB  12GLCBDA201312001  510First UI test for DANR                        -1560.11 20130605          ADOYXC    danrtest                        
+2013L AECCSABPPGFSSB28---CB  12GLCBDA201312001  511First UI test for DANR                          455.81 20130605          ----------danrtest                        
+2013L AECCSABPPGFSSUB6---CB  12GLCBDA201312001  512First UI test for DANR                        -4311.72 20130605          ----------danrtest                        
+2013L AECCSTM-----SB28---CB  12GLCBDA201312001  513First UI test for DANR                        10323.72 20130605          ----------danrtest                        
+2013L AECCSTM-----SB28---CB  12GLCBDA201312001  514First UI test for DANR                        -5576.57 20130605          AREF_KMKL danrtest                        
+2013L AECCSTM-----SB28---CB  12GLCBDA201312001  515First UI test for DANR                         1550.86 20130605          AREF_RLCL danrtest                        
+2013L AECCSTM-----SB28---CB  12GLCBDA201312001  516First UI test for DANR                         -106.08 20130605          ARES_GOET danrtest                        
+2013L AECCSTM-----SB28---CB  12GLCBDA201312001  517First UI test for DANR                         -368.67 20130605          ARES_WARR danrtest                        
+2013L AECCSTM-----SB28---CB  12GLCBDA201312001  518First UI test for DANR                         -291.00 20130605          SAITONE   danrtest                        
+2013L AECCSTM-----SUB6---CB  12GLCBDA201312001  519First UI test for DANR                         3664.92 20130605          ----------danrtest                        
+2013L AECCSTM-----SUB6---CB  12GLCBDA201312001  520First UI test for DANR                       -15436.76 20130605          AREF_KMKL danrtest                        
+2013L AECCSTM-----SUB6---CB  12GLCBDA201312001  521First UI test for DANR                       -13632.00 20130605          AREF_LJBL danrtest                        
+2013L AECCSTM-----SUB6---CB  12GLCBDA201312001  522First UI test for DANR                        -9971.80 20130605          AREF_RLCL danrtest                        
+2013L AECCSTM-----SUB6---CB  12GLCBDA201312001  523First UI test for DANR                         -884.57 20130605          ARES_GOET danrtest                        
+2013L AECCSTM-----SUB6---CB  12GLCBDA201312001  524First UI test for DANR                        -2525.50 20130605          ARES_WARR danrtest                        
+2013L AECCSTM-----SUB6---CB  12GLCBDA201312001  525First UI test for DANR                        -2426.55 20130605          SAITONE   danrtest                        
+2013L AENCGABPPGFSSUB6---CB  12GLCBDA201312001  526First UI test for DANR                        -2252.49 20130605          ----------danrtest                        
+2013L AESCSABPPEIPSUB6---CB  12GLCBDA201312001  527First UI test for DANR                        -6309.24 20130605          ----------danrtest                        
+2013L AESCSTM-----SUB6---CB  12GLCBDA201312001  528First UI test for DANR                        -4596.36 20130605          ESPGROSHOLdanrtest                        
+2013L AFSCSABPPFSTSB28---CB  12GLCBDA201312001  529First UI test for DANR                        -1571.73 20130605          ----------danrtest                        
+2013L AFSCSABPPFSTSUB6---CB  12GLCBDA201312001  530First UI test for DANR                        -8575.50 20130605          ----------danrtest                        
+2013L AFSCSABPPFSTSUB6---CB  12GLCBDA201312001  531First UI test for DANR                         -816.87 20130605          MNR       danrtest                        
+2013L AFSCSTM-----SB28---CB  12GLCBDA201312001  532First UI test for DANR                          284.56 20130605          ----------danrtest                        
+2013L AFSCSTM-----SB28---CB  12GLCBDA201312001  533First UI test for DANR                        -5861.52 20130605          CKW       danrtest                        
+2013L AFSCSTM-----SB28---CB  12GLCBDA201312001  534First UI test for DANR                        -3776.21 20130605          CMB       danrtest                        
+2013L AFSCSTM-----SB28---CB  12GLCBDA201312001  535First UI test for DANR                         -284.56 20130605          CSM       danrtest                        
+2013L AFSCSTM-----SB28---CB  12GLCBDA201312001  536First UI test for DANR                        -3657.19 20130605          DMB       danrtest                        
+2013L AFSCSTM-----SB28---CB  12GLCBDA201312001  537First UI test for DANR                        -3516.07 20130605          LJH       danrtest                        
+2013L AFSCSTM-----SUB6---CB  12GLCBDA201312001  538First UI test for DANR                        10440.84 20130605          ----------danrtest                        
+2013L AFSCSTM-----SUB6---CB  12GLCBDA201312001  539First UI test for DANR                       -15989.56 20130605          CKW       danrtest                        
+2013L AFSCSTM-----SUB6---CB  12GLCBDA201312001  540First UI test for DANR                       -14637.88 20130605          CMB       danrtest                        
+2013L AFSCSTM-----SUB6---CB  12GLCBDA201312001  541First UI test for DANR                       -10440.84 20130605          CSM       danrtest                        
+2013L AFSCSTM-----SUB6---CB  12GLCBDA201312001  542First UI test for DANR                       -16483.46 20130605          DMB       danrtest                        
+2013L AFSCSTM-----SUB6---CB  12GLCBDA201312001  543First UI test for DANR                       -11852.58 20130605          LJH       danrtest                        
+2013L AFSCSTM-----SUB6---CB  12GLCBDA201312001  544First UI test for DANR                       -11892.13 20130605          MNR       danrtest                        
+2013L AHCLCES-----SUB6---CB  12GLCBDA201312001  545First UI test for DANR                        -6891.07 20130605          ----------danrtest                        
+2013L AHCTCES-----SUB6---CB  12GLCBDA201312001  546First UI test for DANR                         -677.64 20130605          ----------danrtest                        
+2013L AHECSTM-----SB28---CB  12GLCBDA201312001  547First UI test for DANR                          308.77 20130605          HCDCAMPBELdanrtest                        
+2013L AHECSTM-----SB28---CB  12GLCBDA201312001  548First UI test for DANR                        -2374.98 20130605          HCESMITHM danrtest                        
+2013L AHECSTM-----SB28---CB  12GLCBDA201312001  549First UI test for DANR                         -625.40 20130605          LOKI      danrtest                        
+2013L AHECSTM-----SUB6---CB  12GLCBDA201312001  550First UI test for DANR                       -10883.55 20130605          HCDCAMPBELdanrtest                        
+2013L AHECSTM-----SUB6---CB  12GLCBDA201312001  551First UI test for DANR                        -7852.62 20130605          HCDONTAIGRdanrtest                        
+2013L AHECSTM-----SUB6---CB  12GLCBDA201312001  552First UI test for DANR                       -11419.04 20130605          HCDTRZESNIdanrtest                        
+2013L AHECSTM-----SUB6---CB  12GLCBDA201312001  553First UI test for DANR                        -6197.72 20130605          HCESMITHM danrtest                        
+2013L AHECSTM-----SUB6---CB  12GLCBDA201312001  554First UI test for DANR                        -2047.28 20130605          LOKI      danrtest                        
+2013L AHHCSABPPHFCSUB6---CB  12GLCBDA201312001  555First UI test for DANR                         -377.70 20130605          ----------danrtest                        
+2013L AHHOCES-----SB28---CB  12GLCBDA201312001  556First UI test for DANR                         -124.18 20130605          HETRANHUY danrtest                        
+2013L AHHOCES-----SUB6---CB  12GLCBDA201312001  557First UI test for DANR                        -1035.46 20130605          HETRANHUY danrtest                        
+2013L AICLDAS-----SB28---CB  12GLCBDA201312001  558First UI test for DANR                          145.03 20130605          ----------danrtest                        
+2013L AICLDAS-----SUB6---CB  12GLCBDA201312001  559First UI test for DANR                          928.40 20130605          ----------danrtest                        
+2013L AICLDAS-----SUB6---CB  12GLCBDA201312001  560First UI test for DANR                       -16105.02 20130605          AREF_DAS3 danrtest                        
+2013L ALALCES-----SB28---CB  12GLCBDA201312001  561First UI test for DANR                          157.26 20130605          ----------danrtest                        
+2013L ALALCES-----SB28---CB  12GLCBDA201312001  562First UI test for DANR                         -157.26 20130605          SISNEROZ,Jdanrtest                        
+2013L ALALCES-----SUB6---CB  12GLCBDA201312001  563First UI test for DANR                         1162.73 20130605          ----------danrtest                        
+2013L ALALCES-----SUB6---CB  12GLCBDA201312001  564First UI test for DANR                        -1162.73 20130605          SISNEROZ,Jdanrtest                        
+2013L ALVANEE-----SB28---CB  12GLCBDA201312001  565First UI test for DANR                        -1739.13 20130605          ----------danrtest                        
+2013L ALVANEE-----SUB6---CB  12GLCBDA201312001  566First UI test for DANR                        -4615.52 20130605          ----------danrtest                        
+2013L ALW119S-----SUB6---CB  12GLCBDA201312001  567First UI test for DANR                        -3187.92 20130605          ----------danrtest                        
+2013L ALWCSABPPWQQSB28---CB  12GLCBDA201312001  568First UI test for DANR                         -340.29 20130605          ----------danrtest                        
+2013L ALWCSABPPWQQSUB6---CB  12GLCBDA201312001  569First UI test for DANR                        -3935.63 20130605          ----------danrtest                        
+2013L ALWCSTM-----SB28---CB  12GLCBDA201312001  570First UI test for DANR                        -1053.74 20130605          240GRATTANdanrtest                        
+2013L ALWCSTM-----SB28---CB  12GLCBDA201312001  571First UI test for DANR                         2841.14 20130605          240HARTER danrtest                        
+2013L ALWCSTM-----SB28---CB  12GLCBDA201312001  572First UI test for DANR                         -844.46 20130605          240PETTYGRdanrtest                        
+2013L ALWCSTM-----SB28---CB  12GLCBDA201312001  573First UI test for DANR                        -2589.42 20130605          240SANDOVAdanrtest                        
+2013L ALWCSTM-----SB28---CB  12GLCBDA201312001  574First UI test for DANR                        -1605.12 20130605          240SCHWANKdanrtest                        
+2013L ALWCSTM-----SUB6---CB  12GLCBDA201312001  575First UI test for DANR                       -16493.85 20130605          240GRATTANdanrtest                        
+2013L ALWCSTM-----SUB6---CB  12GLCBDA201312001  576First UI test for DANR                         6067.58 20130605          240HARTER danrtest                        
+2013L ALWCSTM-----SUB6---CB  12GLCBDA201312001  577First UI test for DANR                        -4742.80 20130605          240JACKSONdanrtest                        
+2013L ALWCSTM-----SUB6---CB  12GLCBDA201312001  578First UI test for DANR                       -10993.16 20130605          240OGEEN  danrtest                        
+2013L ALWCSTM-----SUB6---CB  12GLCBDA201312001  579First UI test for DANR                       -13119.57 20130605          240PETTYGRdanrtest                        
+2013L ALWCSTM-----SUB6---CB  12GLCBDA201312001  580First UI test for DANR                        -7063.60 20130605          240SANDOVAdanrtest                        
+2013L ALWCSTM-----SUB6---CB  12GLCBDA201312001  581First UI test for DANR                       -12690.03 20130605          240SCHWANKdanrtest                        
+2013L ALWCSTM-----SUB6---CB  12GLCBDA201312001  582First UI test for DANR                       -20134.88 20130605          240SNYDER danrtest                        
+2013L ALWCSTMAAFOPSB28---CB  12GLCBDA201312001  583First UI test for DANR                         -334.37 20130605          243MATA   danrtest                        
+2013L ALWCSTMAAFOPSUB6---CB  12GLCBDA201312001  584First UI test for DANR                        -2900.80 20130605          243MATA   danrtest                        
+2013L ALWCSTMAASRASB28---CB  12GLCBDA201312001  585First UI test for DANR                         -766.60 20130605          242LOUIE  danrtest                        
+2013L ALWCSTMAASRASB28---CB  12GLCBDA201312001  586First UI test for DANR                          136.04 20130605          242MATISTAdanrtest                        
+2013L ALWCSTMAASRASUB6---CB  12GLCBDA201312001  587First UI test for DANR                        -3067.35 20130605          242LOUIE  danrtest                        
+2013L ALWCSTMAASRASUB6---CB  12GLCBDA201312001  588First UI test for DANR                         -251.14 20130605          242MATISTAdanrtest                        
+2013L ANTCSTM-----SB28---CB  12GLCBDA201312001  589First UI test for DANR                        -1648.50 20130605          NUTLLK    danrtest                        
+2013L ANTCSTM-----SB28---CB  12GLCBDA201312001  590First UI test for DANR                        -4396.14 20130605          NUTSZC    danrtest                        
+2013L ANTCSTM-----SUB6---CB  12GLCBDA201312001  591First UI test for DANR                        -2956.37 20130605          NUTLLK    danrtest                        
+2013L ANTCSTM-----SUB6---CB  12GLCBDA201312001  592First UI test for DANR                       -11992.20 20130605          NUTSZC    danrtest                        
+2013L APPCSABPPEIPSB28---CB  12GLCBDA201312001  593First UI test for DANR                          144.15 20130605          ----------danrtest                        
+2013L APPCSABPPEIPSUB6---CB  12GLCBDA201312001  594First UI test for DANR                          583.69 20130605          ----------danrtest                        
+2013L APPCSTM-----SB28---CB  12GLCBDA201312001  595First UI test for DANR                         -723.67 20130605          ----------danrtest                        
+2013L APPCSTM-----SB28---CB  12GLCBDA201312001  596First UI test for DANR                          288.29 20130605          DAGP      danrtest                        
+2013L APPCSTM-----SB28---CB  12GLCBDA201312001  597First UI test for DANR                         -799.93 20130605          KVSP      danrtest                        
+2013L APPCSTM-----SB28---CB  12GLCBDA201312001  598First UI test for DANR                          193.73 20130605          RMDP      danrtest                        
+2013L APPCSTM-----SUB6---CB  12GLCBDA201312001  599First UI test for DANR                        -3915.35 20130605          ----------danrtest                        
+2013L APPCSTM-----SUB6---CB  12GLCBDA201312001  600First UI test for DANR                         1167.35 20130605          DAGP      danrtest                        
+2013L APPCSTM-----SUB6---CB  12GLCBDA201312001  601First UI test for DANR                       -11956.84 20130605          KVSP      danrtest                        
+2013L APPCSTM-----SUB6---CB  12GLCBDA201312001  602First UI test for DANR                       -13726.55 20130605          RMDP      danrtest                        
+2013L APPCSTM-----SUB6---CB  12GLCBDA201312001  603First UI test for DANR                       -20128.96 20130605          WDGP      danrtest                        
+2013L APSCSAB-----SB28---CB  12GLCBDA201312001  604First UI test for DANR                         1476.46 20130605          ----------danrtest                        
+2013L APSCSAB-----SUB6---CB  12GLCBDA201312001  605First UI test for DANR                          856.35 20130605          ----------danrtest                        
+2013L APSCSABFACCESUB6---CB  12GLCBDA201312001  606First UI test for DANR                        -5298.92 20130605          ----------danrtest                        
+2013L APSCSABPPEIPSUB6---CB  12GLCBDA201312001  607First UI test for DANR                        -2921.01 20130605          ----------danrtest                        
+2013L APSCSTM-----SB28---CB  12GLCBDA201312001  608First UI test for DANR                         -327.94 20130605          ----------danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  609First UI test for DANR                         4872.53 20130605          ----------danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  610First UI test for DANR                           28.24 20130605          COLLINS,K danrtest                        
+2013L APSCSTM-----SUB6---CB  12GLCBDA201312001  611First UI test for DANR                        -1643.76 20130605          JOHNSON-ANdanrtest                        
+2013L APSCSTMASFLPSB28---CB  12GLCBDA201312001  612First UI test for DANR                           73.13 20130605          ----------danrtest                        
+2013L APSCSTMASFLPSB28---CB  12GLCBDA201312001  613First UI test for DANR                          -73.13 20130605          CRUM,R    danrtest                        
+2013L APSCSTMASFLPSB28---CB  12GLCBDA201312001  614First UI test for DANR                        -1206.95 20130605          SMAYSTRLA danrtest                        
+2013L APSCSTMASFLPSUB6---CB  12GLCBDA201312001  615First UI test for DANR                         1197.09 20130605          ----------danrtest                        
+2013L APSCSTMASFLPSUB6---CB  12GLCBDA201312001  616First UI test for DANR                        -1305.33 20130605          CRUM,R    danrtest                        
+2013L APSCSTMASFLPSUB6---CB  12GLCBDA201312001  617First UI test for DANR                        -8668.55 20130605          SMAYSTRLA danrtest                        
+2013L APSCSTMASFLVSB28---CB  12GLCBDA201312001  618First UI test for DANR                         -763.99 20130605          ----------danrtest                        
+2013L APSCSTMASFLVSB28---CB  12GLCBDA201312001  619First UI test for DANR                         -177.80 20130605          BOONET    danrtest                        
+2013L APSCSTMASFLVSB28---CB  12GLCBDA201312001  620First UI test for DANR                         -271.08 20130605          HERRERA,NIdanrtest                        
+2013L APSCSTMASFLVSB28---CB  12GLCBDA201312001  621First UI test for DANR                         -433.53 20130605          JACKSONJ  danrtest                        
+2013L APSCSTMASFLVSB28---CB  12GLCBDA201312001  622First UI test for DANR                         1153.75 20130605          MANDRES   danrtest                        
+2013L APSCSTMASFLVSB28---CB  12GLCBDA201312001  623First UI test for DANR                         -116.28 20130605          MONTOYA   danrtest                        
+2013L APSCSTMASFLVSB28---CB  12GLCBDA201312001  624First UI test for DANR                         -477.31 20130605          MONTOYA,-Sdanrtest                        
+2013L APSCSTMASFLVSB28---CB  12GLCBDA201312001  625First UI test for DANR                         -335.87 20130605          STEWARTF  danrtest                        
+2013L APSCSTMASFLVSUB6---CB  12GLCBDA201312001  626First UI test for DANR                        17194.84 20130605          ----------danrtest                        
+2013L APSCSTMASFLVSUB6---CB  12GLCBDA201312001  627First UI test for DANR                        -1881.48 20130605          BOONET    danrtest                        
+2013L APSCSTMASFLVSUB6---CB  12GLCBDA201312001  628First UI test for DANR                          -28.24 20130605          COLLINS,K danrtest                        
+2013L APSCSTMASFLVSUB6---CB  12GLCBDA201312001  629First UI test for DANR                       -10540.48 20130605          HERRERA,NIdanrtest                        
+2013L APSCSTMASFLVSUB6---CB  12GLCBDA201312001  630First UI test for DANR                        -2600.59 20130605          JACKSONJ  danrtest                        
+2013L APSCSTMASFLVSUB6---CB  12GLCBDA201312001  631First UI test for DANR                        -8177.10 20130605          MANDRES   danrtest                        
+2013L APSCSTMASFLVSUB6---CB  12GLCBDA201312001  632First UI test for DANR                       -16874.20 20130605          MONTOYA,-Sdanrtest                        
+2013L APSCSTMASFLVSUB6---CB  12GLCBDA201312001  633First UI test for DANR                        -3105.35 20130605          STEWARTF  danrtest                        
+2013L APSCSTMASFLWSB28---CB  12GLCBDA201312001  634First UI test for DANR                         -306.48 20130605          BONIN     danrtest                        
+2013L APSCSTMASFLWSB28---CB  12GLCBDA201312001  635First UI test for DANR                         -439.66 20130605          CRISTLER  danrtest                        
+2013L APSCSTMASFLWSUB6---CB  12GLCBDA201312001  636First UI test for DANR                        -2365.44 20130605          BONIN     danrtest                        
+2013L APSCSTMASFLWSUB6---CB  12GLCBDA201312001  637First UI test for DANR                        -2222.86 20130605          CRISTLER  danrtest                        
+2013L APSCSTMASITESB28---CB  12GLCBDA201312001  638First UI test for DANR                          263.61 20130605          ----------danrtest                        
+2013L APSCSTMASITESB28---CB  12GLCBDA201312001  639First UI test for DANR                         -105.27 20130605          CHOWN-ZAC danrtest                        
+2013L APSCSTMASITESB28---CB  12GLCBDA201312001  640First UI test for DANR                          -18.51 20130605          CUBBAGE   danrtest                        
+2013L APSCSTMASITESB28---CB  12GLCBDA201312001  641First UI test for DANR                         1047.67 20130605          DUSSAULT,Ldanrtest                        
+2013L APSCSTMASITESB28---CB  12GLCBDA201312001  642First UI test for DANR                        -1197.36 20130605          HALL-JOHN danrtest                        
+2013L APSCSTMASITESB28---CB  12GLCBDA201312001  643First UI test for DANR                          384.70 20130605          KERNER    danrtest                        
+2013L APSCSTMASITESB28---CB  12GLCBDA201312001  644First UI test for DANR                          282.55 20130605          SZETO,B   danrtest                        
+2013L APSCSTMASITESB28---CB  12GLCBDA201312001  645First UI test for DANR                          143.54 20130605          VIDACA-J  danrtest                        
+2013L APSCSTMASITESUB6---CB  12GLCBDA201312001  646First UI test for DANR                         2637.32 20130605          ----------danrtest                        
+2013L APSCSTMASITESUB6---CB  12GLCBDA201312001  647First UI test for DANR                        -1522.50 20130605          CHOWN-ZAC danrtest                        
+2013L APSCSTMASITESUB6---CB  12GLCBDA201312001  648First UI test for DANR                        -1681.39 20130605          CUBBAGE   danrtest                        
+2013L APSCSTMASITESUB6---CB  12GLCBDA201312001  649First UI test for DANR                        -1640.78 20130605          DUSSAULT,Ldanrtest                        
+2013L APSCSTMASITESUB6---CB  12GLCBDA201312001  650First UI test for DANR                        -9657.59 20130605          HALL-JOHN danrtest                        
+2013L APSCSTMASITESUB6---CB  12GLCBDA201312001  651First UI test for DANR                       -14461.52 20130605          KERNER    danrtest                        
+2013L APSCSTMASITESUB6---CB  12GLCBDA201312001  652First UI test for DANR                        -7728.13 20130605          SZETO,B   danrtest                        
+2013L APSCSTMASITESUB6---CB  12GLCBDA201312001  653First UI test for DANR                        -4199.85 20130605          VIDACA-J  danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  654First UI test for DANR                         -885.84 20130605          ----------danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  655First UI test for DANR                          -55.34 20130605          ADAMS     danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  656First UI test for DANR                          598.90 20130605          CHAVEZ,DANdanrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  657First UI test for DANR                         -604.64 20130605          GREENLEAF danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  658First UI test for DANR                        -1027.63 20130605          MADDERRA  danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  659First UI test for DANR                         -593.13 20130605          MARRUSH   danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  660First UI test for DANR                         -447.48 20130605          MCVARISH  danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  661First UI test for DANR                           23.62 20130605          MCWAYNE   danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  662First UI test for DANR                          -70.39 20130605          MCWAYNE,T danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  663First UI test for DANR                         -763.52 20130605          NIJJAR-BALdanrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  664First UI test for DANR                          -89.05 20130605          REIDS     danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  665First UI test for DANR                         -583.86 20130605          ROBERTS   danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  666First UI test for DANR                         -367.01 20130605          SABERI-S  danrtest                        
+2013L APSCSTMASOFCSB28---CB  12GLCBDA201312001  667First UI test for DANR                         -620.20 20130605          SINGHVIDALdanrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  668First UI test for DANR                        11656.75 20130605          ----------danrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  669First UI test for DANR                         -807.29 20130605          ADAMS     danrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  670First UI test for DANR                       -14223.42 20130605          CHAVEZ,DANdanrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  671First UI test for DANR                        -5395.69 20130605          GREENLEAF danrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  672First UI test for DANR                        -5319.61 20130605          MADDERRA  danrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  673First UI test for DANR                        -4493.28 20130605          MARRUSH   danrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  674First UI test for DANR                        -4174.78 20130605          MCVARISH  danrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  675First UI test for DANR                          -16.13 20130605          MCWAYNE   danrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  676First UI test for DANR                        -2641.11 20130605          MCWAYNE,T danrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  677First UI test for DANR                        -5490.86 20130605          NIJJAR-BALdanrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  678First UI test for DANR                        -1150.80 20130605          REIDS     danrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  679First UI test for DANR                        -3786.94 20130605          ROBERTS   danrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  680First UI test for DANR                        -9378.05 20130605          SABERI-S  danrtest                        
+2013L APSCSTMASOFCSUB6---CB  12GLCBDA201312001  681First UI test for DANR                        -3663.80 20130605          SINGHVIDALdanrtest                        
+2013L APSCSTMASPHPSB28---CB  12GLCBDA201312001  682First UI test for DANR                         -216.75 20130605          BIASI     danrtest                        
+2013L APSCSTMASPHPSUB6---CB  12GLCBDA201312001  683First UI test for DANR                        -1455.55 20130605          BIASI     danrtest                        
+2013L APSCSTMASRICSB28---CB  12GLCBDA201312001  684First UI test for DANR                        -1656.70 20130605          ----------danrtest                        
+2013L APSCSTMASRICSB28---CB  12GLCBDA201312001  685First UI test for DANR                          -89.35 20130605          DODGE     danrtest                        
+2013L APSCSTMASRICSB28---CB  12GLCBDA201312001  686First UI test for DANR                        -1323.28 20130605          DUSSAULT,Ldanrtest                        
+2013L APSCSTMASRICSB28---CB  12GLCBDA201312001  687First UI test for DANR                        -1046.16 20130605          HOOKER    danrtest                        
+2013L APSCSTMASRICSB28---CB  12GLCBDA201312001  688First UI test for DANR                         2116.10 20130605          NELSON,D  danrtest                        
+2013L APSCSTMASRICSB28---CB  12GLCBDA201312001  689First UI test for DANR                        -1283.39 20130605          WEBSTER,-Sdanrtest                        
+2013L APSCSTMASRICSUB6---CB  12GLCBDA201312001  690First UI test for DANR                        13213.66 20130605          ----------danrtest                        
+2013L APSCSTMASRICSUB6---CB  12GLCBDA201312001  691First UI test for DANR                        -5352.28 20130605          DODGE     danrtest                        
+2013L APSCSTMASRICSUB6---CB  12GLCBDA201312001  692First UI test for DANR                        -9626.13 20130605          DUSSAULT,Ldanrtest                        
+2013L APSCSTMASRICSUB6---CB  12GLCBDA201312001  693First UI test for DANR                       -10645.86 20130605          HOOKER    danrtest                        
+2013L APSCSTMASRICSUB6---CB  12GLCBDA201312001  694First UI test for DANR                          -90.41 20130605          NELSON, D danrtest                        
+2013L APSCSTMASRICSUB6---CB  12GLCBDA201312001  695First UI test for DANR                       -15055.05 20130605          NELSON,D  danrtest                        
+2013L APSCSTMASRICSUB6---CB  12GLCBDA201312001  696First UI test for DANR                        -8725.43 20130605          WEBSTER,-Sdanrtest                        
+2013L APSCSTMASSAFSB28---CB  12GLCBDA201312001  697First UI test for DANR                         -738.45 20130605          PINNEY-R  danrtest                        
+2013L APSCSTMASSAFSUB6---CB  12GLCBDA201312001  698First UI test for DANR                         1576.63 20130605          ----------danrtest                        
+2013L APSCSTMASSAFSUB6---CB  12GLCBDA201312001  699First UI test for DANR                        -7684.56 20130605          PINNEY-R  danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  700First UI test for DANR                        -1700.50 20130605          AJWA      danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  701First UI test for DANR                        -3706.49 20130605          CANTWELL  danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  702First UI test for DANR                        -2930.75 20130605          CRISOSTO  danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  703First UI test for DANR                        -2424.00 20130605          DEJONG    danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  704First UI test for DANR                        -5613.84 20130605          DITOMASO  danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  705First UI test for DANR                        -3220.67 20130605          EVANS     danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  706First UI test for DANR                        -1785.54 20130605          FENNIMORE danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  707First UI test for DANR                        -2546.03 20130605          FERGUSON  danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  708First UI test for DANR                         -806.76 20130605          HARTZ     danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  709First UI test for DANR                         2460.81 20130605          HILLJ     danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  710First UI test for DANR                         1453.02 20130605          JOHNSON   danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  711First UI test for DANR                          -47.12 20130605          LAMPINEN  danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  712First UI test for DANR                          -34.20 20130605          LANINI    danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  713First UI test for DANR                        -2040.60 20130605          LARSON    danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  714First UI test for DANR                        -1090.68 20130605          LIETH     danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  715First UI test for DANR                         -515.72 20130605          MITCHAM   danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  716First UI test for DANR                         -901.97 20130605          OKI       danrtest                        
+2013L APSCSTMFACCESB28---CB  12GLCBDA201312001  717First UI test for DANR                        -2051.88 20130605          SUSLOW    danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  718First UI test for DANR                         5103.39 20130605          ----------danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  719First UI test for DANR                       -12709.00 20130605          AJWA      danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  720First UI test for DANR                       -14300.28 20130605          CANTWELL  danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  721First UI test for DANR                        -9385.64 20130605          CRISOSTO  danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  722First UI test for DANR                        -6612.36 20130605          DEJONG    danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  723First UI test for DANR                       -15313.92 20130605          DITOMASO  danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  724First UI test for DANR                       -12425.84 20130605          EVANS     danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  725First UI test for DANR                        -9107.61 20130605          FENNIMORE danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  726First UI test for DANR                       -10417.94 20130605          FERGUSON  danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  727First UI test for DANR                       -16177.14 20130605          HANSON-B  danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  728First UI test for DANR                       -12058.92 20130605          HARTZ     danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  729First UI test for DANR                        -7147.12 20130605          HILLJ     danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  730First UI test for DANR                        -5452.80 20130605          HUTMACHER danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  731First UI test for DANR                       -15909.20 20130605          JOHNSON   danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  732First UI test for DANR                       -13632.00 20130605          KAFFKA    danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  733First UI test for DANR                       -10998.05 20130605          LAMPINEN  danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  734First UI test for DANR                       -15954.58 20130605          LANINI    danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  735First UI test for DANR                        -5566.56 20130605          LARSON    danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  736First UI test for DANR                        -5692.44 20130605          LIETH     danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  737First UI test for DANR                        -3854.28 20130605          MITCHAM   danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  738First UI test for DANR                        -9531.76 20130605          MITCHELL  danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  739First UI test for DANR                        -7298.74 20130605          OKI       danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  740First UI test for DANR                        -7595.40 20130605          PUTNAM    danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  741First UI test for DANR                       -16856.62 20130605          SUSLOW    danrtest                        
+2013L APSCSTMFACCESUB6---CB  12GLCBDA201312001  742First UI test for DANR                       -14863.64 20130605          TATE      danrtest                        
+2013L APU44SA-----SB28---CB  12GLCBDA201312001  743First UI test for DANR                        -1107.16 20130605          ELLSWORTH danrtest                        
+2013L APU44SA-----SB28---CB  12GLCBDA201312001  744First UI test for DANR                         -110.88 20130605          HSIEH     danrtest                        
+2013L APU44SA-----SB28---CB  12GLCBDA201312001  745First UI test for DANR                         -412.93 20130605          JORDAN    danrtest                        
+2013L APU44SA-----SB28---CB  12GLCBDA201312001  746First UI test for DANR                        -1936.42 20130605          RODRIGUESKdanrtest                        
+2013L APU44SA-----SB28---CB  12GLCBDA201312001  747First UI test for DANR                         -343.35 20130605          TISE      danrtest                        
+2013L APU44SA-----SB28---CB  12GLCBDA201312001  748First UI test for DANR                         -202.23 20130605          WOODWORTH danrtest                        
+2013L APU44SA-----SUB6---CB  12GLCBDA201312001  749First UI test for DANR                          -18.24 20130605          ----------danrtest                        
+2013L APU44SA-----SUB6---CB  12GLCBDA201312001  750First UI test for DANR                        -9035.10 20130605          ELLSWORTH danrtest                        
+2013L APU44SA-----SUB6---CB  12GLCBDA201312001  751First UI test for DANR                         -668.04 20130605          HSIEH     danrtest                        
+2013L APU44SA-----SUB6---CB  12GLCBDA201312001  752First UI test for DANR                        -8251.77 20130605          JORDAN    danrtest                        
+2013L APU44SA-----SUB6---CB  12GLCBDA201312001  753First UI test for DANR                       -13426.62 20130605          RODRIGUESKdanrtest                        
+2013L APU44SA-----SUB6---CB  12GLCBDA201312001  754First UI test for DANR                        -6338.35 20130605          TISE      danrtest                        
+2013L APU44SA-----SUB6---CB  12GLCBDA201312001  755First UI test for DANR                        -5965.53 20130605          WOODWORTH danrtest                        
+2013L APU62SA-----SB28---CB  12GLCBDA201312001  756First UI test for DANR                          -44.66 20130605          ----------danrtest                        
+2013L APU62SA-----SB28---CB  12GLCBDA201312001  757First UI test for DANR                        -1660.74 20130605          ELLSWORTH danrtest                        
+2013L APU62SA-----SB28---CB  12GLCBDA201312001  758First UI test for DANR                         -110.86 20130605          HSIEH     danrtest                        
+2013L APU62SA-----SB28---CB  12GLCBDA201312001  759First UI test for DANR                         -747.63 20130605          JORDAN    danrtest                        
+2013L APU62SA-----SB28---CB  12GLCBDA201312001  760First UI test for DANR                        -3037.90 20130605          RODRIGUESKdanrtest                        
+2013L APU62SA-----SB28---CB  12GLCBDA201312001  761First UI test for DANR                         -661.59 20130605          TISE      danrtest                        
+2013L APU62SA-----SB28---CB  12GLCBDA201312001  762First UI test for DANR                         -197.46 20130605          WOODWORTH danrtest                        
+2013L APU62SA-----SUB6---CB  12GLCBDA201312001  763First UI test for DANR                           18.24 20130605          ----------danrtest                        
+2013L APU62SA-----SUB6---CB  12GLCBDA201312001  764First UI test for DANR                        -4517.55 20130605          ELLSWORTH danrtest                        
+2013L APU62SA-----SUB6---CB  12GLCBDA201312001  765First UI test for DANR                         -667.91 20130605          HSIEH     danrtest                        
+2013L APU62SA-----SUB6---CB  12GLCBDA201312001  766First UI test for DANR                        -4065.36 20130605          JORDAN    danrtest                        
+2013L APU62SA-----SUB6---CB  12GLCBDA201312001  767First UI test for DANR                        -6666.00 20130605          RODRIGUESKdanrtest                        
+2013L APU62SA-----SUB6---CB  12GLCBDA201312001  768First UI test for DANR                        -3843.77 20130605          TISE      danrtest                        
+2013L APU62SA-----SUB6---CB  12GLCBDA201312001  769First UI test for DANR                        -3626.03 20130605          WOODWORTH danrtest                        
+2013L AVECSTM-----SB28---CB  12GLCBDA201312001  770First UI test for DANR                         -115.87 20130605          AVICCAB   danrtest                        
+2013L AVECSTM-----SB28---CB  12GLCBDA201312001  771First UI test for DANR                        -3372.72 20130605          AVITAO    danrtest                        
+2013L AVECSTM-----SB28---CB  12GLCBDA201312001  772First UI test for DANR                         1250.70 20130605          AVITMWF   danrtest                        
+2013L AVECSTM-----SUB6---CB  12GLCBDA201312001  773First UI test for DANR                        -1026.49 20130605          AVICCAB   danrtest                        
+2013L AVECSTM-----SUB6---CB  12GLCBDA201312001  774First UI test for DANR                        -9200.48 20130605          AVITAO    danrtest                        
+2013L AVECSTM-----SUB6---CB  12GLCBDA201312001  775First UI test for DANR                        -9652.68 20130605          AVITMWF   danrtest                        
+2013L AVPPSA4-----SB28---CB  12GLCBDA201312001  776First UI test for DANR                         -541.57 20130605          CARUSOME  danrtest                        
+2013L AVPPSA4-----SB28---CB  12GLCBDA201312001  777First UI test for DANR                          827.79 20130605          FROST     danrtest                        
+2013L AVPPSA4-----SB28---CB  12GLCBDA201312001  778First UI test for DANR                          -52.61 20130605          WARRENJOA danrtest                        
+2013L AVPPSA4-----SUB6---CB  12GLCBDA201312001  779First UI test for DANR                        -4545.59 20130605          CARUSOME  danrtest                        
+2013L AVPPSA4-----SUB6---CB  12GLCBDA201312001  780First UI test for DANR                         -556.71 20130605          WARRENJOA danrtest                        
+2013L AVPPSA4ADMINSB28---CB  12GLCBDA201312001  781First UI test for DANR                        -1832.95 20130605          CARUSOME  danrtest                        
+2013L AVPPSA4ADMINSB28---CB  12GLCBDA201312001  782First UI test for DANR                         -289.46 20130605          WARRENJOA danrtest                        
+2013L AVPPSA4ADMINSUB6---CB  12GLCBDA201312001  783First UI test for DANR                       -14345.64 20130605          CARUSOME  danrtest                        
+2013L AVPPSA4ADMINSUB6---CB  12GLCBDA201312001  784First UI test for DANR                       -10723.80 20130605          WARRENJOA danrtest                        
+2013L AVPPSA4WEFGNSB28---CB  12GLCBDA201312001  785First UI test for DANR                          801.24 20130605          ----------danrtest                        
+2013L AVPPSA4WEFGNSB28---CB  12GLCBDA201312001  786First UI test for DANR                        -3311.16 20130605          FROST     danrtest                        
+2013L AVPPSA4WEFGNSUB6---CB  12GLCBDA201312001  787First UI test for DANR                          284.44 20130605          ----------danrtest                        
+2013L AVPPSA4WEFGNSUB6---CB  12GLCBDA201312001  788First UI test for DANR                       -16642.08 20130605          FROST     danrtest                        
+2013L AVPPSA6-----SB28---CB  12GLCBDA201312001  789First UI test for DANR                          -52.61 20130605          WARRENJOA danrtest                        
+2013L AVPPSA6-----SUB6---CB  12GLCBDA201312001  790First UI test for DANR                         -556.71 20130605          WARRENJOA danrtest                        
+2013L AVPPSA6ADMINSB28---CB  12GLCBDA201312001  791First UI test for DANR                         -289.46 20130605          WARRENJOA danrtest                        
+2013L AVPPSA6ADMINSUB6---CB  12GLCBDA201312001  792First UI test for DANR                       -10711.19 20130605          WARRENJOA danrtest                        
+2013L AVPPSA6ETAKESUB6---CB  12GLCBDA201312001  793First UI test for DANR                         -480.97 20130605          ----------danrtest                        
+2013L AVPPSA6WEFGNSB28---CB  12GLCBDA201312001  794First UI test for DANR                          239.33 20130605          ----------danrtest                        
+2013L AVPPSA6WEFGNSB28---CB  12GLCBDA201312001  795First UI test for DANR                        -4173.55 20130605          FROST     danrtest                        
+2013L AVPPSA6WEFGNSUB6---CB  12GLCBDA201312001  796First UI test for DANR                           84.96 20130605          ----------danrtest                        
+2013L AVPPSA6WEFGNSUB6---CB  12GLCBDA201312001  797First UI test for DANR                       -13365.68 20130605          FROST     danrtest                        
+2013L AWFCSTM-----SB28---CB  12GLCBDA201312001  798First UI test for DANR                         -759.05 20130605          WFCCACALCTdanrtest                        
+2013L AWFCSTM-----SUB6---CB  12GLCBDA201312001  799First UI test for DANR                       -11001.54 20130605          WFCCACALCTdanrtest                        
+2013L AXECSTM-----SB28---CB  12GLCBDA201312001  800First UI test for DANR                        -1909.64 20130605          ENTECM6780danrtest                        
+2013L AXECSTM-----SB28---CB  12GLCBDA201312001  801First UI test for DANR                       -12857.31 20130605          ENTFGZ1513danrtest                        
+2013L AXECSTM-----SB28---CB  12GLCBDA201312001  802First UI test for DANR                        -2140.35 20130605          ENTKXG8753danrtest                        
+2013L AXECSTM-----SB28---CB  12GLCBDA201312001  803First UI test for DANR                         1541.14 20130605          ENTMLF9516danrtest                        
+2013L AXECSTM-----SUB6---CB  12GLCBDA201312001  804First UI test for DANR                       -12526.37 20130605          BBWN      danrtest                        
+2013L AXECSTM-----SUB6---CB  12GLCBDA201312001  805First UI test for DANR                       -14681.38 20130605          ENTECM6780danrtest                        
+2013L AXECSTM-----SUB6---CB  12GLCBDA201312001  806First UI test for DANR                       -13527.48 20130605          ENTFGZ1513danrtest                        
+2013L AXECSTM-----SUB6---CB  12GLCBDA201312001  807First UI test for DANR                        -9061.76 20130605          ENTKXG8753danrtest                        
+2013L AXECSTM-----SUB6---CB  12GLCBDA201312001  808First UI test for DANR                       -10221.64 20130605          ENTLDG8783danrtest                        
+2013L AXECSTM-----SUB6---CB  12GLCBDA201312001  809First UI test for DANR                        -2819.83 20130605          ENTMLF9516danrtest                        
+2013L BCD44SA-----SB28---CB  12GLCBDA201312001  810First UI test for DANR                         -126.62 20130605          DORE      danrtest                        
+2013L BCD44SA-----SB28---CB  12GLCBDA201312001  811First UI test for DANR                          -43.95 20130605          GARCIAT   danrtest                        
+2013L BCD44SA-----SB28---CB  12GLCBDA201312001  812First UI test for DANR                         -414.11 20130605          HANSENJERIdanrtest                        
+2013L BCD44SA-----SB28---CB  12GLCBDA201312001  813First UI test for DANR                          -36.06 20130605          HUMPHREYS danrtest                        
+2013L BCD44SA-----SB28---CB  12GLCBDA201312001  814First UI test for DANR                         -658.28 20130605          PRECIAD1  danrtest                        
+2013L BCD44SA-----SB28---CB  12GLCBDA201312001  815First UI test for DANR                         -327.26 20130605          SCHUTZMAN danrtest                        
+2013L BCD44SA-----SUB6---CB  12GLCBDA201312001  816First UI test for DANR                        -3071.82 20130605          DORE      danrtest                        
+2013L BCD44SA-----SUB6---CB  12GLCBDA201312001  817First UI test for DANR                        -4219.91 20130605          GARCIAT   danrtest                        
+2013L BCD44SA-----SUB6---CB  12GLCBDA201312001  818First UI test for DANR                        -6359.77 20130605          HANSENJERIdanrtest                        
+2013L BCD44SA-----SUB6---CB  12GLCBDA201312001  819First UI test for DANR                        -7277.23 20130605          HUMPHREYS danrtest                        
+2013L BCD44SA-----SUB6---CB  12GLCBDA201312001  820First UI test for DANR                        -7952.85 20130605          PRECIAD1  danrtest                        
+2013L BCD44SA-----SUB6---CB  12GLCBDA201312001  821First UI test for DANR                        -4431.67 20130605          SCHUTZMAN danrtest                        
+2013L BCD62SA-----SB28---CB  12GLCBDA201312001  822First UI test for DANR                          -37.54 20130605          ----------danrtest                        
+2013L BCD62SA-----SB28---CB  12GLCBDA201312001  823First UI test for DANR                         -401.98 20130605          DORE      danrtest                        
+2013L BCD62SA-----SB28---CB  12GLCBDA201312001  824First UI test for DANR                         -224.35 20130605          GARCIAT   danrtest                        
+2013L BCD62SA-----SB28---CB  12GLCBDA201312001  825First UI test for DANR                         -660.40 20130605          HANSENJERIdanrtest                        
+2013L BCD62SA-----SB28---CB  12GLCBDA201312001  826First UI test for DANR                         -785.20 20130605          HUMPHREYS danrtest                        
+2013L BCD62SA-----SB28---CB  12GLCBDA201312001  827First UI test for DANR                        -1153.94 20130605          PRECIAD1  danrtest                        
+2013L BCD62SA-----SB28---CB  12GLCBDA201312001  828First UI test for DANR                         -504.24 20130605          SCHUTZMAN danrtest                        
+2013L BCD62SA-----SUB6---CB  12GLCBDA201312001  829First UI test for DANR                         -247.45 20130605          ----------danrtest                        
+2013L BCD62SA-----SUB6---CB  12GLCBDA201312001  830First UI test for DANR                         -411.15 20130605          DORE      danrtest                        
+2013L BCD62SA-----SUB6---CB  12GLCBDA201312001  831First UI test for DANR                        -2176.09 20130605          GARCIAT   danrtest                        
+2013L BCD62SA-----SUB6---CB  12GLCBDA201312001  832First UI test for DANR                        -3932.74 20130605          HANSENJERIdanrtest                        
+2013L BCD62SA-----SUB6---CB  12GLCBDA201312001  833First UI test for DANR                        -2679.22 20130605          HUMPHREYS danrtest                        
+2013L BCD62SA-----SUB6---CB  12GLCBDA201312001  834First UI test for DANR                        -4957.40 20130605          PRECIAD1  danrtest                        
+2013L BCD62SA-----SUB6---CB  12GLCBDA201312001  835First UI test for DANR                        -2567.91 20130605          SCHUTZMAN danrtest                        
+2013L BCK62SA-----SB28---CB  12GLCBDA201312001  836First UI test for DANR                       -15317.18 20130605          ----------danrtest                        
+2013L BCK62SA-----SUB6---CB  12GLCBDA201312001  837First UI test for DANR                      -110596.72 20130605          ----------danrtest                        
+2013L BCKCTY1-----SB28---CB  12GLCBDA201312001  838First UI test for DANR                        -2235.89 20130605          ----------danrtest                        
+2013L BCKCTY1-----SUB6---CB  12GLCBDA201312001  839First UI test for DANR                       -17997.32 20130605          ----------danrtest                        
+2013L CECAFAD-----SB28---CB  12GLCBDA201312001  840First UI test for DANR                          158.40 20130605          ----------danrtest                        
+2013L CECAFAD-----SUB6---CB  12GLCBDA201312001  841First UI test for DANR                        25498.61 20130605          ----------danrtest                        
+2013L CECAFAS-----SB28---CB  12GLCBDA201312001  842First UI test for DANR                       -18774.50 20130605          ----------danrtest                        
+2013L CECAFAS-----SUB6---CB  12GLCBDA201312001  843First UI test for DANR                        -9951.39 20130605          ----------danrtest                        
+2013L CECAFEM-----SB28---CB  12GLCBDA201312001  844First UI test for DANR                       -25922.30 20130605          ----------danrtest                        
+2013L CECAFEM-----SUB6---CB  12GLCBDA201312001  845First UI test for DANR                       -63309.94 20130605          ----------danrtest                        
+2013L CECAFFY-----SB28---CB  12GLCBDA201312001  846First UI test for DANR                       -27751.31 20130605          ----------danrtest                        
+2013L CECAFFY-----SUB6---CB  12GLCBDA201312001  847First UI test for DANR                       -38915.33 20130605          ----------danrtest                        
+2013L CECAFNH-----SB28---CB  12GLCBDA201312001  848First UI test for DANR                       -33374.21 20130605          ----------danrtest                        
+2013L CECAFNH-----SUB6---CB  12GLCBDA201312001  849First UI test for DANR                       -77189.80 20130605          ----------danrtest                        
+2013L CECAFNR-----SB28---CB  12GLCBDA201312001  850First UI test for DANR                       -50572.50 20130605          ----------danrtest                        
+2013L CECAFNR-----SUB6---CB  12GLCBDA201312001  851First UI test for DANR                       -82839.72 20130605          ----------danrtest                        
+2013L CECAFPS-----SB28---CB  12GLCBDA201312001  852First UI test for DANR                      -193009.58 20130605          ----------danrtest                        
+2013L CECAFPS-----SUB6---CB  12GLCBDA201312001  853First UI test for DANR                      -327648.32 20130605          ----------danrtest                        
+2013L CEGSLNHPPHFCSB28---CB  12GLCBDA201312001  854First UI test for DANR                           -3.51 20130605          ----------danrtest                        
+2013L CEGSLNHPPHFCSUB6---CB  12GLCBDA201312001  855First UI test for DANR                         -142.95 20130605          ----------danrtest                        
+2013L CEIMSFYPPGFSSB28---CB  12GLCBDA201312001  856First UI test for DANR                          -87.72 20130605          ----------danrtest                        
+2013L CEIMSFYPPGFSSUB6---CB  12GLCBDA201312001  857First UI test for DANR                           38.70 20130605          ----------danrtest                        
+2013L CEIMSFYPPHFCSB28---CB  12GLCBDA201312001  858First UI test for DANR                         -907.83 20130605          ----------danrtest                        
+2013L CEIMSFYPPHFCSUB6---CB  12GLCBDA201312001  859First UI test for DANR                          237.29 20130605          ----------danrtest                        
+2013L CEIMSNRPPSNESB28---CB  12GLCBDA201312001  860First UI test for DANR                         -574.50 20130605          ----------danrtest                        
+2013L CEIMSNRPPSNESUB6---CB  12GLCBDA201312001  861First UI test for DANR                           64.86 20130605          ----------danrtest                        
+2013L CEIMSPSPPEIPSB28---CB  12GLCBDA201312001  862First UI test for DANR                        -2530.45 20130605          ----------danrtest                        
+2013L CEIMSPSPPEIPSUB6---CB  12GLCBDA201312001  863First UI test for DANR                          952.60 20130605          ----------danrtest                        
+2013L CEIMSPSPPGFSSB28---CB  12GLCBDA201312001  864First UI test for DANR                         -369.63 20130605          ----------danrtest                        
+2013L CEIMSPSPPGFSSUB6---CB  12GLCBDA201312001  865First UI test for DANR                          976.75 20130605          ----------danrtest                        
+2013L CEIMSPSPPWQQSB28---CB  12GLCBDA201312001  866First UI test for DANR                            5.06 20130605          ----------danrtest                        
+2013L CEIMSPSPPWQQSUB6---CB  12GLCBDA201312001  867First UI test for DANR                           57.38 20130605          ----------danrtest                        
+2013L CEIPMJS-----SUB6---CB  12GLCBDA201312001  868First UI test for DANR                           -3.36 20130605          ----------danrtest                        
+2013L CEIPMRB-----SUB6---CB  12GLCBDA201312001  869First UI test for DANR                          -51.70 20130605          ----------danrtest                        
+2013L CEISLNRPPGFSSB28---CB  12GLCBDA201312001  870First UI test for DANR                          783.27 20130605          ----------danrtest                        
+2013L CEISLNRPPGFSSUB6---CB  12GLCBDA201312001  871First UI test for DANR                        -5028.77 20130605          ----------danrtest                        
+2013L CEISLNRPPSBESB28---CB  12GLCBDA201312001  872First UI test for DANR                         -720.64 20130605          ----------danrtest                        
+2013L CEISLNRPPSBESUB6---CB  12GLCBDA201312001  873First UI test for DANR                         8312.61 20130605          ----------danrtest                        
+2013L CEISLNRPPSNESB28---CB  12GLCBDA201312001  874First UI test for DANR                        -3292.90 20130605          ----------danrtest                        
+2013L CEISLNRPPSNESUB6---CB  12GLCBDA201312001  875First UI test for DANR                       -30328.77 20130605          ----------danrtest                        
+2013L CEISLPSPPEIPSB28---CB  12GLCBDA201312001  876First UI test for DANR                          550.26 20130605          ----------danrtest                        
+2013L CEISLPSPPEIPSUB6---CB  12GLCBDA201312001  877First UI test for DANR                        -8764.62 20130605          ----------danrtest                        
+2013L CEISLPSPPGFSSB28---CB  12GLCBDA201312001  878First UI test for DANR                         -438.08 20130605          ----------danrtest                        
+2013L CEISLPSPPGFSSUB6---CB  12GLCBDA201312001  879First UI test for DANR                        -2739.96 20130605          ----------danrtest                        
+2013L CEISLPSPPSNESB28---CB  12GLCBDA201312001  880First UI test for DANR                         -505.10 20130605          ----------danrtest                        
+2013L CEISLPSPPSNESUB6---CB  12GLCBDA201312001  881First UI test for DANR                        -3159.34 20130605          ----------danrtest                        
+2013L CEMSLASPPCLCSB28---CB  12GLCBDA201312001  882First UI test for DANR                          -54.95 20130605          ----------danrtest                        
+2013L CEMSLASPPCLCSUB6---CB  12GLCBDA201312001  883First UI test for DANR                         -728.24 20130605          ----------danrtest                        
+2013L CEMSLASPPGFSSB28---CB  12GLCBDA201312001  884First UI test for DANR                         -527.05 20130605          ----------danrtest                        
+2013L CEMSLASPPGFSSUB6---CB  12GLCBDA201312001  885First UI test for DANR                        -5645.44 20130605          ----------danrtest                        
+2013L CEMSLEMPPGFSSB28---CB  12GLCBDA201312001  886First UI test for DANR                         -972.75 20130605          ----------danrtest                        
+2013L CEMSLEMPPGFSSUB6---CB  12GLCBDA201312001  887First UI test for DANR                        -4170.13 20130605          ----------danrtest                        
+2013L CEMSLEMPPSNESB28---CB  12GLCBDA201312001  888First UI test for DANR                          -39.32 20130605          ----------danrtest                        
+2013L CEMSLEMPPSNESUB6---CB  12GLCBDA201312001  889First UI test for DANR                         -852.19 20130605          ----------danrtest                        
+2013L CEMSLFYPPHFCSB28---CB  12GLCBDA201312001  890First UI test for DANR                        -1735.47 20130605          ----------danrtest                        
+2013L CEMSLFYPPHFCSUB6---CB  12GLCBDA201312001  891First UI test for DANR                        -4961.58 20130605          ----------danrtest                        
+2013L CEMSLNHPPHFCSB28---CB  12GLCBDA201312001  892First UI test for DANR                         -810.14 20130605          ----------danrtest                        
+2013L CEMSLNHPPHFCSUB6---CB  12GLCBDA201312001  893First UI test for DANR                        -4506.79 20130605          ----------danrtest                        
+2013L CEMSLNRPPGFSSB28---CB  12GLCBDA201312001  894First UI test for DANR                          -65.17 20130605          ----------danrtest                        
+2013L CEMSLNRPPGFSSUB6---CB  12GLCBDA201312001  895First UI test for DANR                         -590.15 20130605          ----------danrtest                        
+2013L CEMSLNRPPSNESB28---CB  12GLCBDA201312001  896First UI test for DANR                         -659.06 20130605          ----------danrtest                        
+2013L CEMSLNRPPSNESUB6---CB  12GLCBDA201312001  897First UI test for DANR                        -4731.40 20130605          ----------danrtest                        
+2013L CEMSLNRPPWQQSB28---CB  12GLCBDA201312001  898First UI test for DANR                         -383.90 20130605          ----------danrtest                        
+2013L CEMSLNRPPWQQSUB6---CB  12GLCBDA201312001  899First UI test for DANR                        -1814.44 20130605          ----------danrtest                        
+2013L CEMSLPSPPEIPSB28---CB  12GLCBDA201312001  900First UI test for DANR                          236.33 20130605          ----------danrtest                        
+2013L CEMSLPSPPEIPSUB6---CB  12GLCBDA201312001  901First UI test for DANR                       -21196.96 20130605          ----------danrtest                        
+2013L CEMSLPSPPGFSSB28---CB  12GLCBDA201312001  902First UI test for DANR                        -1073.21 20130605          ----------danrtest                        
+2013L CEMSLPSPPGFSSUB6---CB  12GLCBDA201312001  903First UI test for DANR                        -8151.62 20130605          ----------danrtest                        
+2013L CEMSLPSPPSNESB28---CB  12GLCBDA201312001  904First UI test for DANR                          104.26 20130605          ----------danrtest                        
+2013L CEMSLPSPPSNESUB6---CB  12GLCBDA201312001  905First UI test for DANR                         -681.52 20130605          ----------danrtest                        
+2013L CEMSLPSPPWQQSB28---CB  12GLCBDA201312001  906First UI test for DANR                          -77.70 20130605          ----------danrtest                        
+2013L CEMSLPSPPWQQSUB6---CB  12GLCBDA201312001  907First UI test for DANR                         -544.45 20130605          ----------danrtest                        
+2013L CEPRSTF-----SB28---CB  12GLCBDA201312001  908First UI test for DANR                       -19200.61 20130605          ----------danrtest                        
+2013L CEPRSTF-----SUB6---CB  12GLCBDA201312001  909First UI test for DANR                      -126165.49 20130605          ----------danrtest                        
+2013L CESWCON-----SB28---CB  12GLCBDA201312001  910First UI test for DANR                        -1449.90 20130605          ----------danrtest                        
+2013L CESWCON-----SUB6---CB  12GLCBDA201312001  911First UI test for DANR                       -12649.94 20130605          ----------danrtest                        
+2013L CGU62SA-----SB28---CB  12GLCBDA201312001  912First UI test for DANR                         -532.15 20130605          DAVISAND  danrtest                        
+2013L CGU62SA-----SB28---CB  12GLCBDA201312001  913First UI test for DANR                         -795.02 20130605          DEETZ     danrtest                        
+2013L CGU62SA-----SB28---CB  12GLCBDA201312001  914First UI test for DANR                         -456.33 20130605          ERNST     danrtest                        
+2013L CGU62SA-----SB28---CB  12GLCBDA201312001  915First UI test for DANR                        -1651.24 20130605          NOLAN     danrtest                        
+2013L CGU62SA-----SB28---CB  12GLCBDA201312001  916First UI test for DANR                         -558.54 20130605          SMITHBERN danrtest                        
+2013L CGU62SA-----SB28---CB  12GLCBDA201312001  917First UI test for DANR                         -370.10 20130605          TURNERMAY danrtest                        
+2013L CGU62SA-----SB28---CB  12GLCBDA201312001  918First UI test for DANR                        -1027.26 20130605          VONGELDERNdanrtest                        
+2013L CGU62SA-----SUB6---CB  12GLCBDA201312001  919First UI test for DANR                          769.37 20130605          ----------danrtest                        
+2013L CGU62SA-----SUB6---CB  12GLCBDA201312001  920First UI test for DANR                        -4110.34 20130605          DAVISAND  danrtest                        
+2013L CGU62SA-----SUB6---CB  12GLCBDA201312001  921First UI test for DANR                        -3126.03 20130605          ERNST     danrtest                        
+2013L CGU62SA-----SUB6---CB  12GLCBDA201312001  922First UI test for DANR                        -7605.92 20130605          NOLAN     danrtest                        
+2013L CGU62SA-----SUB6---CB  12GLCBDA201312001  923First UI test for DANR                          464.57 20130605          SMITHBERN danrtest                        
+2013L CGU62SA-----SUB6---CB  12GLCBDA201312001  924First UI test for DANR                        -1760.25 20130605          TURNERMAY danrtest                        
+2013L CGU62SA-----SUB6---CB  12GLCBDA201312001  925First UI test for DANR                        -4282.92 20130605          VONGELDERNdanrtest                        
+2013L CSADMIN-----SB28---CB  12GLCBDA201312001  926First UI test for DANR                         -368.49 20130605          ----------danrtest                        
+2013L CSADMIN-----SUB6---CB  12GLCBDA201312001  927First UI test for DANR                        -2879.83 20130605          ----------danrtest                        
+2013L CSADPAY-----SB28---CB  12GLCBDA201312001  928First UI test for DANR                       -11280.97 20130605          ----------danrtest                        
+2013L CSADPAY-----SUB6---CB  12GLCBDA201312001  929First UI test for DANR                       -50198.01 20130605          ----------danrtest                        
+2013L CSADVCY-----SB28---CB  12GLCBDA201312001  930First UI test for DANR                        -3661.86 20130605          ----------danrtest                        
+2013L CSADVCY-----SUB6---CB  12GLCBDA201312001  931First UI test for DANR                       -12577.96 20130605          ----------danrtest                        
+2013L CSBIBLY-----SUB6---CB  12GLCBDA201312001  932First UI test for DANR                           -8.70 20130605          ----------danrtest                        
+2013L CSCAJEX-----SB28---CB  12GLCBDA201312001  933First UI test for DANR                         -412.06 20130605          ----------danrtest                        
+2013L CSCAJEX-----SUB6---CB  12GLCBDA201312001  934First UI test for DANR                       -23216.05 20130605          ----------danrtest                        
+2013L CSCONOG-----SB28---CB  12GLCBDA201312001  935First UI test for DANR                          -59.57 20130605          ----------danrtest                        
+2013L CSCONOG-----SUB6---CB  12GLCBDA201312001  936First UI test for DANR                        -9480.79 20130605          ----------danrtest                        
+2013L CSDIGIT-----SB28---CB  12GLCBDA201312001  937First UI test for DANR                         -541.47 20130605          ----------danrtest                        
+2013L CSDIGIT-----SUB6---CB  12GLCBDA201312001  938First UI test for DANR                        -3738.51 20130605          ----------danrtest                        
+2013L CSEDPAY-----SB28---CB  12GLCBDA201312001  939First UI test for DANR                        -9930.12 20130605          ----------danrtest                        
+2013L CSEDPAY-----SUB6---CB  12GLCBDA201312001  940First UI test for DANR                       -62693.64 20130605          ----------danrtest                        
+2013L CSGISTF-----SB28---CB  12GLCBDA201312001  941First UI test for DANR                         -904.20 20130605          ----------danrtest                        
+2013L CSITGPY-----SB28---CB  12GLCBDA201312001  942First UI test for DANR                        -2990.22 20130605          ----------danrtest                        
+2013L CSITGPY-----SUB6---CB  12GLCBDA201312001  943First UI test for DANR                       -29834.56 20130605          ----------danrtest                        
+2013L CSMPIII-----SB28---CB  12GLCBDA201312001  944First UI test for DANR                         -820.85 20130605          ----------danrtest                        
+2013L CSMPIII-----SUB6---CB  12GLCBDA201312001  945First UI test for DANR                        -7563.98 20130605          ----------danrtest                        
+2013L CSMUPAY-----SB28---CB  12GLCBDA201312001  946First UI test for DANR                        -4489.84 20130605          ----------danrtest                        
+2013L CSMUPAY-----SUB6---CB  12GLCBDA201312001  947First UI test for DANR                       -30374.81 20130605          ----------danrtest                        
+2013L CSNIOPY-----SB28---CB  12GLCBDA201312001  948First UI test for DANR                        -3903.53 20130605          ----------danrtest                        
+2013L CSNIOPY-----SUB6---CB  12GLCBDA201312001  949First UI test for DANR                       -19121.63 20130605          ----------danrtest                        
+2013L CSWTPAY-----SB28---CB  12GLCBDA201312001  950First UI test for DANR                        -4154.69 20130605          ----------danrtest                        
+2013L CSWTPAY-----SUB6---CB  12GLCBDA201312001  951First UI test for DANR                       -34035.56 20130605          ----------danrtest                        
+2013L DAG1824-----SUB6---CB  12GLCBDA201312001  952First UI test for DANR                        -2629.02 20130605          ----------danrtest                        
+2013L DMB9085-----SB28---CB  12GLCBDA201312001  953First UI test for DANR                         -311.13 20130605          ----------danrtest                        
+2013L DMB9085-----SUB6---CB  12GLCBDA201312001  954First UI test for DANR                        -6444.80 20130605          ----------danrtest                        
+2013L DMMEYER-----SB28---CB  12GLCBDA201312001  955First UI test for DANR                         -164.63 20130605          PRICEP    danrtest                        
+2013L DMMEYER-----SUB6---CB  12GLCBDA201312001  956First UI test for DANR                           -7.35 20130605          ----------danrtest                        
+2013L DMMEYER-----SUB6---CB  12GLCBDA201312001  957First UI test for DANR                         3275.33 20130605          PRICEP    danrtest                        
+2013L EHS44SA-----SB28---CB  12GLCBDA201312001  958First UI test for DANR                         -969.16 20130605          BARROS    danrtest                        
+2013L EHS44SA-----SB28---CB  12GLCBDA201312001  959First UI test for DANR                        -1311.26 20130605          OATMAN    danrtest                        
+2013L EHS44SA-----SB28---CB  12GLCBDA201312001  960First UI test for DANR                        -1002.60 20130605          OHARRIS   danrtest                        
+2013L EHS44SA-----SUB6---CB  12GLCBDA201312001  961First UI test for DANR                        -8758.74 20130605          BARROS    danrtest                        
+2013L EHS44SA-----SUB6---CB  12GLCBDA201312001  962First UI test for DANR                       -10468.70 20130605          OATMAN    danrtest                        
+2013L EHS44SA-----SUB6---CB  12GLCBDA201312001  963First UI test for DANR                        -9060.84 20130605          OHARRIS   danrtest                        
+2013L EHS62SA-----SB28---CB  12GLCBDA201312001  964First UI test for DANR                        -1503.90 20130605          OHARRIS   danrtest                        
+2013L EHS62SA-----SUB6---CB  12GLCBDA201312001  965First UI test for DANR                        -4530.42 20130605          OHARRIS   danrtest                        
+2013L EHS64SA-----SB28---CB  12GLCBDA201312001  966First UI test for DANR                        -2279.71 20130605          BARROS    danrtest                        
+2013L EHS64SA-----SB28---CB  12GLCBDA201312001  967First UI test for DANR                        -4450.70 20130605          OATMAN    danrtest                        
+2013L EHS64SA-----SUB6---CB  12GLCBDA201312001  968First UI test for DANR                        -4812.38 20130605          BARROS    danrtest                        
+2013L EHS64SA-----SUB6---CB  12GLCBDA201312001  969First UI test for DANR                        -5828.75 20130605          OATMAN    danrtest                        
+2013L ELK64SA-----SB28---CB  12GLCBDA201312001  970First UI test for DANR                         -726.15 20130605          ----------danrtest                        
+2013L ELK64SA-----SUB6---CB  12GLCBDA201312001  971First UI test for DANR                        -2477.95 20130605          ----------danrtest                        
+2013L FGZ0089-----SB28---CB  12GLCBDA201312001  972First UI test for DANR                          -61.90 20130605          ----------danrtest                        
+2013L FGZ0089-----SUB6---CB  12GLCBDA201312001  973First UI test for DANR                         -514.34 20130605          ----------danrtest                        
+2013L FMMITLO-----SB28---CB  12GLCBDA201312001  974First UI test for DANR                         -328.04 20130605          PAN       danrtest                        
+2013L FMMITLO-----SB28---CB  12GLCBDA201312001  975First UI test for DANR                         1254.00 20130605          ZHAO      danrtest                        
+2013L FMMITLO-----SUB6---CB  12GLCBDA201312001  976First UI test for DANR                        -3516.65 20130605          PAN       danrtest                        
+2013L FMMITLO-----SUB6---CB  12GLCBDA201312001  977First UI test for DANR                         7696.74 20130605          ZHAO      danrtest                        
+2013L HART786-----SB28---CB  12GLCBDA201312001  978First UI test for DANR                         5399.31 20130605          ----------danrtest                        
+2013L HART786-----SUB6---CB  12GLCBDA201312001  979First UI test for DANR                       -15453.38 20130605          ----------danrtest                        
+2013L HFCISLFPPHFCSUB6---CB  12GLCBDA201312001  980First UI test for DANR                         -216.76 20130605          ----------danrtest                        
+2013L IGISISL-----SB28---CB  12GLCBDA201312001  981First UI test for DANR                          170.28 20130605          ----------danrtest                        
+2013L IGISISL-----SB28---CB  12GLCBDA201312001  982First UI test for DANR                        -1005.10 20130605          KLYNN     danrtest                        
+2013L IGISISL-----SUB6---CB  12GLCBDA201312001  983First UI test for DANR                        -2785.37 20130605          ----------danrtest                        
+2013L IGISISL-----SUB6---CB  12GLCBDA201312001  984First UI test for DANR                        -4629.61 20130605          KLYNN     danrtest                        
+2013L IGISISLSCANSSB28---CB  12GLCBDA201312001  985First UI test for DANR                          -47.78 20130605          ----------danrtest                        
+2013L IGISISLSCANSSUB6---CB  12GLCBDA201312001  986First UI test for DANR                          -54.86 20130605          ----------danrtest                        
+2013L IGISSA4-----SB28---CB  12GLCBDA201312001  987First UI test for DANR                        -1005.10 20130605          KLYNN     danrtest                        
+2013L IGISSA4-----SUB6---CB  12GLCBDA201312001  988First UI test for DANR                        -5799.29 20130605          KLYNN     danrtest                        
+2013L KVS1822-----SB28---CB  12GLCBDA201312001  989First UI test for DANR                         -451.44 20130605          ----------danrtest                        
+2013L KVS1822-----SUB6---CB  12GLCBDA201312001  990First UI test for DANR                        -2971.86 20130605          ----------danrtest                        
+2013L LDG0087-----SB28---CB  12GLCBDA201312001  991First UI test for DANR                         -193.17 20130605          ----------danrtest                        
+2013L LDG0087-----SUB6---CB  12GLCBDA201312001  992First UI test for DANR                        -1641.26 20130605          ----------danrtest                        
+2013L LJH9085-----SB28---CB  12GLCBDA201312001  993First UI test for DANR                          -77.98 20130605          ----------danrtest                        
+2013L LJH9085-----SUB6---CB  12GLCBDA201312001  994First UI test for DANR                         -512.49 20130605          ----------danrtest                        
+2013L MLF0090-----SUB6---CB  12GLCBDA201312001  995First UI test for DANR                          -54.27 20130605          ----------danrtest                        
+2013L OCB44SA-----SB28---CB  12GLCBDA201312001  996First UI test for DANR                         -850.00 20130605          ----------danrtest                        
+2013L OCB44SA-----SUB6---CB  12GLCBDA201312001  997First UI test for DANR                        -7072.12 20130605          ----------danrtest                        
+2013L OCB62SA-----SB28---CB  12GLCBDA201312001  998First UI test for DANR                         -850.00 20130605          ----------danrtest                        
+2013L OCB62SA-----SUB6---CB  12GLCBDA201312001  999First UI test for DANR                        -3840.90 20130605          ----------danrtest                        
+2013L OGEN786-----SUB6---CB  12GLCBDA201312001 1000First UI test for DANR                           -0.15 20130605          ----------danrtest                        
+2013L PHROBIN-----SB28---CB  12GLCBDA201312001 1001First UI test for DANR                          -33.54 20130605          ----------danrtest                        
+2013L PHROBIN-----SUB6---CB  12GLCBDA201312001 1002First UI test for DANR                        -3554.14 20130605          ----------danrtest                        
+2013L PIT62SA-----SB28---CB  12GLCBDA201312001 1003First UI test for DANR                         -241.07 20130605          ----------danrtest                        
+2013L PIT62SA-----SUB6---CB  12GLCBDA201312001 1004First UI test for DANR                        -1174.31 20130605          ----------danrtest                        
+2013L PR2105021050SUB8---CB  12GLCBDA201312001 1005First UI test for DANR                          478.66 20130605          ----------danrtest                        
+2013L PR2105621056SUB8---CB  12GLCBDA201312001 1006First UI test for DANR                        65549.94 20130605          ----------danrtest                        
+2013L PR2105721057SUB8---CB  12GLCBDA201312001 1007First UI test for DANR                        65386.45 20130605          ----------danrtest                        
+2013L PR2105821058SUB8---CB  12GLCBDA201312001 1008First UI test for DANR                       100894.44 20130605          ----------danrtest                        
+2013L PSU44SA-----SB28---CB  12GLCBDA201312001 1009First UI test for DANR                         1160.51 20130605          ----------danrtest                        
+2013L PSU44SA-----SB28---CB  12GLCBDA201312001 1010First UI test for DANR                          619.40 20130605          CARUSO    danrtest                        
+2013L PSU44SA-----SB28---CB  12GLCBDA201312001 1011First UI test for DANR                           60.67 20130605          MCNEES    danrtest                        
+2013L PSU44SA-----SB28---CB  12GLCBDA201312001 1012First UI test for DANR                          -52.03 20130605          WARRENJ   danrtest                        
+2013L PSU44SA-----SUB6---CB  12GLCBDA201312001 1013First UI test for DANR                         5230.44 20130605          ----------danrtest                        
+2013L PSU44SA-----SUB6---CB  12GLCBDA201312001 1014First UI test for DANR                         -317.01 20130605          BERTSCHINGdanrtest                        
+2013L PSU44SA-----SUB6---CB  12GLCBDA201312001 1015First UI test for DANR                         5240.29 20130605          CARUSO    danrtest                        
+2013L PSU44SA-----SUB6---CB  12GLCBDA201312001 1016First UI test for DANR                        -5665.43 20130605          MCNEES    danrtest                        
+2013L PSU44SA-----SUB6---CB  12GLCBDA201312001 1017First UI test for DANR                         5857.05 20130605          WARRENJ   danrtest                        
+2013L PSU62SA-----SB28---CB  12GLCBDA201312001 1018First UI test for DANR                        -3704.12 20130605          ----------danrtest                        
+2013L PSU62SA-----SB28---CB  12GLCBDA201312001 1019First UI test for DANR                        -1307.84 20130605          AOATES    danrtest                        
+2013L PSU62SA-----SB28---CB  12GLCBDA201312001 1020First UI test for DANR                         -305.64 20130605          BERTSCHINGdanrtest                        
+2013L PSU62SA-----SB28---CB  12GLCBDA201312001 1021First UI test for DANR                          312.30 20130605          COOPER    danrtest                        
+2013L PSU62SA-----SB28---CB  12GLCBDA201312001 1022First UI test for DANR                        -3103.37 20130605          COOPERS   danrtest                        
+2013L PSU62SA-----SB28---CB  12GLCBDA201312001 1023First UI test for DANR                          -78.79 20130605          MCNEES    danrtest                        
+2013L PSU62SA-----SB28---CB  12GLCBDA201312001 1024First UI test for DANR                         -268.30 20130605          WARRENJ   danrtest                        
+2013L PSU62SA-----SUB6---CB  12GLCBDA201312001 1025First UI test for DANR                       -27230.53 20130605          ----------danrtest                        
+2013L PSU62SA-----SUB6---CB  12GLCBDA201312001 1026First UI test for DANR                        -9404.98 20130605          AOATES    danrtest                        
+2013L PSU62SA-----SUB6---CB  12GLCBDA201312001 1027First UI test for DANR                         2112.80 20130605          COOPER    danrtest                        
+2013L PSU62SA-----SUB6---CB  12GLCBDA201312001 1028First UI test for DANR                       -13146.59 20130605          COOPERS   danrtest                        
+2013L PSU62SA-----SUB6---CB  12GLCBDA201312001 1029First UI test for DANR                        -2255.39 20130605          MCNEES    danrtest                        
+2013L PSU62SA-----SUB6---CB  12GLCBDA201312001 1030First UI test for DANR                         7067.56 20130605          WARRENJ   danrtest                        
+2013L RMD1821-----SB28---CB  12GLCBDA201312001 1031First UI test for DANR                         -331.91 20130605          ----------danrtest                        
+2013L RMD1821-----SUB6---CB  12GLCBDA201312001 1032First UI test for DANR                        -2767.65 20130605          ----------danrtest                        
+2013L SFPACSA-----SB28---CB  12GLCBDA201312001 1033First UI test for DANR                        -1364.40 20130605          ----------danrtest                        
+2013L SFPACSA-----SUB6---CB  12GLCBDA201312001 1034First UI test for DANR                        -4955.07 20130605          ----------danrtest                        
+2013L SFSISLFPPGFSSUB6---CB  12GLCBDA201312001 1035First UI test for DANR                         -216.68 20130605          ----------danrtest                        
+2013L SPU44SA-----SB28---CB  12GLCBDA201312001 1036First UI test for DANR                         -163.80 20130605          ----------danrtest                        
+2013L SPU44SA-----SB28---CB  12GLCBDA201312001 1037First UI test for DANR                         -107.94 20130605          BANTA     danrtest                        
+2013L SPU44SA-----SB28---CB  12GLCBDA201312001 1038First UI test for DANR                         -348.29 20130605          CHRISTY   danrtest                        
+2013L SPU44SA-----SB28---CB  12GLCBDA201312001 1039First UI test for DANR                         -400.33 20130605          HOBART    danrtest                        
+2013L SPU44SA-----SB28---CB  12GLCBDA201312001 1040First UI test for DANR                         -115.29 20130605          LATOYA    danrtest                        
+2013L SPU44SA-----SB28---CB  12GLCBDA201312001 1041First UI test for DANR                         -929.18 20130605          MANTON    danrtest                        
+2013L SPU44SA-----SB28---CB  12GLCBDA201312001 1042First UI test for DANR                        -1366.65 20130605          MARTINEZR danrtest                        
+2013L SPU44SA-----SB28---CB  12GLCBDA201312001 1043First UI test for DANR                         -151.67 20130605          MCCARTY   danrtest                        
+2013L SPU44SA-----SB28---CB  12GLCBDA201312001 1044First UI test for DANR                         -724.14 20130605          PEREZT    danrtest                        
+2013L SPU44SA-----SB28---CB  12GLCBDA201312001 1045First UI test for DANR                         -283.73 20130605          PLOWMAN   danrtest                        
+2013L SPU44SA-----SB28---CB  12GLCBDA201312001 1046First UI test for DANR                         -294.26 20130605          PRIMM     danrtest                        
+2013L SPU44SA-----SB28---CB  12GLCBDA201312001 1047First UI test for DANR                         -110.59 20130605          RAMZAN    danrtest                        
+2013L SPU44SA-----SB28---CB  12GLCBDA201312001 1048First UI test for DANR                         -141.75 20130605          SPUROBERTSdanrtest                        
+2013L SPU44SA-----SB28---CB  12GLCBDA201312001 1049First UI test for DANR                         -940.72 20130605          WHITED    danrtest                        
+2013L SPU44SA-----SUB6---CB  12GLCBDA201312001 1050First UI test for DANR                        -2991.91 20130605          ----------danrtest                        
+2013L SPU44SA-----SUB6---CB  12GLCBDA201312001 1051First UI test for DANR                        -5846.23 20130605          BANTA     danrtest                        
+2013L SPU44SA-----SUB6---CB  12GLCBDA201312001 1052First UI test for DANR                        -3109.07 20130605          CHRISTY   danrtest                        
+2013L SPU44SA-----SUB6---CB  12GLCBDA201312001 1053First UI test for DANR                        -8025.58 20130605          HOBART    danrtest                        
+2013L SPU44SA-----SUB6---CB  12GLCBDA201312001 1054First UI test for DANR                        -2335.21 20130605          LATOYA    danrtest                        
+2013L SPU44SA-----SUB6---CB  12GLCBDA201312001 1055First UI test for DANR                        -2550.81 20130605          MANTON    danrtest                        
+2013L SPU44SA-----SUB6---CB  12GLCBDA201312001 1056First UI test for DANR                        -9475.92 20130605          MARTINEZR danrtest                        
+2013L SPU44SA-----SUB6---CB  12GLCBDA201312001 1057First UI test for DANR                        -7655.51 20130605          MCCARTY   danrtest                        
+2013L SPU44SA-----SUB6---CB  12GLCBDA201312001 1058First UI test for DANR                        -7481.51 20130605          PEREZT    danrtest                        
+2013L SPU44SA-----SUB6---CB  12GLCBDA201312001 1059First UI test for DANR                        -3226.60 20130605          PLOWMAN   danrtest                        
+2013L SPU44SA-----SUB6---CB  12GLCBDA201312001 1060First UI test for DANR                        -2453.68 20130605          PRIMM     danrtest                        
+2013L SPU44SA-----SUB6---CB  12GLCBDA201312001 1061First UI test for DANR                        -1971.93 20130605          RAMZAN    danrtest                        
+2013L SPU44SA-----SUB6---CB  12GLCBDA201312001 1062First UI test for DANR                        -1647.99 20130605          SERVISS   danrtest                        
+2013L SPU44SA-----SUB6---CB  12GLCBDA201312001 1063First UI test for DANR                        -1182.04 20130605          SPUROBERTSdanrtest                        
+2013L SPU44SA-----SUB6---CB  12GLCBDA201312001 1064First UI test for DANR                        -8672.37 20130605          WHITED    danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001 1065First UI test for DANR                         -370.83 20130605          ----------danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001 1066First UI test for DANR                         -318.14 20130605          BANTA     danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001 1067First UI test for DANR                         -355.27 20130605          CHRISTY   danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001 1068First UI test for DANR                         -709.21 20130605          HOBART    danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001 1069First UI test for DANR                         -308.57 20130605          LATOYA    danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001 1070First UI test for DANR                        -2105.22 20130605          MANTON    danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001 1071First UI test for DANR                        -2144.03 20130605          MARTINEZR danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001 1072First UI test for DANR                         -555.99 20130605          MCCARTY   danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001 1073First UI test for DANR                         -193.28 20130605          NGUYENA   danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001 1074First UI test for DANR                        -1172.28 20130605          PEREZT    danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001 1075First UI test for DANR                         -283.75 20130605          PLOWMAN   danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001 1076First UI test for DANR                         -294.26 20130605          PRIMM     danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001 1077First UI test for DANR                         -104.24 20130605          RAMZAN    danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001 1078First UI test for DANR                         -516.04 20130605          SERVISS   danrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001 1079First UI test for DANR                         -141.75 20130605          SPUROBERTSdanrtest                        
+2013L SPU62SA-----SB28---CB  12GLCBDA201312001 1080First UI test for DANR                        -1475.82 20130605          WHITED    danrtest                        
+2013L SPU62SA-----SUB6---CB  12GLCBDA201312001 1081First UI test for DANR                         -683.28 20130605          ----------danrtest                        
+2013L SPU62SA-----SUB6---CB  12GLCBDA201312001 1082First UI test for DANR                        -3306.00 20130605          BANTA     danrtest                        
+2013L SPU62SA-----SUB6---CB  12GLCBDA201312001 1083First UI test for DANR                        -3112.36 20130605          CHRISTY   danrtest                        
+2013L SPU62SA-----SUB6---CB  12GLCBDA201312001 1084First UI test for DANR                        -4161.59 20130605          HOBART    danrtest                        
+2013L SPU62SA-----SUB6---CB  12GLCBDA201312001 1085First UI test for DANR                         -548.21 20130605          LATOYA    danrtest                        
+2013L SPU62SA-----SUB6---CB  12GLCBDA201312001 1086First UI test for DANR                        -1229.16 20130605          MANTON    danrtest                        
+2013L SPU62SA-----SUB6---CB  12GLCBDA201312001 1087First UI test for DANR                        -4704.57 20130605          MARTINEZR danrtest                        
+2013L SPU62SA-----SUB6---CB  12GLCBDA201312001 1088First UI test for DANR                        -4560.27 20130605          MCCARTY   danrtest                        
+2013L SPU62SA-----SUB6---CB  12GLCBDA201312001 1089First UI test for DANR                        -4580.77 20130605          PEREZT    danrtest                        
+2013L SPU62SA-----SUB6---CB  12GLCBDA201312001 1090First UI test for DANR                        -3226.75 20130605          PLOWMAN   danrtest                        
+2013L SPU62SA-----SUB6---CB  12GLCBDA201312001 1091First UI test for DANR                        -2453.68 20130605          PRIMM     danrtest                        
+2013L SPU62SA-----SUB6---CB  12GLCBDA201312001 1092First UI test for DANR                        -1968.93 20130605          RAMZAN    danrtest                        
+2013L SPU62SA-----SUB6---CB  12GLCBDA201312001 1093First UI test for DANR                          244.25 20130605          SERVISS   danrtest                        
+2013L SPU62SA-----SUB6---CB  12GLCBDA201312001 1094First UI test for DANR                        -1182.04 20130605          SPUROBERTSdanrtest                        
+2013L SPU62SA-----SUB6---CB  12GLCBDA201312001 1095First UI test for DANR                        -4305.63 20130605          WHITED    danrtest                        
+2013L SWMTG13-----SUB6---CB  12GLCBDA201312001 1096First UI test for DANR                         -355.00 20130605          ----------danrtest                        
+2013L SWPMNAT-----SB28---CB  12GLCBDA201312001 1097First UI test for DANR                         -547.80 20130605          ----------danrtest                        
+2013L SWPMNAT-----SUB6---CB  12GLCBDA201312001 1098First UI test for DANR                        -8282.85 20130605          ----------danrtest                        
+2013L TAK62SA-----SB28---CB  12GLCBDA201312001 1099First UI test for DANR                         -506.41 20130605          ----------danrtest                        
+2013L TAK62SA-----SUB6---CB  12GLCBDA201312001 1100First UI test for DANR                        -6031.52 20130605          ----------danrtest                        
+2013L THOM786-----SUB6---CB  12GLCBDA201312001 1101First UI test for DANR                         -117.75 20130605          ----------danrtest                        
+2013L V619EXT-----SB28---CB  12GLCBDA201312001 1102First UI test for DANR                       -13601.84 20130605          ----------danrtest                        
+2013L V619EXT-----SUB6---CB  12GLCBDA201312001 1103First UI test for DANR                       -66432.90 20130605          ----------danrtest                        
+2013L V619MSL-----SB28---CB  12GLCBDA201312001 1104First UI test for DANR                           -6.77 20130605          ----------danrtest                        
+2013L V619MSL-----SUB6---CB  12GLCBDA201312001 1105First UI test for DANR                         -792.87 20130605          ----------danrtest                        
+2013L V619SIL-----SUB6---CB  12GLCBDA201312001 1106First UI test for DANR                           -4.45 20130605          ----------danrtest                        
+2013L VECFIDM-----SUB6---CB  12GLCBDA201312001 1107First UI test for DANR                            5.01 20130605          ----------danrtest                        
+2013L WDG1823-----SB28---CB  12GLCBDA201312001 1108First UI test for DANR                         -418.08 20130605          ----------danrtest                        
+2013L WDG1823-----SUB6---CB  12GLCBDA201312001 1109First UI test for DANR                        -3548.85 20130605          ----------danrtest                        
+2013L WP69085-----SB28---CB  12GLCBDA201312001 1110First UI test for DANR                        -2398.74 20130605          ----------danrtest                        
+2013L WP69085-----SUB6---CB  12GLCBDA201312001 1111First UI test for DANR                        -9815.28 20130605          ----------danrtest                        
+2013L YFC4HSA-----SB28---CB  12GLCBDA201312001 1112First UI test for DANR                        -6241.35 20130605          ----------danrtest                        
+2013L YFC4HSA-----SB28---CB  12GLCBDA201312001 1113First UI test for DANR                          -91.47 20130605          YFCBELL   danrtest                        
+2013L YFC4HSA-----SB28---CB  12GLCBDA201312001 1114First UI test for DANR                         -244.07 20130605          YFCWORKER danrtest                        
+2013L YFC4HSA-----SUB6---CB  12GLCBDA201312001 1115First UI test for DANR                          -70.60 20130605          ----------danrtest                        
+2013L YFC4HSA-----SUB6---CB  12GLCBDA201312001 1116First UI test for DANR                          -43.17 20130605          YFCBELL   danrtest                        
+2013L YFCMSSL-----SB28---CB  12GLCBDA201312001 1117First UI test for DANR                           96.21 20130605          ----------danrtest                        
+2013L YFCMSSL-----SUB6---CB  12GLCBDA201312001 1118First UI test for DANR                          393.69 20130605          ----------danrtest                        
+2013L YFCMSSLPPHFCSB28---CB  12GLCBDA201312001 1119First UI test for DANR                         -145.86 20130605          ----------danrtest                        
+2013L YFCMSSLPPHFCSB28---CB  12GLCBDA201312001 1120First UI test for DANR                          -64.14 20130605          YFCDOGAN  danrtest                        
+2013L YFCMSSLPPHFCSUB6---CB  12GLCBDA201312001 1121First UI test for DANR                         -770.85 20130605          ----------danrtest                        
+2013L YFCMSSLPPHFCSUB6---CB  12GLCBDA201312001 1122First UI test for DANR                         -262.46 20130605          YFCDOGAN  danrtest                        
+2013L YFCOPER-----SB28---CB  12GLCBDA201312001 1123First UI test for DANR                          -29.63 20130605          TOWNSEND  danrtest                        
+2013L YFCOPER-----SUB6---CB  12GLCBDA201312001 1124First UI test for DANR                         -302.57 20130605          TOWNSEND  danrtest                        
+2013L YFCPROG-----SB28---CB  12GLCBDA201312001 1125First UI test for DANR                         5408.79 20130605          ----------danrtest                        
+2013L YFCPROG-----SB28---CB  12GLCBDA201312001 1126First UI test for DANR                          -84.72 20130605          YFCBELL   danrtest                        
+2013L YFCPROG-----SB28---CB  12GLCBDA201312001 1127First UI test for DANR                        -5372.41 20130605          YFCDOGAN  danrtest                        
+2013L YFCPROG-----SB28---CB  12GLCBDA201312001 1128First UI test for DANR                        -1083.30 20130605          YFCESSER  danrtest                        
+2013L YFCPROG-----SB28---CB  12GLCBDA201312001 1129First UI test for DANR                         -925.89 20130605          YFCHARRIS danrtest                        
+2013L YFCPROG-----SB28---CB  12GLCBDA201312001 1130First UI test for DANR                         -277.01 20130605          YFCHENDERSdanrtest                        
+2013L YFCPROG-----SB28---CB  12GLCBDA201312001 1131First UI test for DANR                        -2742.90 20130605          YFCMINER  danrtest                        
+2013L YFCPROG-----SB28---CB  12GLCBDA201312001 1132First UI test for DANR                        -3745.50 20130605          YFCMOYER  danrtest                        
+2013L YFCPROG-----SB28---CB  12GLCBDA201312001 1133First UI test for DANR                        -2618.62 20130605          YFCSCHNEIDdanrtest                        
+2013L YFCPROG-----SB28---CB  12GLCBDA201312001 1134First UI test for DANR                         -213.27 20130605          YFCWORKER danrtest                        
+2013L YFCPROG-----SUB6---CB  12GLCBDA201312001 1135First UI test for DANR                        36026.53 20130605          ----------danrtest                        
+2013L YFCPROG-----SUB6---CB  12GLCBDA201312001 1136First UI test for DANR                         1475.05 20130605          YFCBELL   danrtest                        
+2013L YFCPROG-----SUB6---CB  12GLCBDA201312001 1137First UI test for DANR                         7380.99 20130605          YFCDOGAN  danrtest                        
+2013L YFCPROG-----SUB6---CB  12GLCBDA201312001 1138First UI test for DANR                        -8312.95 20130605          YFCESSER  danrtest                        
+2013L YFCPROG-----SUB6---CB  12GLCBDA201312001 1139First UI test for DANR                        -3788.55 20130605          YFCHARRIS danrtest                        
+2013L YFCPROG-----SUB6---CB  12GLCBDA201312001 1140First UI test for DANR                        -4910.33 20130605          YFCHENDERSdanrtest                        
+2013L YFCPROG-----SUB6---CB  12GLCBDA201312001 1141First UI test for DANR                         2260.21 20130605          YFCMINER  danrtest                        
+2013L YFCPROG-----SUB6---CB  12GLCBDA201312001 1142First UI test for DANR                        -2647.22 20130605          YFCMOYER  danrtest                        
+2013L YFCPROG-----SUB6---CB  12GLCBDA201312001 1143First UI test for DANR                         4994.21 20130605          YFCSCHNEIDdanrtest                        
+2013L YFCPROG-----SUB6---CB  12GLCBDA201312001 1144First UI test for DANR                         2307.25 20130605          YFCWORKER danrtest                        
+2013L YOUTHRI-----SB28---CB  12GLCBDA201312001 1145First UI test for DANR                         -491.25 20130605          ----------danrtest                        
+2013L YOUTHRI-----SUB6---CB  12GLCBDA201312001 1146First UI test for DANR                         2080.20 20130605          ----------danrtest                        

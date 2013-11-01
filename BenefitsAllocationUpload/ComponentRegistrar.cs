@@ -1,5 +1,7 @@
 
 using BenefitsAllocationUpload.Services;
+//using BenefitsAllocation.Core.Repositories;
+using BenefitsAllocationUpload.Controllers;
 using Castle.Windsor;
 using UCDArch.Core.CommonValidator;
 using UCDArch.Core.DataAnnotationsValidator.CommonValidatorAdapter;
@@ -28,8 +30,8 @@ namespace BenefitsAllocationUpload
             //container.Register(Component.For(typeof(IRepositoryFactory)).ImplementedBy<RepositoryFactory>().Named("repositoryFactory"));
             //container.Register(Component.For(typeof(IDbService)).ImplementedBy<DbService>().Named("dbService"));
 
-            //container.Register(Component.For(typeof(IBarcodeService)).ImplementedBy<BarcodeService>().Named("barcodeService"));
-            //container.Register(Component.For(typeof(IPhredService)).ImplementedBy<PhredService>().Named("phredService"));
+            container.Register(Component.For(typeof(IDataExtractionService)).ImplementedBy<DataExtractionService>().Named("dataExtractionService"));
+            container.Register(Component.For(typeof(ISftpService)).ImplementedBy<SftpService>().Named("sftpService"));
         }
     }
 }

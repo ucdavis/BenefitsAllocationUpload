@@ -1,0 +1,812 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="CATBERT3Model.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityContainer Name="CATBERT3ModelStoreContainer">
+          <EntitySet Name="ApplicationRoles" EntityType="CATBERT3Model.Store.ApplicationRoles" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Applications" EntityType="CATBERT3Model.Store.Applications" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Permissions" EntityType="CATBERT3Model.Store.Permissions" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Roles" EntityType="CATBERT3Model.Store.Roles" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Schools" EntityType="CATBERT3Model.Store.Schools" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Unit" EntityType="CATBERT3Model.Store.Unit" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="UnitAssociations" EntityType="CATBERT3Model.Store.UnitAssociations" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Users" EntityType="CATBERT3Model.Store.Users" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="ApplicationRoles_V" EntityType="CATBERT3Model.Store.ApplicationRoles_V" store:Type="Views" store:Schema="dbo" store:Name="ApplicationRoles_V">
+            <DefiningQuery>SELECT 
+      [ApplicationRoles_V].[ApplicationID] AS [ApplicationID], 
+      [ApplicationRoles_V].[Name] AS [Name], 
+      [ApplicationRoles_V].[Role] AS [Role], 
+      [ApplicationRoles_V].[Inactive] AS [Inactive]
+      FROM [dbo].[ApplicationRoles_V] AS [ApplicationRoles_V]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="ApplicationUsers_V" EntityType="CATBERT3Model.Store.ApplicationUsers_V" store:Type="Views" store:Schema="dbo" store:Name="ApplicationUsers_V">
+            <DefiningQuery>SELECT 
+      [ApplicationUsers_V].[ApplicationID] AS [ApplicationID], 
+      [ApplicationUsers_V].[Name] AS [Name], 
+      [ApplicationUsers_V].[UserID] AS [UserID], 
+      [ApplicationUsers_V].[FirstName] AS [FirstName], 
+      [ApplicationUsers_V].[LastName] AS [LastName], 
+      [ApplicationUsers_V].[EmployeeID] AS [EmployeeID], 
+      [ApplicationUsers_V].[Role] AS [Role], 
+      [ApplicationUsers_V].[Inactive] AS [Inactive], 
+      [ApplicationUsers_V].[PermissionID] AS [PermissionID]
+      FROM [dbo].[ApplicationUsers_V] AS [ApplicationUsers_V]</DefiningQuery>
+          </EntitySet>
+          <AssociationSet Name="FK_ApplicationRoles_Applications" Association="CATBERT3Model.Store.FK_ApplicationRoles_Applications">
+            <End Role="Applications" EntitySet="Applications" />
+            <End Role="ApplicationRoles" EntitySet="ApplicationRoles" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ApplicationRoles_Roles" Association="CATBERT3Model.Store.FK_ApplicationRoles_Roles">
+            <End Role="Roles" EntitySet="Roles" />
+            <End Role="ApplicationRoles" EntitySet="ApplicationRoles" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Permissions_Applications" Association="CATBERT3Model.Store.FK_Permissions_Applications">
+            <End Role="Applications" EntitySet="Applications" />
+            <End Role="Permissions" EntitySet="Permissions" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Permissions_Roles" Association="CATBERT3Model.Store.FK_Permissions_Roles">
+            <End Role="Roles" EntitySet="Roles" />
+            <End Role="Permissions" EntitySet="Permissions" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Permissions_Users" Association="CATBERT3Model.Store.FK_Permissions_Users">
+            <End Role="Users" EntitySet="Users" />
+            <End Role="Permissions" EntitySet="Permissions" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Unit_Schools" Association="CATBERT3Model.Store.FK_Unit_Schools">
+            <End Role="Schools" EntitySet="Schools" />
+            <End Role="Unit" EntitySet="Unit" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Unit_Unit_Parent" Association="CATBERT3Model.Store.FK_Unit_Unit_Parent">
+            <End Role="Unit" EntitySet="Unit" />
+            <End Role="Unit1" EntitySet="Unit" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UnitAssociations_Applications" Association="CATBERT3Model.Store.FK_UnitAssociations_Applications">
+            <End Role="Applications" EntitySet="Applications" />
+            <End Role="UnitAssociations" EntitySet="UnitAssociations" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UnitAssociations_Unit" Association="CATBERT3Model.Store.FK_UnitAssociations_Unit">
+            <End Role="Unit" EntitySet="Unit" />
+            <End Role="UnitAssociations" EntitySet="UnitAssociations" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UnitAssociations_Users" Association="CATBERT3Model.Store.FK_UnitAssociations_Users">
+            <End Role="Users" EntitySet="Users" />
+            <End Role="UnitAssociations" EntitySet="UnitAssociations" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="ApplicationRoles">
+          <Key>
+            <PropertyRef Name="ApplicationRoleID" />
+          </Key>
+          <Property Name="ApplicationRoleID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="ApplicationID" Type="int" Nullable="false" />
+          <Property Name="RoleID" Type="int" Nullable="false" />
+          <Property Name="Level" Type="int" />
+        </EntityType>
+        <EntityType Name="Applications">
+          <Key>
+            <PropertyRef Name="ApplicationID" />
+          </Key>
+          <Property Name="ApplicationID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="Abbr" Type="nvarchar" MaxLength="50" />
+          <Property Name="Location" Type="nvarchar" MaxLength="256" />
+          <Property Name="IconLocation" Type="nvarchar" MaxLength="256" />
+          <Property Name="Inactive" Type="bit" Nullable="false" />
+          <Property Name="WebServiceHash" Type="nvarchar" MaxLength="100" />
+          <Property Name="Salt" Type="nvarchar" MaxLength="20" />
+        </EntityType>
+        <EntityType Name="Permissions">
+          <Key>
+            <PropertyRef Name="PermissionID" />
+          </Key>
+          <Property Name="PermissionID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="UserID" Type="int" Nullable="false" />
+          <Property Name="ApplicationID" Type="int" />
+          <Property Name="RoleID" Type="int" />
+          <Property Name="Inactive" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Roles">
+          <Key>
+            <PropertyRef Name="RoleID" />
+          </Key>
+          <Property Name="RoleID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Role" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="Inactive" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Schools">
+          <Key>
+            <PropertyRef Name="SchoolCode" />
+          </Key>
+          <Property Name="SchoolCode" Type="varchar" Nullable="false" MaxLength="2" />
+          <Property Name="ShortDescription" Type="varchar" Nullable="false" MaxLength="25" />
+          <Property Name="LongDescription" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="Abbreviation" Type="varchar" Nullable="false" MaxLength="12" />
+        </EntityType>
+        <EntityType Name="Unit">
+          <Key>
+            <PropertyRef Name="UnitID" />
+          </Key>
+          <Property Name="UnitID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="FullName" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="ShortName" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="PPS_Code" Type="char" MaxLength="6" />
+          <Property Name="FIS_Code" Type="char" Nullable="false" MaxLength="4" />
+          <Property Name="SchoolCode" Type="varchar" Nullable="false" MaxLength="2" />
+          <Property Name="ParentID" Type="int" />
+          <Property Name="Type" Type="varchar" MaxLength="10" />
+        </EntityType>
+        <EntityType Name="UnitAssociations">
+          <Key>
+            <PropertyRef Name="UnitAssociationID" />
+          </Key>
+          <Property Name="UnitAssociationID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="UnitID" Type="int" Nullable="false" />
+          <Property Name="UserID" Type="int" Nullable="false" />
+          <Property Name="ApplicationID" Type="int" Nullable="false" />
+          <Property Name="Inactive" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Users">
+          <Key>
+            <PropertyRef Name="UserID" />
+          </Key>
+          <Property Name="UserID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="LoginID" Type="varchar" Nullable="false" MaxLength="10" />
+          <Property Name="Email" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="Phone" Type="varchar" MaxLength="50" />
+          <Property Name="FirstName" Type="nvarchar" MaxLength="50" />
+          <Property Name="LastName" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="EmployeeID" Type="varchar" MaxLength="9" />
+          <Property Name="StudentID" Type="varchar" MaxLength="9" />
+          <Property Name="UserImage" Type="nvarchar" MaxLength="50" />
+          <Property Name="SID" Type="nvarchar" MaxLength="50" />
+          <Property Name="Inactive" Type="bit" Nullable="false" />
+          <Property Name="UserKey" Type="uniqueidentifier" Nullable="false" />
+        </EntityType>
+        <!--Errors Found During Generation:
+      warning 6002: The table/view 'Catbert3.dbo.ApplicationRoles_V' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+        <EntityType Name="ApplicationRoles_V">
+          <Key>
+            <PropertyRef Name="ApplicationID" />
+            
+            <PropertyRef Name="Role" />
+            
+          </Key>
+          <Property Name="ApplicationID" Type="int" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="Role" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="Inactive" Type="bit" Nullable="false" />
+        </EntityType>
+        <!--Errors Found During Generation:
+      warning 6002: The table/view 'Catbert3.dbo.ApplicationUsers_V' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+        <EntityType Name="ApplicationUsers_V">
+          <Key>
+            <PropertyRef Name="ApplicationID" />
+            
+            <PropertyRef Name="UserID" />
+            
+            
+            
+            <PropertyRef Name="PermissionID" />
+          </Key>
+          <Property Name="ApplicationID" Type="int" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="UserID" Type="int" Nullable="false" />
+          <Property Name="FirstName" Type="nvarchar" MaxLength="50" />
+          <Property Name="LastName" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="EmployeeID" Type="varchar" MaxLength="9" />
+          <Property Name="Role" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="Inactive" Type="bit" Nullable="false" />
+          <Property Name="PermissionID" Type="int" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_ApplicationRoles_Applications">
+          <End Role="Applications" Type="CATBERT3Model.Store.Applications" Multiplicity="1" />
+          <End Role="ApplicationRoles" Type="CATBERT3Model.Store.ApplicationRoles" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Applications">
+              <PropertyRef Name="ApplicationID" />
+            </Principal>
+            <Dependent Role="ApplicationRoles">
+              <PropertyRef Name="ApplicationID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ApplicationRoles_Roles">
+          <End Role="Roles" Type="CATBERT3Model.Store.Roles" Multiplicity="1" />
+          <End Role="ApplicationRoles" Type="CATBERT3Model.Store.ApplicationRoles" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Roles">
+              <PropertyRef Name="RoleID" />
+            </Principal>
+            <Dependent Role="ApplicationRoles">
+              <PropertyRef Name="RoleID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Permissions_Applications">
+          <End Role="Applications" Type="CATBERT3Model.Store.Applications" Multiplicity="0..1" />
+          <End Role="Permissions" Type="CATBERT3Model.Store.Permissions" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Applications">
+              <PropertyRef Name="ApplicationID" />
+            </Principal>
+            <Dependent Role="Permissions">
+              <PropertyRef Name="ApplicationID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Permissions_Roles">
+          <End Role="Roles" Type="CATBERT3Model.Store.Roles" Multiplicity="0..1" />
+          <End Role="Permissions" Type="CATBERT3Model.Store.Permissions" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Roles">
+              <PropertyRef Name="RoleID" />
+            </Principal>
+            <Dependent Role="Permissions">
+              <PropertyRef Name="RoleID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Permissions_Users">
+          <End Role="Users" Type="CATBERT3Model.Store.Users" Multiplicity="1" />
+          <End Role="Permissions" Type="CATBERT3Model.Store.Permissions" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Users">
+              <PropertyRef Name="UserID" />
+            </Principal>
+            <Dependent Role="Permissions">
+              <PropertyRef Name="UserID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Unit_Schools">
+          <End Role="Schools" Type="CATBERT3Model.Store.Schools" Multiplicity="1" />
+          <End Role="Unit" Type="CATBERT3Model.Store.Unit" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Schools">
+              <PropertyRef Name="SchoolCode" />
+            </Principal>
+            <Dependent Role="Unit">
+              <PropertyRef Name="SchoolCode" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Unit_Unit_Parent">
+          <End Role="Unit" Type="CATBERT3Model.Store.Unit" Multiplicity="0..1" />
+          <End Role="Unit1" Type="CATBERT3Model.Store.Unit" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Unit">
+              <PropertyRef Name="UnitID" />
+            </Principal>
+            <Dependent Role="Unit1">
+              <PropertyRef Name="ParentID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UnitAssociations_Applications">
+          <End Role="Applications" Type="CATBERT3Model.Store.Applications" Multiplicity="1" />
+          <End Role="UnitAssociations" Type="CATBERT3Model.Store.UnitAssociations" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Applications">
+              <PropertyRef Name="ApplicationID" />
+            </Principal>
+            <Dependent Role="UnitAssociations">
+              <PropertyRef Name="ApplicationID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UnitAssociations_Unit">
+          <End Role="Unit" Type="CATBERT3Model.Store.Unit" Multiplicity="1" />
+          <End Role="UnitAssociations" Type="CATBERT3Model.Store.UnitAssociations" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Unit">
+              <PropertyRef Name="UnitID" />
+            </Principal>
+            <Dependent Role="UnitAssociations">
+              <PropertyRef Name="UnitID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UnitAssociations_Users">
+          <End Role="Users" Type="CATBERT3Model.Store.Users" Multiplicity="1" />
+          <End Role="UnitAssociations" Type="CATBERT3Model.Store.UnitAssociations" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Users">
+              <PropertyRef Name="UserID" />
+            </Principal>
+            <Dependent Role="UnitAssociations">
+              <PropertyRef Name="UserID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="CATBERT3Model" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="CATBERT3Entities" p1:LazyLoadingEnabled="true">
+          <EntitySet Name="ApplicationRoles" EntityType="CATBERT3Model.ApplicationRole" />
+          <EntitySet Name="Applications" EntityType="CATBERT3Model.Application" />
+          <EntitySet Name="Permissions" EntityType="CATBERT3Model.Permission" />
+          <EntitySet Name="Roles" EntityType="CATBERT3Model.Role" />
+          <EntitySet Name="Schools" EntityType="CATBERT3Model.School" />
+          <EntitySet Name="Units" EntityType="CATBERT3Model.Unit" />
+          <EntitySet Name="UnitAssociations" EntityType="CATBERT3Model.UnitAssociation" />
+          <EntitySet Name="Users" EntityType="CATBERT3Model.User" />
+          <EntitySet Name="ApplicationRoles_V" EntityType="CATBERT3Model.ApplicationRoles_V" />
+          <EntitySet Name="ApplicationUsers_V" EntityType="CATBERT3Model.ApplicationUsers_V" />
+          <AssociationSet Name="FK_ApplicationRoles_Applications" Association="CATBERT3Model.FK_ApplicationRoles_Applications">
+            <End Role="Applications" EntitySet="Applications" />
+            <End Role="ApplicationRoles" EntitySet="ApplicationRoles" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ApplicationRoles_Roles" Association="CATBERT3Model.FK_ApplicationRoles_Roles">
+            <End Role="Roles" EntitySet="Roles" />
+            <End Role="ApplicationRoles" EntitySet="ApplicationRoles" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Permissions_Applications" Association="CATBERT3Model.FK_Permissions_Applications">
+            <End Role="Applications" EntitySet="Applications" />
+            <End Role="Permissions" EntitySet="Permissions" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UnitAssociations_Applications" Association="CATBERT3Model.FK_UnitAssociations_Applications">
+            <End Role="Applications" EntitySet="Applications" />
+            <End Role="UnitAssociations" EntitySet="UnitAssociations" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Permissions_Roles" Association="CATBERT3Model.FK_Permissions_Roles">
+            <End Role="Roles" EntitySet="Roles" />
+            <End Role="Permissions" EntitySet="Permissions" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Permissions_Users" Association="CATBERT3Model.FK_Permissions_Users">
+            <End Role="Users" EntitySet="Users" />
+            <End Role="Permissions" EntitySet="Permissions" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Unit_Schools" Association="CATBERT3Model.FK_Unit_Schools">
+            <End Role="Schools" EntitySet="Schools" />
+            <End Role="Unit" EntitySet="Units" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Unit_Unit_Parent" Association="CATBERT3Model.FK_Unit_Unit_Parent">
+            <End Role="Unit" EntitySet="Units" />
+            <End Role="Unit1" EntitySet="Units" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UnitAssociations_Unit" Association="CATBERT3Model.FK_UnitAssociations_Unit">
+            <End Role="Unit" EntitySet="Units" />
+            <End Role="UnitAssociations" EntitySet="UnitAssociations" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UnitAssociations_Users" Association="CATBERT3Model.FK_UnitAssociations_Users">
+            <End Role="Users" EntitySet="Users" />
+            <End Role="UnitAssociations" EntitySet="UnitAssociations" />
+          </AssociationSet>
+        </EntityContainer>
+        <ComplexType Name="udf_Catbert3_vUserRoles_Result">
+          <Property Name="UserID" Type="Int32" Nullable="false" />
+          <Property Name="RoleID" Type="Int32" Nullable="false" />
+          <Property Name="Inactive" Type="Boolean" Nullable="false" />
+        </ComplexType>
+        <ComplexType Name="udf_Catbert3_vUsers_Result">
+          <Property Name="UserID" Type="Int32" Nullable="false" />
+          <Property Name="LoginID" Type="String" Nullable="false" MaxLength="10" Unicode="false" FixedLength="false" />
+          <Property Name="FirstName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="LastName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="EmployeeID" Type="String" MaxLength="9" Unicode="false" FixedLength="false" />
+          <Property Name="StudentID" Type="String" MaxLength="9" Unicode="false" FixedLength="false" />
+          <Property Name="UserImage" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="SID" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="UserKey" Type="Guid" Nullable="false" />
+          <Property Name="Email" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Phone" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="Inactive" Type="Boolean" Nullable="false" />
+        </ComplexType>
+        <ComplexType Name="udf_Catbert3_vUserUnits_Result">
+          <Property Name="UnitId" Type="Int32" Nullable="false" />
+          <Property Name="UserID" Type="Int32" Nullable="false" />
+          <Property Name="Inactive" Type="Boolean" Nullable="false" />
+        </ComplexType>
+        <EntityType Name="ApplicationRole">
+          <Key>
+            <PropertyRef Name="ApplicationRoleID" />
+          </Key>
+          <Property Name="ApplicationRoleID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="ApplicationID" Type="Int32" Nullable="false" />
+          <Property Name="RoleID" Type="Int32" Nullable="false" />
+          <Property Name="Level" Type="Int32" />
+          <NavigationProperty Name="Application" Relationship="CATBERT3Model.FK_ApplicationRoles_Applications" FromRole="ApplicationRoles" ToRole="Applications" />
+          <NavigationProperty Name="Role" Relationship="CATBERT3Model.FK_ApplicationRoles_Roles" FromRole="ApplicationRoles" ToRole="Roles" />
+        </EntityType>
+        <EntityType Name="Application">
+          <Key>
+            <PropertyRef Name="ApplicationID" />
+          </Key>
+          <Property Name="ApplicationID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Abbr" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Location" Type="String" MaxLength="256" Unicode="true" FixedLength="false" />
+          <Property Name="IconLocation" Type="String" MaxLength="256" Unicode="true" FixedLength="false" />
+          <Property Name="Inactive" Type="Boolean" Nullable="false" />
+          <Property Name="WebServiceHash" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+          <Property Name="Salt" Type="String" MaxLength="20" Unicode="true" FixedLength="false" />
+          <NavigationProperty Name="ApplicationRoles" Relationship="CATBERT3Model.FK_ApplicationRoles_Applications" FromRole="Applications" ToRole="ApplicationRoles" />
+          <NavigationProperty Name="Permissions" Relationship="CATBERT3Model.FK_Permissions_Applications" FromRole="Applications" ToRole="Permissions" />
+          <NavigationProperty Name="UnitAssociations" Relationship="CATBERT3Model.FK_UnitAssociations_Applications" FromRole="Applications" ToRole="UnitAssociations" />
+        </EntityType>
+        <EntityType Name="Permission">
+          <Key>
+            <PropertyRef Name="PermissionID" />
+          </Key>
+          <Property Name="PermissionID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="UserID" Type="Int32" Nullable="false" />
+          <Property Name="ApplicationID" Type="Int32" />
+          <Property Name="RoleID" Type="Int32" />
+          <Property Name="Inactive" Type="Boolean" Nullable="false" />
+          <NavigationProperty Name="Application" Relationship="CATBERT3Model.FK_Permissions_Applications" FromRole="Permissions" ToRole="Applications" />
+          <NavigationProperty Name="Role" Relationship="CATBERT3Model.FK_Permissions_Roles" FromRole="Permissions" ToRole="Roles" />
+          <NavigationProperty Name="User" Relationship="CATBERT3Model.FK_Permissions_Users" FromRole="Permissions" ToRole="Users" />
+        </EntityType>
+        <EntityType Name="Role">
+          <Key>
+            <PropertyRef Name="RoleID" />
+          </Key>
+          <Property Name="RoleID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="Role1" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Inactive" Type="Boolean" Nullable="false" />
+          <NavigationProperty Name="ApplicationRoles" Relationship="CATBERT3Model.FK_ApplicationRoles_Roles" FromRole="Roles" ToRole="ApplicationRoles" />
+          <NavigationProperty Name="Permissions" Relationship="CATBERT3Model.FK_Permissions_Roles" FromRole="Roles" ToRole="Permissions" />
+        </EntityType>
+        <EntityType Name="School">
+          <Key>
+            <PropertyRef Name="SchoolCode" />
+          </Key>
+          <Property Name="SchoolCode" Type="String" Nullable="false" MaxLength="2" Unicode="false" FixedLength="false" />
+          <Property Name="ShortDescription" Type="String" Nullable="false" MaxLength="25" Unicode="false" FixedLength="false" />
+          <Property Name="LongDescription" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="Abbreviation" Type="String" Nullable="false" MaxLength="12" Unicode="false" FixedLength="false" />
+          <NavigationProperty Name="Units" Relationship="CATBERT3Model.FK_Unit_Schools" FromRole="Schools" ToRole="Unit" />
+        </EntityType>
+        <EntityType Name="Unit">
+          <Key>
+            <PropertyRef Name="UnitID" />
+          </Key>
+          <Property Name="UnitID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="FullName" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="ShortName" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="PPS_Code" Type="String" MaxLength="6" Unicode="false" FixedLength="true" />
+          <Property Name="FIS_Code" Type="String" Nullable="false" MaxLength="4" Unicode="false" FixedLength="true" />
+          <Property Name="SchoolCode" Type="String" Nullable="false" MaxLength="2" Unicode="false" FixedLength="false" />
+          <Property Name="ParentID" Type="Int32" />
+          <Property Name="Type" Type="String" MaxLength="10" Unicode="false" FixedLength="false" />
+          <NavigationProperty Name="School" Relationship="CATBERT3Model.FK_Unit_Schools" FromRole="Unit" ToRole="Schools" />
+          <NavigationProperty Name="Unit1" Relationship="CATBERT3Model.FK_Unit_Unit_Parent" FromRole="Unit" ToRole="Unit1" />
+          <NavigationProperty Name="Unit2" Relationship="CATBERT3Model.FK_Unit_Unit_Parent" FromRole="Unit1" ToRole="Unit" />
+          <NavigationProperty Name="UnitAssociations" Relationship="CATBERT3Model.FK_UnitAssociations_Unit" FromRole="Unit" ToRole="UnitAssociations" />
+        </EntityType>
+        <EntityType Name="UnitAssociation">
+          <Key>
+            <PropertyRef Name="UnitAssociationID" />
+          </Key>
+          <Property Name="UnitAssociationID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="UnitID" Type="Int32" Nullable="false" />
+          <Property Name="UserID" Type="Int32" Nullable="false" />
+          <Property Name="ApplicationID" Type="Int32" Nullable="false" />
+          <Property Name="Inactive" Type="Boolean" Nullable="false" />
+          <NavigationProperty Name="Application" Relationship="CATBERT3Model.FK_UnitAssociations_Applications" FromRole="UnitAssociations" ToRole="Applications" />
+          <NavigationProperty Name="Unit" Relationship="CATBERT3Model.FK_UnitAssociations_Unit" FromRole="UnitAssociations" ToRole="Unit" />
+          <NavigationProperty Name="User" Relationship="CATBERT3Model.FK_UnitAssociations_Users" FromRole="UnitAssociations" ToRole="Users" />
+        </EntityType>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="UserID" />
+          </Key>
+          <Property Name="UserID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="LoginID" Type="String" Nullable="false" MaxLength="10" Unicode="false" FixedLength="false" />
+          <Property Name="Email" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Phone" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="FirstName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="LastName" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="EmployeeID" Type="String" MaxLength="9" Unicode="false" FixedLength="false" />
+          <Property Name="StudentID" Type="String" MaxLength="9" Unicode="false" FixedLength="false" />
+          <Property Name="UserImage" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="SID" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Inactive" Type="Boolean" Nullable="false" />
+          <Property Name="UserKey" Type="Guid" Nullable="false" />
+          <NavigationProperty Name="Permissions" Relationship="CATBERT3Model.FK_Permissions_Users" FromRole="Users" ToRole="Permissions" />
+          <NavigationProperty Name="UnitAssociations" Relationship="CATBERT3Model.FK_UnitAssociations_Users" FromRole="Users" ToRole="UnitAssociations" />
+        </EntityType>
+        <EntityType Name="ApplicationRoles_V">
+          <Key>
+            <PropertyRef Name="ApplicationID" />
+            <PropertyRef Name="Role" />
+          </Key>
+          <Property Name="ApplicationID" Type="Int32" Nullable="false" />
+          <Property Name="Name" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Role" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Inactive" Type="Boolean" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ApplicationUsers_V">
+          <Key>
+            <PropertyRef Name="ApplicationID" />
+            <PropertyRef Name="UserID" />
+            <PropertyRef Name="PermissionID" />
+          </Key>
+          <Property Name="ApplicationID" Type="Int32" Nullable="false" />
+          <Property Name="Name" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="UserID" Type="Int32" Nullable="false" />
+          <Property Name="FirstName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="LastName" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="EmployeeID" Type="String" MaxLength="9" Unicode="false" FixedLength="false" />
+          <Property Name="Role" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Inactive" Type="Boolean" Nullable="false" />
+          <Property Name="PermissionID" Type="Int32" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_ApplicationRoles_Applications">
+          <End Role="Applications" Type="CATBERT3Model.Application" Multiplicity="1" />
+          <End Role="ApplicationRoles" Type="CATBERT3Model.ApplicationRole" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Applications">
+              <PropertyRef Name="ApplicationID" />
+            </Principal>
+            <Dependent Role="ApplicationRoles">
+              <PropertyRef Name="ApplicationID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ApplicationRoles_Roles">
+          <End Role="Roles" Type="CATBERT3Model.Role" Multiplicity="1" />
+          <End Role="ApplicationRoles" Type="CATBERT3Model.ApplicationRole" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Roles">
+              <PropertyRef Name="RoleID" />
+            </Principal>
+            <Dependent Role="ApplicationRoles">
+              <PropertyRef Name="RoleID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Permissions_Applications">
+          <End Role="Applications" Type="CATBERT3Model.Application" Multiplicity="0..1" />
+          <End Role="Permissions" Type="CATBERT3Model.Permission" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Applications">
+              <PropertyRef Name="ApplicationID" />
+            </Principal>
+            <Dependent Role="Permissions">
+              <PropertyRef Name="ApplicationID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UnitAssociations_Applications">
+          <End Role="Applications" Type="CATBERT3Model.Application" Multiplicity="1" />
+          <End Role="UnitAssociations" Type="CATBERT3Model.UnitAssociation" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Applications">
+              <PropertyRef Name="ApplicationID" />
+            </Principal>
+            <Dependent Role="UnitAssociations">
+              <PropertyRef Name="ApplicationID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Permissions_Roles">
+          <End Role="Roles" Type="CATBERT3Model.Role" Multiplicity="0..1" />
+          <End Role="Permissions" Type="CATBERT3Model.Permission" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Roles">
+              <PropertyRef Name="RoleID" />
+            </Principal>
+            <Dependent Role="Permissions">
+              <PropertyRef Name="RoleID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Permissions_Users">
+          <End Role="Users" Type="CATBERT3Model.User" Multiplicity="1" />
+          <End Role="Permissions" Type="CATBERT3Model.Permission" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Users">
+              <PropertyRef Name="UserID" />
+            </Principal>
+            <Dependent Role="Permissions">
+              <PropertyRef Name="UserID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Unit_Schools">
+          <End Role="Schools" Type="CATBERT3Model.School" Multiplicity="1" />
+          <End Role="Unit" Type="CATBERT3Model.Unit" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Schools">
+              <PropertyRef Name="SchoolCode" />
+            </Principal>
+            <Dependent Role="Unit">
+              <PropertyRef Name="SchoolCode" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Unit_Unit_Parent">
+          <End Role="Unit" Type="CATBERT3Model.Unit" Multiplicity="0..1" />
+          <End Role="Unit1" Type="CATBERT3Model.Unit" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Unit">
+              <PropertyRef Name="UnitID" />
+            </Principal>
+            <Dependent Role="Unit1">
+              <PropertyRef Name="ParentID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UnitAssociations_Unit">
+          <End Role="Unit" Type="CATBERT3Model.Unit" Multiplicity="1" />
+          <End Role="UnitAssociations" Type="CATBERT3Model.UnitAssociation" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Unit">
+              <PropertyRef Name="UnitID" />
+            </Principal>
+            <Dependent Role="UnitAssociations">
+              <PropertyRef Name="UnitID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UnitAssociations_Users">
+          <End Role="Users" Type="CATBERT3Model.User" Multiplicity="1" />
+          <End Role="UnitAssociations" Type="CATBERT3Model.UnitAssociation" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Users">
+              <PropertyRef Name="UserID" />
+            </Principal>
+            <Dependent Role="UnitAssociations">
+              <PropertyRef Name="UserID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="CATBERT3ModelStoreContainer" CdmEntityContainer="CATBERT3Entities">
+          <EntitySetMapping Name="ApplicationRoles">
+            <EntityTypeMapping TypeName="CATBERT3Model.ApplicationRole">
+              <MappingFragment StoreEntitySet="ApplicationRoles">
+                <ScalarProperty Name="ApplicationRoleID" ColumnName="ApplicationRoleID" />
+                <ScalarProperty Name="ApplicationID" ColumnName="ApplicationID" />
+                <ScalarProperty Name="RoleID" ColumnName="RoleID" />
+                <ScalarProperty Name="Level" ColumnName="Level" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Applications">
+            <EntityTypeMapping TypeName="CATBERT3Model.Application">
+              <MappingFragment StoreEntitySet="Applications">
+                <ScalarProperty Name="ApplicationID" ColumnName="ApplicationID" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="Abbr" ColumnName="Abbr" />
+                <ScalarProperty Name="Location" ColumnName="Location" />
+                <ScalarProperty Name="IconLocation" ColumnName="IconLocation" />
+                <ScalarProperty Name="Inactive" ColumnName="Inactive" />
+                <ScalarProperty Name="WebServiceHash" ColumnName="WebServiceHash" />
+                <ScalarProperty Name="Salt" ColumnName="Salt" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Permissions">
+            <EntityTypeMapping TypeName="CATBERT3Model.Permission">
+              <MappingFragment StoreEntitySet="Permissions">
+                <ScalarProperty Name="PermissionID" ColumnName="PermissionID" />
+                <ScalarProperty Name="UserID" ColumnName="UserID" />
+                <ScalarProperty Name="ApplicationID" ColumnName="ApplicationID" />
+                <ScalarProperty Name="RoleID" ColumnName="RoleID" />
+                <ScalarProperty Name="Inactive" ColumnName="Inactive" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Roles">
+            <EntityTypeMapping TypeName="CATBERT3Model.Role">
+              <MappingFragment StoreEntitySet="Roles">
+                <ScalarProperty Name="RoleID" ColumnName="RoleID" />
+                <ScalarProperty Name="Role1" ColumnName="Role" />
+                <ScalarProperty Name="Inactive" ColumnName="Inactive" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Schools">
+            <EntityTypeMapping TypeName="CATBERT3Model.School">
+              <MappingFragment StoreEntitySet="Schools">
+                <ScalarProperty Name="SchoolCode" ColumnName="SchoolCode" />
+                <ScalarProperty Name="ShortDescription" ColumnName="ShortDescription" />
+                <ScalarProperty Name="LongDescription" ColumnName="LongDescription" />
+                <ScalarProperty Name="Abbreviation" ColumnName="Abbreviation" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Units">
+            <EntityTypeMapping TypeName="CATBERT3Model.Unit">
+              <MappingFragment StoreEntitySet="Unit">
+                <ScalarProperty Name="UnitID" ColumnName="UnitID" />
+                <ScalarProperty Name="FullName" ColumnName="FullName" />
+                <ScalarProperty Name="ShortName" ColumnName="ShortName" />
+                <ScalarProperty Name="PPS_Code" ColumnName="PPS_Code" />
+                <ScalarProperty Name="FIS_Code" ColumnName="FIS_Code" />
+                <ScalarProperty Name="SchoolCode" ColumnName="SchoolCode" />
+                <ScalarProperty Name="ParentID" ColumnName="ParentID" />
+                <ScalarProperty Name="Type" ColumnName="Type" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="UnitAssociations">
+            <EntityTypeMapping TypeName="CATBERT3Model.UnitAssociation">
+              <MappingFragment StoreEntitySet="UnitAssociations">
+                <ScalarProperty Name="UnitAssociationID" ColumnName="UnitAssociationID" />
+                <ScalarProperty Name="UnitID" ColumnName="UnitID" />
+                <ScalarProperty Name="UserID" ColumnName="UserID" />
+                <ScalarProperty Name="ApplicationID" ColumnName="ApplicationID" />
+                <ScalarProperty Name="Inactive" ColumnName="Inactive" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Users">
+            <EntityTypeMapping TypeName="CATBERT3Model.User">
+              <MappingFragment StoreEntitySet="Users">
+                <ScalarProperty Name="UserID" ColumnName="UserID" />
+                <ScalarProperty Name="LoginID" ColumnName="LoginID" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="Phone" ColumnName="Phone" />
+                <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+                <ScalarProperty Name="LastName" ColumnName="LastName" />
+                <ScalarProperty Name="EmployeeID" ColumnName="EmployeeID" />
+                <ScalarProperty Name="StudentID" ColumnName="StudentID" />
+                <ScalarProperty Name="UserImage" ColumnName="UserImage" />
+                <ScalarProperty Name="SID" ColumnName="SID" />
+                <ScalarProperty Name="Inactive" ColumnName="Inactive" />
+                <ScalarProperty Name="UserKey" ColumnName="UserKey" />
+                
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ApplicationRoles_V">
+            <EntityTypeMapping TypeName="CATBERT3Model.ApplicationRoles_V">
+              <MappingFragment StoreEntitySet="ApplicationRoles_V">
+                <ScalarProperty Name="ApplicationID" ColumnName="ApplicationID" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="Role" ColumnName="Role" />
+                <ScalarProperty Name="Inactive" ColumnName="Inactive" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ApplicationUsers_V">
+            <EntityTypeMapping TypeName="CATBERT3Model.ApplicationUsers_V">
+              <MappingFragment StoreEntitySet="ApplicationUsers_V">
+                <ScalarProperty Name="ApplicationID" ColumnName="ApplicationID" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="UserID" ColumnName="UserID" />
+                <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+                <ScalarProperty Name="LastName" ColumnName="LastName" />
+                <ScalarProperty Name="EmployeeID" ColumnName="EmployeeID" />
+                <ScalarProperty Name="Role" ColumnName="Role" />
+                <ScalarProperty Name="Inactive" ColumnName="Inactive" />
+                <ScalarProperty Name="PermissionID" ColumnName="PermissionID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -1,0 +1,119 @@
+20133 ANTGENT-----SUB6---CB  12GLCBSS201312001    1test after all DANR changes                     812.77 20130618          ----------SSCItest                        
+20133 LNGGENT-----SUB6---CB  12GLCBSS201312001    2test after all DANR changes                    2610.04 20130618          ----------SSCItest                        
+20133 PHIGENT-----SUB6---CB  12GLCBSS201312001    3test after all DANR changes                     891.91 20130618          ----------SSCItest                        
+20133 POLGENT-----SUB6---CB  12GLCBSS201312001    4test after all DANR changes                    3419.95 20130618          ----------SSCItest                        
+20133 PSCGENT-----SUB6---CB  12GLCBSS201312001    5test after all DANR changes                    3976.67 20130618          ----------SSCItest                        
+20133 SHRGEND-----SB28---CB  12GLCBSS201312001    6test after all DANR changes                    -138.59 20130618          KAAKE     SSCItest                        
+20133 SHRGEND-----SB28---CB  12GLCBSS201312001    7test after all DANR changes                     610.53 20130618          STREETER  SSCItest                        
+20133 SHRGEND-----SUB6---CB  12GLCBSS201312001    8test after all DANR changes                    -889.04 20130618          KAAKE     SSCItest                        
+20133 SHRGEND-----SUB6---CB  12GLCBSS201312001    9test after all DANR changes                    -557.93 20130618          STREETER  SSCItest                        
+20133 SITGEND-----SB28---CB  12GLCBSS201312001   10test after all DANR changes                    -146.40 20130618          CARLSON   SSCItest                        
+20133 SITGEND-----SB28---CB  12GLCBSS201312001   11test after all DANR changes                    -114.58 20130618          KRAMER    SSCItest                        
+20133 SITGEND-----SB28---CB  12GLCBSS201312001   12test after all DANR changes                    -110.83 20130618          OKADRI    SSCItest                        
+20133 SITGEND-----SB28---CB  12GLCBSS201312001   13test after all DANR changes                      64.74 20130618          WHEELER   SSCItest                        
+20133 SITGEND-----SB28---CB  12GLCBSS201312001   14test after all DANR changes                     -85.91 20130618          WONGJ     SSCItest                        
+20133 SITGEND-----SUB6---CB  12GLCBSS201312001   15test after all DANR changes                     -45.84 20130618          ----------SSCItest                        
+20133 SITGEND-----SUB6---CB  12GLCBSS201312001   16test after all DANR changes                   -1143.19 20130618          CARLSON   SSCItest                        
+20133 SITGEND-----SUB6---CB  12GLCBSS201312001   17test after all DANR changes                    -894.68 20130618          KRAMER    SSCItest                        
+20133 SITGEND-----SUB6---CB  12GLCBSS201312001   18test after all DANR changes                    -865.45 20130618          OKADRI    SSCItest                        
+20133 SITGEND-----SUB6---CB  12GLCBSS201312001   19test after all DANR changes                    -686.72 20130618          WHEELER   SSCItest                        
+20133 SITGEND-----SUB6---CB  12GLCBSS201312001   20test after all DANR changes                    -744.46 20130618          WONGJ     SSCItest                        
+20133 SOCGENT-----SUB6---CB  12GLCBSS201312001   21test after all DANR changes                     356.44 20130618          ----------SSCItest                        
+20133 SRSGEND-----SB28---CB  12GLCBSS201312001   22test after all DANR changes                     -67.92 20130618          SDYER     SSCItest                        
+20133 SRSGEND-----SUB6---CB  12GLCBSS201312001   23test after all DANR changes                   -1051.92 20130618          SDYER     SSCItest                        
+20133 SSBGEND-----SB28---CB  12GLCBSS201312001   24test after all DANR changes                     -71.87 20130618          ANTONSONR SSCItest                        
+20133 SSBGEND-----SB28---CB  12GLCBSS201312001   25test after all DANR changes                      11.06 20130618          BRANAM    SSCItest                        
+20133 SSBGEND-----SB28---CB  12GLCBSS201312001   26test after all DANR changes                     121.66 20130618          DEXTER    SSCItest                        
+20133 SSBGEND-----SB28---CB  12GLCBSS201312001   27test after all DANR changes                    -171.62 20130618          FISCHERM  SSCItest                        
+20133 SSBGEND-----SB28---CB  12GLCBSS201312001   28test after all DANR changes                     -91.58 20130618          GARIBAY   SSCItest                        
+20133 SSBGEND-----SB28---CB  12GLCBSS201312001   29test after all DANR changes                     -91.58 20130618          KINKADE   SSCItest                        
+20133 SSBGEND-----SB28---CB  12GLCBSS201312001   30test after all DANR changes                    1097.26 20130618          LYON      SSCItest                        
+20133 SSBGEND-----SB28---CB  12GLCBSS201312001   31test after all DANR changes                    -116.89 20130618          ODENWELLERSSCItest                        
+20133 SSBGEND-----SB28---CB  12GLCBSS201312001   32test after all DANR changes                    -116.50 20130618          REIKENBARYSSCItest                        
+20133 SSBGEND-----SB28---CB  12GLCBSS201312001   33test after all DANR changes                    -134.78 20130618          SCHAFER   SSCItest                        
+20133 SSBGEND-----SB28---CB  12GLCBSS201312001   34test after all DANR changes                    -122.69 20130618          SCHWIN    SSCItest                        
+20133 SSBGEND-----SB28---CB  12GLCBSS201312001   35test after all DANR changes                      70.60 20130618          WOODSG    SSCItest                        
+20133 SSBGEND-----SUB6---CB  12GLCBSS201312001   36test after all DANR changes                    -561.22 20130618          ANTONSONR SSCItest                        
+20133 SSBGEND-----SUB6---CB  12GLCBSS201312001   37test after all DANR changes                    -973.17 20130618          BRANAM    SSCItest                        
+20133 SSBGEND-----SUB6---CB  12GLCBSS201312001   38test after all DANR changes                    -923.92 20130618          DEXTER    SSCItest                        
+20133 SSBGEND-----SUB6---CB  12GLCBSS201312001   39test after all DANR changes                   -1100.95 20130618          FISCHERM  SSCItest                        
+20133 SSBGEND-----SUB6---CB  12GLCBSS201312001   40test after all DANR changes                    -715.15 20130618          GARIBAY   SSCItest                        
+20133 SSBGEND-----SUB6---CB  12GLCBSS201312001   41test after all DANR changes                    -715.15 20130618          KINKADE   SSCItest                        
+20133 SSBGEND-----SUB6---CB  12GLCBSS201312001   42test after all DANR changes                    -475.39 20130618          LYON      SSCItest                        
+20133 SSBGEND-----SUB6---CB  12GLCBSS201312001   43test after all DANR changes                    -659.51 20130618          ODENWELLERSSCItest                        
+20133 SSBGEND-----SUB6---CB  12GLCBSS201312001   44test after all DANR changes                    -909.68 20130618          REIKENBARYSSCItest                        
+20133 SSBGEND-----SUB6---CB  12GLCBSS201312001   45test after all DANR changes                   -1052.48 20130618          SCHAFER   SSCItest                        
+20133 SSBGEND-----SUB6---CB  12GLCBSS201312001   46test after all DANR changes                    -958.03 20130618          SCHWIN    SSCItest                        
+20133 SSBGEND-----SUB6---CB  12GLCBSS201312001   47test after all DANR changes                    -643.47 20130618          WOODSG    SSCItest                        
+20133 SSGGEND-----SB28---CB  12GLCBSS201312001   48test after all DANR changes                     467.78 20130618          BESSER    SSCItest                        
+20133 SSGGEND-----SB28---CB  12GLCBSS201312001   49test after all DANR changes                     -97.97 20130618          CALVERTS  SSCItest                        
+20133 SSGGEND-----SB28---CB  12GLCBSS201312001   50test after all DANR changes                     -79.30 20130618          CORDOVAP  SSCItest                        
+20133 SSGGEND-----SB28---CB  12GLCBSS201312001   51test after all DANR changes                     -91.10 20130618          DEGUZMAN  SSCItest                        
+20133 SSGGEND-----SB28---CB  12GLCBSS201312001   52test after all DANR changes                     -92.78 20130618          GUERRA    SSCItest                        
+20133 SSGGEND-----SB28---CB  12GLCBSS201312001   53test after all DANR changes                     -99.60 20130618          KUTSCHE   SSCItest                        
+20133 SSGGEND-----SB28---CB  12GLCBSS201312001   54test after all DANR changes                     -79.30 20130618          LEAVER    SSCItest                        
+20133 SSGGEND-----SB28---CB  12GLCBSS201312001   55test after all DANR changes                    -179.18 20130618          MILLERMJ  SSCItest                        
+20133 SSGGEND-----SB28---CB  12GLCBSS201312001   56test after all DANR changes                     -91.58 20130618          PARPANA   SSCItest                        
+20133 SSGGEND-----SUB6---CB  12GLCBSS201312001   57test after all DANR changes                      -3.38 20130618          ----------SSCItest                        
+20133 SSGGEND-----SUB6---CB  12GLCBSS201312001   58test after all DANR changes                    -596.98 20130618          BESSER    SSCItest                        
+20133 SSGGEND-----SUB6---CB  12GLCBSS201312001   59test after all DANR changes                    -765.00 20130618          CALVERTS  SSCItest                        
+20133 SSGGEND-----SUB6---CB  12GLCBSS201312001   60test after all DANR changes                    -619.20 20130618          CORDOVAP  SSCItest                        
+20133 SSGGEND-----SUB6---CB  12GLCBSS201312001   61test after all DANR changes                    -862.04 20130618          DEGUZMAN  SSCItest                        
+20133 SSGGEND-----SUB6---CB  12GLCBSS201312001   62test after all DANR changes                    -724.52 20130618          GUERRA    SSCItest                        
+20133 SSGGEND-----SUB6---CB  12GLCBSS201312001   63test after all DANR changes                    -777.74 20130618          KUTSCHE   SSCItest                        
+20133 SSGGEND-----SUB6---CB  12GLCBSS201312001   64test after all DANR changes                    -619.20 20130618          LEAVER    SSCItest                        
+20133 SSGGEND-----SUB6---CB  12GLCBSS201312001   65test after all DANR changes                   -1010.94 20130618          MILLERMJ  SSCItest                        
+20133 SSGGEND-----SUB6---CB  12GLCBSS201312001   66test after all DANR changes                    -715.15 20130618          PARPANA   SSCItest                        
+20133 SSIBENE-----SB28---CB  12GLCBSS201312001   67test after all DANR changes                     107.31 20130618          ----------SSCItest                        
+20133 SSIBENE-----SUB6---CB  12GLCBSS201312001   68test after all DANR changes                   29376.77 20130618          ----------SSCItest                        
+20133 SSIGEXD-----SB28---CB  12GLCBSS201312001   69test after all DANR changes                     -30.24 20130618          ----------SSCItest                        
+20133 SSIGEXD-----SB28---CB  12GLCBSS201312001   70test after all DANR changes                     140.44 20130618          VOIGHT    SSCItest                        
+20133 SSIGEXD-----SUB6---CB  12GLCBSS201312001   71test after all DANR changes                    -219.39 20130618          ----------SSCItest                        
+20133 SSIGEXD-----SUB6---CB  12GLCBSS201312001   72test after all DANR changes                      -3.97 20130618          VOIGHT    SSCItest                        
+20133 SSOGEND-----SB28---CB  12GLCBSS201312001   73test after all DANR changes                      45.59 20130618          AGUSTIN   SSCItest                        
+20133 SSOGEND-----SB28---CB  12GLCBSS201312001   74test after all DANR changes                      94.75 20130618          DARBEE    SSCItest                        
+20133 SSOGEND-----SB28---CB  12GLCBSS201312001   75test after all DANR changes                    -155.99 20130618          HOANG     SSCItest                        
+20133 SSOGEND-----SB28---CB  12GLCBSS201312001   76test after all DANR changes                    -130.11 20130618          JTEEPLE   SSCItest                        
+20133 SSOGEND-----SB28---CB  12GLCBSS201312001   77test after all DANR changes                     -97.97 20130618          MGHICKS   SSCItest                        
+20133 SSOGEND-----SB28---CB  12GLCBSS201312001   78test after all DANR changes                    -116.50 20130618          PATTISON  SSCItest                        
+20133 SSOGEND-----SUB6---CB  12GLCBSS201312001   79test after all DANR changes                    -754.94 20130618          AGUSTIN   SSCItest                        
+20133 SSOGEND-----SUB6---CB  12GLCBSS201312001   80test after all DANR changes                    -596.30 20130618          DARBEE    SSCItest                        
+20133 SSOGEND-----SUB6---CB  12GLCBSS201312001   81test after all DANR changes                   -1000.69 20130618          HOANG     SSCItest                        
+20133 SSOGEND-----SUB6---CB  12GLCBSS201312001   82test after all DANR changes                    -959.54 20130618          JTEEPLE   SSCItest                        
+20133 SSOGEND-----SUB6---CB  12GLCBSS201312001   83test after all DANR changes                    -765.00 20130618          MGHICKS   SSCItest                        
+20133 SSOGEND-----SUB6---CB  12GLCBSS201312001   84test after all DANR changes                    -738.04 20130618          PATTISON  SSCItest                        
+20133 SSRGEND-----SB28---CB  12GLCBSS201312001   85test after all DANR changes                     108.82 20130618          CHANGA    SSCItest                        
+20133 SSRGEND-----SB28---CB  12GLCBSS201312001   86test after all DANR changes                     254.80 20130618          FALLAS    SSCItest                        
+20133 SSRGEND-----SB28---CB  12GLCBSS201312001   87test after all DANR changes                    -109.20 20130618          GASTEIGER SSCItest                        
+20133 SSRGEND-----SB28---CB  12GLCBSS201312001   88test after all DANR changes                     -75.02 20130618          HUFF      SSCItest                        
+20133 SSRGEND-----SB28---CB  12GLCBSS201312001   89test after all DANR changes                    -114.05 20130618          LUTMAN    SSCItest                        
+20133 SSRGEND-----SB28---CB  12GLCBSS201312001   90test after all DANR changes                     -89.46 20130618          MANNGU    SSCItest                        
+20133 SSRGEND-----SB28---CB  12GLCBSS201312001   91test after all DANR changes                    -188.56 20130618          WILLIAMSH SSCItest                        
+20133 SSRGEND-----SUB6---CB  12GLCBSS201312001   92test after all DANR changes                    -868.09 20130618          CHANGA    SSCItest                        
+20133 SSRGEND-----SUB6---CB  12GLCBSS201312001   93test after all DANR changes                    -691.82 20130618          FALLAS    SSCItest                        
+20133 SSRGEND-----SUB6---CB  12GLCBSS201312001   94test after all DANR changes                    -852.71 20130618          GASTEIGER SSCItest                        
+20133 SSRGEND-----SUB6---CB  12GLCBSS201312001   95test after all DANR changes                    -585.84 20130618          HUFF      SSCItest                        
+20133 SSRGEND-----SUB6---CB  12GLCBSS201312001   96test after all DANR changes                    -890.56 20130618          LUTMAN    SSCItest                        
+20133 SSRGEND-----SUB6---CB  12GLCBSS201312001   97test after all DANR changes                    -455.78 20130618          MANNGU    SSCItest                        
+20133 SSRGEND-----SUB6---CB  12GLCBSS201312001   98test after all DANR changes                    -960.62 20130618          WILLIAMSH SSCItest                        
+20133 SSYGEND-----SB28---CB  12GLCBSS201312001   99test after all DANR changes                     -18.34 20130618          BLALOCK   SSCItest                        
+20133 SSYGEND-----SB28---CB  12GLCBSS201312001  100test after all DANR changes                     233.60 20130618          BROWN, E  SSCItest                        
+20133 SSYGEND-----SB28---CB  12GLCBSS201312001  101test after all DANR changes                     452.36 20130618          CHARRIS   SSCItest                        
+20133 SSYGEND-----SB28---CB  12GLCBSS201312001  102test after all DANR changes                      56.28 20130618          CHERMES   SSCItest                        
+20133 SSYGEND-----SB28---CB  12GLCBSS201312001  103test after all DANR changes                    -133.67 20130618          CLAYTON   SSCItest                        
+20133 SSYGEND-----SB28---CB  12GLCBSS201312001  104test after all DANR changes                      71.14 20130618          MCCARTHYC SSCItest                        
+20133 SSYGEND-----SB28---CB  12GLCBSS201312001  105test after all DANR changes                     -24.07 20130618          MSANCHEZ  SSCItest                        
+20133 SSYGEND-----SB28---CB  12GLCBSS201312001  106test after all DANR changes                    -184.59 20130618          SCHULER   SSCItest                        
+20133 SSYGEND-----SUB6---CB  12GLCBSS201312001  107test after all DANR changes                    -818.56 20130618          BLALOCK   SSCItest                        
+20133 SSYGEND-----SUB6---CB  12GLCBSS201312001  108test after all DANR changes                    -880.11 20130618          BROWN, E  SSCItest                        
+20133 SSYGEND-----SUB6---CB  12GLCBSS201312001  109test after all DANR changes                    -684.77 20130618          CHARRIS   SSCItest                        
+20133 SSYGEND-----SUB6---CB  12GLCBSS201312001  110test after all DANR changes                    -931.97 20130618          CHERMES   SSCItest                        
+20133 SSYGEND-----SUB6---CB  12GLCBSS201312001  111test after all DANR changes                    -754.17 20130618          CLAYTON   SSCItest                        
+20133 SSYGEND-----SUB6---CB  12GLCBSS201312001  112test after all DANR changes                    -754.60 20130618          MCCARTHYC SSCItest                        
+20133 SSYGEND-----SUB6---CB  12GLCBSS201312001  113test after all DANR changes                    -821.09 20130618          MSANCHEZ  SSCItest                        
+20133 SSYGEND-----SUB6---CB  12GLCBSS201312001  114test after all DANR changes                   -1184.11 20130618          SCHULER   SSCItest                        
+20133 UEAGEND-----SB28---CB  12GLCBSS201312001  115test after all DANR changes                    -112.95 20130618          BENTZ     SSCItest                        
+20133 UEAGEND-----SB28---CB  12GLCBSS201312001  116test after all DANR changes                     -35.45 20130618          KEEFER    SSCItest                        
+20133 UEAGEND-----SUB6---CB  12GLCBSS201312001  117test after all DANR changes                     -58.40 20130618          ----------SSCItest                        
+20133 UEAGEND-----SUB6---CB  12GLCBSS201312001  118test after all DANR changes                    -724.59 20130618          BENTZ     SSCItest                        
+20133 UEAGEND-----SUB6---CB  12GLCBSS201312001  119test after all DANR changes                    -227.39 20130618          KEEFER    SSCItest                        

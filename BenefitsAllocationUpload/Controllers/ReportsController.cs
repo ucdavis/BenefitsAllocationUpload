@@ -26,11 +26,11 @@ namespace BenefitsAllocationUpload.Controllers
         private ISftpService _sftpService;
         private readonly IRepository<UnitFile> _unitFileRepository;
     
-        public ReportsController(IRepository<UnitFile> unitFileRepository)
+        public ReportsController(IRepository<UnitFile> unitFileRepository, ISftpService sftpService, IDataExtractionService dataExtractionService)
         {
             objData = new DataClasses();
-            _dataExtractionService = new DataExtractionService();
-            _sftpService = new SftpService();
+            _dataExtractionService = dataExtractionService;
+            _sftpService = sftpService;
             _unitFileRepository = unitFileRepository;
         }
  
@@ -38,7 +38,8 @@ namespace BenefitsAllocationUpload.Controllers
         // GET: /Reports/
         public ActionResult Index()
         {
-            var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
+            //var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
+            var user = Models.User.FindByLoginId(System.Web.HttpContext.Current.User.Identity.Name);
             var unit = user.Units.FirstOrDefault();
             var schoolCode = unit.DeansOfficeSchoolCode;
             var files = objData.GetFiles(schoolCode);
@@ -66,7 +67,8 @@ namespace BenefitsAllocationUpload.Controllers
 
         public ActionResult Details()
         {
-            var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
+            //var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
+            var user = Models.User.FindByLoginId(System.Web.HttpContext.Current.User.Identity.Name);
             var unit = user.Units.FirstOrDefault();
             var schoolCode = unit.DeansOfficeSchoolCode;
 
@@ -102,14 +104,19 @@ namespace BenefitsAllocationUpload.Controllers
                                where f.FileId == fid
                                select f.FileName).First();
 
-            _sftpService.UploadFile(filename);
+            //var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
+            var user = Models.User.FindByLoginId(System.Web.HttpContext.Current.User.Identity.Name);
+            var unit = user.Units.FirstOrDefault();
+            var schoolCode = unit.DeansOfficeSchoolCode;
+
+            _sftpService.UploadFile(filename, schoolCode);
 
             var unitFile = _unitFileRepository.Queryable.FirstOrDefault(x => x.Filename == filename);
 
             if (unitFile == null)
             {
-                var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
-                var unit = user.Units.FirstOrDefault();
+                //var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
+                //var unit = user.Units.FirstOrDefault();
                 unitFile = new UnitFile()
                     {
                         Filename = filename,
@@ -129,7 +136,7 @@ namespace BenefitsAllocationUpload.Controllers
 
         public ActionResult Delete(string id)
         {
-            var deleteSuccess = false; 
+            //var deleteSuccess = false; 
 
             int fid = Convert.ToInt32(id);
             var files = objData.GetFiles();
@@ -142,7 +149,7 @@ namespace BenefitsAllocationUpload.Controllers
             if (file.Exists)
             {
                 file.Delete();
-                deleteSuccess = true;
+                //deleteSuccess = true;
             } 
 
             Message = "File \"" + file.Name + "\" has been deleted.";
@@ -157,8 +164,8 @@ namespace BenefitsAllocationUpload.Controllers
                     EnableUseDaFisSelection = false
                 };
 
-            var unit = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name).
-                                                Units.FirstOrDefault();
+            //var unit = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name).Units.FirstOrDefault();
+            var unit = Models.User.FindByLoginId(System.Web.HttpContext.Current.User.Identity.Name).Units.FirstOrDefault();
             if (unit != null)
             {
                 var schoolCode = unit.SchoolCode;
@@ -179,7 +186,9 @@ namespace BenefitsAllocationUpload.Controllers
         {
             if (ModelState.IsValid)
             {
-                var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
+                //var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
+                var user = Models.User.FindByLoginId(System.Web.HttpContext.Current.User.Identity.Name);
+
                 var unit = user.Units.FirstOrDefault();
                 var orgId = string.Empty;
                 var transDocOriginCode = string.Empty;
@@ -195,7 +204,7 @@ namespace BenefitsAllocationUpload.Controllers
   
                 //var filename = _dataExtractionService.CreateFile(m.FiscalYear, m.FiscalPeriod, m.TransDescription, m.OrgDocNumber, m.OrgRefId, m.TransDocNumberSequence);
                 var useDaFIS = (m.UseDaFIS == CreateModel.YesNo.Yes);
-                var filename = _dataExtractionService.CreateFile(m.FiscalYear, m.FiscalPeriod, m.TransDescription, m.OrgDocNumber, m.OrgRefId, m.TransDocNumberSequence, orgId, transDocOriginCode, useDaFIS);
+                var filename = _dataExtractionService.CreateFile(m.FiscalYear, m.FiscalPeriod.Period, m.TransDescription, m.OrgDocNumber, m.OrgRefId, m.TransDocNumberSequence, orgId, transDocOriginCode, useDaFIS);
                 //var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
                 //var unit = user.Units.FirstOrDefault();
                 var unitFile = new UnitFile()

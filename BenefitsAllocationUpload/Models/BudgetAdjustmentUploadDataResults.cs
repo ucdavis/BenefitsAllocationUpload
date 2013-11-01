@@ -24,8 +24,8 @@ namespace BenefitsAllocationUpload.Models
         public string UNIV_FISCAL_PRD_CD { get; set; }
         public string FDOC_TYP_CD { get; set; }
         public string FS_ORIGIN_CD { get; set; }
-        public string FDOC_NBR { get; set; }
         public string TRN_ENTR_SEQ_NBR { get; set; }
+        public string FDOC_NBR { get; set; }
         public string TRN_LDGR_ENTR_DESC { get; set; }
         public string TRN_LDGR_ENTR_AMT { get; set; }
         public string TRN_DEBIT_CRDT_CD { get; set; }
