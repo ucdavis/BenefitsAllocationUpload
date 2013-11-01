@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="FISDataMartModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityContainer Name="FISDataMartModelStoreContainer">
+          <EntitySet Name="UnitFiles" EntityType="FISDataMartModel.Store.UnitFiles" store:Type="Tables" Schema="dbo" />
+        </EntityContainer>
+        <EntityType Name="UnitFiles">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" />
+          <Property Name="UnitId" Type="int" Nullable="false" />
+          <Property Name="Filename" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="SchoolCode" Type="varchar" MaxLength="2" />
+          <Property Name="Created" Type="datetime" />
+          <Property Name="CreatedBy" Type="varchar" MaxLength="50" />
+          <Property Name="Uploaded" Type="datetime" />
+          <Property Name="UploadedBy" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <Function Name="udf_GetOrgIdForSchoolCode" ReturnType="varchar" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="SchoolCode" Type="varchar" Mode="In" />
+        </Function>
+        <Function Name="udf_GetTransDocOriginCodeForOrg" ReturnType="char" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="OrgId" Type="varchar" Mode="In" />
+        </Function>
+        <Function Name="udf_TrueFalseSelectionList" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <ReturnType>
+            <CollectionType>
+              <RowType>
+                <Property Name="bool_name" Type="varchar" MaxLength="10" />
+                <Property Name="YN_label" Type="varchar" MaxLength="5" />
+                <Property Name="bool_value" Type="bit" />
+              </RowType>
+            </CollectionType>
+          </ReturnType>
+        </Function>
+        <Function Name="usp_GetBudgetAdjustmentUploadDataForOrg" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="FiscalYear" Type="varchar" Mode="In" />
+          <Parameter Name="FiscalPeriod" Type="varchar" Mode="In" />
+          <Parameter Name="TransDescription" Type="varchar" Mode="In" />
+          <Parameter Name="OrgDocNumber" Type="varchar" Mode="In" />
+          <Parameter Name="OrgRefId" Type="varchar" Mode="In" />
+          <Parameter Name="TransDocNumberSequence" Type="char" Mode="In" />
+          <Parameter Name="OrgId" Type="nvarchar" Mode="In" />
+          <Parameter Name="TransDocOriginCode" Type="char" Mode="In" />
+          <Parameter Name="UseDaFIS" Type="bit" Mode="In" />
+          <Parameter Name="IsDebug" Type="bit" Mode="In" />
+        </Function>
+        <Function Name="usp_GetOrgLevel" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="OrgId" Type="varchar" Mode="In" />
+          <Parameter Name="IsDebug" Type="bit" Mode="In" />
+          <Parameter Name="OrgLevel" Type="smallint" Mode="InOut" />
+        </Function>
+        <!--Errors Found During Generation:
+      warning 6005: The function 'udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg' has a parameter 'TransactionsForSummation' at parameter index 7 that has a data type 'table type' which is currently not supported for the target .NET Framework version. The function was excluded.
+      
+      <Function Name="udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+        <Parameter Name="FiscalYear" Type="char" Mode="In" />
+        <Parameter Name="FiscalPeriod" Type="varchar" Mode="In" />
+        <Parameter Name="TransDescription" Type="varchar" Mode="In" />
+        <Parameter Name="OrgDocNumber" Type="varchar" Mode="In" />
+        <Parameter Name="OrgRefId" Type="varchar" Mode="In" />
+        <Parameter Name="TransDocNumberSequence" Type="char" Mode="In" />
+        <Parameter Name="TransDocOriginCode" Type="char" Mode="In" />
+        <ReturnType>
+          <CollectionType>
+            <RowType>
+              <Property Name="UNIV_FISCAL_YEAR" Type="char" MaxLength="4" />
+              <Property Name="FIN_COA_CD" Type="char" MaxLength="2" />
+              <Property Name="ACCOUNT_NBR" Type="char" MaxLength="7" />
+              <Property Name="SUB_ACCT_NBR" Type="char" MaxLength="5" />
+              <Property Name="FIN_OBJECT_CD" Type="char" MaxLength="4" />
+              <Property Name="FIN_SUB_OBJ_CD" Type="char" MaxLength="3" />
+              <Property Name="FIN_BALANCE_TYP_CD" Type="char" MaxLength="2" />
+              <Property Name="FIN_OBJ_TYP_CD" Type="char" MaxLength="2" />
+              <Property Name="UNIV_FISCAL_PRD_CD" Type="char" MaxLength="2" />
+              <Property Name="FDOC_TYP_CD" Type="char" MaxLength="4" />
+              <Property Name="FS_ORIGIN_CD" Type="char" MaxLength="2" />
+              <Property Name="FDOC_NBR" Type="char" MaxLength="9" />
+              <Property Name="TRN_ENTR_SEQ_NBR" Type="char" MaxLength="5" />
+              <Property Name="TRN_LDGR_ENTR_DESC" Type="char" MaxLength="40" />
+              <Property Name="TRN_LDGR_ENTR_AMT" Type="char" MaxLength="14" />
+              <Property Name="TRN_DEBIT_CRDT_CD" Type="char" MaxLength="1" />
+              <Property Name="TRANSACTION_DT" Type="char" MaxLength="8" />
+              <Property Name="ORG_DOC_NBR" Type="char" MaxLength="10" />
+              <Property Name="PROJECT_CD" Type="char" MaxLength="10" />
+              <Property Name="ORG_REFERENCE_ID" Type="char" MaxLength="8" />
+              <Property Name="FDOC_REF_TYP_CD" Type="char" MaxLength="4" />
+              <Property Name="FS_REF_ORIGIN_CD" Type="char" MaxLength="2" />
+              <Property Name="FDOC_REF_NBR" Type="char" MaxLength="9" />
+              <Property Name="FDOC_REVERSAL_DT" Type="char" MaxLength="8" />
+              <Property Name="TRN_ENCUM_UPDT_CD" Type="char" MaxLength="1" />
+            </RowType>
+          </CollectionType>
+        </ReturnType>
+      </Function>-->
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="FISDataMartModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="FISDataMartEntities" p1:LazyLoadingEnabled="true">
+          <EntitySet Name="UnitFiles" EntityType="FISDataMartModel.UnitFile" />
+          <FunctionImport Name="udf_TrueFalseSelectionList" ReturnType="Collection(FISDataMartModel.udf_TrueFalseSelectionList_Result)" IsComposable="true" />
+          <FunctionImport Name="usp_GetBudgetAdjustmentUploadDataForOrg" ReturnType="Collection(FISDataMartModel.BudgetAdjustmentUploadDataResults)">
+            <Parameter Name="FiscalYear" Mode="In" Type="String" />
+            <Parameter Name="FiscalPeriod" Mode="In" Type="String" />
+            <Parameter Name="TransDescription" Mode="In" Type="String" />
+            <Parameter Name="OrgDocNumber" Mode="In" Type="String" />
+            <Parameter Name="OrgRefId" Mode="In" Type="String" />
+            <Parameter Name="TransDocNumberSequence" Mode="In" Type="String" />
+            <Parameter Name="OrgId" Mode="In" Type="String" />
+            <Parameter Name="TransDocOriginCode" Mode="In" Type="String" />
+            <Parameter Name="UseDaFIS" Mode="In" Type="Boolean" />
+            <Parameter Name="IsDebug" Mode="In" Type="Boolean" />
+          </FunctionImport>
+          <FunctionImport Name="usp_GetOrgLevel">
+            <Parameter Name="OrgId" Mode="In" Type="String" />
+            <Parameter Name="IsDebug" Mode="In" Type="Boolean" />
+            <Parameter Name="OrgLevel" Mode="InOut" Type="Int16" />
+          </FunctionImport>
+        </EntityContainer>
+        <ComplexType Name="udf_TrueFalseSelectionList_Result">
+          <Property Name="bool_name" Type="String" MaxLength="10" Unicode="false" FixedLength="false" />
+          <Property Name="YN_label" Type="String" MaxLength="5" Unicode="false" FixedLength="false" />
+          <Property Name="bool_value" Type="Boolean" />
+        </ComplexType>
+        <EntityType Name="UnitFile">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" />
+          <Property Name="UnitId" Type="Int32" Nullable="false" />
+          <Property Name="Filename" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="SchoolCode" Type="String" MaxLength="2" Unicode="false" FixedLength="false" />
+          <Property Name="Created" Type="DateTime" Precision="3" />
+          <Property Name="CreatedBy" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="Uploaded" Type="DateTime" Precision="3" />
+          <Property Name="UploadedBy" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+        </EntityType>
+        <ComplexType Name="BudgetAdjustmentUploadDataResults" >
+          <Property Name="UNIV_FISCAL_YEAR" Type="String" MaxLength="4" />
+          <Property Name="FIN_COA_CD" Type="String" MaxLength="2" />
+          <Property Name="ACCOUNT_NBR" Type="String" MaxLength="7" />
+          <Property Name="SUB_ACCT_NBR" Type="String" MaxLength="5" />
+          <Property Name="FIN_OBJECT_CD" Type="String" MaxLength="4" />
+          <Property Name="FIN_SUB_OBJ_CD" Type="String" MaxLength="3" />
+          <Property Name="FIN_BALANCE_TYP_CD" Type="String" MaxLength="2" />
+          <Property Name="FIN_OBJ_TYP_CD" Type="String" MaxLength="2" />
+          <Property Name="UNIV_FISCAL_PRD_CD" Type="String" MaxLength="2" />
+          <Property Name="FDOC_TYP_CD" Type="String" MaxLength="4" />
+          <Property Name="FS_ORIGIN_CD" Type="String" MaxLength="2" />
+          <Property Name="FDOC_NBR" Type="String" MaxLength="9" />
+          <Property Name="TRN_ENTR_SEQ_NBR" Type="String" MaxLength="5" />
+          <Property Name="TRN_LDGR_ENTR_DESC" Type="String" MaxLength="40" />
+          <Property Name="TRN_LDGR_ENTR_AMT" Type="String" MaxLength="14" />
+          <Property Name="TRN_DEBIT_CRDT_CD" Type="String" MaxLength="1" />
+          <Property Name="TRANSACTION_DT" Type="String" MaxLength="8" />
+          <Property Name="ORG_DOC_NBR" Type="String" MaxLength="10" />
+          <Property Name="PROJECT_CD" Type="String" MaxLength="10" />
+          <Property Name="ORG_REFERENCE_ID" Type="String" MaxLength="8" />
+          <Property Name="FDOC_REF_TYP_CD" Type="String" MaxLength="4" />
+          <Property Name="FS_REF_ORIGIN_CD" Type="String" MaxLength="2" />
+          <Property Name="FDOC_REF_NBR" Type="String" MaxLength="9" />
+          <Property Name="FDOC_REVERSAL_DT" Type="String" MaxLength="8" />
+          <Property Name="TRN_ENCUM_UPDT_CD" Type="String" MaxLength="1" />
+        </ComplexType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="FISDataMartModelStoreContainer" CdmEntityContainer="FISDataMartEntities">
+          <EntitySetMapping Name="UnitFiles">
+            <EntityTypeMapping TypeName="FISDataMartModel.UnitFile">
+              <MappingFragment StoreEntitySet="UnitFiles">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="UnitId" ColumnName="UnitId" />
+                <ScalarProperty Name="Filename" ColumnName="Filename" />
+                <ScalarProperty Name="SchoolCode" ColumnName="SchoolCode" />
+                <ScalarProperty Name="Created" ColumnName="Created" />
+                <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+                <ScalarProperty Name="Uploaded" ColumnName="Uploaded" />
+                <ScalarProperty Name="UploadedBy" ColumnName="UploadedBy" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <FunctionImportMapping FunctionName="FISDataMartModel.Store.udf_TrueFalseSelectionList" FunctionImportName="udf_TrueFalseSelectionList">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="FISDataMartModel.udf_TrueFalseSelectionList_Result">
+                <ScalarProperty Name="bool_name" ColumnName="bool_name" />
+                <ScalarProperty Name="YN_label" ColumnName="YN_label" />
+                <ScalarProperty Name="bool_value" ColumnName="bool_value" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="usp_GetBudgetAdjustmentUploadDataForOrg" FunctionName="FISDataMartModel.Store.usp_GetBudgetAdjustmentUploadDataForOrg">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="FISDataMartModel.BudgetAdjustmentUploadDataResults">
+                <ScalarProperty Name="UNIV_FISCAL_YEAR" ColumnName="UNIV_FISCAL_YEAR" />
+                <ScalarProperty Name="FIN_COA_CD" ColumnName="FIN_COA_CD" />
+                <ScalarProperty Name="ACCOUNT_NBR" ColumnName="ACCOUNT_NBR" />
+                <ScalarProperty Name="SUB_ACCT_NBR" ColumnName="SUB_ACCT_NBR" />
+                <ScalarProperty Name="FIN_OBJECT_CD" ColumnName="FIN_OBJECT_CD" />
+                <ScalarProperty Name="FIN_SUB_OBJ_CD" ColumnName="FIN_SUB_OBJ_CD" />
+                <ScalarProperty Name="FIN_BALANCE_TYP_CD" ColumnName="FIN_BALANCE_TYP_CD" />
+                <ScalarProperty Name="FIN_OBJ_TYP_CD" ColumnName="FIN_OBJ_TYP_CD" />
+                <ScalarProperty Name="UNIV_FISCAL_PRD_CD" ColumnName="UNIV_FISCAL_PRD_CD" />
+                <ScalarProperty Name="FDOC_TYP_CD" ColumnName="FDOC_TYP_CD" />
+                <ScalarProperty Name="FS_ORIGIN_CD" ColumnName="FS_ORIGIN_CD" />
+                <ScalarProperty Name="TRN_ENTR_SEQ_NBR" ColumnName="TRN_ENTR_SEQ_NBR" />
+                <ScalarProperty Name="FDOC_NBR" ColumnName="FDOC_NBR" />
+                <ScalarProperty Name="TRN_LDGR_ENTR_DESC" ColumnName="TRN_LDGR_ENTR_DESC" />
+                <ScalarProperty Name="TRN_LDGR_ENTR_AMT" ColumnName="TRN_LDGR_ENTR_AMT" />
+                <ScalarProperty Name="TRN_DEBIT_CRDT_CD" ColumnName="TRN_DEBIT_CRDT_CD" />
+                <ScalarProperty Name="TRANSACTION_DT" ColumnName="TRANSACTION_DT" />
+                <ScalarProperty Name="ORG_DOC_NBR" ColumnName="ORG_DOC_NBR" />
+                <ScalarProperty Name="PROJECT_CD" ColumnName="PROJECT_CD" />
+                <ScalarProperty Name="ORG_REFERENCE_ID" ColumnName="ORG_REFERENCE_ID" />
+                <ScalarProperty Name="FDOC_REF_TYP_CD" ColumnName="FDOC_REF_TYP_CD" />
+                <ScalarProperty Name="FS_REF_ORIGIN_CD" ColumnName="FS_REF_ORIGIN_CD" />
+                <ScalarProperty Name="FDOC_REF_NBR" ColumnName="FDOC_REF_NBR" />
+                <ScalarProperty Name="FDOC_REVERSAL_DT" ColumnName="FDOC_REVERSAL_DT" />
+                <ScalarProperty Name="TRN_ENCUM_UPDT_CD" ColumnName="TRN_ENCUM_UPDT_CD" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="usp_GetOrgLevel" FunctionName="FISDataMartModel.Store.usp_GetOrgLevel" />
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

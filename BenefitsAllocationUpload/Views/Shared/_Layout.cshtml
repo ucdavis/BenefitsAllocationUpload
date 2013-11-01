@@ -108,7 +108,7 @@
                 margin-bottom: -2px;
             }
         </style>
-
+        <link rel="stylesheet" href="@Url.Content("/Content/jquery.confirm.css")"/>
     </head>
     <body>
         <header>
@@ -129,14 +129,18 @@
                             @{
                                 if (User.IsInRole(RoleNames.User))
                                 {
-                                     <li>@Html.ActionLink("Files", "Index", "Reports")</li>
+                                    <li>@Html.ActionLink("Files", "Index", "Reports")</li>
+                                    <li>@Html.ActionLink("Expired Accounts", "Index", "ExpiredAccounts")</li>
                                 }
-                                
+                                if (User.IsInRole(RoleNames.EditReimbursableAccounts))
+                                {
+                                    <li>@Html.ActionLink("Reimbursable Benefits Accounts", "Index", "ReimbursableBenefitsAccount")</li>
+                                }
+                   
                                 if (User.IsInRole(RoleNames.Admin))
                                 {
                                     <li>@Html.ActionLink("Admin", "Index", "UserAdministration")</li>
                                 }
-                              
                             }
                            @* <li>@Html.ActionLink("Benefits Allocation Upload", "Index", "Reports")</li>*@
                             <li>@Html.ActionLink("About", "About", "Home")</li>
@@ -161,7 +165,9 @@
         <footer>
             <div class="content-wrapper">
                 <div class="float-left">
-                    <p>&copy; @DateTime.Now.Year - My ASP.NET MVC Application</p>
+                    <p>Developed by the College of Agricultural and Environmental Sciences Dean's Office</p>
+                    <p>&copy; @DateTime.Now.Year - The Regents of the University of California, Davis campus</p>
+                    <p>All Rights Reserved.</p>
                 </div>
             </div>
         </footer>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="93533d864e2e424fa201a88602d3450a" Name="Diagram1">
+        <EntityTypeShape EntityType="CATBERT3Model.ApplicationRole" Width="1.5" PointX="5.25" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="CATBERT3Model.Application" Width="1.5" PointX="3" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CATBERT3Model.Permission" Width="1.5" PointX="5.25" PointY="10" IsExpanded="true" />
+        <EntityTypeShape EntityType="CATBERT3Model.Role" Width="1.5" PointX="3" PointY="15.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CATBERT3Model.School" Width="1.5" PointX="0.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CATBERT3Model.Unit" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="CATBERT3Model.UnitAssociation" Width="1.5" PointX="5.25" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="CATBERT3Model.User" Width="1.5" PointX="3" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="CATBERT3Model.ApplicationRoles_V" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CATBERT3Model.ApplicationUsers_V" Width="1.5" PointX="7.75" PointY="3.75" IsExpanded="true" />
+        <AssociationConnector Association="CATBERT3Model.FK_ApplicationRoles_Applications" ManuallyRouted="false" />
+        <AssociationConnector Association="CATBERT3Model.FK_ApplicationRoles_Roles" ManuallyRouted="false" />
+        <AssociationConnector Association="CATBERT3Model.FK_Permissions_Applications" ManuallyRouted="false" />
+        <AssociationConnector Association="CATBERT3Model.FK_UnitAssociations_Applications" ManuallyRouted="false" />
+        <AssociationConnector Association="CATBERT3Model.FK_Permissions_Roles" ManuallyRouted="false" />
+        <AssociationConnector Association="CATBERT3Model.FK_Permissions_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="CATBERT3Model.FK_Unit_Schools" ManuallyRouted="false" />
+        <AssociationConnector Association="CATBERT3Model.FK_Unit_Unit_Parent" ManuallyRouted="false" />
+        <AssociationConnector Association="CATBERT3Model.FK_UnitAssociations_Unit" ManuallyRouted="false" />
+        <AssociationConnector Association="CATBERT3Model.FK_UnitAssociations_Users" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

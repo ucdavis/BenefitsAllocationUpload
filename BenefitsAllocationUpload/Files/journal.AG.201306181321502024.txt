@@ -1,0 +1,741 @@
+20133 2200229-----SUB6---CB  12GLCBAG201312002    1test after all DANR changes                      -4.96 20130618          ----------kentest                         
+20133 A400344ADMTCSUB6---CB  12GLCBAG201312002    2test after all DANR changes                      -5.14 20130618          ----------kentest                         
+20133 AAFRGAA-----SB28---CB  12GLCBAG201312002    3test after all DANR changes                      12.04 20130618          ADOEFH    kentest                         
+20133 AAFRGAA-----SB28---CB  12GLCBAG201312002    4test after all DANR changes                      77.51 20130618          ADOVXW    kentest                         
+20133 AAFRGAA-----SUB6---CB  12GLCBAG201312002    5test after all DANR changes                   -1059.37 20130618          ADOEFH    kentest                         
+20133 AAFRGAA-----SUB6---CB  12GLCBAG201312002    6test after all DANR changes                    -263.65 20130618          ADOVXW    kentest                         
+20133 AALADMN-----SB28---CB  12GLCBAG201312002    7test after all DANR changes                    -448.65 20130618          ----------kentest                         
+20133 AALADMN-----SUB6---CB  12GLCBAG201312002    8test after all DANR changes                   -1884.68 20130618          ----------kentest                         
+20133 AASIGAA-----SB28---CB  12GLCBAG201312002    9test after all DANR changes                     -82.17 20130618          ----------kentest                         
+20133 AASIGAA-----SB28---CB  12GLCBAG201312002   10test after all DANR changes                     -64.11 20130618          KJACKSON  kentest                         
+20133 AASIGAA-----SUB6---CB  12GLCBAG201312002   11test after all DANR changes                    -641.60 20130618          ----------kentest                         
+20133 AASIGAA-----SUB6---CB  12GLCBAG201312002   12test after all DANR changes                    -500.61 20130618          KJACKSON  kentest                         
+20133 AASIGAB-----SB28---CB  12GLCBAG201312002   13test after all DANR changes                     -46.00 20130618          ----------kentest                         
+20133 AASIGAB-----SUB6---CB  12GLCBAG201312002   14test after all DANR changes                    -234.35 20130618          ----------kentest                         
+20133 AASRGAA-----SB28---CB  12GLCBAG201312002   15test after all DANR changes                    1389.76 20130618          ----------kentest                         
+20133 AASRGAA-----SUB6---CB  12GLCBAG201312002   16test after all DANR changes                   -6339.37 20130618          ----------kentest                         
+20133 ABAITMPABT49SUB6---CB  12GLCBAG201312002   17test after all DANR changes                     -12.37 20130618          ----------kentest                         
+20133 ABARGAA-----SB28---CB  12GLCBAG201312002   18test after all DANR changes                    -174.56 20130618          ----------kentest                         
+20133 ABARGAA-----SUB6---CB  12GLCBAG201312002   19test after all DANR changes                   -1730.64 20130618          ----------kentest                         
+20133 ABARGAACOMPLSUB6---CB  12GLCBAG201312002   20test after all DANR changes                      -5.15 20130618          ----------kentest                         
+20133 AC1IGAA-----SB28---CB  12GLCBAG201312002   21test after all DANR changes                     -91.58 20130618          ----------kentest                         
+20133 AC1IGAA-----SB28---CB  12GLCBAG201312002   22test after all DANR changes                    -143.68 20130618          FCCAER    kentest                         
+20133 AC1IGAA-----SB28---CB  12GLCBAG201312002   23test after all DANR changes                    -118.64 20130618          FCCCIS    kentest                         
+20133 AC1IGAA-----SB28---CB  12GLCBAG201312002   24test after all DANR changes                     -86.21 20130618          FCCETH    kentest                         
+20133 AC1IGAA-----SB28---CB  12GLCBAG201312002   25test after all DANR changes                    -105.22 20130618          FCCEXV    kentest                         
+20133 AC1IGAA-----SB28---CB  12GLCBAG201312002   26test after all DANR changes                    -114.05 20130618          FCCJAV    kentest                         
+20133 AC1IGAA-----SB28---CB  12GLCBAG201312002   27test after all DANR changes                     -93.70 20130618          FCCJXF    kentest                         
+20133 AC1IGAA-----SB28---CB  12GLCBAG201312002   28test after all DANR changes                     -65.41 20130618          FCCMDJ    kentest                         
+20133 AC1IGAA-----SUB6---CB  12GLCBAG201312002   29test after all DANR changes                    -808.43 20130618          ----------kentest                         
+20133 AC1IGAA-----SUB6---CB  12GLCBAG201312002   30test after all DANR changes                    -921.70 20130618          FCCAER    kentest                         
+20133 AC1IGAA-----SUB6---CB  12GLCBAG201312002   31test after all DANR changes                    -761.05 20130618          FCCCIS    kentest                         
+20133 AC1IGAA-----SUB6---CB  12GLCBAG201312002   32test after all DANR changes                    -673.17 20130618          FCCETH    kentest                         
+20133 AC1IGAA-----SUB6---CB  12GLCBAG201312002   33test after all DANR changes                    -850.67 20130618          FCCEXV    kentest                         
+20133 AC1IGAA-----SUB6---CB  12GLCBAG201312002   34test after all DANR changes                    -890.56 20130618          FCCJAV    kentest                         
+20133 AC1IGAA-----SUB6---CB  12GLCBAG201312002   35test after all DANR changes                    -731.65 20130618          FCCJXF    kentest                         
+20133 AC1IGAA-----SUB6---CB  12GLCBAG201312002   36test after all DANR changes                    -820.97 20130618          FCCMDJ    kentest                         
+20133 AC1RGAA-----SB28---CB  12GLCBAG201312002   37test after all DANR changes                    -124.03 20130618          ----------kentest                         
+20133 AC1RGAA-----SB28---CB  12GLCBAG201312002   38test after all DANR changes                     -82.87 20130618          FCCAZI    kentest                         
+20133 AC1RGAA-----SB28---CB  12GLCBAG201312002   39test after all DANR changes                     246.34 20130618          FCCBAR    kentest                         
+20133 AC1RGAA-----SB28---CB  12GLCBAG201312002   40test after all DANR changes                    -174.19 20130618          FCCMLR    kentest                         
+20133 AC1RGAA-----SB28---CB  12GLCBAG201312002   41test after all DANR changes                    -151.54 20130618          FCCSAW    kentest                         
+20133 AC1RGAA-----SB28---CB  12GLCBAG201312002   42test after all DANR changes                    -123.66 20130618          FCCSMP    kentest                         
+20133 AC1RGAA-----SB28---CB  12GLCBAG201312002   43test after all DANR changes                      48.69 20130618          FCCVMO    kentest                         
+20133 AC1RGAA-----SUB6---CB  12GLCBAG201312002   44test after all DANR changes                    -968.52 20130618          ----------kentest                         
+20133 AC1RGAA-----SUB6---CB  12GLCBAG201312002   45test after all DANR changes                    -957.81 20130618          FCCAZI    kentest                         
+20133 AC1RGAA-----SUB6---CB  12GLCBAG201312002   46test after all DANR changes                    -338.05 20130618          FCCBAR    kentest                         
+20133 AC1RGAA-----SUB6---CB  12GLCBAG201312002   47test after all DANR changes                    -887.44 20130618          FCCMLR    kentest                         
+20133 AC1RGAA-----SUB6---CB  12GLCBAG201312002   48test after all DANR changes                   -1023.82 20130618          FCCSAW    kentest                         
+20133 AC1RGAA-----SUB6---CB  12GLCBAG201312002   49test after all DANR changes                    -990.99 20130618          FCCSMP    kentest                         
+20133 AC1RGAA-----SUB6---CB  12GLCBAG201312002   50test after all DANR changes                    -806.26 20130618          FCCVMO    kentest                         
+20133 AC2IGAAITSTFSB28---CB  12GLCBAG201312002   51test after all DANR changes                      44.67 20130618          250PARSONSkentest                         
+20133 AC2IGAAITSTFSB28---CB  12GLCBAG201312002   52test after all DANR changes                     -78.26 20130618          250RIVERA kentest                         
+20133 AC2IGAAITSTFSUB6---CB  12GLCBAG201312002   53test after all DANR changes                    -430.29 20130618          250PARSONSkentest                         
+20133 AC2IGAAITSTFSUB6---CB  12GLCBAG201312002   54test after all DANR changes                    -502.05 20130618          250RIVERA kentest                         
+20133 AC2IGAAOFSTFSB28---CB  12GLCBAG201312002   55test after all DANR changes                     -91.58 20130618          250EDGAR  kentest                         
+20133 AC2IGAAOFSTFSB28---CB  12GLCBAG201312002   56test after all DANR changes                    -105.07 20130618          250GARCIA kentest                         
+20133 AC2IGAAOFSTFSB28---CB  12GLCBAG201312002   57test after all DANR changes                       9.17 20130618          250GOMEZ  kentest                         
+20133 AC2IGAAOFSTFSB28---CB  12GLCBAG201312002   58test after all DANR changes                     -60.59 20130618          250ISAAC  kentest                         
+20133 AC2IGAAOFSTFSB28---CB  12GLCBAG201312002   59test after all DANR changes                    -123.79 20130618          250LEWIS  kentest                         
+20133 AC2IGAAOFSTFSB28---CB  12GLCBAG201312002   60test after all DANR changes                    -203.12 20130618          250MATT   kentest                         
+20133 AC2IGAAOFSTFSB28---CB  12GLCBAG201312002   61test after all DANR changes                      25.60 20130618          250TORRES kentest                         
+20133 AC2IGAAOFSTFSB28---CB  12GLCBAG201312002   62test after all DANR changes                     -54.27 20130618          AWFCSJG   kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  12GLCBAG201312002   63test after all DANR changes                    -715.15 20130618          250EDGAR  kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  12GLCBAG201312002   64test after all DANR changes                    -535.29 20130618          250GARCIA kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  12GLCBAG201312002   65test after all DANR changes                    -130.41 20130618          250GOMEZ  kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  12GLCBAG201312002   66test after all DANR changes                    -473.11 20130618          250ISAAC  kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  12GLCBAG201312002   67test after all DANR changes                    -807.96 20130618          250LEWIS  kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  12GLCBAG201312002   68test after all DANR changes                   -1145.98 20130618          250MATT   kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  12GLCBAG201312002   69test after all DANR changes                    -593.73 20130618          250TORRES kentest                         
+20133 AC2IGAAOFSTFSUB6---CB  12GLCBAG201312002   70test after all DANR changes                    -378.56 20130618          AWFCSJG   kentest                         
+20133 AC2RGAAITSTFSB28---CB  12GLCBAG201312002   71test after all DANR changes                    -126.91 20130618          250BOOTON kentest                         
+20133 AC2RGAAITSTFSB28---CB  12GLCBAG201312002   72test after all DANR changes                    -120.91 20130618          250CHRUDINkentest                         
+20133 AC2RGAAITSTFSB28---CB  12GLCBAG201312002   73test after all DANR changes                     313.24 20130618          250DERR   kentest                         
+20133 AC2RGAAITSTFSB28---CB  12GLCBAG201312002   74test after all DANR changes                     927.52 20130618          250JIMENEZkentest                         
+20133 AC2RGAAITSTFSB28---CB  12GLCBAG201312002   75test after all DANR changes                     105.76 20130618          250PARSONSkentest                         
+20133 AC2RGAAITSTFSB28---CB  12GLCBAG201312002   76test after all DANR changes                     -78.26 20130618          250RIVERA kentest                         
+20133 AC2RGAAITSTFSB28---CB  12GLCBAG201312002   77test after all DANR changes                     113.99 20130618          AETXSSV   kentest                         
+20133 AC2RGAAITSTFSUB6---CB  12GLCBAG201312002   78test after all DANR changes                    -991.01 20130618          250BOOTON kentest                         
+20133 AC2RGAAITSTFSUB6---CB  12GLCBAG201312002   79test after all DANR changes                    -944.16 20130618          250CHRUDINkentest                         
+20133 AC2RGAAITSTFSUB6---CB  12GLCBAG201312002   80test after all DANR changes                    2009.43 20130618          250DERR   kentest                         
+20133 AC2RGAAITSTFSUB6---CB  12GLCBAG201312002   81test after all DANR changes                    -521.77 20130618          250JIMENEZkentest                         
+20133 AC2RGAAITSTFSUB6---CB  12GLCBAG201312002   82test after all DANR changes                      46.75 20130618          250PARSONSkentest                         
+20133 AC2RGAAITSTFSUB6---CB  12GLCBAG201312002   83test after all DANR changes                    -502.05 20130618          250RIVERA kentest                         
+20133 AC2RGAAITSTFSUB6---CB  12GLCBAG201312002   84test after all DANR changes                    -610.32 20130618          AETXSSV   kentest                         
+20133 AC2RGAAOFSTFSB28---CB  12GLCBAG201312002   85test after all DANR changes                     -72.25 20130618          250CLARK  kentest                         
+20133 AC2RGAAOFSTFSB28---CB  12GLCBAG201312002   86test after all DANR changes                      68.90 20130618          250GOMEZ  kentest                         
+20133 AC2RGAAOFSTFSB28---CB  12GLCBAG201312002   87test after all DANR changes                      68.79 20130618          250WALLACEkentest                         
+20133 AC2RGAAOFSTFSB28---CB  12GLCBAG201312002   88test after all DANR changes                    -102.67 20130618          AETXWLN   kentest                         
+20133 AC2RGAAOFSTFSB28---CB  12GLCBAG201312002   89test after all DANR changes                     -54.27 20130618          AWFCSJG   kentest                         
+20133 AC2RGAAOFSTFSUB6---CB  12GLCBAG201312002   90test after all DANR changes                    -368.07 20130618          250CLARK  kentest                         
+20133 AC2RGAAOFSTFSUB6---CB  12GLCBAG201312002   91test after all DANR changes                    -731.46 20130618          250GOMEZ  kentest                         
+20133 AC2RGAAOFSTFSUB6---CB  12GLCBAG201312002   92test after all DANR changes                    -695.11 20130618          250WALLACEkentest                         
+20133 AC2RGAAOFSTFSUB6---CB  12GLCBAG201312002   93test after all DANR changes                    -801.73 20130618          AETXWLN   kentest                         
+20133 AC2RGAAOFSTFSUB6---CB  12GLCBAG201312002   94test after all DANR changes                    -378.56 20130618          AWFCSJG   kentest                         
+20133 AC3IGAA-----SB28---CB  12GLCBAG201312002   95test after all DANR changes                     306.11 20130618          BEBBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  12GLCBAG201312002   96test after all DANR changes                      90.62 20130618          BLLBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  12GLCBAG201312002   97test after all DANR changes                     -35.94 20130618          EDDBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  12GLCBAG201312002   98test after all DANR changes                     469.50 20130618          GLTBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  12GLCBAG201312002   99test after all DANR changes                     -26.59 20130618          JADBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  12GLCBAG201312002  100test after all DANR changes                     -34.96 20130618          JCSBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  12GLCBAG201312002  101test after all DANR changes                     144.68 20130618          JEBBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  12GLCBAG201312002  102test after all DANR changes                     -56.27 20130618          JKPBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  12GLCBAG201312002  103test after all DANR changes                     -45.42 20130618          JLABFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  12GLCBAG201312002  104test after all DANR changes                    -109.55 20130618          JLBBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  12GLCBAG201312002  105test after all DANR changes                     -51.34 20130618          KANBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  12GLCBAG201312002  106test after all DANR changes                     -53.15 20130618          LALBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  12GLCBAG201312002  107test after all DANR changes                     -11.43 20130618          LAMBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  12GLCBAG201312002  108test after all DANR changes                     -63.36 20130618          LCGBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  12GLCBAG201312002  109test after all DANR changes                     199.60 20130618          LPSBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  12GLCBAG201312002  110test after all DANR changes                     -41.10 20130618          MXGBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  12GLCBAG201312002  111test after all DANR changes                      18.20 20130618          TLCBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  12GLCBAG201312002  112test after all DANR changes                       8.13 20130618          TMJBFTV   kentest                         
+20133 AC3IGAA-----SB28---CB  12GLCBAG201312002  113test after all DANR changes                     -70.26 20130618          TXMBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  12GLCBAG201312002  114test after all DANR changes                      -8.89 20130618          ----------kentest                         
+20133 AC3IGAA-----SUB6---CB  12GLCBAG201312002  115test after all DANR changes                    -182.30 20130618          BEBBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  12GLCBAG201312002  116test after all DANR changes                    -312.83 20130618          BLLBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  12GLCBAG201312002  117test after all DANR changes                    -280.61 20130618          EDDBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  12GLCBAG201312002  118test after all DANR changes                    -264.11 20130618          GLTBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  12GLCBAG201312002  119test after all DANR changes                    -295.41 20130618          JADBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  12GLCBAG201312002  120test after all DANR changes                    -224.29 20130618          JCSBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  12GLCBAG201312002  121test after all DANR changes                    -437.64 20130618          JEBBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  12GLCBAG201312002  122test after all DANR changes                    -429.21 20130618          JKPBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  12GLCBAG201312002  123test after all DANR changes                    -291.36 20130618          JLABFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  12GLCBAG201312002  124test after all DANR changes                    -558.13 20130618          JLBBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  12GLCBAG201312002  125test after all DANR changes                    -400.87 20130618          KANBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  12GLCBAG201312002  126test after all DANR changes                    -332.28 20130618          LALBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  12GLCBAG201312002  127test after all DANR changes                    -126.85 20130618          LAMBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  12GLCBAG201312002  128test after all DANR changes                    -494.76 20130618          LCGBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  12GLCBAG201312002  129test after all DANR changes                    -200.46 20130618          LPSBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  12GLCBAG201312002  130test after all DANR changes                    -209.41 20130618          MXGBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  12GLCBAG201312002  131test after all DANR changes                    -230.29 20130618          TLCBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  12GLCBAG201312002  132test after all DANR changes                    -407.28 20130618          TMJBFTV   kentest                         
+20133 AC3IGAA-----SUB6---CB  12GLCBAG201312002  133test after all DANR changes                    -548.61 20130618          TXMBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  12GLCBAG201312002  134test after all DANR changes                     374.13 20130618          BEBBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  12GLCBAG201312002  135test after all DANR changes                      90.62 20130618          BLLBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  12GLCBAG201312002  136test after all DANR changes                       2.74 20130618          DECBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  12GLCBAG201312002  137test after all DANR changes                     -66.74 20130618          EDDBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  12GLCBAG201312002  138test after all DANR changes                     573.83 20130618          GLTBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  12GLCBAG201312002  139test after all DANR changes                     -55.92 20130618          JADBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  12GLCBAG201312002  140test after all DANR changes                    -139.85 20130618          JCSBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  12GLCBAG201312002  141test after all DANR changes                     144.68 20130618          JEBBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  12GLCBAG201312002  142test after all DANR changes                     -56.27 20130618          JKPBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  12GLCBAG201312002  143test after all DANR changes                     -84.35 20130618          JLABFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  12GLCBAG201312002  144test after all DANR changes                    -109.55 20130618          JLBBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  12GLCBAG201312002  145test after all DANR changes                     -51.34 20130618          KANBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  12GLCBAG201312002  146test after all DANR changes                     -91.57 20130618          LALBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  12GLCBAG201312002  147test after all DANR changes                     -27.35 20130618          LAMBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  12GLCBAG201312002  148test after all DANR changes                     -21.12 20130618          LCGBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  12GLCBAG201312002  149test after all DANR changes                    -124.56 20130618          LCWBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  12GLCBAG201312002  150test after all DANR changes                     294.31 20130618          LPSBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  12GLCBAG201312002  151test after all DANR changes                     -81.50 20130618          MXGBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  12GLCBAG201312002  152test after all DANR changes                      31.50 20130618          TLCBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  12GLCBAG201312002  153test after all DANR changes                       8.13 20130618          TMJBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  12GLCBAG201312002  154test after all DANR changes                     -30.11 20130618          TXMBFTV   kentest                         
+20133 AC3RGAA-----SB28---CB  12GLCBAG201312002  155test after all DANR changes                     160.68 20130618          VRWBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  12GLCBAG201312002  156test after all DANR changes                     -88.60 20130618          ----------kentest                         
+20133 AC3RGAA-----SUB6---CB  12GLCBAG201312002  157test after all DANR changes                    -222.82 20130618          BEBBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  12GLCBAG201312002  158test after all DANR changes                    -312.83 20130618          BLLBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  12GLCBAG201312002  159test after all DANR changes                    -240.92 20130618          DECBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  12GLCBAG201312002  160test after all DANR changes                    -521.13 20130618          EDDBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  12GLCBAG201312002  161test after all DANR changes                    -322.81 20130618          GLTBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  12GLCBAG201312002  162test after all DANR changes                    -551.50 20130618          JADBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  12GLCBAG201312002  163test after all DANR changes                    -897.15 20130618          JCSBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  12GLCBAG201312002  164test after all DANR changes                    -437.64 20130618          JEBBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  12GLCBAG201312002  165test after all DANR changes                    -429.21 20130618          JKPBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  12GLCBAG201312002  166test after all DANR changes                    -541.09 20130618          JLABFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  12GLCBAG201312002  167test after all DANR changes                    -558.13 20130618          JLBBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  12GLCBAG201312002  168test after all DANR changes                    -400.87 20130618          KANBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  12GLCBAG201312002  169test after all DANR changes                    -613.92 20130618          LALBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  12GLCBAG201312002  170test after all DANR changes                    -251.15 20130618          LAMBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  12GLCBAG201312002  171test after all DANR changes                    -164.92 20130618          LCGBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  12GLCBAG201312002  172test after all DANR changes                    -702.75 20130618          LCWBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  12GLCBAG201312002  173test after all DANR changes                    -302.94 20130618          LPSBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  12GLCBAG201312002  174test after all DANR changes                    -415.21 20130618          MXGBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  12GLCBAG201312002  175test after all DANR changes                    -343.57 20130618          TLCBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  12GLCBAG201312002  176test after all DANR changes                    -407.28 20130618          TMJBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  12GLCBAG201312002  177test after all DANR changes                    -235.12 20130618          TXMBFTV   kentest                         
+20133 AC3RGAA-----SUB6---CB  12GLCBAG201312002  178test after all DANR changes                    -767.10 20130618          VRWBFTV   kentest                         
+20133 AC3RGAAITEXPSUB6---CB  12GLCBAG201312002  179test after all DANR changes                      -2.15 20130618          ----------kentest                         
+20133 AC4IGAA-----SB28---CB  12GLCBAG201312002  180test after all DANR changes                     235.06 20130618          ----------kentest                         
+20133 AC4IGAA-----SB28---CB  12GLCBAG201312002  181test after all DANR changes                     -74.26 20130618          BXCP      kentest                         
+20133 AC4IGAA-----SB28---CB  12GLCBAG201312002  182test after all DANR changes                      98.01 20130618          KXDP      kentest                         
+20133 AC4IGAA-----SB28---CB  12GLCBAG201312002  183test after all DANR changes                     -59.27 20130618          LJJP      kentest                         
+20133 AC4IGAA-----SB28---CB  12GLCBAG201312002  184test after all DANR changes                    1237.24 20130618          SGGP      kentest                         
+20133 AC4IGAA-----SUB6---CB  12GLCBAG201312002  185test after all DANR changes                    1178.13 20130618          ----------kentest                         
+20133 AC4IGAA-----SUB6---CB  12GLCBAG201312002  186test after all DANR changes                    -579.87 20130618          BXCP      kentest                         
+20133 AC4IGAA-----SUB6---CB  12GLCBAG201312002  187test after all DANR changes                    -789.05 20130618          KXDP      kentest                         
+20133 AC4IGAA-----SUB6---CB  12GLCBAG201312002  188test after all DANR changes                    -661.26 20130618          LJJP      kentest                         
+20133 AC4IGAA-----SUB6---CB  12GLCBAG201312002  189test after all DANR changes                    -515.00 20130618          SGGP      kentest                         
+20133 AC4RGAA-----SB28---CB  12GLCBAG201312002  190test after all DANR changes                      25.87 20130618          BAMP      kentest                         
+20133 AC4RGAA-----SB28---CB  12GLCBAG201312002  191test after all DANR changes                     795.17 20130618          EGHP      kentest                         
+20133 AC4RGAA-----SB28---CB  12GLCBAG201312002  192test after all DANR changes                    -163.69 20130618          ENTSANCHEZkentest                         
+20133 AC4RGAA-----SB28---CB  12GLCBAG201312002  193test after all DANR changes                    -169.07 20130618          GFYP      kentest                         
+20133 AC4RGAA-----SB28---CB  12GLCBAG201312002  194test after all DANR changes                    -100.32 20130618          JCDP      kentest                         
+20133 AC4RGAA-----SB28---CB  12GLCBAG201312002  195test after all DANR changes                     -69.60 20130618          JMEP      kentest                         
+20133 AC4RGAA-----SB28---CB  12GLCBAG201312002  196test after all DANR changes                    -163.69 20130618          JMKP      kentest                         
+20133 AC4RGAA-----SB28---CB  12GLCBAG201312002  197test after all DANR changes                      68.45 20130618          MTTP      kentest                         
+20133 AC4RGAA-----SB28---CB  12GLCBAG201312002  198test after all DANR changes                     942.31 20130618          WJMP      kentest                         
+20133 AC4RGAA-----SUB6---CB  12GLCBAG201312002  199test after all DANR changes                     -10.08 20130618          ----------kentest                         
+20133 AC4RGAA-----SUB6---CB  12GLCBAG201312002  200test after all DANR changes                    -754.49 20130618          BAMP      kentest                         
+20133 AC4RGAA-----SUB6---CB  12GLCBAG201312002  201test after all DANR changes                    -447.32 20130618          EGHP      kentest                         
+20133 AC4RGAA-----SUB6---CB  12GLCBAG201312002  202test after all DANR changes                   -1050.05 20130618          ENTSANCHEZkentest                         
+20133 AC4RGAA-----SUB6---CB  12GLCBAG201312002  203test after all DANR changes                   -1096.63 20130618          GFYP      kentest                         
+20133 AC4RGAA-----SUB6---CB  12GLCBAG201312002  204test after all DANR changes                    -783.36 20130618          JCDP      kentest                         
+20133 AC4RGAA-----SUB6---CB  12GLCBAG201312002  205test after all DANR changes                    -543.51 20130618          JMEP      kentest                         
+20133 AC4RGAA-----SUB6---CB  12GLCBAG201312002  206test after all DANR changes                   -1050.05 20130618          JMKP      kentest                         
+20133 AC4RGAA-----SUB6---CB  12GLCBAG201312002  207test after all DANR changes                    -726.09 20130618          MTTP      kentest                         
+20133 AC4RGAA-----SUB6---CB  12GLCBAG201312002  208test after all DANR changes                    -561.20 20130618          WJMP      kentest                         
+20133 AC5IGAA-----SB28---CB  12GLCBAG201312002  209test after all DANR changes                     -79.30 20130618          ACL5DELCARkentest                         
+20133 AC5IGAA-----SB28---CB  12GLCBAG201312002  210test after all DANR changes                     -47.90 20130618          ACL5LEVINEkentest                         
+20133 AC5IGAA-----SB28---CB  12GLCBAG201312002  211test after all DANR changes                     430.08 20130618          ACL5SMITHRkentest                         
+20133 AC5IGAA-----SB28---CB  12GLCBAG201312002  212test after all DANR changes                     -82.80 20130618          ACL5SUTTONkentest                         
+20133 AC5IGAA-----SB28---CB  12GLCBAG201312002  213test after all DANR changes                     596.22 20130618          ARERAUBACHkentest                         
+20133 AC5IGAA-----SB28---CB  12GLCBAG201312002  214test after all DANR changes                      45.51 20130618          ARES_POHL kentest                         
+20133 AC5IGAA-----SB28---CB  12GLCBAG201312002  215test after all DANR changes                     -81.02 20130618          CLOPEZ    kentest                         
+20133 AC5IGAA-----SB28---CB  12GLCBAG201312002  216test after all DANR changes                     240.49 20130618          DWHITAKER kentest                         
+20133 AC5IGAA-----SB28---CB  12GLCBAG201312002  217test after all DANR changes                      33.03 20130618          ESPSHONE  kentest                         
+20133 AC5IGAA-----SB28---CB  12GLCBAG201312002  218test after all DANR changes                      78.18 20130618          FMCCLEERY kentest                         
+20133 AC5IGAA-----SB28---CB  12GLCBAG201312002  219test after all DANR changes                     -73.76 20130618          JELLISON  kentest                         
+20133 AC5IGAA-----SB28---CB  12GLCBAG201312002  220test after all DANR changes                    -102.67 20130618          RJTAYLOR  kentest                         
+20133 AC5IGAA-----SUB6---CB  12GLCBAG201312002  221test after all DANR changes                      -4.65 20130618          ----------kentest                         
+20133 AC5IGAA-----SUB6---CB  12GLCBAG201312002  222test after all DANR changes                    -619.20 20130618          ACL5DELCARkentest                         
+20133 AC5IGAA-----SUB6---CB  12GLCBAG201312002  223test after all DANR changes                    -374.06 20130618          ACL5LEVINEkentest                         
+20133 AC5IGAA-----SUB6---CB  12GLCBAG201312002  224test after all DANR changes                    -601.96 20130618          ACL5SMITHRkentest                         
+20133 AC5IGAA-----SUB6---CB  12GLCBAG201312002  225test after all DANR changes                    -646.56 20130618          ACL5SUTTONkentest                         
+20133 AC5IGAA-----SUB6---CB  12GLCBAG201312002  226test after all DANR changes                    -511.56 20130618          ARERAUBACHkentest                         
+20133 AC5IGAA-----SUB6---CB  12GLCBAG201312002  227test after all DANR changes                    -753.56 20130618          ARES_POHL kentest                         
+20133 AC5IGAA-----SUB6---CB  12GLCBAG201312002  228test after all DANR changes                    -632.69 20130618          CLOPEZ    kentest                         
+20133 AC5IGAA-----SUB6---CB  12GLCBAG201312002  229test after all DANR changes                    -906.06 20130618          DWHITAKER kentest                         
+20133 AC5IGAA-----SUB6---CB  12GLCBAG201312002  230test after all DANR changes                    -724.79 20130618          ESPSHONE  kentest                         
+20133 AC5IGAA-----SUB6---CB  12GLCBAG201312002  231test after all DANR changes                    -829.29 20130618          FMCCLEERY kentest                         
+20133 AC5IGAA-----SUB6---CB  12GLCBAG201312002  232test after all DANR changes                    -575.94 20130618          JELLISON  kentest                         
+20133 AC5IGAA-----SUB6---CB  12GLCBAG201312002  233test after all DANR changes                    -801.73 20130618          RJTAYLOR  kentest                         
+20133 AC5RGAA-----SB28---CB  12GLCBAG201312002  234test after all DANR changes                     -48.71 20130618          ACL5CKEMPLkentest                         
+20133 AC5RGAA-----SB28---CB  12GLCBAG201312002  235test after all DANR changes                    -111.55 20130618          ACL5KELLY kentest                         
+20133 AC5RGAA-----SB28---CB  12GLCBAG201312002  236test after all DANR changes                     -75.81 20130618          LSEVILLEJAkentest                         
+20133 AC5RGAA-----SB28---CB  12GLCBAG201312002  237test after all DANR changes                    -167.42 20130618          SRAGSDALE kentest                         
+20133 AC5RGAA-----SUB6---CB  12GLCBAG201312002  238test after all DANR changes                      -1.33 20130618          ----------kentest                         
+20133 AC5RGAA-----SUB6---CB  12GLCBAG201312002  239test after all DANR changes                    -861.68 20130618          ACL5CKEMPLkentest                         
+20133 AC5RGAA-----SUB6---CB  12GLCBAG201312002  240test after all DANR changes                    -871.08 20130618          ACL5KELLY kentest                         
+20133 AC5RGAA-----SUB6---CB  12GLCBAG201312002  241test after all DANR changes                    -738.94 20130618          LSEVILLEJAkentest                         
+20133 AC5RGAA-----SUB6---CB  12GLCBAG201312002  242test after all DANR changes                   -1088.04 20130618          SRAGSDALE kentest                         
+20133 ADOIGAA-----SB28---CB  12GLCBAG201312002  243test after all DANR changes                      13.66 20130618          ADOALG    kentest                         
+20133 ADOIGAA-----SB28---CB  12GLCBAG201312002  244test after all DANR changes                    -114.96 20130618          ADOASB    kentest                         
+20133 ADOIGAA-----SB28---CB  12GLCBAG201312002  245test after all DANR changes                     -31.09 20130618          ADOBJN    kentest                         
+20133 ADOIGAA-----SB28---CB  12GLCBAG201312002  246test after all DANR changes                     -81.02 20130618          ADOCAR    kentest                         
+20133 ADOIGAA-----SB28---CB  12GLCBAG201312002  247test after all DANR changes                    1861.95 20130618          ADOCAS    kentest                         
+20133 ADOIGAA-----SB28---CB  12GLCBAG201312002  248test after all DANR changes                    -104.11 20130618          ADOFRR    kentest                         
+20133 ADOIGAA-----SB28---CB  12GLCBAG201312002  249test after all DANR changes                     -53.60 20130618          ADOJAB    kentest                         
+20133 ADOIGAA-----SB28---CB  12GLCBAG201312002  250test after all DANR changes                     -63.84 20130618          ADOLAF    kentest                         
+20133 ADOIGAA-----SB28---CB  12GLCBAG201312002  251test after all DANR changes                      16.06 20130618          ADOMXW    kentest                         
+20133 ADOIGAA-----SB28---CB  12GLCBAG201312002  252test after all DANR changes                     -44.44 20130618          ADOPXG    kentest                         
+20133 ADOIGAA-----SB28---CB  12GLCBAG201312002  253test after all DANR changes                      51.74 20130618          ADORSF    kentest                         
+20133 ADOIGAA-----SB28---CB  12GLCBAG201312002  254test after all DANR changes                      30.10 20130618          ADOSRS    kentest                         
+20133 ADOIGAA-----SB28---CB  12GLCBAG201312002  255test after all DANR changes                     -63.91 20130618          ADOYXC    kentest                         
+20133 ADOIGAA-----SUB6---CB  12GLCBAG201312002  256test after all DANR changes                    -252.54 20130618          ----------kentest                         
+20133 ADOIGAA-----SUB6---CB  12GLCBAG201312002  257test after all DANR changes                      87.62 20130618          ADOALG    kentest                         
+20133 ADOIGAA-----SUB6---CB  12GLCBAG201312002  258test after all DANR changes                    -897.68 20130618          ADOASB    kentest                         
+20133 ADOIGAA-----SUB6---CB  12GLCBAG201312002  259test after all DANR changes                    -271.41 20130618          ADOBJN    kentest                         
+20133 ADOIGAA-----SUB6---CB  12GLCBAG201312002  260test after all DANR changes                    -632.69 20130618          ADOCAR    kentest                         
+20133 ADOIGAA-----SUB6---CB  12GLCBAG201312002  261test after all DANR changes                     -52.53 20130618          ADOCAS    kentest                         
+20133 ADOIGAA-----SUB6---CB  12GLCBAG201312002  262test after all DANR changes                    -812.98 20130618          ADOFRR    kentest                         
+20133 ADOIGAA-----SUB6---CB  12GLCBAG201312002  263test after all DANR changes                    -187.12 20130618          ADOJAB    kentest                         
+20133 ADOIGAA-----SUB6---CB  12GLCBAG201312002  264test after all DANR changes                    -325.24 20130618          ADOLAF    kentest                         
+20133 ADOIGAA-----SUB6---CB  12GLCBAG201312002  265test after all DANR changes                    -235.36 20130618          ADOMXW    kentest                         
+20133 ADOIGAA-----SUB6---CB  12GLCBAG201312002  266test after all DANR changes                    -285.05 20130618          ADOPXG    kentest                         
+20133 ADOIGAA-----SUB6---CB  12GLCBAG201312002  267test after all DANR changes                    -214.75 20130618          ADORSF    kentest                         
+20133 ADOIGAA-----SUB6---CB  12GLCBAG201312002  268test after all DANR changes                    -287.97 20130618          ADOSRS    kentest                         
+20133 ADOIGAA-----SUB6---CB  12GLCBAG201312002  269test after all DANR changes                    -325.59 20130618          ADOYXC    kentest                         
+20133 ADORGA2-----SB28---CB  12GLCBAG201312002  270test after all DANR changes                     -91.58 20130618          ----------kentest                         
+20133 ADORGA2-----SB28---CB  12GLCBAG201312002  271test after all DANR changes                     -77.45 20130618          ADOCRC    kentest                         
+20133 ADORGA2-----SB28---CB  12GLCBAG201312002  272test after all DANR changes                    -116.44 20130618          ADOECR    kentest                         
+20133 ADORGA2-----SB28---CB  12GLCBAG201312002  273test after all DANR changes                      38.48 20130618          ADOLXF    kentest                         
+20133 ADORGA2-----SUB6---CB  12GLCBAG201312002  274test after all DANR changes                    -715.15 20130618          ----------kentest                         
+20133 ADORGA2-----SUB6---CB  12GLCBAG201312002  275test after all DANR changes                    -604.75 20130618          ADOCRC    kentest                         
+20133 ADORGA2-----SUB6---CB  12GLCBAG201312002  276test after all DANR changes                    -909.27 20130618          ADOECR    kentest                         
+20133 ADORGA2-----SUB6---CB  12GLCBAG201312002  277test after all DANR changes                    -656.24 20130618          ADOLXF    kentest                         
+20133 ADORGAA-----SB28---CB  12GLCBAG201312002  278test after all DANR changes                      70.18 20130618          ADOALG    kentest                         
+20133 ADORGAA-----SB28---CB  12GLCBAG201312002  279test after all DANR changes                     -59.03 20130618          ADOBJN    kentest                         
+20133 ADORGAA-----SB28---CB  12GLCBAG201312002  280test after all DANR changes                     -98.24 20130618          ADOJAB    kentest                         
+20133 ADORGAA-----SB28---CB  12GLCBAG201312002  281test after all DANR changes                    -117.04 20130618          ADOLAF    kentest                         
+20133 ADORGAA-----SB28---CB  12GLCBAG201312002  282test after all DANR changes                      16.06 20130618          ADOMXW    kentest                         
+20133 ADORGAA-----SB28---CB  12GLCBAG201312002  283test after all DANR changes                     -81.47 20130618          ADOPXG    kentest                         
+20133 ADORGAA-----SB28---CB  12GLCBAG201312002  284test after all DANR changes                      92.06 20130618          ADORSF    kentest                         
+20133 ADORGAA-----SB28---CB  12GLCBAG201312002  285test after all DANR changes                     575.71 20130618          ADOSRK    kentest                         
+20133 ADORGAA-----SB28---CB  12GLCBAG201312002  286test after all DANR changes                      38.06 20130618          ADOSRS    kentest                         
+20133 ADORGAA-----SB28---CB  12GLCBAG201312002  287test after all DANR changes                     -51.48 20130618          ADOUXR    kentest                         
+20133 ADORGAA-----SB28---CB  12GLCBAG201312002  288test after all DANR changes                    -117.17 20130618          ADOYXC    kentest                         
+20133 ADORGAA-----SUB6---CB  12GLCBAG201312002  289test after all DANR changes                    -530.21 20130618          ----------kentest                         
+20133 ADORGAA-----SUB6---CB  12GLCBAG201312002  290test after all DANR changes                     450.22 20130618          ADOALG    kentest                         
+20133 ADORGAA-----SUB6---CB  12GLCBAG201312002  291test after all DANR changes                    -498.48 20130618          ADOBJN    kentest                         
+20133 ADORGAA-----SUB6---CB  12GLCBAG201312002  292test after all DANR changes                    -343.08 20130618          ADOJAB    kentest                         
+20133 ADORGAA-----SUB6---CB  12GLCBAG201312002  293test after all DANR changes                    -596.27 20130618          ADOLAF    kentest                         
+20133 ADORGAA-----SUB6---CB  12GLCBAG201312002  294test after all DANR changes                    -235.36 20130618          ADOMXW    kentest                         
+20133 ADORGAA-----SUB6---CB  12GLCBAG201312002  295test after all DANR changes                    -522.60 20130618          ADOPXG    kentest                         
+20133 ADORGAA-----SUB6---CB  12GLCBAG201312002  296test after all DANR changes                    -394.95 20130618          ADORSF    kentest                         
+20133 ADORGAA-----SUB6---CB  12GLCBAG201312002  297test after all DANR changes                    4495.63 20130618          ADOSRK    kentest                         
+20133 ADORGAA-----SUB6---CB  12GLCBAG201312002  298test after all DANR changes                    -435.08 20130618          ADOSRS    kentest                         
+20133 ADORGAA-----SUB6---CB  12GLCBAG201312002  299test after all DANR changes                    -401.95 20130618          ADOUXR    kentest                         
+20133 ADORGAA-----SUB6---CB  12GLCBAG201312002  300test after all DANR changes                    -596.92 20130618          ADOYXC    kentest                         
+20133 AECIGAA-----SB28---CB  12GLCBAG201312002  301test after all DANR changes                    -143.68 20130618          ARES_CLAR kentest                         
+20133 AECIGAA-----SB28---CB  12GLCBAG201312002  302test after all DANR changes                     -18.72 20130618          ARES_GOET kentest                         
+20133 AECIGAA-----SB28---CB  12GLCBAG201312002  303test after all DANR changes                    -143.68 20130618          ARES_HANS kentest                         
+20133 AECIGAA-----SB28---CB  12GLCBAG201312002  304test after all DANR changes                    -163.99 20130618          SHANNON   kentest                         
+20133 AECIGAA-----SUB6---CB  12GLCBAG201312002  305test after all DANR changes                    -921.70 20130618          ARES_CLAR kentest                         
+20133 AECIGAA-----SUB6---CB  12GLCBAG201312002  306test after all DANR changes                    -146.17 20130618          ARES_GOET kentest                         
+20133 AECIGAA-----SUB6---CB  12GLCBAG201312002  307test after all DANR changes                    -921.70 20130618          ARES_HANS kentest                         
+20133 AECIGAA-----SUB6---CB  12GLCBAG201312002  308test after all DANR changes                    -919.01 20130618          SHANNON   kentest                         
+20133 AECITMP-----SUB6---CB  12GLCBAG201312002  309test after all DANR changes                     -49.14 20130618          ----------kentest                         
+20133 AENITMPEN156SUB6---CB  12GLCBAG201312002  310test after all DANR changes                     829.30 20130618          ----------kentest                         
+20133 AENITMPNEM10SUB6---CB  12GLCBAG201312002  311test after all DANR changes                    1470.13 20130618          ----------kentest                         
+20133 AESIGAA-----SB28---CB  12GLCBAG201312002  312test after all DANR changes                     -38.71 20130618          CARRIERE  kentest                         
+20133 AESIGAA-----SB28---CB  12GLCBAG201312002  313test after all DANR changes                    -110.35 20130618          DESMWHALEYkentest                         
+20133 AESIGAA-----SB28---CB  12GLCBAG201312002  314test after all DANR changes                     304.08 20130618          HHATFIELD kentest                         
+20133 AESIGAA-----SUB6---CB  12GLCBAG201312002  315test after all DANR changes                    -302.29 20130618          CARRIERE  kentest                         
+20133 AESIGAA-----SUB6---CB  12GLCBAG201312002  316test after all DANR changes                    -861.70 20130618          DESMWHALEYkentest                         
+20133 AESIGAA-----SUB6---CB  12GLCBAG201312002  317test after all DANR changes                    -825.62 20130618          HHATFIELD kentest                         
+20133 AESRG50-----SUB6---CB  12GLCBAG201312002  318test after all DANR changes                    -644.90 20130618          ----------kentest                         
+20133 AESRGAA-----SB28---CB  12GLCBAG201312002  319test after all DANR changes                     -19.36 20130618          CARRIERE  kentest                         
+20133 AESRGAA-----SB28---CB  12GLCBAG201312002  320test after all DANR changes                     596.08 20130618          ESPBREWER kentest                         
+20133 AESRGAA-----SB28---CB  12GLCBAG201312002  321test after all DANR changes                      -9.80 20130618          ESPPOLOSKEkentest                         
+20133 AESRGAA-----SUB6---CB  12GLCBAG201312002  322test after all DANR changes                    -151.15 20130618          CARRIERE  kentest                         
+20133 AESRGAA-----SUB6---CB  12GLCBAG201312002  323test after all DANR changes                    3363.09 20130618          ESPBREWER kentest                         
+20133 AESRGAA-----SUB6---CB  12GLCBAG201312002  324test after all DANR changes                     -76.50 20130618          ESPPOLOSKEkentest                         
+20133 AETIGAAAASAOSB28---CB  12GLCBAG201312002  325test after all DANR changes                     429.19 20130618          AETXSGK   kentest                         
+20133 AETIGAAAASAOSUB6---CB  12GLCBAG201312002  326test after all DANR changes                    -735.67 20130618          AETXSGK   kentest                         
+20133 AETITMPET146SUB6---CB  12GLCBAG201312002  327test after all DANR changes                     342.12 20130618          ----------kentest                         
+20133 AETITMPT102BSUB6---CB  12GLCBAG201312002  328test after all DANR changes                    2438.31 20130618          ----------kentest                         
+20133 AETITMPT103BSUB6---CB  12GLCBAG201312002  329test after all DANR changes                    2468.11 20130618          ----------kentest                         
+20133 AETRGAAAAITSSB28---CB  12GLCBAG201312002  330test after all DANR changes                      18.37 20130618          AETXSSV   kentest                         
+20133 AETRGAAAAITSSUB6---CB  12GLCBAG201312002  331test after all DANR changes                     -67.19 20130618          AETXSSV   kentest                         
+20133 AETRGAAAGCHMSB28---CB  12GLCBAG201312002  332test after all DANR changes                     -32.78 20130618          AETXGJE   kentest                         
+20133 AETRGAAAGCHMSUB6---CB  12GLCBAG201312002  333test after all DANR changes                    -221.43 20130618          AETXGJE   kentest                         
+20133 AETRGAAPHTOXSB28---CB  12GLCBAG201312002  334test after all DANR changes                     -98.33 20130618          AETXGJE   kentest                         
+20133 AETRGAAPHTOXSUB6---CB  12GLCBAG201312002  335test after all DANR changes                    -664.29 20130618          AETXGJE   kentest                         
+20133 AFSITMP-----SUB6---CB  12GLCBAG201312002  336test after all DANR changes                    2206.14 20130618          ----------kentest                         
+20133 AHCRG08-----SUB6---CB  12GLCBAG201312002  337test after all DANR changes                     -21.10 20130618          ----------kentest                         
+20133 AHCRG12-----SUB6---CB  12GLCBAG201312002  338test after all DANR changes                     566.67 20130618          ----------kentest                         
+20133 AHCRG14-----SUB6---CB  12GLCBAG201312002  339test after all DANR changes                      -6.98 20130618          ----------kentest                         
+20133 AHEIGAACRDSBSB28---CB  12GLCBAG201312002  340test after all DANR changes                     -56.91 20130618          CARMSTRONGkentest                         
+20133 AHEIGAACRDSBSB28---CB  12GLCBAG201312002  341test after all DANR changes                      23.53 20130618          HCDERDMAN kentest                         
+20133 AHEIGAACRDSBSB28---CB  12GLCBAG201312002  342test after all DANR changes                     -34.25 20130618          HCDMCDONELkentest                         
+20133 AHEIGAACRDSBSB28---CB  12GLCBAG201312002  343test after all DANR changes                     -36.79 20130618          RCROTTY   kentest                         
+20133 AHEIGAACRDSBSUB6---CB  12GLCBAG201312002  344test after all DANR changes                      -2.71 20130618          ----------kentest                         
+20133 AHEIGAACRDSBSUB6---CB  12GLCBAG201312002  345test after all DANR changes                    -365.08 20130618          CARMSTRONGkentest                         
+20133 AHEIGAACRDSBSUB6---CB  12GLCBAG201312002  346test after all DANR changes                    -366.96 20130618          HCDERDMAN kentest                         
+20133 AHEIGAACRDSBSUB6---CB  12GLCBAG201312002  347test after all DANR changes                    -193.22 20130618          HCDMCDONELkentest                         
+20133 AHEIGAACRDSBSUB6---CB  12GLCBAG201312002  348test after all DANR changes                    -287.26 20130618          RCROTTY   kentest                         
+20133 AHEIGAAHDESBSB28---CB  12GLCBAG201312002  349test after all DANR changes                      31.96 20130618          HCDERDMAN kentest                         
+20133 AHEIGAAHDESBSB28---CB  12GLCBAG201312002  350test after all DANR changes                     -67.58 20130618          HCDLOGANJOkentest                         
+20133 AHEIGAAHDESBSB28---CB  12GLCBAG201312002  351test after all DANR changes                     -51.15 20130618          HCDMCDONELkentest                         
+20133 AHEIGAAHDESBSB28---CB  12GLCBAG201312002  352test after all DANR changes                     -83.66 20130618          JGOUINE   kentest                         
+20133 AHEIGAAHDESBSB28---CB  12GLCBAG201312002  353test after all DANR changes                     -55.18 20130618          RCROTTY   kentest                         
+20133 AHEIGAAHDESBSUB6---CB  12GLCBAG201312002  354test after all DANR changes                      -6.13 20130618          ----------kentest                         
+20133 AHEIGAAHDESBSUB6---CB  12GLCBAG201312002  355test after all DANR changes                    -551.92 20130618          HCDERDMAN kentest                         
+20133 AHEIGAAHDESBSUB6---CB  12GLCBAG201312002  356test after all DANR changes                    -527.74 20130618          HCDLOGANJOkentest                         
+20133 AHEIGAAHDESBSUB6---CB  12GLCBAG201312002  357test after all DANR changes                    -288.58 20130618          HCDMCDONELkentest                         
+20133 AHEIGAAHDESBSUB6---CB  12GLCBAG201312002  358test after all DANR changes                    -653.30 20130618          JGOUINE   kentest                         
+20133 AHEIGAAHDESBSUB6---CB  12GLCBAG201312002  359test after all DANR changes                    -430.89 20130618          RCROTTY   kentest                         
+20133 AHEIGAALDASBSB28---CB  12GLCBAG201312002  360test after all DANR changes                     -97.42 20130618          CARMSTRONGkentest                         
+20133 AHEIGAALDASBSB28---CB  12GLCBAG201312002  361test after all DANR changes                    -109.20 20130618          CHENEY    kentest                         
+20133 AHEIGAALDASBSB28---CB  12GLCBAG201312002  362test after all DANR changes                     -82.80 20130618          LDABARKER kentest                         
+20133 AHEIGAALDASBSUB6---CB  12GLCBAG201312002  363test after all DANR changes                      -2.45 20130618          ----------kentest                         
+20133 AHEIGAALDASBSUB6---CB  12GLCBAG201312002  364test after all DANR changes                    -624.97 20130618          CARMSTRONGkentest                         
+20133 AHEIGAALDASBSUB6---CB  12GLCBAG201312002  365test after all DANR changes                    -852.71 20130618          CHENEY    kentest                         
+20133 AHEIGAALDASBSUB6---CB  12GLCBAG201312002  366test after all DANR changes                    -646.56 20130618          LDABARKER kentest                         
+20133 AHEITMPCRDSBSUB6---CB  12GLCBAG201312002  367test after all DANR changes                    1544.22 20130618          ----------kentest                         
+20133 AHEITMPHDESBSUB6---CB  12GLCBAG201312002  368test after all DANR changes                     672.97 20130618          ----------kentest                         
+20133 AHEITMPLDASBSUB6---CB  12GLCBAG201312002  369test after all DANR changes                    1113.67 20130618          ----------kentest                         
+20133 AHERFAV-----SUB6---CB  12GLCBAG201312002  370test after all DANR changes                      -1.66 20130618          ----------kentest                         
+20133 AHERGAACRDSBSB28---CB  12GLCBAG201312002  371test after all DANR changes                     -44.86 20130618          HCEHOANG  kentest                         
+20133 AHERGAACRDSBSUB6---CB  12GLCBAG201312002  372test after all DANR changes                    -350.32 20130618          HCEHOANG  kentest                         
+20133 AHERGAAHDESBSB28---CB  12GLCBAG201312002  373test after all DANR changes                     -67.47 20130618          HCEHOANG  kentest                         
+20133 AHERGAAHDESBSUB6---CB  12GLCBAG201312002  374test after all DANR changes                    -526.85 20130618          HCEHOANG  kentest                         
+20133 AHERGAALDASBSB28---CB  12GLCBAG201312002  375test after all DANR changes                    -120.30 20130618          WILCOX    kentest                         
+20133 AHERGAALDASBSUB6---CB  12GLCBAG201312002  376test after all DANR changes                    -771.72 20130618          WILCOX    kentest                         
+20133 AHHKT01-----SUB6---CB  12GLCBAG201312002  377test after all DANR changes                    5825.97 20130618          ----------kentest                         
+20133 AHHRG52-----SUB6---CB  12GLCBAG201312002  378test after all DANR changes                    1710.00 20130618          ----------kentest                         
+20133 AHHRG54-----SUB6---CB  12GLCBAG201312002  379test after all DANR changes                    1710.00 20130618          ----------kentest                         
+20133 AHYDGGS-----SUB6---CB  12GLCBAG201312002  380test after all DANR changes                      -0.21 20130618          ----------kentest                         
+20133 AIARGAA-----SB28---CB  12GLCBAG201312002  381test after all DANR changes                     -79.06 20130618          ----------kentest                         
+20133 AIARGAA-----SUB6---CB  12GLCBAG201312002  382test after all DANR changes                    -617.42 20130618          ----------kentest                         
+20133 ALAPEOC-----SUB6---CB  12GLCBAG201312002  383test after all DANR changes                    1513.05 20130618          ----------kentest                         
+20133 ALARCNR-----SUB6---CB  12GLCBAG201312002  384test after all DANR changes                    2438.50 20130618          ----------kentest                         
+20133 ALEITMPSAS05SUB6---CB  12GLCBAG201312002  385test after all DANR changes                     845.66 20130618          ----------kentest                         
+20133 ALHITMPHS134SUB6---CB  12GLCBAG201312002  386test after all DANR changes                     812.77 20130618          ----------kentest                         
+20133 ALSITMPSS109SUB6---CB  12GLCBAG201312002  387test after all DANR changes                     845.66 20130618          ----------kentest                         
+20133 ALSITMPSS118SUB6---CB  12GLCBAG201312002  388test after all DANR changes                     911.84 20130618          ----------kentest                         
+20133 ALSITMPSS120SUB6---CB  12GLCBAG201312002  389test after all DANR changes                     878.36 20130618          ----------kentest                         
+20133 ALSITMPSS219SUB6---CB  12GLCBAG201312002  390test after all DANR changes                     780.16 20130618          ----------kentest                         
+20133 ALTITMPA121BSUB6---CB  12GLCBAG201312002  391test after all DANR changes                     237.26 20130618          ----------kentest                         
+20133 ALTITMPAS005SUB6---CB  12GLCBAG201312002  392test after all DANR changes                    1034.83 20130618          ----------kentest                         
+20133 ALTITMPAS110SUB6---CB  12GLCBAG201312002  393test after all DANR changes                     892.58 20130618          ----------kentest                         
+20133 ALTRGAB-----SB28---CB  12GLCBAG201312002  394test after all DANR changes                     -66.19 20130618          ----------kentest                         
+20133 ALTRGAB-----SB28---CB  12GLCBAG201312002  395test after all DANR changes                     -66.19 20130618          ADOEES    kentest                         
+20133 ALTRGAB-----SB28---CB  12GLCBAG201312002  396test after all DANR changes                    -112.75 20130618          ADOMMM    kentest                         
+20133 ALTRGAB-----SUB6---CB  12GLCBAG201312002  397test after all DANR changes                    -685.22 20130618          ----------kentest                         
+20133 ALTRGAB-----SUB6---CB  12GLCBAG201312002  398test after all DANR changes                    -685.22 20130618          ADOEES    kentest                         
+20133 ALTRGAB-----SUB6---CB  12GLCBAG201312002  399test after all DANR changes                   -1167.28 20130618          ADOMMM    kentest                         
+20133 ALWIGAA-----SB28---CB  12GLCBAG201312002  400test after all DANR changes                      -6.72 20130618          241HOULTONkentest                         
+20133 ALWIGAA-----SUB6---CB  12GLCBAG201312002  401test after all DANR changes                   -1262.50 20130618          241DAHLKE kentest                         
+20133 ALWIGAA-----SUB6---CB  12GLCBAG201312002  402test after all DANR changes                     -23.49 20130618          241HOULTONkentest                         
+20133 ALWIGAAAASAOSB28---CB  12GLCBAG201312002  403test after all DANR changes                     -99.94 20130618          250NGUYEN kentest                         
+20133 ALWIGAAAASAOSB28---CB  12GLCBAG201312002  404test after all DANR changes                     -70.33 20130618          250SHULL  kentest                         
+20133 ALWIGAAAASAOSUB6---CB  12GLCBAG201312002  405test after all DANR changes                    -918.40 20130618          250NGUYEN kentest                         
+20133 ALWIGAAAASAOSUB6---CB  12GLCBAG201312002  406test after all DANR changes                    -451.17 20130618          250SHULL  kentest                         
+20133 ALWRGAA-----SB28---CB  12GLCBAG201312002  407test after all DANR changes                     -10.09 20130618          241HOULTONkentest                         
+20133 ALWRGAA-----SUB6---CB  12GLCBAG201312002  408test after all DANR changes                   -1262.50 20130618          241DAHLKE kentest                         
+20133 ALWRGAA-----SUB6---CB  12GLCBAG201312002  409test after all DANR changes                     -35.23 20130618          241HOULTONkentest                         
+20133 ALWRGAAAAFOPSB28---CB  12GLCBAG201312002  410test after all DANR changes                    -954.20 20130618          243MATA   kentest                         
+20133 ALWRGAAAAFOPSUB6---CB  12GLCBAG201312002  411test after all DANR changes                  -10355.75 20130618          243MATA   kentest                         
+20133 ALWRGAAAAITSSB28---CB  12GLCBAG201312002  412test after all DANR changes                      53.11 20130618          AETXSSV   kentest                         
+20133 ALWRGAAAAITSSUB6---CB  12GLCBAG201312002  413test after all DANR changes                    -260.67 20130618          AETXSSV   kentest                         
+20133 ALWRGAAAASRASB28---CB  12GLCBAG201312002  414test after all DANR changes                   -1285.54 20130618          242LOUIE  kentest                         
+20133 ALWRGAAAASRASB28---CB  12GLCBAG201312002  415test after all DANR changes                     516.32 20130618          242MATISTAkentest                         
+20133 ALWRGAAAASRASUB6---CB  12GLCBAG201312002  416test after all DANR changes                   -8588.49 20130618          242LOUIE  kentest                         
+20133 ALWRGAAAASRASUB6---CB  12GLCBAG201312002  417test after all DANR changes                   -1357.15 20130618          242MATISTAkentest                         
+20133 AMRRGAA-----SB28---CB  12GLCBAG201312002  418test after all DANR changes                      21.36 20130618          ----------kentest                         
+20133 AMRRGAA-----SUB6---CB  12GLCBAG201312002  419test after all DANR changes                    1169.00 20130618          ----------kentest                         
+20133 ANSFALV-----SUB6---CB  12GLCBAG201312002  420test after all DANR changes                    1457.00 20130618          ----------kentest                         
+20133 ANSFCBT-----SB28---CB  12GLCBAG201312002  421test after all DANR changes                     746.59 20130618          ----------kentest                         
+20133 ANSFCBT-----SUB6---CB  12GLCBAG201312002  422test after all DANR changes                    2607.46 20130618          ----------kentest                         
+20133 ANSFDZK-----SB28---CB  12GLCBAG201312002  423test after all DANR changes                    -105.26 20130618          ----------kentest                         
+20133 ANSFDZK-----SUB6---CB  12GLCBAG201312002  424test after all DANR changes                    -827.37 20130618          ----------kentest                         
+20133 ANSFHXZ-----SUB6---CB  12GLCBAG201312002  425test after all DANR changes                    1710.00 20130618          ----------kentest                         
+20133 ANSFJAM-----SUB6---CB  12GLCBAG201312002  426test after all DANR changes                    5604.49 20130618          ----------kentest                         
+20133 ANSFJFR-----SB28---CB  12GLCBAG201312002  427test after all DANR changes                    -107.81 20130618          ----------kentest                         
+20133 ANSFJFR-----SUB6---CB  12GLCBAG201312002  428test after all DANR changes                    -549.23 20130618          ----------kentest                         
+20133 ANSFJGF-----SUB6---CB  12GLCBAG201312002  429test after all DANR changes                      48.10 20130618          ----------kentest                         
+20133 ANSFPJB-----SB28---CB  12GLCBAG201312002  430test after all DANR changes                     443.04 20130618          ----------kentest                         
+20133 ANSFPJB-----SUB6---CB  12GLCBAG201312002  431test after all DANR changes                     659.09 20130618          ----------kentest                         
+20133 ANSFPJR-----SB28---CB  12GLCBAG201312002  432test after all DANR changes                    1037.82 20130618          ----------kentest                         
+20133 ANSFPJR-----SUB6---CB  12GLCBAG201312002  433test after all DANR changes                    1451.96 20130618          ----------kentest                         
+20133 ANSFRAZ-----SB28---CB  12GLCBAG201312002  434test after all DANR changes                     -82.76 20130618          ----------kentest                         
+20133 ANSFRAZ-----SUB6---CB  12GLCBAG201312002  435test after all DANR changes                    -421.65 20130618          ----------kentest                         
+20133 ANSFRCH-----SUB6---CB  12GLCBAG201312002  436test after all DANR changes                    1710.00 20130618          ----------kentest                         
+20133 ANTGGNBGRADSSB28---CB  12GLCBAG201312002  437test after all DANR changes                     -85.83 20130618          NUTGRAD   kentest                         
+20133 ANTGGNBGRADSSUB6---CB  12GLCBAG201312002  438test after all DANR changes                    -748.14 20130618          NUTGRAD   kentest                         
+20133 ANTIGAAADVISSB28---CB  12GLCBAG201312002  439test after all DANR changes                     268.13 20130618          NUTUNDR   kentest                         
+20133 ANTIGAAADVISSUB6---CB  12GLCBAG201312002  440test after all DANR changes                    -728.01 20130618          NUTUNDR   kentest                         
+20133 ANTITMPNU010SUB6---CB  12GLCBAG201312002  441test after all DANR changes                    2121.49 20130618          ----------kentest                         
+20133 ANTITMPNU105SUB6---CB  12GLCBAG201312002  442test after all DANR changes                     790.70 20130618          ----------kentest                         
+20133 ANTITMPNU112SUB6---CB  12GLCBAG201312002  443test after all DANR changes                    1349.46 20130618          ----------kentest                         
+20133 ANTITMPNUTAVSUB6---CB  12GLCBAG201312002  444test after all DANR changes                     812.77 20130618          ----------kentest                         
+20133 ANTRGAA-----SB28---CB  12GLCBAG201312002  445test after all DANR changes                    -905.81 20130618          ----------kentest                         
+20133 ANTRGAA-----SUB6---CB  12GLCBAG201312002  446test after all DANR changes                   -7494.25 20130618          ----------kentest                         
+20133 ANTUNDR-----SUB6---CB  12GLCBAG201312002  447test after all DANR changes                      -5.68 20130618          ----------kentest                         
+20133 ANTUNDRADVISSUB6---CB  12GLCBAG201312002  448test after all DANR changes                      -8.65 20130618          ----------kentest                         
+20133 APFIGAAXPSTXSB28---CB  12GLCBAG201312002  449test after all DANR changes                     -17.66 20130618          MONTOYA-P kentest                         
+20133 APFIGAAXPSTXSUB6---CB  12GLCBAG201312002  450test after all DANR changes                    -119.30 20130618          MONTOYA-P kentest                         
+20133 APPITMPP0120SUB6---CB  12GLCBAG201312002  451test after all DANR changes                    2916.48 20130618          ----------kentest                         
+20133 APPITMPP0206SUB6---CB  12GLCBAG201312002  452test after all DANR changes                     768.14 20130618          ----------kentest                         
+20133 APPRGAA-----SB28---CB  12GLCBAG201312002  453test after all DANR changes                     -15.95 20130618          JCRP      kentest                         
+20133 APPRGAA-----SB28---CB  12GLCBAG201312002  454test after all DANR changes                    -210.37 20130618          RWWP      kentest                         
+20133 APPRGAA-----SUB6---CB  12GLCBAG201312002  455test after all DANR changes                    -712.13 20130618          JCRP      kentest                         
+20133 APPRGAA-----SUB6---CB  12GLCBAG201312002  456test after all DANR changes                   -1420.92 20130618          RWWP      kentest                         
+20133 APRIGAU-----SB28---CB  12GLCBAG201312002  457test after all DANR changes                   -3262.73 20130618          ----------kentest                         
+20133 APRIGAU-----SUB6---CB  12GLCBAG201312002  458test after all DANR changes                   53002.55 20130618          ----------kentest                         
+20133 APRRGAU-----SB28---CB  12GLCBAG201312002  459test after all DANR changes                    5040.80 20130618          ----------kentest                         
+20133 APRRGAU-----SUB6---CB  12GLCBAG201312002  460test after all DANR changes                   24502.95 20130618          ----------kentest                         
+20133 APSIGAAAEUGASUB6---CB  12GLCBAG201312002  461test after all DANR changes                      -3.20 20130618          BRESLIN-EMkentest                         
+20133 APSIGAAAEUGASUB6---CB  12GLCBAG201312002  462test after all DANR changes                      -3.01 20130618          ONG-HOONSAkentest                         
+20133 APSIGAAASADVSB28---CB  12GLCBAG201312002  463test after all DANR changes                    -627.20 20130618          BROWNL    kentest                         
+20133 APSIGAAASADVSB28---CB  12GLCBAG201312002  464test after all DANR changes                    -118.66 20130618          COSTA,T   kentest                         
+20133 APSIGAAASADVSB28---CB  12GLCBAG201312002  465test after all DANR changes                     -45.98 20130618          FLEMING-BRkentest                         
+20133 APSIGAAASADVSUB6---CB  12GLCBAG201312002  466test after all DANR changes                   -3838.00 20130618          BROWNL    kentest                         
+20133 APSIGAAASADVSUB6---CB  12GLCBAG201312002  467test after all DANR changes                    -926.55 20130618          COSTA,T   kentest                         
+20133 APSIGAAASADVSUB6---CB  12GLCBAG201312002  468test after all DANR changes                    -359.07 20130618          FLEMING-BRkentest                         
+20133 APSIGAAASFLESB28---CB  12GLCBAG201312002  469test after all DANR changes                      58.97 20130618          PITTON,BRUkentest                         
+20133 APSIGAAASFLESUB6---CB  12GLCBAG201312002  470test after all DANR changes                    -212.27 20130618          PITTON,BRUkentest                         
+20133 APSIGAAASFLVSB28---CB  12GLCBAG201312002  471test after all DANR changes                     -81.52 20130618          MANDRES   kentest                         
+20133 APSIGAAASFLVSB28---CB  12GLCBAG201312002  472test after all DANR changes                      -8.83 20130618          MONTOYA   kentest                         
+20133 APSIGAAASFLVSUB6---CB  12GLCBAG201312002  473test after all DANR changes                    -843.99 20130618          MANDRES   kentest                         
+20133 APSIGAAASFLVSUB6---CB  12GLCBAG201312002  474test after all DANR changes                     -59.64 20130618          MONTOYA   kentest                         
+20133 APSIGAAASFLWSB28---CB  12GLCBAG201312002  475test after all DANR changes                    -139.91 20130618          CRISTLER  kentest                         
+20133 APSIGAAASFLWSUB6---CB  12GLCBAG201312002  476test after all DANR changes                    -944.99 20130618          CRISTLER  kentest                         
+20133 APSIGAAASITESB28---CB  12GLCBAG201312002  477test after all DANR changes                    -139.42 20130618          CHOWN-ZAC kentest                         
+20133 APSIGAAASITESB28---CB  12GLCBAG201312002  478test after all DANR changes                    1266.89 20130618          KERNER    kentest                         
+20133 APSIGAAASITESB28---CB  12GLCBAG201312002  479test after all DANR changes                     770.90 20130618          SZETO,B   kentest                         
+20133 APSIGAAASITESB28---CB  12GLCBAG201312002  480test after all DANR changes                      41.34 20130618          VIDACA-J  kentest                         
+20133 APSIGAAASITESUB6---CB  12GLCBAG201312002  481test after all DANR changes                   -2760.08 20130618          CHOWN-ZAC kentest                         
+20133 APSIGAAASITESUB6---CB  12GLCBAG201312002  482test after all DANR changes                  -21177.43 20130618          KERNER    kentest                         
+20133 APSIGAAASITESUB6---CB  12GLCBAG201312002  483test after all DANR changes                   -9444.08 20130618          SZETO,B   kentest                         
+20133 APSIGAAASITESUB6---CB  12GLCBAG201312002  484test after all DANR changes                    -438.57 20130618          VIDACA-J  kentest                         
+20133 APSIGAAASOFCSB28---CB  12GLCBAG201312002  485test after all DANR changes                       3.80 20130618          ADAMS     kentest                         
+20133 APSIGAAASOFCSB28---CB  12GLCBAG201312002  486test after all DANR changes                      42.21 20130618          JOHNSTON  kentest                         
+20133 APSIGAAASOFCSB28---CB  12GLCBAG201312002  487test after all DANR changes                     -46.85 20130618          MILLS     kentest                         
+20133 APSIGAAASOFCSB28---CB  12GLCBAG201312002  488test after all DANR changes                      -7.74 20130618          REIDS     kentest                         
+20133 APSIGAAASOFCSB28---CB  12GLCBAG201312002  489test after all DANR changes                     -58.70 20130618          SALAZAR,C kentest                         
+20133 APSIGAAASOFCSB28---CB  12GLCBAG201312002  490test after all DANR changes                     -49.13 20130618          WATERSON-Kkentest                         
+20133 APSIGAAASOFCSUB6---CB  12GLCBAG201312002  491test after all DANR changes                     -40.33 20130618          ADAMS     kentest                         
+20133 APSIGAAASOFCSUB6---CB  12GLCBAG201312002  492test after all DANR changes                    -141.66 20130618          JOHNSTON  kentest                         
+20133 APSIGAAASOFCSUB6---CB  12GLCBAG201312002  493test after all DANR changes                    -365.82 20130618          MILLS     kentest                         
+20133 APSIGAAASOFCSUB6---CB  12GLCBAG201312002  494test after all DANR changes                     -49.67 20130618          REIDS     kentest                         
+20133 APSIGAAASOFCSUB6---CB  12GLCBAG201312002  495test after all DANR changes                    -458.40 20130618          SALAZAR,C kentest                         
+20133 APSIGAAASOFCSUB6---CB  12GLCBAG201312002  496test after all DANR changes                    -383.67 20130618          WATERSON-Kkentest                         
+20133 APSIGAAASSAFSB28---CB  12GLCBAG201312002  497test after all DANR changes                     -48.98 20130618          WARREN,B  kentest                         
+20133 APSIGAAASSAFSUB6---CB  12GLCBAG201312002  498test after all DANR changes                    -382.50 20130618          WARREN,B  kentest                         
+20133 APSITMPCB001SUB6---CB  12GLCBAG201312002  499test after all DANR changes                    1014.18 20130618          ----------kentest                         
+20133 APSITMPCB16BSUB6---CB  12GLCBAG201312002  500test after all DANR changes                     747.48 20130618          ----------kentest                         
+20133 APSITMPCB16BSUB6---CB  12GLCBAG201312002  501test after all DANR changes                     706.29 20130618          KIM,HO-YOUkentest                         
+20133 APSITMPCS005SUB6---CB  12GLCBAG201312002  502test after all DANR changes                      -4.55 20130618          CHUNG     kentest                         
+20133 APSITMPCS005SUB6---CB  12GLCBAG201312002  503test after all DANR changes                      -2.97 20130618          FRIEDMAN  kentest                         
+20133 APSITMPCS005SUB6---CB  12GLCBAG201312002  504test after all DANR changes                      -3.75 20130618          TAYLOR    kentest                         
+20133 APSITMPCS005SUB6---CB  12GLCBAG201312002  505test after all DANR changes                      -3.15 20130618          WEINER    kentest                         
+20133 APSITMPCS015SUB6---CB  12GLCBAG201312002  506test after all DANR changes                     938.39 20130618          BOSSANGE-Akentest                         
+20133 APSITMPCS015SUB6---CB  12GLCBAG201312002  507test after all DANR changes                     530.09 20130618          LLOYD-MARGkentest                         
+20133 APSITMPCS021SUB6---CB  12GLCBAG201312002  508test after all DANR changes                      -4.00 20130618          CHAN-WILBUkentest                         
+20133 APSITMPCS021SUB6---CB  12GLCBAG201312002  509test after all DANR changes                      -3.33 20130618          DU-THANH  kentest                         
+20133 APSITMPCS021SUB6---CB  12GLCBAG201312002  510test after all DANR changes                      -2.67 20130618          GRANTERIN kentest                         
+20133 APSITMPCS021SUB6---CB  12GLCBAG201312002  511test after all DANR changes                      -3.00 20130618          HARRISON-Skentest                         
+20133 APSITMPCS021SUB6---CB  12GLCBAG201312002  512test after all DANR changes                      -3.83 20130618          HIPOLITO-Akentest                         
+20133 APSITMPCS021SUB6---CB  12GLCBAG201312002  513test after all DANR changes                      -4.00 20130618          LEE-SHARONkentest                         
+20133 APSITMPCS021SUB6---CB  12GLCBAG201312002  514test after all DANR changes                      -6.83 20130618          MINORSKY-Ckentest                         
+20133 APSITMPCS021SUB6---CB  12GLCBAG201312002  515test after all DANR changes                      -3.75 20130618          PHUNG-KEVIkentest                         
+20133 APSITMPCS021SUB6---CB  12GLCBAG201312002  516test after all DANR changes                      -3.92 20130618          STODDARD-Jkentest                         
+20133 APSITMPCS021SUB6---CB  12GLCBAG201312002  517test after all DANR changes                      -4.00 20130618          THAIPETER kentest                         
+20133 APSITMPCS021SUB6---CB  12GLCBAG201312002  518test after all DANR changes                      -7.67 20130618          TRAN-TERRYkentest                         
+20133 APSITMPCS021SUB6---CB  12GLCBAG201312002  519test after all DANR changes                      -3.83 20130618          TRUONG-THAkentest                         
+20133 APSITMPCS101SUB6---CB  12GLCBAG201312002  520test after all DANR changes                    -650.78 20130618          KIRK-EMILIkentest                         
+20133 APSITMPCS131SUB6---CB  12GLCBAG201312002  521test after all DANR changes                     664.73 20130618          SKAER-MEG kentest                         
+20133 APSITMPCS147SUB6---CB  12GLCBAG201312002  522test after all DANR changes                     780.16 20130618          STEVENS-J kentest                         
+20133 APSITMPCS158SUB6---CB  12GLCBAG201312002  523test after all DANR changes                     743.42 20130618          OLIVOS-ANDkentest                         
+20133 APSRG04JDU03SUB6---CB  12GLCBAG201312002  524test after all DANR changes                     855.00 20130618          HEGARTY-J kentest                         
+20133 APSRG11JEH01SB28---CB  12GLCBAG201312002  525test after all DANR changes                     -99.22 20130618          STOGSDIL-Jkentest                         
+20133 APSRG11JEH01SUB6---CB  12GLCBAG201312002  526test after all DANR changes                    -774.75 20130618          STOGSDIL-Jkentest                         
+20133 APSRG12-----SUB6---CB  12GLCBAG201312002  527test after all DANR changes                     -39.26 20130618          ----------kentest                         
+20133 APSRG12RBH03SB28---CB  12GLCBAG201312002  528test after all DANR changes                   -4058.58 20130618          ----------kentest                         
+20133 APSRG12RBH03SUB6---CB  12GLCBAG201312002  529test after all DANR changes                  -21403.25 20130618          ----------kentest                         
+20133 APSRG44FAMD2SB28---CB  12GLCBAG201312002  530test after all DANR changes                      -9.85 20130618          SANDOVAL-Zkentest                         
+20133 APSRG44FAMD2SUB6---CB  12GLCBAG201312002  531test after all DANR changes                    -102.01 20130618          SANDOVAL-Zkentest                         
+20133 APSRG45FTMD2SB28---CB  12GLCBAG201312002  532test after all DANR changes                    -118.51 20130618          BRADLEY-S kentest                         
+20133 APSRG45FTMD2SUB6---CB  12GLCBAG201312002  533test after all DANR changes                    -925.42 20130618          BRADLEY-S kentest                         
+20133 APSRG51FJML0SUB6---CB  12GLCBAG201312002  534test after all DANR changes                      -1.86 20130618          MCKINNON-Lkentest                         
+20133 APSRG55FEJM2SB28---CB  12GLCBAG201312002  535test after all DANR changes                      -9.20 20130618          FLEMING-BRkentest                         
+20133 APSRG55FEJM2SUB6---CB  12GLCBAG201312002  536test after all DANR changes                      -3.23 20130618          CORNER-JOSkentest                         
+20133 APSRG55FEJM2SUB6---CB  12GLCBAG201312002  537test after all DANR changes                     -71.82 20130618          FLEMING-BRkentest                         
+20133 APSRG55FEJM2SUB6---CB  12GLCBAG201312002  538test after all DANR changes                    1710.00 20130618          NHAM-NGOC kentest                         
+20133 APSRG55FEJM2SUB6---CB  12GLCBAG201312002  539test after all DANR changes                      -1.27 20130618          WONG-JERRIkentest                         
+20133 APSRG60FDVS2SB28---CB  12GLCBAG201312002  540test after all DANR changes                    -118.51 20130618          CAMPOPIA-Zkentest                         
+20133 APSRG60FDVS2SB28---CB  12GLCBAG201312002  541test after all DANR changes                   -2411.75 20130618          ETCHANDY  kentest                         
+20133 APSRG60FDVS2SB28---CB  12GLCBAG201312002  542test after all DANR changes                    1129.46 20130618          HANSENJ   kentest                         
+20133 APSRG60FDVS2SB28---CB  12GLCBAG201312002  543test after all DANR changes                   -1015.40 20130618          NEAL-SUZ  kentest                         
+20133 APSRG60FDVS2SB28---CB  12GLCBAG201312002  544test after all DANR changes                    -689.96 20130618          YOSHIMUR-Zkentest                         
+20133 APSRG60FDVS2SUB6---CB  12GLCBAG201312002  545test after all DANR changes                    -925.42 20130618          CAMPOPIA-Zkentest                         
+20133 APSRG60FDVS2SUB6---CB  12GLCBAG201312002  546test after all DANR changes                  -24927.37 20130618          ETCHANDY  kentest                         
+20133 APSRG60FDVS2SUB6---CB  12GLCBAG201312002  547test after all DANR changes                  -27464.50 20130618          HANSENJ   kentest                         
+20133 APSRG60FDVS2SUB6---CB  12GLCBAG201312002  548test after all DANR changes                  -23553.35 20130618          NEAL-SUZ  kentest                         
+20133 APSRG60FDVS2SUB6---CB  12GLCBAG201312002  549test after all DANR changes                  -19113.04 20130618          YOSHIMUR-Zkentest                         
+20133 APSRG98FVXE2SB28---CB  12GLCBAG201312002  550test after all DANR changes                     411.81 20130618          DEVEREUX-Rkentest                         
+20133 APSRG98FVXE2SB28---CB  12GLCBAG201312002  551test after all DANR changes                     183.66 20130618          HERATY,J  kentest                         
+20133 APSRG98FVXE2SUB6---CB  12GLCBAG201312002  552test after all DANR changes                    1438.26 20130618          DEVEREUX-Rkentest                         
+20133 APSRG98FVXE2SUB6---CB  12GLCBAG201312002  553test after all DANR changes                     641.46 20130618          HERATY,J  kentest                         
+20133 APSRGAAAEFLPSB28---CB  12GLCBAG201312002  554test after all DANR changes                      -0.90 20130618          SANDOVAL-Zkentest                         
+20133 APSRGAAAEFLPSUB6---CB  12GLCBAG201312002  555test after all DANR changes                     -66.42 20130618          PLOCHER   kentest                         
+20133 APSRGAAAEFLPSUB6---CB  12GLCBAG201312002  556test after all DANR changes                      -9.28 20130618          SANDOVAL-Zkentest                         
+20133 APSRGAAAEITESUB6---CB  12GLCBAG201312002  557test after all DANR changes                      -2.08 20130618          CHAN-KAI  kentest                         
+20133 APSRGAAAEITESUB6---CB  12GLCBAG201312002  558test after all DANR changes                      -1.59 20130618          MENZ-LAUREkentest                         
+20133 APSRGAAAEOFCSUB6---CB  12GLCBAG201312002  559test after all DANR changes                      -5.31 20130618          NGUYEN-VIVkentest                         
+20133 APSRGAAAEOFCSUB6---CB  12GLCBAG201312002  560test after all DANR changes                      -1.11 20130618          SAHOTA-CHAkentest                         
+20133 APSRGAAAEOFCSUB6---CB  12GLCBAG201312002  561test after all DANR changes                      -2.81 20130618          YOSHIDA-LAkentest                         
+20133 APSRGAAAESAFSUB6---CB  12GLCBAG201312002  562test after all DANR changes                      -0.84 20130618          HAN-CHRISTkentest                         
+20133 APSRGAAAESAFSUB6---CB  12GLCBAG201312002  563test after all DANR changes                      -0.40 20130618          PARK-G    kentest                         
+20133 APSRGAAASADVSB28---CB  12GLCBAG201312002  564test after all DANR changes                     432.72 20130618          BROWNL    kentest                         
+20133 APSRGAAASADVSUB6---CB  12GLCBAG201312002  565test after all DANR changes                    2847.18 20130618          BROWNL    kentest                         
+20133 APSRGAAASFLESB28---CB  12GLCBAG201312002  566test after all DANR changes                      58.97 20130618          PITTON,BRUkentest                         
+20133 APSRGAAASFLESUB6---CB  12GLCBAG201312002  567test after all DANR changes                    -212.27 20130618          PITTON,BRUkentest                         
+20133 APSRGAAASFLVSB28---CB  12GLCBAG201312002  568test after all DANR changes                     -44.45 20130618          BOONET    kentest                         
+20133 APSRGAAASFLVSB28---CB  12GLCBAG201312002  569test after all DANR changes                     -50.91 20130618          HERRERA,NIkentest                         
+20133 APSRGAAASFLVSB28---CB  12GLCBAG201312002  570test after all DANR changes                   -1212.48 20130618          MANDRES   kentest                         
+20133 APSRGAAASFLVSB28---CB  12GLCBAG201312002  571test after all DANR changes                     -52.99 20130618          MONTOYA   kentest                         
+20133 APSRGAAASFLVSUB6---CB  12GLCBAG201312002  572test after all DANR changes                    -460.16 20130618          BOONET    kentest                         
+20133 APSRGAAASFLVSUB6---CB  12GLCBAG201312002  573test after all DANR changes                    -433.00 20130618          HERRERA,NIkentest                         
+20133 APSRGAAASFLVSUB6---CB  12GLCBAG201312002  574test after all DANR changes                    7391.58 20130618          MANDRES   kentest                         
+20133 APSRGAAASFLVSUB6---CB  12GLCBAG201312002  575test after all DANR changes                    -357.90 20130618          MONTOYA   kentest                         
+20133 APSRGAAASFLWSB28---CB  12GLCBAG201312002  576test after all DANR changes                     -48.86 20130618          CRISTLER  kentest                         
+20133 APSRGAAASFLWSUB6---CB  12GLCBAG201312002  577test after all DANR changes                    -329.99 20130618          CRISTLER  kentest                         
+20133 APSRGAAASITESB28---CB  12GLCBAG201312002  578test after all DANR changes                     228.05 20130618          CHOWN-ZAC kentest                         
+20133 APSRGAAASITESB28---CB  12GLCBAG201312002  579test after all DANR changes                      30.98 20130618          DUSSAULT,Lkentest                         
+20133 APSRGAAASITESB28---CB  12GLCBAG201312002  580test after all DANR changes                   -1266.89 20130618          KERNER    kentest                         
+20133 APSRGAAASITESB28---CB  12GLCBAG201312002  581test after all DANR changes                    -696.94 20130618          SZETO,B   kentest                         
+20133 APSRGAAASITESB28---CB  12GLCBAG201312002  582test after all DANR changes                      41.34 20130618          VIDACA-J  kentest                         
+20133 APSRGAAASITESUB6---CB  12GLCBAG201312002  583test after all DANR changes                    1819.79 20130618          CHOWN-ZAC kentest                         
+20133 APSRGAAASITESUB6---CB  12GLCBAG201312002  584test after all DANR changes                    -470.76 20130618          DUSSAULT,Lkentest                         
+20133 APSRGAAASITESUB6---CB  12GLCBAG201312002  585test after all DANR changes                   21177.43 20130618          KERNER    kentest                         
+20133 APSRGAAASITESUB6---CB  12GLCBAG201312002  586test after all DANR changes                    8644.22 20130618          SZETO,B   kentest                         
+20133 APSRGAAASITESUB6---CB  12GLCBAG201312002  587test after all DANR changes                    -438.57 20130618          VIDACA-J  kentest                         
+20133 APSRGAAASOFCSB28---CB  12GLCBAG201312002  588test after all DANR changes                      40.87 20130618          ADAMS     kentest                         
+20133 APSRGAAASOFCSB28---CB  12GLCBAG201312002  589test after all DANR changes                     -44.95 20130618          CHAVEZ,DANkentest                         
+20133 APSRGAAASOFCSB28---CB  12GLCBAG201312002  590test after all DANR changes                     -69.91 20130618          GREENLEAF kentest                         
+20133 APSRGAAASOFCSB28---CB  12GLCBAG201312002  591test after all DANR changes                      42.21 20130618          JOHNSTON  kentest                         
+20133 APSRGAAASOFCSB28---CB  12GLCBAG201312002  592test after all DANR changes                     -71.37 20130618          MARRUSH   kentest                         
+20133 APSRGAAASOFCSB28---CB  12GLCBAG201312002  593test after all DANR changes                     -87.49 20130618          MCVARISH  kentest                         
+20133 APSRGAAASOFCSB28---CB  12GLCBAG201312002  594test after all DANR changes                     -46.85 20130618          MILLS     kentest                         
+20133 APSRGAAASOFCSB28---CB  12GLCBAG201312002  595test after all DANR changes                     -69.91 20130618          NIJJAR-BALkentest                         
+20133 APSRGAAASOFCSB28---CB  12GLCBAG201312002  596test after all DANR changes                    -131.64 20130618          REIDS     kentest                         
+20133 APSRGAAASOFCSB28---CB  12GLCBAG201312002  597test after all DANR changes                     -89.90 20130618          SABERI-S  kentest                         
+20133 APSRGAAASOFCSB28---CB  12GLCBAG201312002  598test after all DANR changes                     -58.70 20130618          SALAZAR,C kentest                         
+20133 APSRGAAASOFCSB28---CB  12GLCBAG201312002  599test after all DANR changes                    -108.41 20130618          SINGHVIDALkentest                         
+20133 APSRGAAASOFCSB28---CB  12GLCBAG201312002  600test after all DANR changes                     -73.70 20130618          WATERSON-Kkentest                         
+20133 APSRGAAASOFCSUB6---CB  12GLCBAG201312002  601test after all DANR changes                     -31.76 20130618          ----------kentest                         
+20133 APSRGAAASOFCSUB6---CB  12GLCBAG201312002  602test after all DANR changes                    -696.07 20130618          ADAMS     kentest                         
+20133 APSRGAAASOFCSUB6---CB  12GLCBAG201312002  603test after all DANR changes                    -540.09 20130618          CHAVEZ,DANkentest                         
+20133 APSRGAAASOFCSUB6---CB  12GLCBAG201312002  604test after all DANR changes                    -545.88 20130618          GREENLEAF kentest                         
+20133 APSRGAAASOFCSUB6---CB  12GLCBAG201312002  605test after all DANR changes                    -141.66 20130618          JOHNSTON  kentest                         
+20133 APSRGAAASOFCSUB6---CB  12GLCBAG201312002  606test after all DANR changes                    -457.85 20130618          MARRUSH   kentest                         
+20133 APSRGAAASOFCSUB6---CB  12GLCBAG201312002  607test after all DANR changes                    -445.72 20130618          MCVARISH  kentest                         
+20133 APSRGAAASOFCSUB6---CB  12GLCBAG201312002  608test after all DANR changes                    -365.82 20130618          MILLS     kentest                         
+20133 APSRGAAASOFCSUB6---CB  12GLCBAG201312002  609test after all DANR changes                    -545.88 20130618          NIJJAR-BALkentest                         
+20133 APSRGAAASOFCSUB6---CB  12GLCBAG201312002  610test after all DANR changes                   -1749.17 20130618          REIDS     kentest                         
+20133 APSRGAAASOFCSUB6---CB  12GLCBAG201312002  611test after all DANR changes                    -702.03 20130618          SABERI-S  kentest                         
+20133 APSRGAAASOFCSUB6---CB  12GLCBAG201312002  612test after all DANR changes                    -458.40 20130618          SALAZAR,C kentest                         
+20133 APSRGAAASOFCSUB6---CB  12GLCBAG201312002  613test after all DANR changes                   -1600.15 20130618          SINGHVIDALkentest                         
+20133 APSRGAAASOFCSUB6---CB  12GLCBAG201312002  614test after all DANR changes                   -1449.67 20130618          WATERSON-Kkentest                         
+20133 APSRGAAASPHVSB28---CB  12GLCBAG201312002  615test after all DANR changes                     -60.16 20130618          RICHMOND,Lkentest                         
+20133 APSRGAAASPHVSUB6---CB  12GLCBAG201312002  616test after all DANR changes                    -469.79 20130618          RICHMOND,Lkentest                         
+20133 APSRGAAASRICSB28---CB  12GLCBAG201312002  617test after all DANR changes                      89.35 20130618          DODGE     kentest                         
+20133 APSRGAAASRICSB28---CB  12GLCBAG201312002  618test after all DANR changes                    1344.10 20130618          DUSSAULT,Lkentest                         
+20133 APSRGAAASRICSB28---CB  12GLCBAG201312002  619test after all DANR changes                     506.27 20130618          HOOKER    kentest                         
+20133 APSRGAAASRICSB28---CB  12GLCBAG201312002  620test after all DANR changes                    -459.40 20130618          NELSON,D  kentest                         
+20133 APSRGAAASRICSB28---CB  12GLCBAG201312002  621test after all DANR changes                    1539.13 20130618          WEBSTER,-Skentest                         
+20133 APSRGAAASRICSUB6---CB  12GLCBAG201312002  622test after all DANR changes                    5012.10 20130618          DODGE     kentest                         
+20133 APSRGAAASRICSUB6---CB  12GLCBAG201312002  623test after all DANR changes                    8627.05 20130618          DUSSAULT,Lkentest                         
+20133 APSRGAAASRICSUB6---CB  12GLCBAG201312002  624test after all DANR changes                    6493.47 20130618          HOOKER    kentest                         
+20133 APSRGAAASRICSUB6---CB  12GLCBAG201312002  625test after all DANR changes                    1808.98 20130618          NELSON,D  kentest                         
+20133 APSRGAAASRICSUB6---CB  12GLCBAG201312002  626test after all DANR changes                    8170.84 20130618          WEBSTER,-Skentest                         
+20133 APSRGAAASSAFSB28---CB  12GLCBAG201312002  627test after all DANR changes                     -48.98 20130618          WARREN,B  kentest                         
+20133 APSRGAAASSAFSUB6---CB  12GLCBAG201312002  628test after all DANR changes                    -382.50 20130618          WARREN,B  kentest                         
+20133 APSRGAAFACORSB28---CB  12GLCBAG201312002  629test after all DANR changes                     179.19 20130618          BERRY     kentest                         
+20133 APSRGAAFACORSUB6---CB  12GLCBAG201312002  630test after all DANR changes                     701.54 20130618          BERRY     kentest                         
+20133 APSRGAAGSBXHSUB6---CB  12GLCBAG201312002  631test after all DANR changes                    5041.90 20130618          HAZARD-BRIkentest                         
+20133 APSRGAAGSEXKSUB6---CB  12GLCBAG201312002  632test after all DANR changes                    4954.85 20130618          KARN-ELIZAkentest                         
+20133 APSRGAAGSGESSUB6---CB  12GLCBAG201312002  633test after all DANR changes                    5081.01 20130618          SPINELLI-Gkentest                         
+20133 APSRGAAGSHXGSUB6---CB  12GLCBAG201312002  634test after all DANR changes                    4201.94 20130618          GILLESPIE kentest                         
+20133 APSRGAAGSJELSUB6---CB  12GLCBAG201312002  635test after all DANR changes                    6722.88 20130618          LIM-JAN   kentest                         
+20133 APSRGAAGSJOHSUB6---CB  12GLCBAG201312002  636test after all DANR changes                    6722.89 20130618          HEGARTY-J kentest                         
+20133 APSRGAAGSJXCSUB6---CB  12GLCBAG201312002  637test after all DANR changes                    6722.88 20130618          CORWIN-J  kentest                         
+20133 APSRGAAGSJXESUB6---CB  12GLCBAG201312002  638test after all DANR changes                    4158.40 20130618          ENDOW-J   kentest                         
+20133 APSRGAAGSJXHSUB6---CB  12GLCBAG201312002  639test after all DANR changes                   -1683.73 20130618          HAGGARD-J kentest                         
+20133 APSRGAAGSJXSSUB6---CB  12GLCBAG201312002  640test after all DANR changes                    5039.60 20130618          STEVENS-J kentest                         
+20133 APSRGAAGSLXVSUB6---CB  12GLCBAG201312002  641test after all DANR changes                    2477.43 20130618          VANN,LAURAkentest                         
+20133 APSRGAAGSRXNSUB6---CB  12GLCBAG201312002  642test after all DANR changes                    2941.20 20130618          NITCHER-R kentest                         
+20133 APSRGABFABB2SB28---CB  12GLCBAG201312002  643test after all DANR changes                     138.75 20130618          BESS,K    kentest                         
+20133 APSRGABFABB2SUB6---CB  12GLCBAG201312002  644test after all DANR changes                    -248.71 20130618          BESS,K    kentest                         
+20133 APSRGAGASGRHSB28---CB  12GLCBAG201312002  645test after all DANR changes                      76.05 20130618          JOHNSTON  kentest                         
+20133 APSRGAGASGRHSUB6---CB  12GLCBAG201312002  646test after all DANR changes                    -254.48 20130618          JOHNSTON  kentest                         
+20133 APSRGJDFJAD2SUB6---CB  12GLCBAG201312002  647test after all DANR changes                      -4.47 20130618          LEE-JUSTINkentest                         
+20133 APSRGJDFJAD2SUB6---CB  12GLCBAG201312002  648test after all DANR changes                      -7.48 20130618          WILKERSON kentest                         
+20133 APSRHMIFJXD2SB28---CB  12GLCBAG201312002  649test after all DANR changes                    -121.87 20130618          BUFFALO-VIkentest                         
+20133 APSRHMIFJXD2SUB6---CB  12GLCBAG201312002  650test after all DANR changes                    -951.66 20130618          BUFFALO-VIkentest                         
+20133 AREUNDR-----SUB6---CB  12GLCBAG201312002  651test after all DANR changes                      -5.97 20130618          ----------kentest                         
+20133 ASP982H-----SUB6---CB  12GLCBAG201312002  652test after all DANR changes                      -1.16 20130618          ----------kentest                         
+20133 ASSITMPSAS05SUB6---CB  12GLCBAG201312002  653test after all DANR changes                     892.58 20130618          ----------kentest                         
+20133 ASSITMPSAS20SUB6---CB  12GLCBAG201312002  654test after all DANR changes                   -5049.63 20130618          ----------kentest                         
+20133 ASTEACHADMINSUB6---CB  12GLCBAG201312002  655test after all DANR changes                      -2.72 20130618          ----------kentest                         
+20133 ASTEACHADVSNSUB6---CB  12GLCBAG201312002  656test after all DANR changes                     -12.26 20130618          ----------kentest                         
+20133 ATXIGAATXADVSUB6---CB  12GLCBAG201312002  657test after all DANR changes                      -0.66 20130618          ----------kentest                         
+20133 ATXITMPTXC07SUB6---CB  12GLCBAG201312002  658test after all DANR changes                    -141.78 20130618          ----------kentest                         
+20133 AVERGAA-----SB28---CB  12GLCBAG201312002  659test after all DANR changes                     249.38 20130618          AVITPLG   kentest                         
+20133 AVERGAA-----SB28---CB  12GLCBAG201312002  660test after all DANR changes                     -94.37 20130618          AVITSCB   kentest                         
+20133 AVERGAA-----SUB6---CB  12GLCBAG201312002  661test after all DANR changes                    -780.50 20130618          AVITPLG   kentest                         
+20133 AVERGAA-----SUB6---CB  12GLCBAG201312002  662test after all DANR changes                    -976.96 20130618          AVITSCB   kentest                         
+20133 AWFIGAASACARSB28---CB  12GLCBAG201312002  663test after all DANR changes                      84.53 20130618          250ROBERTSkentest                         
+20133 AWFIGAASACARSUB6---CB  12GLCBAG201312002  664test after all DANR changes                    -516.24 20130618          250ROBERTSkentest                         
+20133 AWFIGAATEACHSUB6---CB  12GLCBAG201312002  665test after all DANR changes                      -1.55 20130618          ----------kentest                         
+20133 AWFITMPW102LSUB6---CB  12GLCBAG201312002  666test after all DANR changes                    1558.15 20130618          ----------kentest                         
+20133 AWFRGAAAAITSSB28---CB  12GLCBAG201312002  667test after all DANR changes                      18.37 20130618          AETXSSV   kentest                         
+20133 AWFRGAAAAITSSUB6---CB  12GLCBAG201312002  668test after all DANR changes                     -67.19 20130618          AETXSSV   kentest                         
+20133 AWFRGAAMUSEMSB28---CB  12GLCBAG201312002  669test after all DANR changes                     -26.74 20130618          ----------kentest                         
+20133 AWFRGAAMUSEMSUB6---CB  12GLCBAG201312002  670test after all DANR changes                    -208.78 20130618          ----------kentest                         
+20133 AWFRGAASACARSB28---CB  12GLCBAG201312002  671test after all DANR changes                     -27.14 20130618          AWFCSJG   kentest                         
+20133 AWFRGAASACARSUB6---CB  12GLCBAG201312002  672test after all DANR changes                    -189.29 20130618          AWFCSJG   kentest                         
+20133 AWFRGAAXMAINSUB6---CB  12GLCBAG201312002  673test after all DANR changes                    -201.00 20130618          ----------kentest                         
+20133 AXEIGAAABIXXSUB6---CB  12GLCBAG201312002  674test after all DANR changes                      -2.27 20130618          ----------kentest                         
+20133 AXERGAA-----SB28---CB  12GLCBAG201312002  675test after all DANR changes                     -80.21 20130618          ----------kentest                         
+20133 AXERGAA-----SUB6---CB  12GLCBAG201312002  676test after all DANR changes                    -626.32 20130618          ----------kentest                         
+20133 BLLSALR-----SB28---CB  12GLCBAG201312002  677test after all DANR changes                      71.53 20130618          ----------kentest                         
+20133 BLLSALR-----SUB6---CB  12GLCBAG201312002  678test after all DANR changes                     367.06 20130618          ----------kentest                         
+20133 BRJ0046-----SUB6---CB  12GLCBAG201312002  679test after all DANR changes                      -2.98 20130618          ----------kentest                         
+20133 BUS9047-----SUB6---CB  12GLCBAG201312002  680test after all DANR changes                      -1.55 20130618          ----------kentest                         
+20133 CMSSALR-----SUB6---CB  12GLCBAG201312002  681test after all DANR changes                      27.62 20130618          ----------kentest                         
+20133 CRU9033-----SB28---CB  12GLCBAG201312002  682test after all DANR changes                     -74.69 20130618          ----------kentest                         
+20133 CRU9033-----SUB6---CB  12GLCBAG201312002  683test after all DANR changes                    -589.62 20130618          ----------kentest                         
+20133 DAH108H-----SUB6---CB  12GLCBAG201312002  684test after all DANR changes                    1710.00 20130618          ----------kentest                         
+20133 DAH7779-----SUB6---CB  12GLCBAG201312002  685test after all DANR changes                    3420.00 20130618          ----------kentest                         
+20133 DAS3SAL-----SUB6---CB  12GLCBAG201312002  686test after all DANR changes                    3420.00 20130618          ----------kentest                         
+20133 DNM1630-----SUB6---CB  12GLCBAG201312002  687test after all DANR changes                    3420.00 20130618          ----------kentest                         
+20133 EAD0129-----SUB6---CB  12GLCBAG201312002  688test after all DANR changes                     736.46 20130618          ----------kentest                         
+20133 EEL0214-----SB28---CB  12GLCBAG201312002  689test after all DANR changes                     -48.82 20130618          ----------kentest                         
+20133 EEL0214-----SUB6---CB  12GLCBAG201312002  690test after all DANR changes                    -381.19 20130618          ----------kentest                         
+20133 ESG7E23-----SUB6---CB  12GLCBAG201312002  691test after all DANR changes                      -2.08 20130618          ----------kentest                         
+20133 ESP8E87-----SUB6---CB  12GLCBAG201312002  692test after all DANR changes                      -2.47 20130618          ----------kentest                         
+20133 FGHSALR-----SB28---CB  12GLCBAG201312002  693test after all DANR changes                     338.83 20130618          ----------kentest                         
+20133 FGHSALR-----SUB6---CB  12GLCBAG201312002  694test after all DANR changes                    1183.37 20130618          ----------kentest                         
+20133 FMSCHAR-----SB28---CB  12GLCBAG201312002  695test after all DANR changes                       3.29 20130618          ----------kentest                         
+20133 FMSCHAR-----SUB6---CB  12GLCBAG201312002  696test after all DANR changes                     -95.48 20130618          ----------kentest                         
+20133 FMSSALR-----SB28---CB  12GLCBAG201312002  697test after all DANR changes                       3.29 20130618          ----------kentest                         
+20133 FMSSALR-----SUB6---CB  12GLCBAG201312002  698test after all DANR changes                     -95.48 20130618          ----------kentest                         
+20133 FST104L-----SUB6---CB  12GLCBAG201312002  699test after all DANR changes                      -3.97 20130618          ----------kentest                         
+20133 GF001AG-----SUB6---CB  12GLCBAG201312002  700test after all DANR changes                      38.33 20130618          ----------kentest                         
+20133 GOD25LG-----SUB6---CB  12GLCBAG201312002  701test after all DANR changes                    1710.00 20130618          ----------kentest                         
+20133 HAR7771-----SUB6---CB  12GLCBAG201312002  702test after all DANR changes                    3420.00 20130618          ----------kentest                         
+20133 HEMK3VC-----SUB6---CB  12GLCBAG201312002  703test after all DANR changes                      -1.99 20130618          ----------kentest                         
+20133 HERBARIASHERSB28---CB  12GLCBAG201312002  704test after all DANR changes                    -110.57 20130618          SHEPARD   kentest                         
+20133 HERBARIASHERSUB6---CB  12GLCBAG201312002  705test after all DANR changes                    -623.82 20130618          SHEPARD   kentest                         
+20133 HOU7779-----SUB6---CB  12GLCBAG201312002  706test after all DANR changes                   -4199.13 20130618          ----------kentest                         
+20133 JEWCNRP-----SUB6---CB  12GLCBAG201312002  707test after all DANR changes                    1710.00 20130618          ----------kentest                         
+20133 KHBSALR-----SUB6---CB  12GLCBAG201312002  708test after all DANR changes                     784.55 20130618          ----------kentest                         
+20133 KIM25LK-----SUB6---CB  12GLCBAG201312002  709test after all DANR changes                      -0.44 20130618          ----------kentest                         
+20133 LFBS199-----SUB6---CB  12GLCBAG201312002  710test after all DANR changes                      -1.04 20130618          ----------kentest                         
+20133 LYGSSUP-----SUB6---CB  12GLCBAG201312002  711test after all DANR changes                    3446.29 20130618          ----------kentest                         
+20133 MDELANY-----SUB6---CB  12GLCBAG201312002  712test after all DANR changes                    1457.00 20130618          ----------kentest                         
+20133 METROC2STASTSUB6---CB  12GLCBAG201312002  713test after all DANR changes                      -5.66 20130618          ----------kentest                         
+20133 MJM9990-----SUB6---CB  12GLCBAG201312002  714test after all DANR changes                    1710.00 20130618          ----------kentest                         
+20133 MRCSALR-----SUB6---CB  12GLCBAG201312002  715test after all DANR changes                    5130.00 20130618          ----------kentest                         
+20133 PAR7779-----SUB6---CB  12GLCBAG201312002  716test after all DANR changes                     897.23 20130618          ----------kentest                         
+20133 RMIADMN-----SB28---CB  12GLCBAG201312002  717test after all DANR changes                     -88.69 20130618          ----------kentest                         
+20133 RMIADMN-----SB28---CB  12GLCBAG201312002  718test after all DANR changes                     -84.22 20130618          ADODLN    kentest                         
+20133 RMIADMN-----SUB6---CB  12GLCBAG201312002  719test after all DANR changes                    -694.81 20130618          ----------kentest                         
+20133 RMIADMN-----SUB6---CB  12GLCBAG201312002  720test after all DANR changes                    -657.62 20130618          ADODLN    kentest                         
+20133 ROS25JR-----SUB6---CB  12GLCBAG201312002  721test after all DANR changes                     -11.50 20130618          ----------kentest                         
+20133 SAV3FAC-----SUB6---CB  12GLCBAG201312002  722test after all DANR changes                      -2.28 20130618          ----------kentest                         
+20133 SBKSABB-----SUB6---CB  12GLCBAG201312002  723test after all DANR changes                     141.78 20130618          ----------kentest                         
+20133 SRB3FAC-----SUB6---CB  12GLCBAG201312002  724test after all DANR changes                    1457.00 20130618          ----------kentest                         
+20133 SRB3SAL-----SUB6---CB  12GLCBAG201312002  725test after all DANR changes                    1710.00 20130618          ----------kentest                         
+20133 SRC9090-----SUB6---CB  12GLCBAG201312002  726test after all DANR changes                      -0.45 20130618          ----------kentest                         
+20133 SRCHOLD-----SB28---CB  12GLCBAG201312002  727test after all DANR changes                     -27.44 20130618          ----------kentest                         
+20133 SRCHOLD-----SUB6---CB  12GLCBAG201312002  728test after all DANR changes                    -214.30 20130618          ----------kentest                         
+20133 SZCGRAD-----SUB6---CB  12GLCBAG201312002  729test after all DANR changes                    1705.45 20130618          ----------kentest                         
+20133 TJE0265-----SUB6---CB  12GLCBAG201312002  730test after all DANR changes                    5214.46 20130618          ----------kentest                         
+20133 UAP983H-----SUB6---CB  12GLCBAG201312002  731test after all DANR changes                      -5.80 20130618          ----------kentest                         
+20133 UAP997H-----SUB6---CB  12GLCBAG201312002  732test after all DANR changes                      -4.53 20130618          ----------kentest                         
+20133 ULL25DU-----SB28---CB  12GLCBAG201312002  733test after all DANR changes                     -99.60 20130618          ----------kentest                         
+20133 ULL25DU-----SUB6---CB  12GLCBAG201312002  734test after all DANR changes                    1541.54 20130618          ----------kentest                         
+20133 UNDGRADPERADSUB6---CB  12GLCBAG201312002  735test after all DANR changes                      -5.83 20130618          ----------kentest                         
+20133 WFFANSU-----SUB6---CB  12GLCBAG201312002  736test after all DANR changes                    1710.00 20130618          ----------kentest                         
+20133 WFSRCAR-----SUB6---CB  12GLCBAG201312002  737test after all DANR changes                     560.75 20130618          ----------kentest                         
+20133 WFSREAD-----SUB6---CB  12GLCBAG201312002  738test after all DANR changes                     -12.45 20130618          ----------kentest                         
+20133 WFSRMOY-----SUB6---CB  12GLCBAG201312002  739test after all DANR changes                     785.39 20130618          ----------kentest                         
+20133 WFSRTHO-----SUB6---CB  12GLCBAG201312002  740test after all DANR changes                      -1.56 20130618          ----------kentest                         
+20133 WTHRSTA-----SUB6---CB  12GLCBAG201312002  741test after all DANR changes                     350.91 20130618          ----------kentest                         

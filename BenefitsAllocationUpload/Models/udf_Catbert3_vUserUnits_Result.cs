@@ -15,5 +15,6 @@ namespace BenefitsAllocationUpload.Models
     {
         public int UnitId { get; set; }
         public int UserID { get; set; }
+        public bool Inactive { get; set; }
     }
 }

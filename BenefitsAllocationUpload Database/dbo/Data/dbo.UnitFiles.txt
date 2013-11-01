@@ -1,0 +1,77 @@
+"Id"	"UnitId"	"Filename"	"SchoolCode"	"Created"	"CreatedBy"	"Uploaded"	"UploadedBy"
+1	1	"BA Flat File Import Template.xltx"	"00"	[2013/02/04:09:14:53 AM]	"taylorkj"	(null)	(null)
+2	1	"journal.AG.201302081144231445.txt"	"01"	[2013/02/08:12:10:52 PM]	"wipurft"	[2013/02/08:01:18:00 PM]	"taylorkj"
+22	1	"journal.AG.201302281459315370.txt"	"01"	[2013/02/28:02:59:35 PM]	"wipurft"	[2013/02/28:03:02:00 PM]	"wipurft"
+23	1	"journal.AG.201302281353170819.txt"	"01"	[2013/02/28:01:53:17 PM]	"taylorkj"	(null)	(null)
+24	1	"journal.AG.201304191538135565.txt"	"01"	[2013/04/19:03:38:44 PM]	"taylorkj"	(null)	(null)
+25	1	"journal.AG.201304191545427215.txt"	"01"	[2013/04/19:03:45:58 PM]	"taylorkj"	(null)	(null)
+26	1	"journal.AG.201304191548362633.txt"	"01"	[2013/04/19:03:48:44 PM]	"taylorkj"	(null)	(null)
+27	1	"journal.AG.201304191553595271.txt"	"01"	[2013/04/19:03:54:03 PM]	"taylorkj"	(null)	(null)
+28	72	"journal.AG.201304191612209169.txt"	"19"	[2013/04/19:04:12:23 PM]	"jeremy"	(null)	(null)
+29	72	"journal.SS.201304191641382143.txt"	"19"	[2013/04/19:04:41:40 PM]	"jeremy"	(null)	(null)
+30	72	"journal.SS.201304220851028838.txt"	"19"	[2013/04/22:08:51:29 AM]	"jeremy"	(null)	(null)
+31	72	"journal.SS.201304230813596076.txt"	"19"	[2013/04/23:08:14:03 AM]	"jeremy"	(null)	(null)
+32	72	"journal.SS.201304230815257892.txt"	"19"	[2013/04/23:08:15:26 AM]	"jeremy"	(null)	(null)
+33	72	"journal.SS.201304230818482684.txt"	"19"	[2013/04/23:08:18:48 AM]	"jeremy"	(null)	(null)
+34	72	"journal.SS.201304230829474317.txt"	"19"	[2013/04/23:08:29:48 AM]	"jeremy"	(null)	(null)
+35	1	"journal.AG.201304231335035198.txt"	"01"	[2013/04/23:01:35:33 PM]	"taylorkj"	(null)	(null)
+36	1	"journal.AG.201304231411375599.txt"	"01"	[2013/04/23:02:11:46 PM]	"taylorkj"	(null)	(null)
+37	72	"journal.SS.201304231419180060.txt"	"19"	[2013/04/23:02:19:19 PM]	"jeremy"	(null)	(null)
+38	72	"journal.SS.201304231419310395.txt"	"19"	[2013/04/23:02:19:31 PM]	"jeremy"	(null)	(null)
+39	72	"journal.SS.201304231420434727.txt"	"19"	[2013/04/23:02:20:44 PM]	"jeremy"	(null)	(null)
+40	1	"journal.AG.201304231424357899.txt"	"01"	[2013/04/23:02:25:05 PM]	"taylorkj"	(null)	(null)
+41	1	"journal.AG.201304231426219299.txt"	"01"	[2013/04/23:02:26:24 PM]	"taylorkj"	(null)	(null)
+42	1	"journal.AG.201304231446557379.txt"	"01"	[2013/04/23:02:47:13 PM]	"taylorkj"	(null)	(null)
+43	72	"journal.SS.201304231500149099.txt"	"19"	[2013/04/23:03:00:15 PM]	"jeremy"	(null)	(null)
+44	1	"journal.AG.201304231516460178.txt"	"01"	[2013/04/23:03:17:02 PM]	"taylorkj"	(null)	(null)
+45	72	"journal.SS.201304231520441136.txt"	"19"	[2013/04/23:03:20:45 PM]	"jeremy"	(null)	(null)
+46	1	"journal.AG.201304250929351635.txt"	"01"	[2013/04/25:09:30:04 AM]	"taylorkj"	(null)	(null)
+47	1	"journal.AG.201304250934194083.txt"	"01"	[2013/04/25:09:34:33 AM]	"taylorkj"	(null)	(null)
+48	1	"journal.AG.201304251012550570.txt"	"01"	[2013/04/25:10:12:57 AM]	"taylorkj"	(null)	(null)
+49	72	"journal.SS.201304251037541860.txt"	"19"	[2013/04/25:10:37:57 AM]	"jeremy"	(null)	(null)
+50	1	"journal.AG.201304251111095725.txt"	"01"	[2013/04/25:11:11:12 AM]	"taylorkj"	(null)	(null)
+51	1	"journal.AG.201304251112516653.txt"	"01"	[2013/04/25:11:12:53 AM]	"taylorkj"	(null)	(null)
+52	1	"journal.AG.201304251440262630.txt"	"01"	[2013/04/25:02:40:33 PM]	"taylorkj"	(null)	(null)
+53	72	"journal.SS.201304260938483633.txt"	"19"	[2013/04/26:09:39:01 AM]	"mclaughl"	(null)	(null)
+54	1	"journal.AG.201305141359360686.txt"	"01"	[2013/05/14:02:00:01 PM]	"taylorkj"	(null)	(null)
+55	1	"journal.AG.201305141513223360.txt"	"01"	[2013/05/14:03:13:25 PM]	"taylorkj"	[2013/05/14:03:13:43 PM]	"taylorkj"
+56	72	"journal.SS.201305141514526219.txt"	"19"	[2013/05/14:03:14:58 PM]	"jeremy"	[2013/05/14:03:15:16 PM]	"jeremy"
+57	1	"journal.AG.201305220831388815.txt"	"01"	[2013/05/22:08:31:43 AM]	"taylorkj"	(null)	(null)
+58	1	"journal.AG.201305220850105922.txt"	"01"	[2013/05/22:08:50:14 AM]	"taylorkj"	(null)	(null)
+59	1	"journal.AG.201305220851368838.txt"	"01"	[2013/05/22:08:54:56 AM]	"taylorkj"	(null)	(null)
+60	1	"journal.AG.201305220908057133.txt"	"01"	[2013/05/22:09:08:44 AM]	"taylorkj"	(null)	(null)
+61	1	"journal.AG.201305220918354133.txt"	"01"	[2013/05/22:09:18:36 AM]	"taylorkj"	(null)	(null)
+62	72	"journal.SS.201305221047523954.txt"	"19"	[2013/05/22:10:48:22 AM]	"jeremy"	(null)	(null)
+63	1	"journal.AG.201305221049428124.txt"	"01"	[2013/05/22:10:49:44 AM]	"taylorkj"	(null)	(null)
+64	1	"journal.AG.201305221051192001.txt"	"01"	[2013/05/22:10:52:10 AM]	"taylorkj"	(null)	(null)
+65	1	"journal.AG.201305221053344186.txt"	"01"	[2013/05/22:10:54:18 AM]	"taylorkj"	(null)	(null)
+66	1	"journal.AG.201305221112561686.txt"	"01"	[2013/05/22:11:12:57 AM]	"taylorkj"	(null)	(null)
+67	1	"journal.AG.201305241550340010.txt"	"01"	[2013/05/24:03:50:35 PM]	"taylorkj"	[2013/05/24:04:26:10 PM]	"taylorkj"
+68	72	"journal.SS.201305241601264865.txt"	"19"	[2013/05/24:04:01:27 PM]	"jeremy"	[2013/05/24:04:25:26 PM]	"jeremy"
+69	1	"journal.AG.201305270825064823.txt"	"01"	[2013/05/27:08:25:09 AM]	"wipurft"	(null)	(null)
+70	72	"journal.SS.201305280843596835.txt"	"19"	[2013/05/28:08:44:04 AM]	"rparcell"	[2013/05/28:09:52:03 AM]	"rparcell"
+71	1	"journal.AG.201305281027039996.txt"	"01"	[2013/05/28:10:27:05 AM]	"taylorkj"	(null)	(null)
+72	73	"journal.DA.201306050826517835.txt"	"99"	[2013/06/05:08:27:13 AM]	"rbranoa"	[2013/06/05:08:46:49 AM]	"rbranoa"
+73	1	"journal.AG.201306071611567902.txt"	"01"	[2013/06/07:04:12:10 PM]	"taylorkj"	(null)	(null)
+74	1	"journal.AG.201306181318514360.txt"	"01"	[2013/06/18:01:19:02 PM]	"taylorkj"	[2013/06/18:01:21:16 PM]	"taylorkj"
+75	1	"journal.AG.201306181321502024.txt"	"01"	[2013/06/18:01:22:31 PM]	"taylorkj"	(null)	(null)
+76	73	"journal.DA.201306181345042223.txt"	"99"	[2013/06/18:01:45:26 PM]	"rbranoa"	[2013/06/18:01:51:19 PM]	"rbranoa"
+77	72	"journal.SS.201306181352440571.txt"	"19"	[2013/06/18:01:52:45 PM]	"jeremy"	[2013/06/18:01:54:51 PM]	"jeremy"
+78	73	"journal.DA.201306201033012598.txt"	"99"	[2013/06/20:10:33:37 AM]	"rbranoa"	[2013/06/20:10:39:17 AM]	"rbranoa"
+79	73	"journal.DA.201306201112057891.txt"	"99"	[2013/06/20:11:12:33 AM]	"rbranoa"	[2013/06/20:11:20:25 AM]	"rbranoa"
+80	73	"journal.DA.201306201122187860.txt"	"99"	[2013/06/20:11:22:46 AM]	"rbranoa"	(null)	(null)
+81	1	"journal.AG.201306211141277998.txt"	"01"	[2013/06/21:11:41:36 AM]	"taylorkj"	(null)	(null)
+82	73	"journal.DA.201306252022051898.txt"	"99"	[2013/06/25:08:22:17 PM]	"dlhorne"	[2013/06/25:08:46:05 PM]	"dlhorne"
+83	73	"journal.DA.201306252050478462.txt"	"99"	[2013/06/25:08:50:49 PM]	"dlhorne"	[2013/06/25:08:56:08 PM]	"dlhorne"
+84	1	"journal.AG.201306261130225765.txt"	"01"	[2013/06/26:11:30:42 AM]	"taylorkj"	(null)	(null)
+85	1	"journal.AG.201306261131408220.txt"	"01"	[2013/06/26:11:31:42 AM]	"taylorkj"	(null)	(null)
+86	1	"journal.AG.201306261145353629.txt"	"01"	[2013/06/26:11:45:36 AM]	"taylorkj"	(null)	(null)
+87	1	"journal.AG.201306261529429231.txt"	"01"	[2013/06/26:03:29:43 PM]	"taylorkj"	(null)	(null)
+88	1	"journal.AG.201306261532468431.txt"	"01"	[2013/06/26:03:32:47 PM]	"taylorkj"	(null)	(null)
+89	73	"journal.DA.201307010809010931.txt"	"99"	[2013/07/01:08:09:29 AM]	"dlhorne"	(null)	(null)
+90	73	"journal.DA.201307010819277521.txt"	"99"	[2013/07/01:08:19:29 AM]	"dlhorne"	[2013/07/01:08:42:31 AM]	"dlhorne"
+91	73	"journal.DR.201307031353343829.txt"	"99"	[2013/07/03:01:53:58 PM]	"dlhorne"	[2013/07/03:01:58:09 PM]	"dlhorne"
+92	73	"journal.DR.201310021315431075.txt"	"99"	[2013/10/02:01:15:54 PM]	"dlhorne"	(null)	(null)
+93	1	"journal.AG.201310081433263126.txt"	"01"	[2013/10/08:02:33:26 PM]	"taylorkj"	(null)	(null)
+94	1	"journal.AG.201310081518258166.txt"	"01"	[2013/10/08:03:18:43 PM]	"taylorkj"	(null)	(null)
+95	1	"journal.AG.201310081541274025.txt"	"01"	[2013/10/08:03:41:37 PM]	"taylorkj"	(null)	(null)

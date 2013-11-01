@@ -1,0 +1,68 @@
+10/10/2013 2:34:00 PM	This log contains information about the import schema operation into project 'BenefitsAllocationUpload Database' on computer 'CAES-FXDG9W1' by user 'taylor'.
+10/10/2013 2:34:00 PM	Import of database schema has started.
+10/10/2013 2:34:06 PM	Gathering database options
+10/10/2013 2:34:06 PM	Gathering users
+10/10/2013 2:34:06 PM	Gathering roles
+10/10/2013 2:34:06 PM	Gathering application roles
+10/10/2013 2:34:06 PM	Gathering role memberships
+10/10/2013 2:34:06 PM	Gathering filegroups
+10/10/2013 2:34:06 PM	Gathering full-text catalogs
+10/10/2013 2:34:06 PM	Gathering assemblies
+10/10/2013 2:34:06 PM	Gathering certificates
+10/10/2013 2:34:06 PM	Gathering asymmetric keys
+10/10/2013 2:34:06 PM	Gathering symmetric keys
+10/10/2013 2:34:06 PM	Gathering encrypted symmetric keys
+10/10/2013 2:34:06 PM	Gathering schemas
+10/10/2013 2:34:06 PM	Gathering XML schema collections
+10/10/2013 2:34:06 PM	Gathering user-defined data types
+10/10/2013 2:34:06 PM	Gathering user-defined types
+10/10/2013 2:34:06 PM	Gathering table types
+10/10/2013 2:34:06 PM	Gathering unique keys for table types
+10/10/2013 2:34:06 PM	Gathering primary keys for table types
+10/10/2013 2:34:06 PM	Gathering check constraints for table types
+10/10/2013 2:34:06 PM	Gathering default constraints for table types
+10/10/2013 2:34:06 PM	Gathering partition functions
+10/10/2013 2:34:06 PM	Gathering partition schemes
+10/10/2013 2:34:06 PM	Gathering functions
+10/10/2013 2:34:06 PM	Gathering encrypted functions
+10/10/2013 2:34:06 PM	Gathering aggregates
+10/10/2013 2:34:06 PM	Gathering procedures
+10/10/2013 2:34:06 PM	Gathering encrypted procedures
+10/10/2013 2:34:06 PM	Gathering tables
+10/10/2013 2:34:06 PM	Gathering primary keys
+10/10/2013 2:34:06 PM	Gathering unique constraints
+10/10/2013 2:34:06 PM	Gathering foreign keys
+10/10/2013 2:34:06 PM	Gathering default constraints
+10/10/2013 2:34:06 PM	Gathering check constraints
+10/10/2013 2:34:06 PM	Gathering views
+10/10/2013 2:34:06 PM	Gathering encrypted views
+10/10/2013 2:34:06 PM	Gathering indexes
+10/10/2013 2:34:06 PM	Gathering statistics
+10/10/2013 2:34:06 PM	Gathering full-text index stoplists
+10/10/2013 2:34:06 PM	Gathering full-text indexes
+10/10/2013 2:34:06 PM	Gathering spatial indexes
+10/10/2013 2:34:06 PM	Gathering XML indexes
+10/10/2013 2:34:06 PM	Gathering encrypted triggers
+10/10/2013 2:34:06 PM	Gathering triggers
+10/10/2013 2:34:06 PM	Gathering encrypted and clr ddl triggers
+10/10/2013 2:34:06 PM	Gathering ddl triggers
+10/10/2013 2:34:06 PM	Gathering synonyms
+10/10/2013 2:34:06 PM	Gathering defaults
+10/10/2013 2:34:06 PM	Gathering data constraint uddt bindings
+10/10/2013 2:34:06 PM	Gathering rules
+10/10/2013 2:34:06 PM	Gathering data constraint uddt bindings
+10/10/2013 2:34:07 PM	Gathering message types
+10/10/2013 2:34:07 PM	Gathering queues
+10/10/2013 2:34:07 PM	Gathering contracts
+10/10/2013 2:34:07 PM	Gathering services
+10/10/2013 2:34:07 PM	Gathering event notifications
+10/10/2013 2:34:07 PM	Gathering remote service bindings
+10/10/2013 2:34:07 PM	Gathering broker priorities
+10/10/2013 2:34:07 PM	Gathering signatures
+10/10/2013 2:34:07 PM	Gathering data compression options
+10/10/2013 2:34:07 PM	Gathering extended properties
+10/10/2013 2:34:07 PM	Scanning project for duplicate elements
+10/10/2013 2:34:07 PM	Finished duplicate element processing
+10/10/2013 2:34:07 PM	Finished importing database.
+10/10/2013 2:34:07 PM	A summary of the import was saved to the following location: C:\Users\taylor\Dropbox\Documents\GitHub\BenefitsAllocationUpload\BenefitsAllocationUpload Database\Import Schema Logs\BenefitsAllocationUp_20131010093400.log
+10/10/2013 2:34:07 PM	Click Finish to continue...

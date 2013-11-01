@@ -48,14 +48,37 @@ namespace BenefitsAllocationUpload.Models
             // Set default to source Campus Data Warehouse:
             UseDaFIS = YesNo.Yes;
 
-            // set the default period:
-            var month = DateTime.Now.Month;
-
-            _fiscalPeriod = Convert.ToString(month > 6 ? month - 6 : month + 6);
-            _fiscalPeriod = _fiscalPeriod.Length == 1 ? "0" + _fiscalPeriod : _fiscalPeriod;
-
+            // Set the default fiscal year and period:
             var year = DateTime.Now.Year;
-            FiscalYear = Convert.ToString(month > 6 ? year + 1 : year);
+            var month = DateTime.Now.Month;
+            var day = DateTime.Now.Day;
+            // Use current year for periods 7 thru 13.
+            var fiscalYear = year;
+            // Use current month + 6 for periods 7 thru 13:
+            var fiscalPeriod = month + 6;
+            
+            // Use next year and month - 6 for periods 1 thru 6:
+            if ((month >= 8) || (month == 7 && day > 15))
+            {
+                fiscalYear = fiscalYear + 1;
+                fiscalPeriod = month - 6;
+            }
+
+            // Apply the adjustments to the previous period that has just passed, but not yet closed.
+            // Applies to all periods where the day of the month is <= 5
+            if (day <= 5)
+            {
+                fiscalPeriod = fiscalPeriod - 1;
+            }
+
+            var fiscalPeriodString = fiscalPeriod.ToString();
+            // Add a leading "0" for periods 1-9
+            if (fiscalPeriod < 10)
+                fiscalPeriodString = "0" + fiscalPeriodString;
+
+            // Set the default fiscal period with the information just determined:
+            FiscalPeriod = FiscalPeriods.AsQueryable().FirstOrDefault(p => p.Period.Equals(fiscalPeriodString));
+            FiscalYear = fiscalYear.ToString();
         }
 
         public bool EnableUseDaFisSelection { get; set; }
@@ -67,54 +90,61 @@ namespace BenefitsAllocationUpload.Models
         [Display(Name = "Get Data from Campus Data Warehouse?")]
         public YesNo UseDaFIS { get; set; }
 
-        private string _fiscalPeriod;
+        //private string _fiscalPeriod;
 
-        [Required]
-        [Display(Name = "Fiscal Period")]
-        //[StringLength(2, ErrorMessage = "The {0} must be (2) characters long.", MinimumLength = 2)]
-        public string FiscalPeriod
-        {
-            get { return _fiscalPeriod; }
-            set { _fiscalPeriod = value; }
-        }
+        [Required, Display(Name = "Fiscal Period")]
+        public FiscalPeriod FiscalPeriod { get; set; }
 
-        public IList<string> FiscalPeriods
+        public IList<FiscalPeriod> FiscalPeriods
         {
-            get
-            {
-                var retval = new List<string>()
+            get { 
+                var retval = new List<FiscalPeriod>
                     {
-                        "01",
-                        "02",
-                        "03",
-                        "04",
-                        "05",
-                        "06",
-                        "07",
-                        "08",
-                        "09",
-                        "10",
-                        "11",
-                        "12",
-                        "13"
+                        new FiscalPeriod() {Period = "01", Name = "July (01)"},
+                        new FiscalPeriod() {Period = "02", Name = "August (02)"},
+                        new FiscalPeriod() {Period = "03", Name = "September (03)"},
+                        new FiscalPeriod() {Period = "04", Name = "October (04)"},
+                        new FiscalPeriod() {Period = "05", Name = "November (05)"},
+                        new FiscalPeriod() {Period = "06", Name = "December (06)"},
+                        new FiscalPeriod() {Period = "07", Name = "January (07)"},
+                        new FiscalPeriod() {Period = "08", Name = "February (08)"},
+                        new FiscalPeriod() {Period = "09", Name = "March (09)"},
+                        new FiscalPeriod() {Period = "10", Name = "April (10)"},
+                        new FiscalPeriod() {Period = "11", Name = "May (11)"},
+                        new FiscalPeriod() {Period = "12", Name = "June (12)"},
+                        new FiscalPeriod() {Period = "13", Name = "June Final (13)"},
                     };
+
                 return retval;
             }
         }
 
+        //public IList<String> FiscalPeriods
+        //{
+        //    get
+        //    {
+        //        var retval = new List<string>()
+        //            {
+        //                "01",
+        //                "02",
+        //                "03",
+        //                "04",
+        //                "05",
+        //                "06",
+        //                "07",
+        //                "08",
+        //                "09",
+        //                "10",
+        //                "11",
+        //                "12",
+        //                "13"
+        //            };
+        //        return retval;
+        //    }
+        //}
+
         [Required, Display(Name = "Fiscal Year")]
         public string FiscalYear { get; set; }
-
-        public string CurrentFiscalPeriod
-        {
-            get
-            {
-                var month = DateTime.Now.Month;
-                var retval = (month > 6 ? month - 6 : month + 6);
-
-                return retval.ToString();
-            }
-        }
 
         public IList<string> FiscalYears
         {

@@ -1,16 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Configuration;
-using System.Data.Entity;
-using System.Data.Entity.Infrastructure;
 using System.IO;
 using System.Linq;
-using System.Web;
 using System.Web.Hosting;
-using BenefitsAllocation.Core.Domain;
-using System.Data.Objects.DataClasses;
-using System.Data.Objects;
-
 
 namespace BenefitsAllocationUpload.Models
 {
@@ -30,17 +23,21 @@ namespace BenefitsAllocationUpload.Models
 
         public List<FileNames> GetFiles()
         {
-            //var user = User.FindByLoginId(System.Web.HttpContext.Current.User.Identity.Name);
+            var user = User.FindByLoginId(System.Web.HttpContext.Current.User.Identity.Name);
             var lstFiles = new List<FileNames>();
             var dirInfo = new DirectoryInfo(HostingEnvironment.MapPath(_storageLocation));
-            
+
             int i = 0;
             foreach (var item in dirInfo.GetFiles())
             {
-                lstFiles.Add(new FileNames() { 
+                lstFiles.Add(new FileNames()
+                    {
 
-                FileId = i + 1, FileName = item.Name, TimeStamp = item.CreationTime, FilePath = dirInfo.FullName+@"\"+item.Name
-                });
+                        FileId = i + 1,
+                        FileName = item.Name,
+                        TimeStamp = item.CreationTime,
+                        FilePath = dirInfo.FullName + @"\" + item.Name
+                    });
                 i = i + 1;
             }
             using (var db = new FISDataMartEntities())
@@ -59,7 +56,7 @@ namespace BenefitsAllocationUpload.Models
                 }
             }
 
-            return lstFiles; 
+            return lstFiles;
         }
 
         public List<FileNames> GetFiles(string schoolCode)
@@ -76,7 +73,7 @@ namespace BenefitsAllocationUpload.Models
             return retval;
         }
     }
- 
+
     public class FileNames
     {
         public int FileId { get; set; }
@@ -96,21 +93,34 @@ namespace BenefitsAllocationUpload.Models
         public const string User = "User";
         public const string EmulationUser = "EmulationUser";
         public const string UploadFile = "UploadFile";
-
+        public const string EditReimbursableAccounts = "EditReimbursableAccounts";
     }
 
-    public class User
+    public partial class Unit
     {
-        public virtual string LoginID { get; set; }
+        private string _deansOfficeSchoolCode;
 
-        public virtual string Email { get; set; }
+        public virtual string DeansOfficeSchoolCode
+        {
+            get
+            {
+                _deansOfficeSchoolCode = SchoolCode;
+                string[] inPpsCodes = {"065040", "065025", "065130"};
+                string[] notInPpsCodes = {"036000", "036005"};
 
-        public virtual string Phone { get; set; }
+                var ppsCode = (!String.IsNullOrEmpty(PPS_Code) ? PPS_Code.Trim() : string.Empty);
+                if ((ppsCode.StartsWith("030") || (inPpsCodes.Contains(ppsCode) && !notInPpsCodes.Contains(ppsCode))))
+                    _deansOfficeSchoolCode = "01";
 
-        public virtual string FirstName { get; set; }
+                return _deansOfficeSchoolCode;
+            }
+            set { _deansOfficeSchoolCode = value; }
+        }
+    }
 
-        public virtual string LastName { get; set; }
-
+    public partial class User
+    {
+        private static readonly string ApplicationsAbbr = ConfigurationManager.AppSettings["applicationsAbbr"];
         private string _fullName;
 
         public virtual string FullName
@@ -119,80 +129,58 @@ namespace BenefitsAllocationUpload.Models
             set { _fullName = value; }
         }
 
-        public virtual string EmployeeID { get; set; }
-
-        public virtual string StudentID { get; set; }
-
-        public virtual string UserImage { get; set; }
-
-        public virtual string SID { get; set; }
-
-        //private bool _Inactive;
-
-        //public virtual bool Inactive
-        //{
-        //    get { return _Inactive; }
-        //    set { _Inactive = value; }
-        //}
-
-        public virtual Guid UserKey { get; set; }
+        public virtual IList<Role> Roles { get; set; }
 
         public virtual IList<Unit> Units { get; set; }
 
-        public virtual IList<Roles> Roles { get; set; }
-
-        /// <summary>
-        /// This is in order to demo an "entitled" user as a department user.
-        /// </summary>
-        public virtual bool IsDepartmentUser { get; set; }
-
         public static User FindByLoginId(string loginId)
         {
-           // throw new System.NotImplementedException();
-            using (var db = new FISDataMartEntities())
+            using (var db = new CATBERT3Entities())
             {
-                var userResult = db.udf_Catbert3_vUsers(ConfigurationManager.AppSettings["applicationsAbbr"]).FirstOrDefault(r => r.LoginID == loginId);
-                
-                if (userResult != null)
+                var user =
+                    db.Database.SqlQuery<User>(
+                        "SELECT DISTINCT users.* " +
+                        "FROM Catbert3.dbo.Users AS users " +
+                        "INNER JOIN Catbert3.dbo.Permissions permissions ON permissions.UserID = users.UserID " +
+                        "INNER JOIN Catbert3.dbo.Applications AS apps ON permissions.ApplicationID = apps.ApplicationID " +
+                        "WHERE apps.Abbr LIKE '" + ApplicationsAbbr +
+                        "' AND permissions.Inactive = 0 ").FirstOrDefault(u => u.LoginID.Equals(loginId));
+
+                if (user != null)
                 {
-                    var userUnitResults = db.udf_Catbert3_vUserUnits(ConfigurationManager.AppSettings["applicationsAbbr"])
-                                    .Where(uu => uu.UserID == userResult.UserID);
+                    user.Units = db.Database.SqlQuery<Unit>("SELECT unit.* " +
+                                                            "FROM catbert3.dbo.Unit unit " +
+                                                            "INNER JOIN Catbert3.dbo.UnitAssociations AS unitAssociations ON unit.UnitID = unitAssociations.UnitID " +
+                                                            "INNER JOIN Catbert3.dbo.Applications AS applications ON unitAssociations.ApplicationID = applications.ApplicationID " +
+                                                            "INNER JOIN Catbert3.dbo.Users AS users ON unitAssociations.UserID = users.UserID " +
+                                                            "WHERE (applications.Abbr LIKE '" + ApplicationsAbbr + "') " +
+                                                            "    AND (unitAssociations.Inactive = 0) " +
+                                                            "    AND users.LoginID = '" + loginId + "'").ToList();
 
-                    var unitResults = db.udf_Catbert3_vUnit(ConfigurationManager.AppSettings["applicationsAbbr"])
-                                .Where(u => userUnitResults.Any(uu => u.UnitID == uu.UnitId));
-
-                    var units = new List<Unit>();
-                    if (unitResults.Any())
-                    {
-                        units.AddRange(unitResults.Select(ur => new Unit()
-                            {
-                                ShortName = ur.ShortName, FullName = ur.FullName, FISCode = ur.FIS_Code, DeansOfficeSchoolCode = ur.DeansOfficeSchoolCode, UnitID = ur.UnitID, PPSCode = ur.PPS_Code, SchoolCode = ur.SchoolCode
-                            }));
-                    }
-                    return new User()
-                        {
-                            FirstName = userResult.FirstName,
-                            LastName = userResult.LastName,
-                            LoginID = userResult.LoginID,
-                            Email = userResult.Email,
-                            EmployeeID = userResult.EmployeeID,
-                            Phone = userResult.Phone,
-                            Units =  units
-                            
-                        };
+                    user.Roles =
+                        db.Database.SqlQuery<Role>("SELECT roles.RoleID, roles.Role AS Role1, permissions.Inactive " +
+                                                   "FROM catbert3.dbo.Roles roles " +
+                                                   "INNER JOIN Catbert3.dbo.Permissions AS permissions ON roles.RoleID = permissions.RoleID " +
+                                                   "INNER JOIN Catbert3.dbo.Applications AS applications ON permissions.ApplicationID = applications.ApplicationID " +
+                                                   "INNER JOIN Catbert3.dbo.Users AS users ON permissions.UserID = users.UserID " +
+                                                   "WHERE applications.Abbr LIKE '" + ApplicationsAbbr + "' " +
+                                                   "  AND permissions.Inactive = 0 " +
+                                                   "  AND users.LoginID = '" + loginId + "'").ToList();
+                    return user;
                 }
-                else return null;
+                return null;
             }
-        }
-
-        public User()
-        {
-            IsDepartmentUser = false;
         }
     }
 
     public class TransDocOriginCode
     {
         public virtual string FsOriginCode { get; set; }
+    }
+
+    public class FiscalPeriod
+    {
+        public string Period { get; set; }
+        public string Name { get; set; }
     }
 }

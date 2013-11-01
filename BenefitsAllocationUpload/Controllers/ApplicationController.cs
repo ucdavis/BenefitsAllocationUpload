@@ -69,15 +69,15 @@ namespace BenefitsAllocationUpload.Controllers
         private const string TEMP_DATA_ERROR_MESSAGE_KEY = "ErrorMessage";
         private const string UserKey = "UserKey";
 
-        public IList<udf_Catbert3_vRoles_Result>  Roles
-        {
-            get
-            {
-                using (var db = new FISDataMartEntities())
-                {
-                    return db.udf_Catbert3_vRoles(ApplicationsAbbr).ToList();
-                }
-            }
-        } 
+        //public IList<udf_Catbert3_vRoles_Result>  Roles
+        //{
+        //    get
+        //    {
+        //        using (var db = new FISDataMartEntities())
+        //        {
+        //            return db.udf_Catbert3_vRoles(ApplicationsAbbr).ToList();
+        //        }
+        //    }
+        //} 
     }
 }

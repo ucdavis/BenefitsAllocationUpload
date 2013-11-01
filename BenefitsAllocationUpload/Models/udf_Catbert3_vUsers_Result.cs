@@ -24,5 +24,6 @@ namespace BenefitsAllocationUpload.Models
         public System.Guid UserKey { get; set; }
         public string Email { get; set; }
         public string Phone { get; set; }
+        public bool Inactive { get; set; }
     }
 }

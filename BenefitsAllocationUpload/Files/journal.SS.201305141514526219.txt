@@ -1,0 +1,542 @@
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001    1test after register services in IoC             471.31 20130514SSCI      ----------kentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001    2test after register services in IoC          -37044.00 20130514SSCI      BETTINGER kentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001    3test after register services in IoC          -15848.40 20130514SSCI      BORGERHOFFkentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001    4test after register services in IoC           -9524.10 20130514SSCI      CHOY      kentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001    5test after register services in IoC          -19038.50 20130514SSCI      DARWENT   kentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001    6test after register services in IoC          -27625.50 20130514SSCI      DELACADENAkentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001    7test after register services in IoC          -38658.30 20130514SSCI      DONHAM    kentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001    8test after register services in IoC          -13635.49 20130514SSCI      DUMIT     kentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001    9test after register services in IoC          -20225.30 20130514SSCI      EERKENS   kentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001   10test after register services in IoC          -17144.70 20130514SSCI      GIORDANO  kentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001   11test after register services in IoC          -26866.00 20130514SSCI      ISBELL    kentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001   12test after register services in IoC          -20092.10 20130514SSCI      JOSEPH    kentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001   13test after register services in IoC          -20399.70 20130514SSCI      KLIMA     kentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001   14test after register services in IoC          -24712.40 20130514SSCI      MARSHALL  kentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001   15test after register services in IoC          -18662.36 20130514SSCI      MCELREATH kentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001   16test after register services in IoC          -20200.00 20130514SSCI      SAWYER    kentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001   17test after register services in IoC          -37044.00 20130514SSCI      SMITH, D. kentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001   18test after register services in IoC          -29296.10 20130514SSCI      SMITH, J. kentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001   19test after register services in IoC          -21002.34 20130514SSCI      SMITH, JAMkentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001   20test after register services in IoC          -23381.50 20130514SSCI      SRINIVAS  kentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001   21test after register services in IoC          -21462.50 20130514SSCI      STEELE    kentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001   22test after register services in IoC          -21462.50 20130514SSCI      WEAVER    kentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001   23test after register services in IoC          -42142.30 20130514SSCI      WINTERHALDkentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001   24test after register services in IoC          -40654.49 20130514SSCI      YENGOYAN  kentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001   25test after register services in IoC          -37997.70 20130514SSCI      ZHANG     kentest                         
+20133 ANTGENA-----SUB6---CB  11GLCBSS201311001   26test after register services in IoC          -16336.80 20130514SSCI      ZWYNS     kentest                         
+20133 ANTGENT-----SUB6---CB  11GLCBSS201311001   27test after register services in IoC           -7690.34 20130514SSCI      ----------kentest                         
+20133 CMBGEND-----SUB6---CB  11GLCBSS201311001   28test after register services in IoC            3246.27 20130514SSCI      ----------kentest                         
+20133 CMBGENDISHAMSUB6---CB  11GLCBSS201311001   29test after register services in IoC           -4645.06 20130514SSCI      ----------kentest                         
+20133 CMBGENDSARONSB28---CB  11GLCBSS201311001   30test after register services in IoC            -170.55 20130514SSCI      ----------kentest                         
+20133 CMBGENDSARONSUB6---CB  11GLCBSS201311001   31test after register services in IoC            -595.64 20130514SSCI      ----------kentest                         
+20133 CMBSURM-----SUB6---CB  11GLCBSS201311001   32test after register services in IoC             -63.89 20130514SSCI      ----------kentest                         
+20133 CMDSSDO-----SUB6---CB  11GLCBSS201311001   33test after register services in IoC              24.91 20130514SSCI      ----------kentest                         
+20133 CMDSSDOLAGOSSUB6---CB  11GLCBSS201311001   34test after register services in IoC             -12.94 20130514SSCI      ----------kentest                         
+20133 COMGENA-----SUB6---CB  11GLCBSS201311001   35test after register services in IoC             673.31 20130514SSCI      ----------kentest                         
+20133 COMGENA-----SUB6---CB  11GLCBSS201311001   36test after register services in IoC          -37043.80 20130514SSCI      BARNETT   kentest                         
+20133 COMGENA-----SUB6---CB  11GLCBSS201311001   37test after register services in IoC          -34609.22 20130514SSCI      BELL      kentest                         
+20133 COMGENA-----SUB6---CB  11GLCBSS201311001   38test after register services in IoC          -18460.80 20130514SSCI      CHO       kentest                         
+20133 COMGENA-----SUB6---CB  11GLCBSS201311001   39test after register services in IoC          -17620.00 20130514SSCI      FENG      kentest                         
+20133 COMGENA-----SUB6---CB  11GLCBSS201311001   40test after register services in IoC          -15513.60 20130514SSCI      HWANG     kentest                         
+20133 COMGENA-----SUB6---CB  11GLCBSS201311001   41test after register services in IoC          -18028.50 20130514SSCI      PALOMARES kentest                         
+20133 COMGENA-----SUB6---CB  11GLCBSS201311001   42test after register services in IoC          -19041.80 20130514SSCI      TAYLORL   kentest                         
+20133 COMGENA-----SUB6---CB  11GLCBSS201311001   43test after register services in IoC          -16808.20 20130514SSCI      YEGIYAN   kentest                         
+20133 COMGEND-----SUB6---CB  11GLCBSS201311001   44test after register services in IoC             -34.30 20130514SSCI      ----------kentest                         
+20133 COMGENT-----SUB6---CB  11GLCBSS201311001   45test after register services in IoC           -1963.67 20130514SSCI      ----------kentest                         
+20133 COMGENT-----SUB6---CB  11GLCBSS201311001   46test after register services in IoC          -24525.80 20130514SSCI      HAMILTONV kentest                         
+20133 COMGENT-----SUB6---CB  11GLCBSS201311001   47test after register services in IoC          -20632.90 20130514SSCI      PUCKERING kentest                         
+20133 COMGENT-----SUB6---CB  11GLCBSS201311001   48test after register services in IoC          -10037.90 20130514SSCI      SHUBB     kentest                         
+20133 COMGENT-----SUB6---CB  11GLCBSS201311001   49test after register services in IoC          -30629.10 20130514SSCI      THEOBALD  kentest                         
+20133 COR9900-----SUB6---CB  11GLCBSS201311001   50test after register services in IoC            -109.35 20130514SSCI      ----------kentest                         
+20133 DELA900-----SUB6---CB  11GLCBSS201311001   51test after register services in IoC              14.45 20130514SSCI      ----------kentest                         
+20133 DOMCCAR-----SUB6---CB  11GLCBSS201311001   52test after register services in IoC             -91.42 20130514SSCI      ----------kentest                         
+20133 DOSMITH-----SUB6---CB  11GLCBSS201311001   53test after register services in IoC             -37.35 20130514SSCI      ----------kentest                         
+20133 DOUEDDY-----SUB6---CB  11GLCBSS201311001   54test after register services in IoC            -471.31 20130514SSCI      ----------kentest                         
+20133 DYKSWAP-----SUB6---CB  11GLCBSS201311001   55test after register services in IoC             -52.12 20130514SSCI      ----------kentest                         
+20133 EASGEND-----SUB6---CB  11GLCBSS201311001   56test after register services in IoC             903.78 20130514SSCI      ----------kentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   57test after register services in IoC             471.32 20130514SSCI      ----------kentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   58test after register services in IoC          -40596.90 20130514SSCI      BERGIN    kentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   59test after register services in IoC          -35725.50 20130514SSCI      BONANNO   kentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   60test after register services in IoC          -35203.44 20130514SSCI      BUSHNELL  kentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   61test after register services in IoC          -45450.00 20130514SSCI      CAMERON   kentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   62test after register services in IoC          -41124.70 20130514SSCI      CARRELL   kentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   63test after register services in IoC          -41230.20 20130514SSCI      CLARK     kentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   64test after register services in IoC          -39450.60 20130514SSCI      FEENSTRA  kentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   65test after register services in IoC          -25631.80 20130514SSCI      GEROMICHALkentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   66test after register services in IoC          -15710.58 20130514SSCI      HENRIKSEN kentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   67test after register services in IoC          -44889.50 20130514SSCI      HOYNES    kentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   68test after register services in IoC          -21474.16 20130514SSCI      MEISSNER  kentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   69test after register services in IoC           -6243.16 20130514SSCI      MILLERDOUGkentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   70test after register services in IoC          -35991.20 20130514SSCI      PAGE      kentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   71test after register services in IoC          -36806.72 20130514SSCI      PERI      kentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   72test after register services in IoC          -35814.40 20130514SSCI      QUINZII   kentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   73test after register services in IoC          -28043.20 20130514SSCI      RAPSON    kentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   74test after register services in IoC          -24304.60 20130514SSCI      RUSS      kentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   75test after register services in IoC          -28633.50 20130514SSCI      SALYER    kentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   76test after register services in IoC          -25802.50 20130514SSCI      SCHIPPER  kentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   77test after register services in IoC          -24827.60 20130514SSCI      SHEN      kentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   78test after register services in IoC          -38145.90 20130514SSCI      SILVESTRE kentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   79test after register services in IoC          -25631.80 20130514SSCI      SIMONOVSKAkentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   80test after register services in IoC          -39163.80 20130514SSCI      STEVENS   kentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   81test after register services in IoC          -27520.20 20130514SSCI      SWENSON   kentest                         
+20133 ECNGENA-----SUB6---CB  11GLCBSS201311001   82test after register services in IoC          -38693.90 20130514SSCI      WOO       kentest                         
+20133 ECNGEND-----SUB6---CB  11GLCBSS201311001   83test after register services in IoC             -57.98 20130514SSCI      ----------kentest                         
+20133 ECNGENDCAMERSUB6---CB  11GLCBSS201311001   84test after register services in IoC             -62.76 20130514SSCI      ----------kentest                         
+20133 ECNGENDPERIGSUB6---CB  11GLCBSS201311001   85test after register services in IoC             -93.44 20130514SSCI      ----------kentest                         
+20133 ECNGENDSSHENSUB6---CB  11GLCBSS201311001   86test after register services in IoC           -5104.08 20130514SSCI      ----------kentest                         
+20133 ECNGENT-----SUB6---CB  11GLCBSS201311001   87test after register services in IoC          -11345.00 20130514SSCI      ----------kentest                         
+20133 ECNGENT-----SUB6---CB  11GLCBSS201311001   88test after register services in IoC          -19859.70 20130514SSCI      FRENKEL   kentest                         
+20133 ECNGENT-----SUB6---CB  11GLCBSS201311001   89test after register services in IoC          -13874.20 20130514SSCI      MODJTAHEDIkentest                         
+20133 ECNGENT-----SUB6---CB  11GLCBSS201311001   90test after register services in IoC          -22219.30 20130514SSCI      WILSONJ   kentest                         
+20133 ECNGENXHOYRTSUB6---CB  11GLCBSS201311001   91test after register services in IoC            -140.16 20130514SSCI      ----------kentest                         
+20133 EXSDEPT-----SUB6---CB  11GLCBSS201311001   92test after register services in IoC              -0.90 20130514SSCI      ----------kentest                         
+20133 FERSTRT-----SUB6---CB  11GLCBSS201311001   93test after register services in IoC             -69.00 20130514SSCI      ----------kentest                         
+20133 GEN9900-----SUB6---CB  11GLCBSS201311001   94test after register services in IoC             -88.71 20130514SSCI      ----------kentest                         
+20133 GHE9900-----SUB6---CB  11GLCBSS201311001   95test after register services in IoC             -26.56 20130514SSCI      ----------kentest                         
+20133 GOVGEND-----SUB6---CB  11GLCBSS201311001   96test after register services in IoC              -3.01 20130514SSCI      ----------kentest                         
+20133 GRA9900-----SB28---CB  11GLCBSS201311001   97test after register services in IoC            -494.20 20130514SSCI      ----------kentest                         
+20133 GRA9900-----SUB6---CB  11GLCBSS201311001   98test after register services in IoC           -1743.97 20130514SSCI      ----------kentest                         
+20133 GRADGRP-----SB28---CB  11GLCBSS201311001   99test after register services in IoC             215.52 20130514SSCI      ----------kentest                         
+20133 GRADGRP-----SUB6---CB  11GLCBSS201311001  100test after register services in IoC             951.18 20130514SSCI      ----------kentest                         
+20133 GSRGRAD-----SUB6---CB  11GLCBSS201311001  101test after register services in IoC            -106.61 20130514SSCI      ----------kentest                         
+20133 HAS9900-----SB28---CB  11GLCBSS201311001  102test after register services in IoC            -596.59 20130514SSCI      ----------kentest                         
+20133 HAS9900-----SUB6---CB  11GLCBSS201311001  103test after register services in IoC             435.22 20130514SSCI      ----------kentest                         
+20133 HCKGILL-----SB28---CB  11GLCBSS201311001  104test after register services in IoC              81.25 20130514SSCI      ----------kentest                         
+20133 HCKGILL-----SUB6---CB  11GLCBSS201311001  105test after register services in IoC             -86.27 20130514SSCI      ----------kentest                         
+20133 HEMSWAP-----SUB6---CB  11GLCBSS201311001  106test after register services in IoC             -37.63 20130514SSCI      ----------kentest                         
+20133 HIAGEND-----SUB6---CB  11GLCBSS201311001  107test after register services in IoC             -18.54 20130514SSCI      ----------kentest                         
+20133 HISFACUBOSSLSUB6---CB  11GLCBSS201311001  108test after register services in IoC             -10.14 20130514SSCI      ----------kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  109test after register services in IoC          -18028.50 20130514SSCI      ANOOSHAHR kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  110test after register services in IoC          -40976.99 20130514SSCI      BIALE     kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  111test after register services in IoC          -25073.30 20130514SSCI      BOSSLER   kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  112test after register services in IoC          -16646.80 20130514SSCI      CAMPBELL  kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  113test after register services in IoC          -25073.30 20130514SSCI      CHUCK     kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  114test after register services in IoC          -42371.49 20130514SSCI      CLARENCE  kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  115test after register services in IoC          -23659.00 20130514SSCI      DAVIS     kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  116test after register services in IoC          -18501.40 20130514SSCI      DECKER    kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  117test after register services in IoC          -21765.50 20130514SSCI      DICKINSON kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  118test after register services in IoC          -24240.00 20130514SSCI      EL SHAKRY kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  119test after register services in IoC          -18028.50 20130514SSCI      HARRIS    kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  120test after register services in IoC          -19038.50 20130514SSCI      HARTIGAN  kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  121test after register services in IoC          -16665.00 20130514SSCI      JAVERS    kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  122test after register services in IoC          -30686.10 20130514SSCI      KELMAN    kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  123test after register services in IoC          -19038.50 20130514SSCI      KIM       kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  124test after register services in IoC          -18000.20 20130514SSCI      LANDAU    kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  125test after register services in IoC          -18386.30 20130514SSCI      LANGLAND  kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  126test after register services in IoC          -19038.50 20130514SSCI      MATERSON  kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  127test after register services in IoC          -23381.50 20130514SSCI      MCKEE     kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  128test after register services in IoC          -18705.20 20130514SSCI      MILLER    kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  129test after register services in IoC          -26866.00 20130514SSCI      OLMSTED   kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  130test after register services in IoC          -14422.88 20130514SSCI      OROPEZA   kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  131test after register services in IoC          -28011.40 20130514SSCI      RAUCHWAY  kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  132test after register services in IoC          -36697.30 20130514SSCI      RESENDEZ  kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  133test after register services in IoC          -23381.50 20130514SSCI      SALER     kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  134test after register services in IoC          -26627.62 20130514SSCI      SEN       kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  135test after register services in IoC          -19038.50 20130514SSCI      SMOLENSKI kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  136test after register services in IoC          -27408.59 20130514SSCI      SPYRIDAKISkentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  137test after register services in IoC          -18003.30 20130514SSCI      STOLZENBERkentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  138test after register services in IoC          -16043.24 20130514SSCI      STUART    kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  139test after register services in IoC          -22213.00 20130514SSCI      TAYLORALANkentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  140test after register services in IoC          -10716.90 20130514SSCI      TEZCAN    kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  141test after register services in IoC          -17142.20 20130514SSCI      TSU       kentest                         
+20133 HISGENA-----SUB6---CB  11GLCBSS201311001  142test after register services in IoC           -3732.90 20130514SSCI      WARREN    kentest                         
+20133 HISGEND-----SUB6---CB  11GLCBSS201311001  143test after register services in IoC            1802.07 20130514SSCI      ----------kentest                         
+20133 HISGENT-----SUB6---CB  11GLCBSS201311001  144test after register services in IoC           -9187.68 20130514SSCI      ----------kentest                         
+20133 HISGENXFELOWSUB6---CB  11GLCBSS201311001  145test after register services in IoC            -132.51 20130514SSCI      ----------kentest                         
+20133 HISGENXPUBAKSUB6---CB  11GLCBSS201311001  146test after register services in IoC              -7.80 20130514SSCI      ----------kentest                         
+20133 HISGENXTAYRASUB6---CB  11GLCBSS201311001  147test after register services in IoC            -358.60 20130514SSCI      ----------kentest                         
+20133 ICAGEND-----SUB6---CB  11GLCBSS201311001  148test after register services in IoC            2121.01 20130514SSCI      ----------kentest                         
+20133 ICAGEND-----SUB6---CB  11GLCBSS201311001  149test after register services in IoC           27510.57 20130514SSCI      ICAPAYROLLkentest                         
+20133 ICAGENT-----SUB6---CB  11GLCBSS201311001  150test after register services in IoC            9517.13 20130514SSCI      ----------kentest                         
+20133 ICAGENT-----SUB6---CB  11GLCBSS201311001  151test after register services in IoC          -12535.91 20130514SSCI      ICAPAYROLLkentest                         
+20133 IGAGEND-----SB28---CB  11GLCBSS201311001  152test after register services in IoC              70.16 20130514SSCI      DANIELS   kentest                         
+20133 IGAGEND-----SB28---CB  11GLCBSS201311001  153test after register services in IoC            1129.23 20130514SSCI      STRATFORD kentest                         
+20133 IGAGEND-----SB28---CB  11GLCBSS201311001  154test after register services in IoC            1575.55 20130514SSCI      WILKOFF   kentest                         
+20133 IGAGEND-----SUB6---CB  11GLCBSS201311001  155test after register services in IoC              31.01 20130514SSCI      DANIELS   kentest                         
+20133 IGAGEND-----SUB6---CB  11GLCBSS201311001  156test after register services in IoC             499.12 20130514SSCI      STRATFORD kentest                         
+20133 IGAGEND-----SUB6---CB  11GLCBSS201311001  157test after register services in IoC          -14253.41 20130514SSCI      WILKOFF   kentest                         
+20133 IREGEND-----SUB6---CB  11GLCBSS201311001  158test after register services in IoC             -33.15 20130514SSCI      ----------kentest                         
+20133 IREGENT-----SUB6---CB  11GLCBSS201311001  159test after register services in IoC            -459.00 20130514SSCI      ----------kentest                         
+20133 JESGEND-----SUB6---CB  11GLCBSS201311001  160test after register services in IoC            -130.79 20130514SSCI      ----------kentest                         
+20133 JFADEPT-----SUB6---CB  11GLCBSS201311001  161test after register services in IoC             -24.60 20130514SSCI      ----------kentest                         
+20133 JFAFRS1-----SUB6---CB  11GLCBSS201311001  162test after register services in IoC             -13.00 20130514SSCI      ----------kentest                         
+20133 JXMFRS1-----SUB6---CB  11GLCBSS201311001  163test after register services in IoC             -14.73 20130514SSCI      ----------kentest                         
+20133 LNGGENA-----SUB6---CB  11GLCBSS201311001  164test after register services in IoC            1515.01 20130514SSCI      ----------kentest                         
+20133 LNGGENA-----SUB6---CB  11GLCBSS201311001  165test after register services in IoC          -20200.00 20130514SSCI      ARANOVICH kentest                         
+20133 LNGGENA-----SUB6---CB  11GLCBSS201311001  166test after register services in IoC          -28500.89 20130514SSCI      BAYLEY    kentest                         
+20133 LNGGENA-----SUB6---CB  11GLCBSS201311001  167test after register services in IoC          -25433.41 20130514SSCI      CORINA    kentest                         
+20133 LNGGENA-----SUB6---CB  11GLCBSS201311001  168test after register services in IoC          -22969.11 20130514SSCI      FARRELL   kentest                         
+20133 LNGGENA-----SUB6---CB  11GLCBSS201311001  169test after register services in IoC          -41275.14 20130514SSCI      HAWKINS   kentest                         
+20133 LNGGENA-----SUB6---CB  11GLCBSS201311001  170test after register services in IoC          -18028.50 20130514SSCI      MENARD    kentest                         
+20133 LNGGENA-----SUB6---CB  11GLCBSS201311001  171test after register services in IoC          -25073.30 20130514SSCI      OJEDA     kentest                         
+20133 LNGGENA-----SUB6---CB  11GLCBSS201311001  172test after register services in IoC          -23381.50 20130514SSCI      RAMANATHANkentest                         
+20133 LNGGENA-----SUB6---CB  11GLCBSS201311001  173test after register services in IoC           -6716.50 20130514SSCI      TIMML     kentest                         
+20133 LNGGEND-----SB28---CB  11GLCBSS201311001  174test after register services in IoC           -2730.30 20130514SSCI      ----------kentest                         
+20133 LNGGEND-----SUB6---CB  11GLCBSS201311001  175test after register services in IoC             318.05 20130514SSCI      ----------kentest                         
+20133 LNGGENT-----SUB6---CB  11GLCBSS201311001  176test after register services in IoC          -32112.25 20130514SSCI      ----------kentest                         
+20133 LNGGENT-----SUB6---CB  11GLCBSS201311001  177test after register services in IoC          -37319.20 20130514SSCI      LANEJ     kentest                         
+20133 LNGGENT-----SUB6---CB  11GLCBSS201311001  178test after register services in IoC          -25139.10 20130514SSCI      SAMSEL    kentest                         
+20133 LNGGENT-----SUB6---CB  11GLCBSS201311001  179test after register services in IoC           -5282.40 20130514SSCI      WARDK     kentest                         
+20133 LUC9900-----SUB6---CB  11GLCBSS201311001  180test after register services in IoC             -48.50 20130514SSCI      ----------kentest                         
+20133 LUC9900SALARSUB6---CB  11GLCBSS201311001  181test after register services in IoC           -2272.50 20130514SSCI      ----------kentest                         
+20133 MESAGNT-----SUB6---CB  11GLCBSS201311001  182test after register services in IoC             -30.17 20130514SSCI      ----------kentest                         
+20133 MIP30JC-----SUB6---CB  11GLCBSS201311001  183test after register services in IoC            -175.45 20130514SSCI      ----------kentest                         
+20133 MOOSTRT-----SB28---CB  11GLCBSS201311001  184test after register services in IoC            -715.70 20130514SSCI      ----------kentest                         
+20133 MOOSTRT-----SUB6---CB  11GLCBSS201311001  185test after register services in IoC           -4772.10 20130514SSCI      ----------kentest                         
+20133 MSAPROO-----SB28---CB  11GLCBSS201311001  186test after register services in IoC            -303.81 20130514SSCI      MANNGU    kentest                         
+20133 MSAPROO-----SUB6---CB  11GLCBSS201311001  187test after register services in IoC            8782.12 20130514SSCI      ----------kentest                         
+20133 MSAPROO-----SUB6---CB  11GLCBSS201311001  188test after register services in IoC           -6814.35 20130514SSCI      MANNGU    kentest                         
+20133 PHEGENDAPPLESUB6---CB  11GLCBSS201311001  189test after register services in IoC           -2227.50 20130514SSCI      ICAPAYROLLkentest                         
+20133 PHEGENDYODERSUB6---CB  11GLCBSS201311001  190test after register services in IoC            -861.90 20130514SSCI      ICAPAYROLLkentest                         
+20133 PHIGENA-----SUB6---CB  11GLCBSS201311001  191test after register services in IoC             673.29 20130514SSCI      ----------kentest                         
+20133 PHIGENA-----SUB6---CB  11GLCBSS201311001  192test after register services in IoC          -25073.30 20130514SSCI      ANTONELLI kentest                         
+20133 PHIGENA-----SUB6---CB  11GLCBSS201311001  193test after register services in IoC          -40061.70 20130514SSCI      COPP      kentest                         
+20133 PHIGENA-----SUB6---CB  11GLCBSS201311001  194test after register services in IoC          -19878.60 20130514SSCI      GILMORE   kentest                         
+20133 PHIGENA-----SUB6---CB  11GLCBSS201311001  195test after register services in IoC          -31085.01 20130514SSCI      GRIESEMER kentest                         
+20133 PHIGENA-----SUB6---CB  11GLCBSS201311001  196test after register services in IoC          -25869.70 20130514SSCI      LANDRY    kentest                         
+20133 PHIGENA-----SUB6---CB  11GLCBSS201311001  197test after register services in IoC          -26830.70 20130514SSCI      MATTEY    kentest                         
+20133 PHIGENA-----SUB6---CB  11GLCBSS201311001  198test after register services in IoC          -42305.10 20130514SSCI      MAY       kentest                         
+20133 PHIGENA-----SUB6---CB  11GLCBSS201311001  199test after register services in IoC          -14599.80 20130514SSCI      MILLSTEIN kentest                         
+20133 PHIGENA-----SUB6---CB  11GLCBSS201311001  200test after register services in IoC          -17195.30 20130514SSCI      MOLYNEUX  kentest                         
+20133 PHIGENA-----SUB6---CB  11GLCBSS201311001  201test after register services in IoC          -23143.10 20130514SSCI      OSHANA    kentest                         
+20133 PHIGENA-----SUB6---CB  11GLCBSS201311001  202test after register services in IoC          -17645.20 20130514SSCI      SENNET    kentest                         
+20133 PHIGENA-----SUB6---CB  11GLCBSS201311001  203test after register services in IoC          -24382.40 20130514SSCI      SZAIF     kentest                         
+20133 PHIGEND-----SUB6---CB  11GLCBSS201311001  204test after register services in IoC             -35.01 20130514SSCI      ----------kentest                         
+20133 PHIGENT-----SUB6---CB  11GLCBSS201311001  205test after register services in IoC           -4515.49 20130514SSCI      ----------kentest                         
+20133 PHSUSEN-----SUB6---CB  11GLCBSS201311001  206test after register services in IoC             -14.50 20130514SSCI      ----------kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  207test after register services in IoC             572.78 20130514SSCI      ----------kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  208test after register services in IoC          -25477.20 20130514SSCI      ADAMSJ    kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  209test after register services in IoC           -9014.30 20130514SSCI      ANDREWS   kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  210test after register services in IoC          -20629.00 20130514SSCI      BOUDREAU  kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  211test after register services in IoC          -20159.10 20130514SSCI      BOYDSTUN  kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  212test after register services in IoC          -27855.00 20130514SSCI      ENGSTROM  kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  213test after register services in IoC          -29145.80 20130514SSCI      ESCHEINER kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  214test after register services in IoC          -19469.30 20130514SSCI      GATES     kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  215test after register services in IoC          -21822.60 20130514SSCI      HIGHTON   kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  216test after register services in IoC          -18149.70 20130514SSCI      HILL S    kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  217test after register services in IoC          -38632.50 20130514SSCI      HUCKFELDT kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  218test after register services in IoC          -29944.19 20130514SSCI      JONES     kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  219test after register services in IoC          -20159.10 20130514SSCI      JOYCE     kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  220test after register services in IoC          -27022.80 20130514SSCI      KONO      kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  221test after register services in IoC          -19535.40 20130514SSCI      MACKENZIE kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  222test after register services in IoC          -19535.40 20130514SSCI      MCKIBBEN  kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  223test after register services in IoC          -20200.00 20130514SSCI      MONEY     kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  224test after register services in IoC          -19038.50 20130514SSCI      MONTINOLA kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  225test after register services in IoC          -37044.00 20130514SSCI      NINCIC    kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  226test after register services in IoC          -19276.30 20130514SSCI      RSTAYLOR  kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  227test after register services in IoC          -19117.50 20130514SSCI      SATKUNANANkentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  228test after register services in IoC          -28972.60 20130514SSCI      SCOTT     kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  229test after register services in IoC          -20634.30 20130514SSCI      SHUGART   kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  230test after register services in IoC          -40530.30 20130514SSCI      STONE     kentest                         
+20133 PLSGENA-----SUB6---CB  11GLCBSS201311001  231test after register services in IoC          -42528.79 20130514SSCI      ZMAOZ     kentest                         
+20133 POLDEPT-----SUB6---CB  11GLCBSS201311001  232test after register services in IoC            -243.12 20130514SSCI      ----------kentest                         
+20133 POLGEND-----SUB6---CB  11GLCBSS201311001  233test after register services in IoC             673.31 20130514SSCI      ----------kentest                         
+20133 POLGENT-----SUB6---CB  11GLCBSS201311001  234test after register services in IoC          -51499.22 20130514SSCI      ----------kentest                         
+20133 POLPER2-----SUB6---CB  11GLCBSS201311001  235test after register services in IoC              -1.66 20130514SSCI      ----------kentest                         
+20133 POLUGRD-----SUB6---CB  11GLCBSS201311001  236test after register services in IoC             -32.45 20130514SSCI      ----------kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  237test after register services in IoC             606.00 20130514SSCI      ----------kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  238test after register services in IoC          -18712.74 20130514SSCI      AEKSTROM  kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  239test after register services in IoC          -19118.80 20130514SSCI      ALEDGERWOOkentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  240test after register services in IoC          -23437.46 20130514SSCI      AYONELINASkentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  241test after register services in IoC          -21158.01 20130514SSCI      BTRAINOR  kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  242test after register services in IoC          -20673.39 20130514SSCI      CPICKETT  kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  243test after register services in IoC          -24677.12 20130514SSCI      CRANGANATHkentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  244test after register services in IoC          -19701.36 20130514SSCI      DLONG     kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  245test after register services in IoC          -43180.29 20130514SSCI      DSIMONTON kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  246test after register services in IoC          -24259.50 20130514SSCI      EFERRERCAJkentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  247test after register services in IoC          -30830.72 20130514SSCI      GGOODMAN  kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  248test after register services in IoC          -29639.14 20130514SSCI      GHEREK    kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  249test after register services in IoC          -20420.90 20130514SSCI      JGENG     kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  250test after register services in IoC          -21790.80 20130514SSCI      JSCHANK   kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  251test after register services in IoC          -29706.11 20130514SSCI      JSHERMAN  kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  252test after register services in IoC          -10658.28 20130514SSCI      KBALES    kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  253test after register services in IoC          -17688.40 20130514SSCI      KESTES    kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  254test after register services in IoC          -18309.02 20130514SSCI      KGRIMM    kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  255test after register services in IoC          -20200.00 20130514SSCI      KLAGATTUTAkentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  256test after register services in IoC          -37996.29 20130514SSCI      KWIDAMAN  kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  257test after register services in IoC          -35889.40 20130514SSCI      LKRUBITZERkentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  258test after register services in IoC          -25357.44 20130514SSCI      LOAKES    kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  259test after register services in IoC          -21790.80 20130514SSCI      MTRAXLER  kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  260test after register services in IoC           -9314.78 20130514SSCI      NZANE     kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  261test after register services in IoC          -22081.14 20130514SSCI      PHASTINGS kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  262test after register services in IoC          -20136.39 20130514SSCI      PJANATA   kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  263test after register services in IoC          -45450.00 20130514SSCI      PSHAVER   kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  264test after register services in IoC          -37044.00 20130514SSCI      RCOSS     kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  265test after register services in IoC          -24527.48 20130514SSCI      REMMONS   kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  266test after register services in IoC          -21484.58 20130514SSCI      RROBINS   kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  267test after register services in IoC          -45450.00 20130514SSCI      RTHOMPSON kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  268test after register services in IoC          -19038.50 20130514SSCI      SBLOZIS   kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  269test after register services in IoC          -15606.46 20130514SSCI      SGHETTI   kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  270test after register services in IoC          -26661.89 20130514SSCI      SLUCK     kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  271test after register services in IoC          -18624.16 20130514SSCI      SRIVERA   kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  272test after register services in IoC          -10908.00 20130514SSCI      STOLZEND  kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  273test after register services in IoC          -20351.99 20130514SSCI      TSWAAB    kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  274test after register services in IoC          -20200.00 20130514SSCI      WILTGEN   kentest                         
+20133 PSCGENA-----SUB6---CB  11GLCBSS201311001  275test after register services in IoC          -17532.30 20130514SSCI      WMOONS    kentest                         
+20133 PSCGEND-----SUB6---CB  11GLCBSS201311001  276test after register services in IoC             -31.45 20130514SSCI      ----------kentest                         
+20133 PSCGENT-----SB28---CB  11GLCBSS201311001  277test after register services in IoC            1297.74 20130514SSCI      ----------kentest                         
+20133 PSCGENT-----SUB6---CB  11GLCBSS201311001  278test after register services in IoC          -44615.83 20130514SSCI      ----------kentest                         
+20133 PSCGENT-----SUB6---CB  11GLCBSS201311001  279test after register services in IoC          -24525.80 20130514SSCI      GIBBSK    kentest                         
+20133 PSCGENT-----SUB6---CB  11GLCBSS201311001  280test after register services in IoC           -7104.20 20130514SSCI      HORN      kentest                         
+20133 PSCGENT-----SUB6---CB  11GLCBSS201311001  281test after register services in IoC          -12569.60 20130514SSCI      POSTE     kentest                         
+20133 PSCGENT-----SUB6---CB  11GLCBSS201311001  282test after register services in IoC          -13206.00 20130514SSCI      SCHEPELER kentest                         
+20133 PSCGENT-----SUB6---CB  11GLCBSS201311001  283test after register services in IoC           -5747.88 20130514SSCI      VCROSS    kentest                         
+20133 PSYGR03-----SB28---CB  11GLCBSS201311001  284test after register services in IoC            -156.83 20130514SSCI      ----------kentest                         
+20133 PSYGR03-----SUB6---CB  11GLCBSS201311001  285test after register services in IoC           -1263.57 20130514SSCI      ----------kentest                         
+20133 PSYGR04-----SUB6---CB  11GLCBSS201311001  286test after register services in IoC            -378.15 20130514SSCI      ----------kentest                         
+20133 PSYGR05-----SUB6---CB  11GLCBSS201311001  287test after register services in IoC            -969.34 20130514SSCI      ----------kentest                         
+20133 PULE900-----SUB6---CB  11GLCBSS201311001  288test after register services in IoC            -693.09 20130514SSCI      ----------kentest                         
+20133 PULE900STASTSUB6---CB  11GLCBSS201311001  289test after register services in IoC             170.38 20130514SSCI      ----------kentest                         
+20133 RIV9900-----SUB6---CB  11GLCBSS201311001  290test after register services in IoC             -22.41 20130514SSCI      ----------kentest                         
+20133 RIV9900SALARSUB6---CB  11GLCBSS201311001  291test after register services in IoC           -2905.12 20130514SSCI      ----------kentest                         
+20133 RRHSTAR-----SUB6---CB  11GLCBSS201311001  292test after register services in IoC             -52.00 20130514SSCI      ----------kentest                         
+20133 SCADMN1-----SB28---CB  11GLCBSS201311001  293test after register services in IoC             288.86 20130514SSCI      BLOCKA    kentest                         
+20133 SCADMN1-----SB28---CB  11GLCBSS201311001  294test after register services in IoC            -646.79 20130514SSCI      WILSONS   kentest                         
+20133 SCADMN1-----SUB6---CB  11GLCBSS201311001  295test after register services in IoC             -97.80 20130514SSCI      ----------kentest                         
+20133 SCADMN1-----SUB6---CB  11GLCBSS201311001  296test after register services in IoC          -26732.46 20130514SSCI      BLOCKA    kentest                         
+20133 SCADMN1-----SUB6---CB  11GLCBSS201311001  297test after register services in IoC          -17146.66 20130514SSCI      WILSONS   kentest                         
+20133 SCCGENA-----SUB6---CB  11GLCBSS201311001  298test after register services in IoC              -0.12 20130514SSCI      ----------kentest                         
+20133 SCINS01-----SUB6---CB  11GLCBSS201311001  299test after register services in IoC           -9576.36 20130514SSCI      ----------kentest                         
+20133 SHRGEND-----SB28---CB  11GLCBSS201311001  300test after register services in IoC             559.29 20130514SSCI      KAAKE     kentest                         
+20133 SHRGEND-----SB28---CB  11GLCBSS201311001  301test after register services in IoC            -435.42 20130514SSCI      SDYER     kentest                         
+20133 SHRGEND-----SB28---CB  11GLCBSS201311001  302test after register services in IoC            -395.67 20130514SSCI      SHEEHAN   kentest                         
+20133 SHRGEND-----SB28---CB  11GLCBSS201311001  303test after register services in IoC            -230.03 20130514SSCI      STREETER  kentest                         
+20133 SHRGEND-----SB28---CB  11GLCBSS201311001  304test after register services in IoC           -1733.66 20130514SSCI      TAPIA     kentest                         
+20133 SHRGEND-----SUB6---CB  11GLCBSS201311001  305test after register services in IoC           -2249.85 20130514SSCI      ----------kentest                         
+20133 SHRGEND-----SUB6---CB  11GLCBSS201311001  306test after register services in IoC          -17507.72 20130514SSCI      KAAKE     kentest                         
+20133 SHRGEND-----SUB6---CB  11GLCBSS201311001  307test after register services in IoC           -2218.29 20130514SSCI      SDYER     kentest                         
+20133 SHRGEND-----SUB6---CB  11GLCBSS201311001  308test after register services in IoC           -8248.78 20130514SSCI      SHEEHAN   kentest                         
+20133 SHRGEND-----SUB6---CB  11GLCBSS201311001  309test after register services in IoC          -17045.64 20130514SSCI      STREETER  kentest                         
+20133 SHRGEND-----SUB6---CB  11GLCBSS201311001  310test after register services in IoC          -28110.58 20130514SSCI      TAPIA     kentest                         
+20133 SITGEND-----SB28---CB  11GLCBSS201311001  311test after register services in IoC            -379.59 20130514SSCI      BRICK     kentest                         
+20133 SITGEND-----SB28---CB  11GLCBSS201311001  312test after register services in IoC            -506.23 20130514SSCI      CARLSON   kentest                         
+20133 SITGEND-----SB28---CB  11GLCBSS201311001  313test after register services in IoC            -348.35 20130514SSCI      DYER      kentest                         
+20133 SITGEND-----SB28---CB  11GLCBSS201311001  314test after register services in IoC            5082.00 20130514SSCI      JCOSCA    kentest                         
+20133 SITGEND-----SB28---CB  11GLCBSS201311001  315test after register services in IoC            -324.64 20130514SSCI      KRAMER    kentest                         
+20133 SITGEND-----SB28---CB  11GLCBSS201311001  316test after register services in IoC            -326.83 20130514SSCI      MCMASTERS kentest                         
+20133 SITGEND-----SB28---CB  11GLCBSS201311001  317test after register services in IoC            2872.59 20130514SSCI      OKADRI    kentest                         
+20133 SITGEND-----SB28---CB  11GLCBSS201311001  318test after register services in IoC             -90.97 20130514SSCI      PHILLIPSJ kentest                         
+20133 SITGEND-----SB28---CB  11GLCBSS201311001  319test after register services in IoC           -1653.25 20130514SSCI      THIELEN   kentest                         
+20133 SITGEND-----SB28---CB  11GLCBSS201311001  320test after register services in IoC             187.98 20130514SSCI      TRASK     kentest                         
+20133 SITGEND-----SB28---CB  11GLCBSS201311001  321test after register services in IoC           -1205.27 20130514SSCI      WHEELER   kentest                         
+20133 SITGEND-----SB28---CB  11GLCBSS201311001  322test after register services in IoC             167.90 20130514SSCI      WONGJ     kentest                         
+20133 SITGEND-----SUB6---CB  11GLCBSS201311001  323test after register services in IoC           -3891.99 20130514SSCI      ----------kentest                         
+20133 SITGEND-----SUB6---CB  11GLCBSS201311001  324test after register services in IoC          -27108.34 20130514SSCI      BRICK     kentest                         
+20133 SITGEND-----SUB6---CB  11GLCBSS201311001  325test after register services in IoC          -23356.04 20130514SSCI      CARLSON   kentest                         
+20133 SITGEND-----SUB6---CB  11GLCBSS201311001  326test after register services in IoC          -30735.55 20130514SSCI      DYER      kentest                         
+20133 SITGEND-----SUB6---CB  11GLCBSS201311001  327test after register services in IoC          -25933.03 20130514SSCI      JCOSCA    kentest                         
+20133 SITGEND-----SUB6---CB  11GLCBSS201311001  328test after register services in IoC          -18245.66 20130514SSCI      KRAMER    kentest                         
+20133 SITGEND-----SUB6---CB  11GLCBSS201311001  329test after register services in IoC          -27171.22 20130514SSCI      MCMASTERS kentest                         
+20133 SITGEND-----SUB6---CB  11GLCBSS201311001  330test after register services in IoC          -16240.55 20130514SSCI      OKADRI    kentest                         
+20133 SITGEND-----SUB6---CB  11GLCBSS201311001  331test after register services in IoC          -35923.00 20130514SSCI      PHILLIPSJ kentest                         
+20133 SITGEND-----SUB6---CB  11GLCBSS201311001  332test after register services in IoC          -23274.04 20130514SSCI      THIELEN   kentest                         
+20133 SITGEND-----SUB6---CB  11GLCBSS201311001  333test after register services in IoC          -21206.92 20130514SSCI      TRASK     kentest                         
+20133 SITGEND-----SUB6---CB  11GLCBSS201311001  334test after register services in IoC          -15873.62 20130514SSCI      WHEELER   kentest                         
+20133 SITGEND-----SUB6---CB  11GLCBSS201311001  335test after register services in IoC          -15080.00 20130514SSCI      WONGJ     kentest                         
+20133 SOCGENA-----SUB6---CB  11GLCBSS201311001  336test after register services in IoC           -1885.31 20130514SSCI      ----------kentest                         
+20133 SOCGENA-----SUB6---CB  11GLCBSS201311001  337test after register services in IoC          -20200.00 20130514SSCI      BEAMISH   kentest                         
+20133 SOCGENA-----SUB6---CB  11GLCBSS201311001  338test after register services in IoC          -20200.00 20130514SSCI      CARROLL   kentest                         
+20133 SOCGENA-----SUB6---CB  11GLCBSS201311001  339test after register services in IoC          -35348.00 20130514SSCI      COHEN     kentest                         
+20133 SOCGENA-----SUB6---CB  11GLCBSS201311001  340test after register services in IoC          -23529.20 20130514SSCI      EDDYU     kentest                         
+20133 SOCGENA-----SUB6---CB  11GLCBSS201311001  341test after register services in IoC          -20197.58 20130514SSCI      FARIS     kentest                         
+20133 SOCGENA-----SUB6---CB  11GLCBSS201311001  342test after register services in IoC          -21790.80 20130514SSCI      GRINDSTAFFkentest                         
+20133 SOCGENA-----SUB6---CB  11GLCBSS201311001  343test after register services in IoC          -18028.50 20130514SSCI      HALFMANN  kentest                         
+20133 SOCGENA-----SUB6---CB  11GLCBSS201311001  344test after register services in IoC          -37044.00 20130514SSCI      HALL      kentest                         
+20133 SOCGENA-----SUB6---CB  11GLCBSS201311001  345test after register services in IoC          -18235.00 20130514SSCI      HAMILTON  kentest                         
+20133 SOCGENA-----SUB6---CB  11GLCBSS201311001  346test after register services in IoC          -19499.81 20130514SSCI      HAYNES    kentest                         
+20133 SOCGENA-----SUB6---CB  11GLCBSS201311001  347test after register services in IoC          -33246.90 20130514SSCI      JACKMAN   kentest                         
+20133 SOCGENA-----SUB6---CB  11GLCBSS201311001  348test after register services in IoC          -18483.00 20130514SSCI      KYLE      kentest                         
+20133 SOCGENA-----SUB6---CB  11GLCBSS201311001  349test after register services in IoC          -20225.30 20130514SSCI      LO        kentest                         
+20133 SOCGENA-----SUB6---CB  11GLCBSS201311001  350test after register services in IoC          -33305.12 20130514SSCI      MCCARTHY  kentest                         
+20133 SOCGENA-----SUB6---CB  11GLCBSS201311001  351test after register services in IoC          -19095.81 20130514SSCI      MCQUARRIE kentest                         
+20133 SOCGENA-----SUB6---CB  11GLCBSS201311001  352test after register services in IoC          -19092.80 20130514SSCI      MUDGE     kentest                         
+20133 SOCGENA-----SUB6---CB  11GLCBSS201311001  353test after register services in IoC          -19091.24 20130514SSCI      OKAMOTO   kentest                         
+20133 SOCGENA-----SUB6---CB  11GLCBSS201311001  354test after register services in IoC          -22472.50 20130514SSCI      SHAUMAN   kentest                         
+20133 SOCGENA-----SUB6---CB  11GLCBSS201311001  355test after register services in IoC          -20200.00 20130514SSCI      SHU       kentest                         
+20133 SOCGENA-----SUB6---CB  11GLCBSS201311001  356test after register services in IoC          -26866.00 20130514SSCI      SMITHV    kentest                         
+20133 SOCGENA-----SUB6---CB  11GLCBSS201311001  357test after register services in IoC          -24341.00 20130514SSCI      WOLF      kentest                         
+20133 SOCGENDPEERSSUB6---CB  11GLCBSS201311001  358test after register services in IoC             -55.52 20130514SSCI      ----------kentest                         
+20133 SOCGENDSTASTSUB6---CB  11GLCBSS201311001  359test after register services in IoC             -33.35 20130514SSCI      ----------kentest                         
+20133 SOCGENT-----SB28---CB  11GLCBSS201311001  360test after register services in IoC             202.22 20130514SSCI      ----------kentest                         
+20133 SOCGENT-----SUB6---CB  11GLCBSS201311001  361test after register services in IoC          -45298.87 20130514SSCI      ----------kentest                         
+20133 SOCGENT-----SUB6---CB  11GLCBSS201311001  362test after register services in IoC           -9579.80 20130514SSCI      KIBURI    kentest                         
+20133 SPRGEND-----SB28---CB  11GLCBSS201311001  363test after register services in IoC              34.84 20130514SSCI      STASULAT  kentest                         
+20133 SPRGEND-----SUB6---CB  11GLCBSS201311001  364test after register services in IoC          -10411.84 20130514SSCI      STASULAT  kentest                         
+20133 SRSGEND-----SB28---CB  11GLCBSS201311001  365test after register services in IoC              19.76 20130514SSCI      DELLENBACKkentest                         
+20133 SRSGEND-----SB28---CB  11GLCBSS201311001  366test after register services in IoC            2388.46 20130514SSCI      MACKAY    kentest                         
+20133 SRSGEND-----SB28---CB  11GLCBSS201311001  367test after register services in IoC             853.96 20130514SSCI      SDYER     kentest                         
+20133 SRSGEND-----SUB6---CB  11GLCBSS201311001  368test after register services in IoC           -1659.27 20130514SSCI      ----------kentest                         
+20133 SRSGEND-----SUB6---CB  11GLCBSS201311001  369test after register services in IoC          -27391.82 20130514SSCI      DELLENBACKkentest                         
+20133 SRSGEND-----SUB6---CB  11GLCBSS201311001  370test after register services in IoC          -11745.17 20130514SSCI      MACKAY    kentest                         
+20133 SRSGEND-----SUB6---CB  11GLCBSS201311001  371test after register services in IoC          -17758.18 20130514SSCI      SDYER     kentest                         
+20133 SSBGEND-----SB28---CB  11GLCBSS201311001  372test after register services in IoC             164.55 20130514SSCI      ANTONSONR kentest                         
+20133 SSBGEND-----SB28---CB  11GLCBSS201311001  373test after register services in IoC            1287.45 20130514SSCI      BRANAM    kentest                         
+20133 SSBGEND-----SB28---CB  11GLCBSS201311001  374test after register services in IoC             526.85 20130514SSCI      DEXTER    kentest                         
+20133 SSBGEND-----SB28---CB  11GLCBSS201311001  375test after register services in IoC            -100.09 20130514SSCI      FISCHERM  kentest                         
+20133 SSBGEND-----SB28---CB  11GLCBSS201311001  376test after register services in IoC           -1278.03 20130514SSCI      GARIBAY   kentest                         
+20133 SSBGEND-----SB28---CB  11GLCBSS201311001  377test after register services in IoC            -228.95 20130514SSCI      KINKADE   kentest                         
+20133 SSBGEND-----SB28---CB  11GLCBSS201311001  378test after register services in IoC             830.05 20130514SSCI      LYON      kentest                         
+20133 SSBGEND-----SB28---CB  11GLCBSS201311001  379test after register services in IoC           -1790.33 20130514SSCI      MINER     kentest                         
+20133 SSBGEND-----SB28---CB  11GLCBSS201311001  380test after register services in IoC             349.92 20130514SSCI      REIKENBARYkentest                         
+20133 SSBGEND-----SB28---CB  11GLCBSS201311001  381test after register services in IoC            2137.59 20130514SSCI      SCHAFER   kentest                         
+20133 SSBGEND-----SB28---CB  11GLCBSS201311001  382test after register services in IoC           -1749.02 20130514SSCI      SCHWIN    kentest                         
+20133 SSBGEND-----SB28---CB  11GLCBSS201311001  383test after register services in IoC             468.41 20130514SSCI      SITKA     kentest                         
+20133 SSBGEND-----SB28---CB  11GLCBSS201311001  384test after register services in IoC           -1609.39 20130514SSCI      WOODSG    kentest                         
+20133 SSBGEND-----SUB6---CB  11GLCBSS201311001  385test after register services in IoC           -1329.65 20130514SSCI      ----------kentest                         
+20133 SSBGEND-----SUB6---CB  11GLCBSS201311001  386test after register services in IoC          -11272.75 20130514SSCI      ANTONSONR kentest                         
+20133 SSBGEND-----SUB6---CB  11GLCBSS201311001  387test after register services in IoC          -20407.39 20130514SSCI      BRANAM    kentest                         
+20133 SSBGEND-----SUB6---CB  11GLCBSS201311001  388test after register services in IoC          -20738.59 20130514SSCI      DEXTER    kentest                         
+20133 SSBGEND-----SUB6---CB  11GLCBSS201311001  389test after register services in IoC          -19843.78 20130514SSCI      FISCHERM  kentest                         
+20133 SSBGEND-----SUB6---CB  11GLCBSS201311001  390test after register services in IoC          -14255.86 20130514SSCI      GARIBAY   kentest                         
+20133 SSBGEND-----SUB6---CB  11GLCBSS201311001  391test after register services in IoC           -1787.87 20130514SSCI      KINKADE   kentest                         
+20133 SSBGEND-----SUB6---CB  11GLCBSS201311001  392test after register services in IoC          -19686.65 20130514SSCI      LYON      kentest                         
+20133 SSBGEND-----SUB6---CB  11GLCBSS201311001  393test after register services in IoC          -25267.98 20130514SSCI      MINER     kentest                         
+20133 SSBGEND-----SUB6---CB  11GLCBSS201311001  394test after register services in IoC          -16861.50 20130514SSCI      REIKENBARYkentest                         
+20133 SSBGEND-----SUB6---CB  11GLCBSS201311001  395test after register services in IoC          -17670.38 20130514SSCI      SCHAFER   kentest                         
+20133 SSBGEND-----SUB6---CB  11GLCBSS201311001  396test after register services in IoC          -17025.02 20130514SSCI      SCHWIN    kentest                         
+20133 SSBGEND-----SUB6---CB  11GLCBSS201311001  397test after register services in IoC            -338.74 20130514SSCI      SITKA     kentest                         
+20133 SSBGEND-----SUB6---CB  11GLCBSS201311001  398test after register services in IoC          -14677.61 20130514SSCI      WOODSG    kentest                         
+20133 SSBGENDSSDSSSB28---CB  11GLCBSS201311001  399test after register services in IoC             159.62 20130514SSCI      DANIELS   kentest                         
+20133 SSBGENDSSDSSSB28---CB  11GLCBSS201311001  400test after register services in IoC            -124.68 20130514SSCI      STRATFORD kentest                         
+20133 SSBGENDSSDSSSUB6---CB  11GLCBSS201311001  401test after register services in IoC          -21848.37 20130514SSCI      DANIELS   kentest                         
+20133 SSBGENDSSDSSSUB6---CB  11GLCBSS201311001  402test after register services in IoC          -18148.47 20130514SSCI      STRATFORD kentest                         
+20133 SSDSOPF-----SUB6---CB  11GLCBSS201311001  403test after register services in IoC              -2.70 20130514SSCI      ----------kentest                         
+20133 SSGGEND-----SB28---CB  11GLCBSS201311001  404test after register services in IoC            -394.95 20130514SSCI      ----------kentest                         
+20133 SSGGEND-----SB28---CB  11GLCBSS201311001  405test after register services in IoC            -125.89 20130514SSCI      BESSER    kentest                         
+20133 SSGGEND-----SB28---CB  11GLCBSS201311001  406test after register services in IoC           -1920.38 20130514SSCI      CALVERTS  kentest                         
+20133 SSGGEND-----SB28---CB  11GLCBSS201311001  407test after register services in IoC            -750.96 20130514SSCI      CORDOVAP  kentest                         
+20133 SSGGEND-----SB28---CB  11GLCBSS201311001  408test after register services in IoC             324.60 20130514SSCI      DEGUZMAN  kentest                         
+20133 SSGGEND-----SB28---CB  11GLCBSS201311001  409test after register services in IoC            -731.15 20130514SSCI      DEITZ     kentest                         
+20133 SSGGEND-----SB28---CB  11GLCBSS201311001  410test after register services in IoC           -1288.65 20130514SSCI      DIXON     kentest                         
+20133 SSGGEND-----SB28---CB  11GLCBSS201311001  411test after register services in IoC            -501.16 20130514SSCI      GROTE     kentest                         
+20133 SSGGEND-----SB28---CB  11GLCBSS201311001  412test after register services in IoC            -320.96 20130514SSCI      GUERRA    kentest                         
+20133 SSGGEND-----SB28---CB  11GLCBSS201311001  413test after register services in IoC           -1027.12 20130514SSCI      GUTIERREZ kentest                         
+20133 SSGGEND-----SB28---CB  11GLCBSS201311001  414test after register services in IoC            -574.48 20130514SSCI      LEAVER    kentest                         
+20133 SSGGEND-----SB28---CB  11GLCBSS201311001  415test after register services in IoC            -173.69 20130514SSCI      MILLERMJ  kentest                         
+20133 SSGGEND-----SB28---CB  11GLCBSS201311001  416test after register services in IoC            -635.18 20130514SSCI      PARPANA   kentest                         
+20133 SSGGEND-----SB28---CB  11GLCBSS201311001  417test after register services in IoC            -115.77 20130514SSCI      SCHWIN    kentest                         
+20133 SSGGEND-----SUB6---CB  11GLCBSS201311001  418test after register services in IoC           -3760.25 20130514SSCI      ----------kentest                         
+20133 SSGGEND-----SUB6---CB  11GLCBSS201311001  419test after register services in IoC          -17292.21 20130514SSCI      BESSER    kentest                         
+20133 SSGGEND-----SUB6---CB  11GLCBSS201311001  420test after register services in IoC          -16328.19 20130514SSCI      CALVERTS  kentest                         
+20133 SSGGEND-----SUB6---CB  11GLCBSS201311001  421test after register services in IoC           -7489.46 20130514SSCI      CORDOVAP  kentest                         
+20133 SSGGEND-----SUB6---CB  11GLCBSS201311001  422test after register services in IoC          -17583.95 20130514SSCI      DEGUZMAN  kentest                         
+20133 SSGGEND-----SUB6---CB  11GLCBSS201311001  423test after register services in IoC          -20340.48 20130514SSCI      DEITZ     kentest                         
+20133 SSGGEND-----SUB6---CB  11GLCBSS201311001  424test after register services in IoC          -24005.35 20130514SSCI      DIXON     kentest                         
+20133 SSGGEND-----SUB6---CB  11GLCBSS201311001  425test after register services in IoC          -23218.08 20130514SSCI      GROTE     kentest                         
+20133 SSGGEND-----SUB6---CB  11GLCBSS201311001  426test after register services in IoC          -14470.10 20130514SSCI      GUERRA    kentest                         
+20133 SSGGEND-----SUB6---CB  11GLCBSS201311001  427test after register services in IoC           -9914.05 20130514SSCI      GUTIERREZ kentest                         
+20133 SSGGEND-----SUB6---CB  11GLCBSS201311001  428test after register services in IoC           -8969.95 20130514SSCI      LEAVER    kentest                         
+20133 SSGGEND-----SUB6---CB  11GLCBSS201311001  429test after register services in IoC          -20372.59 20130514SSCI      MILLERMJ  kentest                         
+20133 SSGGEND-----SUB6---CB  11GLCBSS201311001  430test after register services in IoC          -14666.95 20130514SSCI      PARPANA   kentest                         
+20133 SSGGEND-----SUB6---CB  11GLCBSS201311001  431test after register services in IoC            -904.05 20130514SSCI      SCHWIN    kentest                         
+20133 SSGGENDSUPPTSUB6---CB  11GLCBSS201311001  432test after register services in IoC             -11.98 20130514SSCI      ----------kentest                         
+20133 SSIBENE-----SB28---CB  11GLCBSS201311001  433test after register services in IoC           -8024.49 20130514SSCI      ----------kentest                         
+20133 SSIBENE-----SUB6---CB  11GLCBSS201311001  434test after register services in IoC         7257899.70 20130514SSCI      ----------kentest                         
+20133 SSIGEXD-----SB28---CB  11GLCBSS201311001  435test after register services in IoC            -538.26 20130514SSCI      ----------kentest                         
+20133 SSIGEXD-----SB28---CB  11GLCBSS201311001  436test after register services in IoC           27359.26 20130514SSCI      MANGUN    kentest                         
+20133 SSIGEXD-----SB28---CB  11GLCBSS201311001  437test after register services in IoC             109.03 20130514SSCI      MCLAUGHLINkentest                         
+20133 SSIGEXD-----SB28---CB  11GLCBSS201311001  438test after register services in IoC            2268.81 20130514SSCI      PARCELL   kentest                         
+20133 SSIGEXD-----SB28---CB  11GLCBSS201311001  439test after register services in IoC            -335.73 20130514SSCI      PARKS     kentest                         
+20133 SSIGEXD-----SB28---CB  11GLCBSS201311001  440test after register services in IoC           -2134.86 20130514SSCI      ROTH      kentest                         
+20133 SSIGEXD-----SB28---CB  11GLCBSS201311001  441test after register services in IoC            -669.99 20130514SSCI      TORFI     kentest                         
+20133 SSIGEXD-----SB28---CB  11GLCBSS201311001  442test after register services in IoC            -383.06 20130514SSCI      VOIGHT    kentest                         
+20133 SSIGEXD-----SUB6---CB  11GLCBSS201311001  443test after register services in IoC          -12769.39 20130514SSCI      ----------kentest                         
+20133 SSIGEXD-----SUB6---CB  11GLCBSS201311001  444test after register services in IoC          -37160.15 20130514SSCI      MANGUN    kentest                         
+20133 SSIGEXD-----SUB6---CB  11GLCBSS201311001  445test after register services in IoC          -31017.37 20130514SSCI      MCLAUGHLINkentest                         
+20133 SSIGEXD-----SUB6---CB  11GLCBSS201311001  446test after register services in IoC          -25158.74 20130514SSCI      PARCELL   kentest                         
+20133 SSIGEXD-----SUB6---CB  11GLCBSS201311001  447test after register services in IoC          -18873.27 20130514SSCI      PARKS     kentest                         
+20133 SSIGEXD-----SUB6---CB  11GLCBSS201311001  448test after register services in IoC          -41264.37 20130514SSCI      ROTH      kentest                         
+20133 SSIGEXD-----SUB6---CB  11GLCBSS201311001  449test after register services in IoC          -26188.69 20130514SSCI      TORFI     kentest                         
+20133 SSIGEXD-----SUB6---CB  11GLCBSS201311001  450test after register services in IoC           -3001.07 20130514SSCI      VOIGHT    kentest                         
+20133 SSIGEXDASSOCSUB6---CB  11GLCBSS201311001  451test after register services in IoC          -12832.50 20130514SSCI      ----------kentest                         
+20133 SSOGEND-----SB28---CB  11GLCBSS201311001  452test after register services in IoC             398.83 20130514SSCI      DARBEE    kentest                         
+20133 SSOGEND-----SB28---CB  11GLCBSS201311001  453test after register services in IoC            -909.13 20130514SSCI      HOANG     kentest                         
+20133 SSOGEND-----SB28---CB  11GLCBSS201311001  454test after register services in IoC              71.39 20130514SSCI      JTEEPLE   kentest                         
+20133 SSOGEND-----SB28---CB  11GLCBSS201311001  455test after register services in IoC            -333.07 20130514SSCI      KOGA      kentest                         
+20133 SSOGEND-----SB28---CB  11GLCBSS201311001  456test after register services in IoC            -945.88 20130514SSCI      MGHICKS   kentest                         
+20133 SSOGEND-----SB28---CB  11GLCBSS201311001  457test after register services in IoC             -57.06 20130514SSCI      PATTISON  kentest                         
+20133 SSOGEND-----SUB6---CB  11GLCBSS201311001  458test after register services in IoC          -15311.50 20130514SSCI      DARBEE    kentest                         
+20133 SSOGEND-----SUB6---CB  11GLCBSS201311001  459test after register services in IoC          -19785.92 20130514SSCI      HOANG     kentest                         
+20133 SSOGEND-----SUB6---CB  11GLCBSS201311001  460test after register services in IoC          -18288.05 20130514SSCI      JTEEPLE   kentest                         
+20133 SSOGEND-----SUB6---CB  11GLCBSS201311001  461test after register services in IoC          -29383.60 20130514SSCI      KOGA      kentest                         
+20133 SSOGEND-----SUB6---CB  11GLCBSS201311001  462test after register services in IoC          -15897.47 20130514SSCI      MGHICKS   kentest                         
+20133 SSOGEND-----SUB6---CB  11GLCBSS201311001  463test after register services in IoC          -14468.36 20130514SSCI      PATTISON  kentest                         
+20133 SSRGEND-----SB28---CB  11GLCBSS201311001  464test after register services in IoC             830.13 20130514SSCI      BYRNS     kentest                         
+20133 SSRGEND-----SB28---CB  11GLCBSS201311001  465test after register services in IoC           -1148.79 20130514SSCI      CHANGA    kentest                         
+20133 SSRGEND-----SB28---CB  11GLCBSS201311001  466test after register services in IoC            -320.85 20130514SSCI      FALLAS    kentest                         
+20133 SSRGEND-----SB28---CB  11GLCBSS201311001  467test after register services in IoC            -366.21 20130514SSCI      GASTEIGER kentest                         
+20133 SSRGEND-----SB28---CB  11GLCBSS201311001  468test after register services in IoC             646.75 20130514SSCI      HUFF      kentest                         
+20133 SSRGEND-----SB28---CB  11GLCBSS201311001  469test after register services in IoC             638.98 20130514SSCI      LUTMAN    kentest                         
+20133 SSRGEND-----SB28---CB  11GLCBSS201311001  470test after register services in IoC            -404.37 20130514SSCI      MANNGU    kentest                         
+20133 SSRGEND-----SB28---CB  11GLCBSS201311001  471test after register services in IoC            1214.92 20130514SSCI      SIRACUSA  kentest                         
+20133 SSRGEND-----SB28---CB  11GLCBSS201311001  472test after register services in IoC            -867.00 20130514SSCI      WILLIAMSH kentest                         
+20133 SSRGEND-----SUB6---CB  11GLCBSS201311001  473test after register services in IoC          -33777.62 20130514SSCI      BYRNS     kentest                         
+20133 SSRGEND-----SUB6---CB  11GLCBSS201311001  474test after register services in IoC          -20155.87 20130514SSCI      CHANGA    kentest                         
+20133 SSRGEND-----SUB6---CB  11GLCBSS201311001  475test after register services in IoC          -17437.88 20130514SSCI      FALLAS    kentest                         
+20133 SSRGEND-----SUB6---CB  11GLCBSS201311001  476test after register services in IoC          -17412.71 20130514SSCI      GASTEIGER kentest                         
+20133 SSRGEND-----SUB6---CB  11GLCBSS201311001  477test after register services in IoC          -11566.48 20130514SSCI      HUFF      kentest                         
+20133 SSRGEND-----SUB6---CB  11GLCBSS201311001  478test after register services in IoC          -17735.23 20130514SSCI      LUTMAN    kentest                         
+20133 SSRGEND-----SUB6---CB  11GLCBSS201311001  479test after register services in IoC           -9083.81 20130514SSCI      MANNGU    kentest                         
+20133 SSRGEND-----SUB6---CB  11GLCBSS201311001  480test after register services in IoC          -12809.45 20130514SSCI      SIRACUSA  kentest                         
+20133 SSRGEND-----SUB6---CB  11GLCBSS201311001  481test after register services in IoC          -19198.09 20130514SSCI      WILLIAMSH kentest                         
+20133 SSYGEND-----SB28---CB  11GLCBSS201311001  482test after register services in IoC            1381.83 20130514SSCI      BLALOCK   kentest                         
+20133 SSYGEND-----SB28---CB  11GLCBSS201311001  483test after register services in IoC             265.32 20130514SSCI      BROWN, E  kentest                         
+20133 SSYGEND-----SB28---CB  11GLCBSS201311001  484test after register services in IoC           -1636.12 20130514SSCI      CASELLI   kentest                         
+20133 SSYGEND-----SB28---CB  11GLCBSS201311001  485test after register services in IoC            -889.49 20130514SSCI      CHARRIS   kentest                         
+20133 SSYGEND-----SB28---CB  11GLCBSS201311001  486test after register services in IoC            -461.10 20130514SSCI      CHERMES   kentest                         
+20133 SSYGEND-----SB28---CB  11GLCBSS201311001  487test after register services in IoC            -746.97 20130514SSCI      CLAYTON   kentest                         
+20133 SSYGEND-----SB28---CB  11GLCBSS201311001  488test after register services in IoC             283.65 20130514SSCI      DSAN      kentest                         
+20133 SSYGEND-----SB28---CB  11GLCBSS201311001  489test after register services in IoC           -1352.33 20130514SSCI      MCCARTHYC kentest                         
+20133 SSYGEND-----SB28---CB  11GLCBSS201311001  490test after register services in IoC             189.87 20130514SSCI      MSANCHEZ  kentest                         
+20133 SSYGEND-----SB28---CB  11GLCBSS201311001  491test after register services in IoC            -476.61 20130514SSCI      SCHULER   kentest                         
+20133 SSYGEND-----SUB6---CB  11GLCBSS201311001  492test after register services in IoC           -1310.85 20130514SSCI      ----------kentest                         
+20133 SSYGEND-----SUB6---CB  11GLCBSS201311001  493test after register services in IoC          -16202.40 20130514SSCI      BLALOCK   kentest                         
+20133 SSYGEND-----SUB6---CB  11GLCBSS201311001  494test after register services in IoC          -20971.83 20130514SSCI      BROWN, E  kentest                         
+20133 SSYGEND-----SUB6---CB  11GLCBSS201311001  495test after register services in IoC          -24297.88 20130514SSCI      CASELLI   kentest                         
+20133 SSYGEND-----SUB6---CB  11GLCBSS201311001  496test after register services in IoC          -19237.63 20130514SSCI      CHARRIS   kentest                         
+20133 SSYGEND-----SUB6---CB  11GLCBSS201311001  497test after register services in IoC          -20723.84 20130514SSCI      CHERMES   kentest                         
+20133 SSYGEND-----SUB6---CB  11GLCBSS201311001  498test after register services in IoC          -14930.07 20130514SSCI      CLAYTON   kentest                         
+20133 SSYGEND-----SUB6---CB  11GLCBSS201311001  499test after register services in IoC          -17059.77 20130514SSCI      DSAN      kentest                         
+20133 SSYGEND-----SUB6---CB  11GLCBSS201311001  500test after register services in IoC          -11243.97 20130514SSCI      MCCARTHYC kentest                         
+20133 SSYGEND-----SUB6---CB  11GLCBSS201311001  501test after register services in IoC          -13828.14 20130514SSCI      MSANCHEZ  kentest                         
+20133 SSYGEND-----SUB6---CB  11GLCBSS201311001  502test after register services in IoC          -23858.63 20130514SSCI      SCHULER   kentest                         
+20133 STSGENA-----SUB6---CB  11GLCBSS201311001  503test after register services in IoC          -22725.00 20130514SSCI      BIAGIOLI  kentest                         
+20133 STSGENA-----SUB6---CB  11GLCBSS201311001  504test after register services in IoC           -9524.10 20130514SSCI      CHOY      kentest                         
+20133 STSGENA-----SUB6---CB  11GLCBSS201311001  505test after register services in IoC          -13635.49 20130514SSCI      DUMIT     kentest                         
+20133 STSGENT-----SUB6---CB  11GLCBSS201311001  506test after register services in IoC           -5045.50 20130514SSCI      ----------kentest                         
+20133 STSGENX-----SUB6---CB  11GLCBSS201311001  507test after register services in IoC            1525.55 20130514SSCI      ----------kentest                         
+20133 UEAGEND-----SB28---CB  11GLCBSS201311001  508test after register services in IoC            -392.30 20130514SSCI      ----------kentest                         
+20133 UEAGEND-----SB28---CB  11GLCBSS201311001  509test after register services in IoC             265.95 20130514SSCI      BENTZ     kentest                         
+20133 UEAGEND-----SB28---CB  11GLCBSS201311001  510test after register services in IoC            -253.89 20130514SSCI      BOND      kentest                         
+20133 UEAGEND-----SB28---CB  11GLCBSS201311001  511test after register services in IoC              30.44 20130514SSCI      BOYER     kentest                         
+20133 UEAGEND-----SB28---CB  11GLCBSS201311001  512test after register services in IoC            -589.02 20130514SSCI      BREIVIK   kentest                         
+20133 UEAGEND-----SB28---CB  11GLCBSS201311001  513test after register services in IoC           -1401.43 20130514SSCI      DOCKTER   kentest                         
+20133 UEAGEND-----SB28---CB  11GLCBSS201311001  514test after register services in IoC            -497.86 20130514SSCI      DUDLEY    kentest                         
+20133 UEAGEND-----SB28---CB  11GLCBSS201311001  515test after register services in IoC           -3834.98 20130514SSCI      FLOYD     kentest                         
+20133 UEAGEND-----SB28---CB  11GLCBSS201311001  516test after register services in IoC            -584.19 20130514SSCI      GUTIERREZ kentest                         
+20133 UEAGEND-----SB28---CB  11GLCBSS201311001  517test after register services in IoC            1042.97 20130514SSCI      HAWS      kentest                         
+20133 UEAGEND-----SB28---CB  11GLCBSS201311001  518test after register services in IoC            -106.11 20130514SSCI      KEEFER    kentest                         
+20133 UEAGEND-----SB28---CB  11GLCBSS201311001  519test after register services in IoC            -997.56 20130514SSCI      LOPEZ     kentest                         
+20133 UEAGEND-----SB28---CB  11GLCBSS201311001  520test after register services in IoC             579.30 20130514SSCI      REYES     kentest                         
+20133 UEAGEND-----SB28---CB  11GLCBSS201311001  521test after register services in IoC           -2598.60 20130514SSCI      RICHMONDM kentest                         
+20133 UEAGEND-----SB28---CB  11GLCBSS201311001  522test after register services in IoC            1268.12 20130514SSCI      VALENZUELAkentest                         
+20133 UEAGEND-----SB28---CB  11GLCBSS201311001  523test after register services in IoC            1020.92 20130514SSCI      YEE       kentest                         
+20133 UEAGEND-----SUB6---CB  11GLCBSS201311001  524test after register services in IoC          -13005.03 20130514SSCI      ----------kentest                         
+20133 UEAGEND-----SUB6---CB  11GLCBSS201311001  525test after register services in IoC          -13043.85 20130514SSCI      BENTZ     kentest                         
+20133 UEAGEND-----SUB6---CB  11GLCBSS201311001  526test after register services in IoC          -22989.01 20130514SSCI      BOND      kentest                         
+20133 UEAGEND-----SUB6---CB  11GLCBSS201311001  527test after register services in IoC          -22571.21 20130514SSCI      BOYER     kentest                         
+20133 UEAGEND-----SUB6---CB  11GLCBSS201311001  528test after register services in IoC          -24107.64 20130514SSCI      BREIVIK   kentest                         
+20133 UEAGEND-----SUB6---CB  11GLCBSS201311001  529test after register services in IoC          -13793.91 20130514SSCI      DOCKTER   kentest                         
+20133 UEAGEND-----SUB6---CB  11GLCBSS201311001  530test after register services in IoC           -3887.63 20130514SSCI      DUDLEY    kentest                         
+20133 UEAGEND-----SUB6---CB  11GLCBSS201311001  531test after register services in IoC          -29345.76 20130514SSCI      FLOYD     kentest                         
+20133 UEAGEND-----SUB6---CB  11GLCBSS201311001  532test after register services in IoC           -6038.02 20130514SSCI      GUTIERREZ kentest                         
+20133 UEAGEND-----SUB6---CB  11GLCBSS201311001  533test after register services in IoC          -15715.02 20130514SSCI      HAWS      kentest                         
+20133 UEAGEND-----SUB6---CB  11GLCBSS201311001  534test after register services in IoC           -9074.80 20130514SSCI      JMCCLAIN  kentest                         
+20133 UEAGEND-----SUB6---CB  11GLCBSS201311001  535test after register services in IoC            -787.92 20130514SSCI      KEEFER    kentest                         
+20133 UEAGEND-----SUB6---CB  11GLCBSS201311001  536test after register services in IoC          -18590.19 20130514SSCI      LOPEZ     kentest                         
+20133 UEAGEND-----SUB6---CB  11GLCBSS201311001  537test after register services in IoC          -18151.49 20130514SSCI      REYES     kentest                         
+20133 UEAGEND-----SUB6---CB  11GLCBSS201311001  538test after register services in IoC          -16670.20 20130514SSCI      RICHMONDM kentest                         
+20133 UEAGEND-----SUB6---CB  11GLCBSS201311001  539test after register services in IoC          -21800.58 20130514SSCI      VALENZUELAkentest                         
+20133 UEAGEND-----SUB6---CB  11GLCBSS201311001  540test after register services in IoC          -15115.69 20130514SSCI      YEE       kentest                         
+20133 ZXMCOW1-----SUB6---CB  11GLCBSS201311001  541test after register services in IoC             -52.12 20130514SSCI      ----------kentest                         
+20133 ZXMSWAP-----SUB6---CB  11GLCBSS201311001  542test after register services in IoC             -93.34 20130514SSCI      ----------kentest                         
