@@ -21,7 +21,7 @@
                 var postData = $.postify({ Id: JSON.parse(id), IsActive: checked, __RequestVerificationToken: reqVerificationToken });
 
                 $.ajax({
-                    url: '@Url.Action("Edit", "ReimbursableBenefitsAccount")',
+                    url: '@Url.Action("EditJson", "ReimbursableBenefitsAccount")',
                     type: 'POST',
                     data: postData,
                     dataType: 'json',
@@ -29,7 +29,13 @@
                     success: function(result, status, jqxhr) {
                         // some code after success
                         var message = result.Text;
-                        $("#resultMessage").html(message);
+
+                        var divAlert = $('div.alert-info', body);
+                        if (divAlert.length > 0) {
+                            divAlert.html(message);
+                        } else {
+                            $('#alert-message').tmpl({ "message":message }).prependTo('section.content-wrapper, main-content, clear-fix', body);
+                        }
                     },
                     error: function(result) {
                         //alert the error
@@ -63,13 +69,19 @@
                                             elem.slideUp();
                                         }
                                         var message = result.Text;
-                                        // TODO: if div class alert alert-info replace with whatever message is there; otherwise put it here:
-                                        $("#resultMessage").html(message);
+                                        var divAlert = $('div.alert-info', body);
+                                        if (divAlert.length > 0) {
+                                            divAlert.html(message);
+                                        } else {
+                                            $('#alert-message').tmpl({ "message": message }).prependTo('section.content-wrapper, main-content, clear-fix', body);
+                                            //$("#resultMessage").html(message);
+                                        }
                                     },
-                                    error: function(result) {
-                                        //alert the error
-                                        alert(result.ex);
-                                    }
+                                    error:
+                                        function(result) {
+                                            //alert the error
+                                            alert(result.ex);
+                                        }
                                 });
                             }
                         },
@@ -83,10 +95,12 @@
             });
         });
     </script>
-    }
+    <script id="alert-message" type="text/x-jquery-tmpl">
+        <div class="alert alert-info">${message}</div>
+    </script>
+}
 
     <h2>@ViewBag.Title</h2>
-    <div id="resultMessage"></div>
     <hr/>
     @if (Model.Count > 0)
     {
