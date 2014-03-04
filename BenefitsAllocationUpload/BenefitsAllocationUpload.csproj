@@ -233,6 +233,7 @@
     <Compile Include="ComponentRegistrar.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\ApplicationController.cs" />
+    <Compile Include="Controllers\CentralAccountsController.cs" />
     <Compile Include="Controllers\ExpiredAccountsController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ReimbursableBenefitsAccountController.cs" />
@@ -542,6 +543,7 @@
     <Content Include="Views\ReimbursableBenefitsAccount\Index.cshtml" />
     <Content Include="Views\ReimbursableBenefitsAccount\Create.cshtml" />
     <Content Include="Views\ReimbursableBenefitsAccount\Details.cshtml" />
+    <Content Include="Views\CentralAccounts\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

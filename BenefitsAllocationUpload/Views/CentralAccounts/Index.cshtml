@@ -1,0 +1,38 @@
+﻿@model IEnumerable<BenefitsAllocation.Core.Domain.CentralAccount>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<table>
+    <tr>
+        <th>Org Id</th>
+        <th>School Code</th>
+        <th>Chart</th>
+        <th>Account</th>
+        <th>Sub Account</th>
+        <th>Object Consolidation</th>
+        <th>Funding Object Consolidation</th>
+        <th>Sub Object</th>
+        <th>Function Code</th>
+        <th>Op Fund</th>
+    </tr>
+
+@foreach (var item in Model)
+{
+    <tr>
+        <td>@item.OrgId</td> 
+        <td>@item.SchoolCode</td>
+        <td>@item.Chart</td>
+        <td>@item.Account</td>
+        <td>@item.SubAccount</td>
+        <td>@item.ObjectConsolidation</td>
+        <td>@item.FundingObjectConsolidation</td>
+        <td>@item.SubObject</td>
+        <td>@item.FunctionCode</td>
+        <td>@item.OpFund</td>
+    </tr>
+}
+</table>
