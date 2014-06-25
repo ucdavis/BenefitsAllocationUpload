@@ -11,8 +11,11 @@
     [FunctionCode]               VARCHAR (5) NOT NULL,
     [TransDocOriginCode]         VARCHAR (2) NULL,
     [OpFund]                     VARCHAR (5) NULL,
+    [IsActive]                   BIT         CONSTRAINT [DF_CentralAccounts_IsActive] DEFAULT ((1)) NOT NULL,
     CONSTRAINT [PK_CentralAccounts] PRIMARY KEY CLUSTERED ([PK_CentralAccounts] ASC)
 );
+
+
 
 
 
