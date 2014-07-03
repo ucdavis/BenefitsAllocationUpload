@@ -25,7 +25,7 @@ namespace BenefitsAllocationUpload.Controllers
         // GET: /ReimbursableBenefitsAccount/
 
         /// <summary>
-        /// Return a list of reimburseable benefits accounts for the logged in user's Org. 
+        /// Return a list of reimbursable benefits accounts for the logged in user's Org. 
         /// </summary>
         /// <returns></returns>
         public ActionResult Index()

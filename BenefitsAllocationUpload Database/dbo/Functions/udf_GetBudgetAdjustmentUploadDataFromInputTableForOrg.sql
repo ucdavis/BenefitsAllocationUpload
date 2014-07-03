@@ -12,6 +12,7 @@
 --	2013-06-02 by kjt	Revised logic to use central object consolidation for provision accounts if present; otherwise object consolidation code.
 --	2013-07-02 by kjt:	Revised logic to use funding object consolidation for provision accounts if present; otherwise object consolidation code.
 --		That way we can fund SB28 and SUB6 expenses from different objects as requested by DANR.
+--	2014-06-25 by kjt:	Revised to pad LineSequenceNum with leading zeros instead of spaces.
 -- =============================================
 CREATE FUNCTION [dbo].[udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg]
 (
@@ -185,7 +186,7 @@ SELECT
 	@TransDocOriginCode AS TransDocOrigin,
 	@TransDocNumber AS TransDocNumber,
 	(
-		REPLICATE (' ', 5 - LEN(CONVERT(varchar(5), rank() OVER (ORDER BY Chart, AccountNum, SubAccount, ConsolidationCode,  SubObject, ProjectCode)))) + CONVERT(varchar(5), rank() OVER (ORDER BY Chart, AccountNum, SubAccount, ConsolidationCode,  SubObject, ProjectCode))
+		REPLICATE ('0', 5 - LEN(CONVERT(varchar(5), rank() OVER (ORDER BY Chart, AccountNum, SubAccount, ConsolidationCode,  SubObject, ProjectCode)))) + CONVERT(varchar(5), rank() OVER (ORDER BY Chart, AccountNum, SubAccount, ConsolidationCode,  SubObject, ProjectCode))
 	) AS LineSequenceNum, -- generate a unique sequence number for each row and left pad, i.e. right justify. 
 	CONVERT(char(40), @TransDescription) AS TransDescription,
     (
