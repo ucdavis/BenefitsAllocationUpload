@@ -63,7 +63,7 @@ namespace BenefitsAllocation.Core.Domain
             }
         }
 
-        [Display(Name = "Is Active")]
+        [Display(Name = "Is Reimbursable?")]
         [Required]
         public virtual bool IsActive { get; set; }
 
