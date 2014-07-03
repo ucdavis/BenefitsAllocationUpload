@@ -1,14 +1,13 @@
-﻿using System;
+﻿using BenefitsAllocationUpload.Helpers;
+using BenefitsAllocationUpload.Models;
+using DotNetOpenAuth.AspNet;
+using Microsoft.Web.WebPages.OAuth;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Transactions;
 using System.Web.Mvc;
 using System.Web.Security;
-using BenefitsAllocationUpload.Filters;
-using BenefitsAllocationUpload.Models;
-using DotNetOpenAuth.AspNet;
-using Microsoft.Web.WebPages.OAuth;
-using UCDArch.Web.Authentication;
 using WebMatrix.WebData;
 
 namespace BenefitsAllocationUpload.Controllers
@@ -24,18 +23,7 @@ namespace BenefitsAllocationUpload.Controllers
 
         public ActionResult LogOn(string returnUrl)
         {
-            string resultUrl = CASHelper.Login(); //Do the CAS Login
-
-            if (resultUrl != null)
-            {
-                if (resultUrl.Equals("/default.aspx"))
-                    resultUrl = "/";
-                return Redirect(resultUrl);
-            }
-
-            TempData["URL"] = returnUrl;
-
-            return View();
+            return CasMvc.LoginAndRedirect();
         }
 
         public ActionResult LogOut()
