@@ -55,8 +55,11 @@ GO
 --	2013-06-18 by kjt: Added logic to not include exclude object portion of where clause as DANR is going to fund all objects
 --		as per Regina Ranoa 2013-06-17.
 --	2013-06-20 by kjt: Revised logic handle formerly expired accounts that are now active.
---	2013-06-21 by kjt: Revised local FISDataMart logic to use @ExcludeObjectsString instead of hardcoding. 
+--	2013-06-21 by kjt: Revised local FISDataMart logic to use @ExcludeObjectsString instead of hard-coding. 
 --		Note: Using logic very similar to expired accounts query in udf_GetExpiredAccountsForOrg.
+--	2014-08-20 by kjt: Revised logic to perform the filtering after returning the results from DaFIS since
+--		we're limited to an 8,000 character restriction, and HACS had nearly 12,000 just for their included
+--		accounts list, which understandably failed.
 -- =============================================
 CREATE PROCEDURE [dbo].[usp_GetExpiredAccountsForOrg] 
 	@FiscalYear varchar(4) = '2013',
@@ -80,7 +83,7 @@ BEGIN
 	DECLARE @IncludeAccountsString varchar(MAX) = dbo.udf_GetIncludeAccountsString(@OrgId, @NumSingleQuotes)
 	DECLARE @IncludeOpFundsString varchar(MAX) = dbo.udf_GetIncludeOpFundsString(@OrgId, @NumSingleQuotes)
 
-IF @IsDebug = 1 PRINT 'USE [FISDataMart]
+IF @IsDebug = 1 PRINT 'USE [BenefitsAllocationUpload]
 GO
 
 DECLARE @ExpiredAccounts TABLE (ORG_ID varchar(4), CHART_NUM varchar(2), ACCT_NUM varchar(7), ACCT_EXPIRATION_DATE datetime,  TRANS_LINE_AMT decimal(15,2), ACCT_MGR_ID varchar(8), ACCT_MGR_NAME varchar(30))
@@ -254,11 +257,12 @@ ELSE -- @UseDaFIS = 1 AND/OR @CollegeLevelOrg NOT LIKE 'AAES'
 				) AND
 				OA.ACCT_NUM NOT IN (' + @ExcludeAccountsString + ') AND'
 
-		IF LEN(@IncludeAccountsString) > 0  
-			BEGIN
-				SELECT @TSQL += '
-				OA.ACCT_NUM IN (' + @IncludeAccountsString +') AND'
-			END
+		-- 2014-08-20 by kjt: see note under modifications.
+		--IF LEN(@IncludeAccountsString) > 0  
+		--	BEGIN
+		--		SELECT @TSQL += '
+		--		OA.ACCT_NUM IN (' + @IncludeAccountsString +') AND'
+		--	END
 
 		SELECT @TSQL += '
 				(' + @IncludeOpFundsString + ') AND
@@ -361,11 +365,12 @@ ELSE -- @UseDaFIS = 1 AND/OR @CollegeLevelOrg NOT LIKE 'AAES'
 				) AND
 				OA.ACCT_NUM NOT IN (' + @ExcludeAccountsString + ') AND'
 
-		IF LEN(@IncludeAccountsString) > 0  
-			BEGIN
-				SELECT @TSQL += '
-				OA.ACCT_NUM IN (' + @IncludeAccountsString +') AND'
-			END
+		-- 2014-08-20 by kjt: see note under modifications.
+		--IF LEN(@IncludeAccountsString) > 0  
+		--	BEGIN
+		--		SELECT @TSQL += '
+		--		OA.ACCT_NUM IN (' + @IncludeAccountsString +') AND'
+		--	END
 
 		SELECT @TSQL += '
 				(' + @IncludeOpFundsString + ') AND
@@ -554,11 +559,37 @@ ELSE -- @UseDaFIS = 1 AND/OR @CollegeLevelOrg NOT LIKE 'AAES'
 --		END
 	END
 
+
+-- 2014-08-20 by kjt:  See notes in modifications section.
+	IF LEN(@IncludeAccountsString) > 0  
+		BEGIN
+			IF @IsDebug = 1
+				BEGIN
+					SELECT @MySQL = '
+		DELETE EA FROM @ExpiredAccounts EA
+		WHERE NOT EXISTS (
+			SELECT 1 
+			FROM BenefitsAllocationUpload.dbo.ReimbursableBenefitsAccounts
+			WHERE OrgId = ''' + @OrgId + ''' AND CHART_NUM = Chart AND ACCT_NUM = Account AND IsActive = 1
+		)'
+					PRINT @MySQL
+				END
+			ELSE
+				BEGIN
+					DELETE EA
+					FROM @ExpiredAccounts EA
+					WHERE NOT EXISTS (
+						SELECT 1 FROM BenefitsAllocationUpload.dbo.ReimbursableBenefitsAccounts 
+						WHERE OrgId = @OrgId AND ACCT_NUM = Account AND CHART_NUM = Chart AND IsActive = 1
+					)
+				END
+		END
+
 	IF @IsDebug = 1
 		BEGIN
 			SELECT @MySQL = '
 		SELECT ORG_ID, CHART_NUM, ACCT_NUM, ACCT_EXPIRATION_DATE, (SUM(TRANS_LINE_AMT) * -1) TRANS_LINE_AMT, ACCT_MGR_ID, ACCT_MGR_NAME 
-		FROM @ExpiredAccounts
+		FROM @ExpiredAccounts 
 		GROUP BY ORG_ID, CHART_NUM, ACCT_NUM, ACCT_MGR_ID, ACCT_MGR_NAME, ACCT_EXPIRATION_DATE
 		HAVING SUM(TRANS_LINE_AMT) <> 0
 		ORDER BY ORG_ID, CHART_NUM, ACCT_NUM, ACCT_MGR_ID, ACCT_MGR_NAME, ACCT_EXPIRATION_DATE
@@ -566,9 +597,11 @@ ELSE -- @UseDaFIS = 1 AND/OR @CollegeLevelOrg NOT LIKE 'AAES'
 			PRINT @MySQL
 		END
 	ELSE
-		SELECT ORG_ID, CHART_NUM, ACCT_NUM, ACCT_EXPIRATION_DATE, (SUM(TRANS_LINE_AMT) * -1) TRANS_LINE_AMT, ACCT_MGR_ID, ACCT_MGR_NAME 
-		FROM @ExpiredAccounts
-		GROUP BY ORG_ID, CHART_NUM, ACCT_NUM, ACCT_MGR_ID, ACCT_MGR_NAME, ACCT_EXPIRATION_DATE
-		HAVING SUM(TRANS_LINE_AMT) <> 0
-		ORDER BY ORG_ID, CHART_NUM, ACCT_NUM, ACCT_MGR_ID, ACCT_MGR_NAME, ACCT_EXPIRATION_DATE
+		BEGIN
+			SELECT ORG_ID, CHART_NUM, ACCT_NUM, ACCT_EXPIRATION_DATE, (SUM(TRANS_LINE_AMT) * -1) TRANS_LINE_AMT, ACCT_MGR_ID, ACCT_MGR_NAME 
+			FROM @ExpiredAccounts
+			GROUP BY ORG_ID, CHART_NUM, ACCT_NUM, ACCT_MGR_ID, ACCT_MGR_NAME, ACCT_EXPIRATION_DATE
+			HAVING SUM(TRANS_LINE_AMT) <> 0
+			ORDER BY ORG_ID, CHART_NUM, ACCT_NUM, ACCT_MGR_ID, ACCT_MGR_NAME, ACCT_EXPIRATION_DATE
+		END
 END

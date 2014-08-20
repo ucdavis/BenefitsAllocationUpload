@@ -94,6 +94,9 @@ GO
 --	2013-06-20 by kjt: Revised logic to pull latest period's account expiration date for expired date portion of where clause.  
 --	2013-06-21 by kjt: Revised local FISDataMart logic to use @ExcludeObjectsString instead of hardcoding. 
 --		Note: Using logic very similar to expired accounts query in udf_GetExpiredAccountsForOrg.
+--	2014-08-20 by kjt: Revised logic to perform the filtering after returning the results from DaFIS since
+--		we're limited to an 8,000 character restriction, and HACS had nearly 12,000 just for their included
+--		accounts list, which understandably failed.
 CREATE PROCEDURE [dbo].[usp_GetBudgetAdjustmentUploadDataForOrg] 
 	@FiscalYear varchar(4) = '2013',
 	@FiscalPeriod varchar(2) = '06', --Period in which adjustments are to be applied
@@ -336,11 +339,12 @@ ELSE -- @UseDaFIS = 1 AND/OR @CollegeLevelOrg NOT LIKE 'AAES'
 				) AND
 				OA.ACCT_NUM NOT IN (' + @ExcludeAccountsString + ') AND'
 
-		IF LEN(@IncludeAccountsString) > 0  
-			BEGIN
-				SELECT @TSQL += '
-				OA.ACCT_NUM IN (' + @IncludeAccountsString +') AND'
-			END
+		-- 2014-08-20 by kjt: see note under modifications.
+		--IF LEN(@IncludeAccountsString) > 0  
+		--	BEGIN
+		--		SELECT @TSQL += '
+		--		OA.ACCT_NUM IN (' + @IncludeAccountsString +') AND'
+		--	END
 
 		SELECT @TSQL += '
 				(' + @IncludeOpFundsString + ') AND
@@ -440,11 +444,12 @@ ELSE -- @UseDaFIS = 1 AND/OR @CollegeLevelOrg NOT LIKE 'AAES'
 				) AND
 				OA.ACCT_NUM NOT IN (' + @ExcludeAccountsString + ') AND'
 
-		IF LEN(@IncludeAccountsString) > 0  
-			BEGIN
-				SELECT @TSQL += '
-				OA.ACCT_NUM IN (' + @IncludeAccountsString +') AND'
-			END
+		-- 2014-08-20 by kjt: see note under modifications.
+		--IF LEN(@IncludeAccountsString) > 0  
+		--	BEGIN
+		--		SELECT @TSQL += '
+		--		OA.ACCT_NUM IN (' + @IncludeAccountsString +') AND'
+		--	END
 
 		SELECT @TSQL += '
 				(' + @IncludeOpFundsString + ') AND
@@ -629,6 +634,31 @@ ELSE -- @UseDaFIS = 1 AND/OR @CollegeLevelOrg NOT LIKE 'AAES'
 --		END
 --	END
 END
+
+-- 2014-08-20 by kjt:  See notes in modifications section.
+	IF LEN(@IncludeAccountsString) > 0  
+		BEGIN
+			IF @IsDebug = 1
+				BEGIN
+					SELECT @MySQL = '
+		DELETE TFS FROM @TransactionsForSummation TFS
+		WHERE NOT EXISTS (
+			SELECT 1 
+			FROM dbo.ReimbursableBenefitsAccounts
+			WHERE OrgId = ''' + @OrgId + ''' AND CHART_NUM = Chart AND ACCT_NUM = Account AND IsActive = 1
+		)'
+					PRINT @MySQL
+				END
+			ELSE
+				BEGIN
+					DELETE TFS
+					FROM @TransactionsForSummation TFS
+					WHERE NOT EXISTS (
+						SELECT 1 FROM dbo.ReimbursableBenefitsAccounts 
+						WHERE OrgId = @OrgId AND ACCT_NUM = Account AND CHART_NUM = Chart AND IsActive = 1
+					)
+				END
+		END
 
 IF @IsDebug = 1
 	BEGIN
