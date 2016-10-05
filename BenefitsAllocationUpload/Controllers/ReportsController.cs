@@ -42,7 +42,7 @@ namespace BenefitsAllocationUpload.Controllers
             var user = Models.User.FindByLoginId(System.Web.HttpContext.Current.User.Identity.Name);
             var unit = user.Units.FirstOrDefault();
             var schoolCode = unit.DeansOfficeSchoolCode;
-            var files = objData.GetFiles(schoolCode);
+            var files = objData.GetFiles(schoolCode).OrderByDescending(f => f.TimeStamp);
             ViewBag.Message = "Benefits Allocation Upload";
             return View(files);
         }
