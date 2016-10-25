@@ -6,6 +6,8 @@ using System.Data.SqlClient;
 using System.IO;
 using System.Linq;
 using System.Web.Mvc;
+using NPOI.SS.UserModel;
+using NPOI.XSSF.UserModel;
 using UCDArch.Core.PersistanceSupport;
 using UCDArch.Web.ActionResults;
 using UnitFile = BenefitsAllocation.Core.Domain.UnitFile;
@@ -92,19 +94,106 @@ namespace BenefitsAllocationUpload.Controllers
             return File(filePathAndFilename, contentType, filename);
         }
 
-        public FileResult DownloadAsExcel(string id)
+        public ActionResult DownloadAsExcel(string id)
         {
             int fid = Convert.ToInt32(id);
             var files = _objData.GetFiles();
-            string filename = (from f in files
-                               where f.FileId == fid
-                               select f.FileName).First();
+            var file = (files.Where(f => f.FileId == fid)).First() ;
 
-            string filePathAndFilename = (from f in files
-                                          where f.FileId == fid
-                                          select f.FilePath).First();
+            var created = file.TimeStamp;
+            var filenameWithExtension = file.FileName;
+            var filePathAndFilename = file.FilePath;
+            var filename = filenameWithExtension.Substring(0, filenameWithExtension.LastIndexOf('.'));
 
-            var excelReader = ExcelReaderFactory.CreateOpenXmlReader(myFile.InputStream);
+            var streamReader = new StreamReader(filePathAndFilename);
+
+            var engine = new FileHelperEngine<FeederSystemFixedLengthRecord>();
+
+            var result = engine.ReadStream(streamReader);
+
+            var transactions = result.ToList();
+
+            try
+            {
+                // Opening the Excel template...
+                var templateFileStream = new FileStream(Server.MapPath(@"\Files\RevisedScrubberWithoutData.xlsx"),
+                    FileMode.Open, FileAccess.Read);
+
+                // Getting the complete workbook...
+                var templateWorkbook = new XSSFWorkbook(templateFileStream);
+
+                // Getting the worksheet by its name...
+                var sheet = templateWorkbook.GetSheet("Sheet1");
+
+                // We need this so the date will be formatted correctly; otherwise, the date format gets all messed up.
+                var dateCellStyle = templateWorkbook.CreateCellStyle();
+                var format = templateWorkbook.CreateDataFormat();
+                dateCellStyle.DataFormat = format.GetFormat("[$-809]m/d/yyyy;@");
+
+                // Here's another to ensure we get a number with 2 decimal places:
+                var twoDecimalPlacesCellStyle = templateWorkbook.CreateCellStyle();
+                format = templateWorkbook.CreateDataFormat();
+                twoDecimalPlacesCellStyle.DataFormat = format.GetFormat("#0.##");
+                var i = 0;
+                foreach (var transaction in transactions)
+                {
+                    i++;
+                    // Getting the row... 0 is the first row.
+                    var dataRow = sheet.GetRow(i);
+                    dataRow.CreateCell(0).SetCellValue(transaction.FiscalYear);
+                    dataRow.CreateCell(1).SetCellValue(transaction.ChartNum);
+                    dataRow.CreateCell(2).SetCellValue(transaction.Account);
+                    dataRow.CreateCell(3).SetCellValue(transaction.SubAccount);
+                    dataRow.CreateCell(4).SetCellValue(transaction.ObjectCode);
+                    dataRow.CreateCell(5).SetCellValue(transaction.SubObjectCode);
+                    dataRow.CreateCell(6).SetCellValue(transaction.BalanceType);
+                    dataRow.CreateCell(7).SetCellValue(transaction.ObjectType.Trim());
+                    dataRow.CreateCell(8).SetCellValue(transaction.FiscalPeriod);
+                    dataRow.CreateCell(9).SetCellValue(transaction.DocumentType);
+                    dataRow.CreateCell(10).SetCellValue(transaction.OriginCode);
+                    dataRow.CreateCell(11).SetCellValue(transaction.DocumentNumber);
+                    dataRow.CreateCell(12).SetCellValue(transaction.LineSequenceNumber);
+                    dataRow.CreateCell(13).SetCellValue(transaction.TransactionDescription);
+
+                    var cell = dataRow.CreateCell(14);
+                    cell.CellStyle = twoDecimalPlacesCellStyle;  
+                    cell.SetCellValue(Convert.ToDouble(transaction.Amount.Trim()));
+                               
+                    dataRow.CreateCell(15).SetCellValue(transaction.DebitCreditCode.Trim());
+
+                    cell = dataRow.CreateCell(16);
+                    cell.CellStyle = dateCellStyle;
+                    cell.SetCellValue(transaction.TransactionDate);
+
+                    dataRow.CreateCell(17).SetCellValue(transaction.OrganizationTrackingNumber);
+                    dataRow.CreateCell(18).SetCellValue(transaction.ProjectCode);
+                    dataRow.CreateCell(19).SetCellValue(transaction.OrganizationReferenceId.Trim());
+                    dataRow.CreateCell(20).SetCellValue(transaction.ReferenceTypeCode.Trim());
+                    dataRow.CreateCell(21).SetCellValue(transaction.ReferenceOriginCode.Trim());
+                    dataRow.CreateCell(22).SetCellValue(transaction.ReferenceNumber.Trim());
+                    dataRow.CreateCell(23).SetCellValue(transaction.ReversalDate.Trim());
+                    dataRow.CreateCell(24).SetCellValue(transaction.TransactionEncumbranceUpdateCode.Trim());
+                }
+               
+                // Forcing formula recalculation...
+                sheet.ForceFormulaRecalculation = true;
+
+                var ms = new MemoryStream();
+
+                // Writing the workbook content to the FileStream...
+                templateWorkbook.Write(ms);
+
+                TempData["Message"] = "Excel report created successfully!";
+
+                // Sending the server processed data back to the user computer...
+                return File(ms.ToArray(), "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", filename + ".xlsx");
+            }
+            catch (Exception ex)
+            {
+                TempData["Message"] = "Opps!  Something went wrong.";
+
+                return RedirectToAction("Index");
+            }
         }
 
         public ActionResult Upload(string id)
