@@ -102,7 +102,7 @@
                                                                                                                                                                                           <text>Uploaded by  @item.UploadedBy on @item.Uploaded.Value.ToString("M/d/yyyy hh:mm:ss tt")</text>
                                                                                                                                                                                       } </span></a></p>*@
                         @*This uses the pre-fetched data, and builds the link to download the pertainent file:*@
-                        <p id="tooltip1"><a href="~/Reports/Download/@item.FileId">@Html.DisplayFor(modelItem => item.FileName)<span>Created by @item.CreatedBy on @item.TimeStamp <br/>@if (item.Uploaded != null)
+                        <p id="tooltip1"><a href="~/Reports/Display/@item.FileId">@Html.DisplayFor(modelItem => item.FileName)<span>Created by @item.CreatedBy on @item.TimeStamp <br/>@if (item.Uploaded != null)
                                                                                                                                                                                         {
                                                                                                                                                                                             <text>Uploaded by  @item.UploadedBy on @item.Uploaded.Value.ToString("M/d/yyyy hh:mm:ss tt")</text>
                                                                                                                                                                                         }
