@@ -1,16 +1,12 @@
-﻿using System;
-using System.Data.Objects;
+﻿using BenefitsAllocationUpload.Models;
+using BenefitsAllocationUpload.Services;
+using FileHelpers;
+using System;
 using System.Data.SqlClient;
 using System.IO;
 using System.Linq;
-using System.Net.Http;
-using System.Reflection;
 using System.Web.Mvc;
-using System.Web.Services.Description;
-using BenefitsAllocationUpload.Models;
-using BenefitsAllocationUpload.Services;
 using UCDArch.Core.PersistanceSupport;
-using UCDArch.Data.NHibernate;
 using UCDArch.Web.ActionResults;
 using UnitFile = BenefitsAllocation.Core.Domain.UnitFile;
 
@@ -21,14 +17,14 @@ namespace BenefitsAllocationUpload.Controllers
     [Authorize(Roles = RoleNames.User)]
     public class ReportsController : ApplicationController
     {
-        DataClasses objData;
-        IDataExtractionService _dataExtractionService;
-        private ISftpService _sftpService;
+        readonly DataClasses _objData;
+        readonly IDataExtractionService _dataExtractionService;
+        private readonly ISftpService _sftpService;
         private readonly IRepository<UnitFile> _unitFileRepository;
     
         public ReportsController(IRepository<UnitFile> unitFileRepository, ISftpService sftpService, IDataExtractionService dataExtractionService)
         {
-            objData = new DataClasses();
+            _objData = new DataClasses();
             _dataExtractionService = dataExtractionService;
             _sftpService = sftpService;
             _unitFileRepository = unitFileRepository;
@@ -42,7 +38,7 @@ namespace BenefitsAllocationUpload.Controllers
             var user = Models.User.FindByLoginId(System.Web.HttpContext.Current.User.Identity.Name);
             var unit = user.Units.FirstOrDefault();
             var schoolCode = unit.DeansOfficeSchoolCode;
-            var files = objData.GetFiles(schoolCode).OrderByDescending(f => f.TimeStamp);
+            var files = _objData.GetFiles(schoolCode).OrderByDescending(f => f.TimeStamp);
             ViewBag.Message = "Benefits Allocation Upload";
             return View(files);
         }
@@ -80,7 +76,7 @@ namespace BenefitsAllocationUpload.Controllers
         public FileResult Download(string id)
         {
             int fid = Convert.ToInt32(id);
-            var files = objData.GetFiles();
+            var files = _objData.GetFiles();
             string filename = (from f in files
                                where f.FileId == fid
                                select f.FileName).First();
@@ -96,10 +92,25 @@ namespace BenefitsAllocationUpload.Controllers
             return File(filePathAndFilename, contentType, filename);
         }
 
+        public FileResult DownloadAsExcel(string id)
+        {
+            int fid = Convert.ToInt32(id);
+            var files = _objData.GetFiles();
+            string filename = (from f in files
+                               where f.FileId == fid
+                               select f.FileName).First();
+
+            string filePathAndFilename = (from f in files
+                                          where f.FileId == fid
+                                          select f.FilePath).First();
+
+            var excelReader = ExcelReaderFactory.CreateOpenXmlReader(myFile.InputStream);
+        }
+
         public ActionResult Upload(string id)
         {
             int fid = Convert.ToInt32(id);
-            var files = objData.GetFiles();
+            var files = _objData.GetFiles();
             string filename = (from f in files
                                where f.FileId == fid
                                select f.FileName).First();
@@ -139,7 +150,7 @@ namespace BenefitsAllocationUpload.Controllers
             //var deleteSuccess = false; 
 
             int fid = Convert.ToInt32(id);
-            var files = objData.GetFiles();
+            var files = _objData.GetFiles();
             string fullPath = (from f in files
                                where f.FileId == fid
                                select f.FilePath).First();
@@ -223,6 +234,30 @@ namespace BenefitsAllocationUpload.Controllers
                 return RedirectToAction("Index");
             }
             return View(m);
+        }
+
+        public ActionResult Display(string id)
+        {
+            int fid = Convert.ToInt32(id);
+            var files = _objData.GetFiles();
+            string filename = (from f in files
+                               where f.FileId == fid
+                               select f.FileName).First();
+
+            string filePathAndFilename = (from f in files
+                                          where f.FileId == fid
+                                          select f.FilePath).First();
+
+            var engine = new FileHelperEngine<FeederSystemFixedLengthRecord>();
+
+            var streamReader = new StreamReader(filePathAndFilename);
+
+            var result = engine.ReadStream(streamReader);
+
+            var transactions = result.ToList();
+
+            TempData["Message"] = "Now viewing \"" + filename + "\".";
+            return View(transactions);
         }
     }
 }
