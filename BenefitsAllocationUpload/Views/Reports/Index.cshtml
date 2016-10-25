@@ -117,7 +117,7 @@
                         @Html.DisplayFor(modelItem => item.TimeStamp)
                     </td>
                     <td>
-                        @Html.ActionLink("Download", "Download", new { id = item.FileId }, new { @class = "btn btn-primary"})
+                        @Html.ActionLink("Download", "DownloadAsExcel", new { id = item.FileId }, new { @class = "btn btn-primary"})
                     </td>
                     @if (item.FileName.EndsWith(BenefitsAllocationUpload.Models.DataClasses.TemplateFileExtension))
                     {
