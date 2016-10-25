@@ -96,25 +96,25 @@ namespace BenefitsAllocationUpload.Controllers
 
         public ActionResult DownloadAsExcel(string id)
         {
-            int fid = Convert.ToInt32(id);
-            var files = _objData.GetFiles();
-            var file = (files.Where(f => f.FileId == fid)).First() ;
-
-            var created = file.TimeStamp;
-            var filenameWithExtension = file.FileName;
-            var filePathAndFilename = file.FilePath;
-            var filename = filenameWithExtension.Substring(0, filenameWithExtension.LastIndexOf('.'));
-
-            var streamReader = new StreamReader(filePathAndFilename);
-
-            var engine = new FileHelperEngine<FeederSystemFixedLengthRecord>();
-
-            var result = engine.ReadStream(streamReader);
-
-            var transactions = result.ToList();
-
             try
             {
+                int fid = Convert.ToInt32(id);
+                var files = _objData.GetFiles();
+                var file = (files.Where(f => f.FileId == fid)).First();
+
+                var created = file.TimeStamp;
+                var filenameWithExtension = file.FileName;
+                var filePathAndFilename = file.FilePath;
+                var filename = filenameWithExtension.Substring(0, filenameWithExtension.LastIndexOf('.'));
+
+                var streamReader = new StreamReader(filePathAndFilename);
+
+                var engine = new FileHelperEngine<FeederSystemFixedLengthRecord>();
+
+                var result = engine.ReadStream(streamReader);
+
+                var transactions = result.ToList();
+
                 // Opening the Excel template...
                 var templateFileStream = new FileStream(Server.MapPath(@"\Files\RevisedScrubberWithoutData.xlsx"),
                     FileMode.Open, FileAccess.Read);
@@ -190,7 +190,7 @@ namespace BenefitsAllocationUpload.Controllers
             }
             catch (Exception ex)
             {
-                TempData["Message"] = "Opps!  Something went wrong.";
+                TempData["Message"] = String.Format("Opps!  Something went wrong: {0}", ex.InnerException);
 
                 return RedirectToAction("Index");
             }
