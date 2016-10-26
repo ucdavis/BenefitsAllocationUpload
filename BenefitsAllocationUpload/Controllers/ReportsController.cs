@@ -1,4 +1,5 @@
-﻿using BenefitsAllocationUpload.Models;
+﻿using System.Transactions;
+using BenefitsAllocationUpload.Models;
 using BenefitsAllocationUpload.Services;
 using FileHelpers;
 using System;
@@ -70,8 +71,10 @@ namespace BenefitsAllocationUpload.Controllers
             var unit = user.Units.FirstOrDefault();
             var schoolCode = unit.DeansOfficeSchoolCode;
 
-            var userFiles = _unitFileRepository.GetAll().Where(file => file.SchoolCode.Equals("00") || file.SchoolCode.Equals(schoolCode)).ToList();
-            ViewBag.Message = "Detailed file information as recorded in database";
+            var userFiles =
+                _unitFileRepository.GetAll()
+                    .Where(file => (file.SchoolCode.Equals("00") || file.SchoolCode.Equals(schoolCode)) && !file.Filename.EndsWith(".xltx") && !file.Filename.EndsWith(".xlsx")).OrderByDescending(file => file.Created)
+                    .ToList();
             return View(userFiles);
         }
        
@@ -133,7 +136,21 @@ namespace BenefitsAllocationUpload.Controllers
                 // Here's another to ensure we get a number with 2 decimal places:
                 var twoDecimalPlacesCellStyle = templateWorkbook.CreateCellStyle();
                 format = templateWorkbook.CreateDataFormat();
-                twoDecimalPlacesCellStyle.DataFormat = format.GetFormat("#0.##");
+                twoDecimalPlacesCellStyle.DataFormat = format.GetFormat("#0.00");
+
+                var boldFont = templateWorkbook.CreateFont();
+                    boldFont.FontHeightInPoints = 11;
+                    boldFont.FontName = "Calibri";
+                    boldFont.Boldweight = (short)FontBoldWeight.Bold;
+
+                var boldCellStyle = templateWorkbook.CreateCellStyle();
+                boldCellStyle.SetFont(boldFont);
+
+                var boldTotalAmountStyle = templateWorkbook.CreateCellStyle();
+                boldTotalAmountStyle.DataFormat = twoDecimalPlacesCellStyle.DataFormat;
+                boldTotalAmountStyle.SetFont(boldFont);
+
+                var grandTotal = 0.0;
                 var i = 0;
                 foreach (var transaction in transactions)
                 {
@@ -155,9 +172,11 @@ namespace BenefitsAllocationUpload.Controllers
                     dataRow.CreateCell(12).SetCellValue(transaction.LineSequenceNumber);
                     dataRow.CreateCell(13).SetCellValue(transaction.TransactionDescription);
 
+                    var transactionAmount = Convert.ToDouble(transaction.Amount.Trim());
+                    grandTotal += transactionAmount;
                     var cell = dataRow.CreateCell(14);
                     cell.CellStyle = twoDecimalPlacesCellStyle;  
-                    cell.SetCellValue(Convert.ToDouble(transaction.Amount.Trim()));
+                    cell.SetCellValue(transactionAmount);
                                
                     dataRow.CreateCell(15).SetCellValue(transaction.DebitCreditCode.Trim());
 
@@ -173,6 +192,18 @@ namespace BenefitsAllocationUpload.Controllers
                     dataRow.CreateCell(22).SetCellValue(transaction.ReferenceNumber.Trim());
                     dataRow.CreateCell(23).SetCellValue(transaction.ReversalDate.Trim());
                     dataRow.CreateCell(24).SetCellValue(transaction.TransactionEncumbranceUpdateCode.Trim());
+                }
+
+                if (transactions.Any())
+                {
+                    var totalsRow = sheet.GetRow(i + 1);
+                    var totalsCell = totalsRow.CreateCell(13);
+                    totalsCell.CellStyle = boldCellStyle;
+                    totalsCell.SetCellValue(" Grand Total");
+                    
+                    totalsCell = totalsRow.CreateCell(14);
+                    totalsCell.CellStyle = boldTotalAmountStyle;
+                    totalsCell.SetCellValue(grandTotal);
                 }
                
                 // Forcing formula recalculation...
