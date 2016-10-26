@@ -84,9 +84,17 @@ namespace BenefitsAllocationUpload.Controllers
             return View(userFiles);
         }
        
-        public FileResult Download(string id)
+        public ActionResult Download(string id)
         {
+            if (string.IsNullOrWhiteSpace(id))
+            {
+                TempData["Message"] = "Unable to download file.  No file was selected. Please select a file in order to download file.";
+                return HttpNotFound();
+            }
+
             var file = GetNamedFile(id);
+
+
             var filename = file.FileName;
             var filePathAndFilename = file.FilePath;
 
@@ -100,6 +108,12 @@ namespace BenefitsAllocationUpload.Controllers
 
         public ActionResult DownloadAsExcel(string id)
         {
+            if (string.IsNullOrWhiteSpace(id))
+            {
+                TempData["Message"] = "Unable to download file.  No file was selected. Please select a file and try again.";
+                return RedirectToAction("Index");
+            }
+
             try
             {
                 var file = GetNamedFile(id);
@@ -227,6 +241,12 @@ namespace BenefitsAllocationUpload.Controllers
 
         public ActionResult Upload(string id)
         {
+            if (string.IsNullOrWhiteSpace(id))
+            {
+                TempData["Message"] = "Unable to upload file.  No file was selected. Please select a file and try again.";
+                return RedirectToAction("Index");
+            }
+
             var file = GetNamedFile(id);
             string filename = file.FileName;
 
@@ -263,6 +283,11 @@ namespace BenefitsAllocationUpload.Controllers
         public ActionResult Delete(string id)
         {
             //var deleteSuccess = false; 
+            if (string.IsNullOrWhiteSpace(id))
+            {
+                TempData["Message"] = "Unable to delete file.  No file was selected. Please select a file and try again.";
+                return RedirectToAction("Index");
+            }
 
             var fullPath = GetNamedFile(id).FilePath;
 
@@ -349,6 +374,11 @@ namespace BenefitsAllocationUpload.Controllers
 
         public ActionResult Display(string id)
         {
+            if (string.IsNullOrWhiteSpace(id))
+            {
+                TempData["Message"] = "Unable to display file.  No file was selected. Please select a file and try again.";
+                return RedirectToAction("Index");
+            }
 
             var file = GetNamedFile(id);
            
@@ -361,6 +391,7 @@ namespace BenefitsAllocationUpload.Controllers
             var transactions = result.ToList();
 
             TempData["Message"] = String.Format("Now viewing \"{0}\".", file.FileName);
+            TempData["Filename"] = file.FileName.Substring(0, file.FileName.LastIndexOf('.'));
             return View(transactions);
         }
     }
