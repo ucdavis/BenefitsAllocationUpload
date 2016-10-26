@@ -67,7 +67,7 @@ namespace BenefitsAllocationUpload.Models
             var retval =
                 files.Where(
                     file =>
-                    file.SchoolCode != null && (file.SchoolCode.Equals("00") || file.SchoolCode.Equals(schoolCode)))
+                    file.SchoolCode != null && (file.SchoolCode.Equals("00") || file.SchoolCode.Equals(schoolCode)) && !file.FileName.EndsWith(".xltx") && !file.FileName.EndsWith(".xlsx"))
                      .ToList();
 
             return retval;
@@ -76,14 +76,44 @@ namespace BenefitsAllocationUpload.Models
 
     public class FileNames
     {
+        /// <summary>
+        /// The system generated ID of the file
+        /// </summary>
         public int FileId { get; set; }
+
+        /// <summary>
+        /// The Name of the file
+        /// </summary>
         public string FileName { get; set; }
-        public DateTime TimeStamp { get; set; }
+
+        /// <summary>
+        /// The Time Stamp when the file was created (or last modified)
+        /// </summary>
+        public DateTimeOffset? TimeStamp { get; set; }
+        // public DateTime TimeStamp { get; set; }
+
+        /// <summary>
+        /// The File Path of the file
+        /// </summary>
         public string FilePath { get; set; }
         public string CreatedBy { get; set; }
         public DateTime? Uploaded { get; set; }
         public string UploadedBy { get; set; }
         public string SchoolCode { get; set; }
+
+        /// <summary>
+        /// The Length of the file in bytes.
+        /// </summary>
+        public long Length { get; set; }
+
+        public string FileNameLessExtension
+        {
+            get
+            {
+                return FileName.Substring(0, FileName.LastIndexOf('.'));
+                
+            }
+        }
     }
 
     public static class RoleNames

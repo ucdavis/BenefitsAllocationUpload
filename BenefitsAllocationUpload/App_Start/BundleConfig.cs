@@ -11,8 +11,8 @@ namespace BenefitsAllocationUpload
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
                         "~/Scripts/jquery-{version}.js"));
 
-            bundles.Add(new ScriptBundle("~/bundles/jqueryui").Include(
-                        "~/Scripts/jquery-ui-{version}.js"));
+            //bundles.Add(new ScriptBundle("~/bundles/jqueryui").Include(
+            //            "~/Scripts/jquery-ui-{version}.js"));
 
             bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
                         "~/Scripts/jquery.unobtrusive*",
@@ -26,7 +26,7 @@ namespace BenefitsAllocationUpload
             bundles.Add(new StyleBundle("~/Content/css").Include("~/Content/site.css",
                  "~/Content/bootstrap.css",
                  "~/Content/bootstrap-responsive.css",
-                 "~/Content/themes/uibootstrap/jquery-ui-1.8.16.custom.css",
+                 //"~/Content/themes/uibootstrap/jquery-ui-1.8.16.custom.css",
                  "~/Content/Custom.css",
                  "~/Content/cas.css"));
 

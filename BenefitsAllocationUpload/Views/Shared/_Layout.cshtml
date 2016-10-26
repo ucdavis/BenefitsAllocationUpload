@@ -115,7 +115,7 @@
             <div class="content-wrapper">
                 <div class="float-left">
                     <p class="site-title">
-                        <a href="@Url.Action("Index", "Home")"><img alt="CA&amp;ES Logo" src="~/Images/caes_logo.png" />&nbsp;Benefits Allocaton Upload</a>
+                        <a href="@Url.Action("Index", "Home")"><img alt="CA&amp;ES Logo" src="~/Images/caes_logo.png" />&nbsp;Benefits Allocation Upload</a>
                        @* @Html.ActionLink("benefits allocation upload", "Index", "Home")*@
                     </p>
                 </div>
@@ -173,8 +173,10 @@
         </footer>
 
         @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/jqueryval")
+        @Scripts.Render("~/bundles/bootstrap")
         
-        @RenderSection("scripts", required: false)
+        @*@RenderSection("scripts", required: false)*@
         
         @RenderSection("AdditionalScripts", false)
     </body>

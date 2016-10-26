@@ -1,0 +1,726 @@
+20173 1MUSEUMNHMUSSB28---CB  04GLCBAG20170400100001This is my transaction description..           -100.54 201610261234567890250ENGILISKT161026                        
+20173 1MUSEUMNHMUSSUB6---CB  04GLCBAG20170400100002This is my transaction description..          -2200.44 201610261234567890250ENGILISKT161026                        
+20173 2200229-----SUB6---CB  04GLCBAG20170400100003This is my transaction description..             -3.51 201610261234567890----------KT161026                        
+20173 2200253-----SUB6---CB  04GLCBAG20170400100004This is my transaction description..            -49.62 201610261234567890----------KT161026                        
+20173 2200528-----SB28---CB  04GLCBAG20170400100005This is my transaction description..           -193.34 201610261234567890----------KT161026                        
+20173 2200528-----SUB6---CB  04GLCBAG20170400100006This is my transaction description..          -1752.28 201610261234567890----------KT161026                        
+20173 A400344ADMTCSUB6---CB  04GLCBAG20170400100007This is my transaction description..             -2.90 201610261234567890----------KT161026                        
+20173 AAFRGAA-----SB28---CB  04GLCBAG20170400100008This is my transaction description..           -188.49 201610261234567890ADOMLS    KT161026                        
+20173 AAFRGAA-----SUB6---CB  04GLCBAG20170400100009This is my transaction description..          -2403.36 201610261234567890ADOMLS    KT161026                        
+20173 AASIGAA-----SB28---CB  04GLCBAG20170400100010This is my transaction description..           -904.79 201610261234567890----------KT161026                        
+20173 AASIGAA-----SB28---CB  04GLCBAG20170400100011This is my transaction description..            -15.16 201610261234567890BERGERT   KT161026                        
+20173 AASIGAA-----SB28---CB  04GLCBAG20170400100012This is my transaction description..           -246.52 201610261234567890EMARTINEZ KT161026                        
+20173 AASIGAA-----SB28---CB  04GLCBAG20170400100013This is my transaction description..           -246.52 201610261234567890KJACKSON  KT161026                        
+20173 AASIGAA-----SB28---CB  04GLCBAG20170400100014This is my transaction description..            -45.02 201610261234567890KLASING   KT161026                        
+20173 AASIGAA-----SB28---CB  04GLCBAG20170400100015This is my transaction description..            -43.40 201610261234567890KUELTZ    KT161026                        
+20173 AASIGAA-----SB28---CB  04GLCBAG20170400100016This is my transaction description..            -44.12 201610261234567890MEDRANO   KT161026                        
+20173 AASIGAA-----SB28---CB  04GLCBAG20170400100017This is my transaction description..             71.81 201610261234567890MURRAY    KT161026                        
+20173 AASIGAA-----SB28---CB  04GLCBAG20170400100018This is my transaction description..            -52.26 201610261234567890ZHOU      KT161026                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG20170400100019This is my transaction description..          -8440.65 201610261234567890----------KT161026                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG20170400100020This is my transaction description..           -155.04 201610261234567890BERGERT   KT161026                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG20170400100021This is my transaction description..           -216.68 201610261234567890DEPETERS  KT161026                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG20170400100022This is my transaction description..          -2496.12 201610261234567890EMARTINEZ KT161026                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG20170400100023This is my transaction description..            -37.58 201610261234567890HESSM     KT161026                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG20170400100024This is my transaction description..           -185.24 201610261234567890HUNG      KT161026                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG20170400100025This is my transaction description..           -381.12 201610261234567890KINGA     KT161026                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG20170400100026This is my transaction description..          -2568.56 201610261234567890KJACKSON  KT161026                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG20170400100027This is my transaction description..           -197.72 201610261234567890KLASING   KT161026                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG20170400100028This is my transaction description..           -190.60 201610261234567890KUELTZ    KT161026                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG20170400100029This is my transaction description..            -43.78 201610261234567890LIUY      KT161026                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG20170400100030This is my transaction description..           -193.76 201610261234567890MEDRANO   KT161026                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG20170400100031This is my transaction description..           -137.54 201610261234567890MIENAL    KT161026                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG20170400100032This is my transaction description..            -92.60 201610261234567890MILLERM   KT161026                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG20170400100033This is my transaction description..           -105.85 201610261234567890MURRAY    KT161026                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG20170400100034This is my transaction description..           -452.68 201610261234567890SAINZ     KT161026                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG20170400100035This is my transaction description..            -37.16 201610261234567890TODGHAM   KT161026                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG20170400100036This is my transaction description..           -229.47 201610261234567890ZHOU      KT161026                        
+20173 AASIGAAHENDRSB28---CB  04GLCBAG20170400100037This is my transaction description..           -109.31 201610261234567890----------KT161026                        
+20173 AASIGAAHENDRSUB6---CB  04GLCBAG20170400100038This is my transaction description..          -1503.17 201610261234567890----------KT161026                        
+20173 AASIGAB-----SB28---CB  04GLCBAG20170400100039This is my transaction description..            -81.50 201610261234567890----------KT161026                        
+20173 AASIGAB-----SUB6---CB  04GLCBAG20170400100040This is my transaction description..           -590.12 201610261234567890----------KT161026                        
+20173 AASRGAA-----SB28---CB  04GLCBAG20170400100041This is my transaction description..          -1427.30 201610261234567890----------KT161026                        
+20173 AASRGAA-----SB28---CB  04GLCBAG20170400100042This is my transaction description..            -15.16 201610261234567890BERGERT   KT161026                        
+20173 AASRGAA-----SB28---CB  04GLCBAG20170400100043This is my transaction description..            -45.02 201610261234567890KLASING   KT161026                        
+20173 AASRGAA-----SB28---CB  04GLCBAG20170400100044This is my transaction description..            -43.40 201610261234567890KUELTZ    KT161026                        
+20173 AASRGAA-----SB28---CB  04GLCBAG20170400100045This is my transaction description..            -44.12 201610261234567890MEDRANO   KT161026                        
+20173 AASRGAA-----SB28---CB  04GLCBAG20170400100046This is my transaction description..             71.81 201610261234567890MURRAY    KT161026                        
+20173 AASRGAA-----SB28---CB  04GLCBAG20170400100047This is my transaction description..           9434.27 201610261234567890ROSS      KT161026                        
+20173 AASRGAA-----SB28---CB  04GLCBAG20170400100048This is my transaction description..            -37.80 201610261234567890TREJO     KT161026                        
+20173 AASRGAA-----SB28---CB  04GLCBAG20170400100049This is my transaction description..            -37.62 201610261234567890ZHOU      KT161026                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG20170400100050This is my transaction description..         -22413.83 201610261234567890----------KT161026                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG20170400100051This is my transaction description..           -155.04 201610261234567890BERGERT   KT161026                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG20170400100052This is my transaction description..           -144.44 201610261234567890DEPETERS  KT161026                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG20170400100053This is my transaction description..            -30.74 201610261234567890HESSM     KT161026                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG20170400100054This is my transaction description..           -185.24 201610261234567890HUNG      KT161026                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG20170400100055This is my transaction description..           -381.12 201610261234567890KINGA     KT161026                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG20170400100056This is my transaction description..           -197.72 201610261234567890KLASING   KT161026                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG20170400100057This is my transaction description..           -190.60 201610261234567890KUELTZ    KT161026                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG20170400100058This is my transaction description..            -43.78 201610261234567890LIUY      KT161026                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG20170400100059This is my transaction description..           -193.76 201610261234567890MEDRANO   KT161026                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG20170400100060This is my transaction description..            -92.64 201610261234567890MEYER     KT161026                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG20170400100061This is my transaction description..           -112.52 201610261234567890MIENAL    KT161026                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG20170400100062This is my transaction description..            -75.76 201610261234567890MILLERM   KT161026                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG20170400100063This is my transaction description..           -105.85 201610261234567890MURRAY    KT161026                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG20170400100064This is my transaction description..           1750.35 201610261234567890ROSS      KT161026                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG20170400100065This is my transaction description..           -301.80 201610261234567890SAINZ     KT161026                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG20170400100066This is my transaction description..            -30.40 201610261234567890TODGHAM   KT161026                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG20170400100067This is my transaction description..           -247.58 201610261234567890TREJO     KT161026                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG20170400100068This is my transaction description..           -165.21 201610261234567890ZHOU      KT161026                        
+20173 AASRGAAMIENASB28---CB  04GLCBAG20170400100069This is my transaction description..           -109.31 201610261234567890----------KT161026                        
+20173 AASRGAAMIENASUB6---CB  04GLCBAG20170400100070This is my transaction description..          -1503.17 201610261234567890----------KT161026                        
+20173 AC1IGAA-----SB28---CB  04GLCBAG20170400100071This is my transaction description..           -261.42 201610261234567890----------KT161026                        
+20173 AC1IGAA-----SB28---CB  04GLCBAG20170400100072This is my transaction description..           -332.00 201610261234567890FCCAER    KT161026                        
+20173 AC1IGAA-----SB28---CB  04GLCBAG20170400100073This is my transaction description..           -314.84 201610261234567890FCCCIS    KT161026                        
+20173 AC1IGAA-----SB28---CB  04GLCBAG20170400100074This is my transaction description..            626.53 201610261234567890FCCETH    KT161026                        
+20173 AC1IGAA-----SB28---CB  04GLCBAG20170400100075This is my transaction description..           -145.72 201610261234567890FCCHLE    KT161026                        
+20173 AC1IGAA-----SB28---CB  04GLCBAG20170400100076This is my transaction description..            205.67 201610261234567890FCCJAV    KT161026                        
+20173 AC1IGAA-----SB28---CB  04GLCBAG20170400100077This is my transaction description..             75.04 201610261234567890FCCJMK    KT161026                        
+20173 AC1IGAA-----SB28---CB  04GLCBAG20170400100078This is my transaction description..            135.28 201610261234567890FCCLFM    KT161026                        
+20173 AC1IGAA-----SB28---CB  04GLCBAG20170400100079This is my transaction description..           -107.30 201610261234567890FCCLMR    KT161026                        
+20173 AC1IGAA-----SB28---CB  04GLCBAG20170400100080This is my transaction description..             68.65 201610261234567890FCCMDJ    KT161026                        
+20173 AC1IGAA-----SUB6---CB  04GLCBAG20170400100081This is my transaction description..          -1981.92 201610261234567890----------KT161026                        
+20173 AC1IGAA-----SUB6---CB  04GLCBAG20170400100082This is my transaction description..          -2471.84 201610261234567890FCCAER    KT161026                        
+20173 AC1IGAA-----SUB6---CB  04GLCBAG20170400100083This is my transaction description..          -2061.68 201610261234567890FCCCIS    KT161026                        
+20173 AC1IGAA-----SUB6---CB  04GLCBAG20170400100084This is my transaction description..          -1342.35 201610261234567890FCCETH    KT161026                        
+20173 AC1IGAA-----SUB6---CB  04GLCBAG20170400100085This is my transaction description..          -1887.08 201610261234567890FCCHLE    KT161026                        
+20173 AC1IGAA-----SUB6---CB  04GLCBAG20170400100086This is my transaction description..          -2098.33 201610261234567890FCCJAV    KT161026                        
+20173 AC1IGAA-----SUB6---CB  04GLCBAG20170400100087This is my transaction description..          -2528.14 201610261234567890FCCJMK    KT161026                        
+20173 AC1IGAA-----SUB6---CB  04GLCBAG20170400100088This is my transaction description..          -2086.84 201610261234567890FCCLFM    KT161026                        
+20173 AC1IGAA-----SUB6---CB  04GLCBAG20170400100089This is my transaction description..          -1393.29 201610261234567890FCCLMR    KT161026                        
+20173 AC1IGAA-----SUB6---CB  04GLCBAG20170400100090This is my transaction description..          -2091.49 201610261234567890FCCMDJ    KT161026                        
+20173 AC1RGAA-----SB28---CB  04GLCBAG20170400100091This is my transaction description..           -405.40 201610261234567890----------KT161026                        
+20173 AC1RGAA-----SB28---CB  04GLCBAG20170400100092This is my transaction description..           -112.48 201610261234567890FCCAAM    KT161026                        
+20173 AC1RGAA-----SB28---CB  04GLCBAG20170400100093This is my transaction description..            981.66 201610261234567890FCCAZI    KT161026                        
+20173 AC1RGAA-----SB28---CB  04GLCBAG20170400100094This is my transaction description..           -267.26 201610261234567890FCCHTN    KT161026                        
+20173 AC1RGAA-----SB28---CB  04GLCBAG20170400100095This is my transaction description..           -343.79 201610261234567890FCCMLR    KT161026                        
+20173 AC1RGAA-----SB28---CB  04GLCBAG20170400100096This is my transaction description..           -163.96 201610261234567890FCCVMO    KT161026                        
+20173 AC1RGAA-----SUB6---CB  04GLCBAG20170400100097This is my transaction description..          -3084.82 201610261234567890----------KT161026                        
+20173 AC1RGAA-----SUB6---CB  04GLCBAG20170400100098This is my transaction description..          -1019.46 201610261234567890FCCAAM    KT161026                        
+20173 AC1RGAA-----SUB6---CB  04GLCBAG20170400100099This is my transaction description..          -2505.25 201610261234567890FCCAZI    KT161026                        
+20173 AC1RGAA-----SUB6---CB  04GLCBAG20170400100100This is my transaction description..          -2422.20 201610261234567890FCCHTN    KT161026                        
+20173 AC1RGAA-----SUB6---CB  04GLCBAG20170400100101This is my transaction description..          -2398.27 201610261234567890FCCMLR    KT161026                        
+20173 AC1RGAA-----SUB6---CB  04GLCBAG20170400100102This is my transaction description..          -2487.41 201610261234567890FCCVMO    KT161026                        
+20173 AC2IGAAITSTFSB28---CB  04GLCBAG20170400100103This is my transaction description..             89.88 201610261234567890250RIVERA KT161026                        
+20173 AC2IGAAITSTFSUB6---CB  04GLCBAG20170400100104This is my transaction description..          -1151.43 201610261234567890250RIVERA KT161026                        
+20173 AC2IGAAOFSTFSB28---CB  04GLCBAG20170400100105This is my transaction description..              4.64 201610261234567890250ANNALEEKT161026                        
+20173 AC2IGAAOFSTFSB28---CB  04GLCBAG20170400100106This is my transaction description..             21.18 201610261234567890250DINGER KT161026                        
+20173 AC2IGAAOFSTFSB28---CB  04GLCBAG20170400100107This is my transaction description..           -185.04 201610261234567890250HO     KT161026                        
+20173 AC2IGAAOFSTFSB28---CB  04GLCBAG20170400100108This is my transaction description..           -198.14 201610261234567890250MANZO  KT161026                        
+20173 AC2IGAAOFSTFSB28---CB  04GLCBAG20170400100109This is my transaction description..           -245.30 201610261234567890250MATT   KT161026                        
+20173 AC2IGAAOFSTFSB28---CB  04GLCBAG20170400100110This is my transaction description..            -31.98 201610261234567890250PETKUS KT161026                        
+20173 AC2IGAAOFSTFSB28---CB  04GLCBAG20170400100111This is my transaction description..             58.18 201610261234567890250SKYBERGKT161026                        
+20173 AC2IGAAOFSTFSUB6---CB  04GLCBAG20170400100112This is my transaction description..          -2373.84 201610261234567890250ANNALEEKT161026                        
+20173 AC2IGAAOFSTFSUB6---CB  04GLCBAG20170400100113This is my transaction description..          -2161.80 201610261234567890250DINGER KT161026                        
+20173 AC2IGAAOFSTFSUB6---CB  04GLCBAG20170400100114This is my transaction description..          -1677.02 201610261234567890250HO     KT161026                        
+20173 AC2IGAAOFSTFSUB6---CB  04GLCBAG20170400100115This is my transaction description..          -1795.78 201610261234567890250MANZO  KT161026                        
+20173 AC2IGAAOFSTFSUB6---CB  04GLCBAG20170400100116This is my transaction description..          -2922.30 201610261234567890250MATT   KT161026                        
+20173 AC2IGAAOFSTFSUB6---CB  04GLCBAG20170400100117This is my transaction description..           -292.41 201610261234567890250PETKUS KT161026                        
+20173 AC2IGAAOFSTFSUB6---CB  04GLCBAG20170400100118This is my transaction description..          -1959.78 201610261234567890250SKYBERGKT161026                        
+20173 AC2RGAAITSTFSB28---CB  04GLCBAG20170400100119This is my transaction description..           -280.12 201610261234567890250BOOTON KT161026                        
+20173 AC2RGAAITSTFSB28---CB  04GLCBAG20170400100120This is my transaction description..           -394.52 201610261234567890250JIMENEZKT161026                        
+20173 AC2RGAAITSTFSB28---CB  04GLCBAG20170400100121This is my transaction description..             89.88 201610261234567890250RIVERA KT161026                        
+20173 AC2RGAAITSTFSUB6---CB  04GLCBAG20170400100122This is my transaction description..          -2538.80 201610261234567890250BOOTON KT161026                        
+20173 AC2RGAAITSTFSUB6---CB  04GLCBAG20170400100123This is my transaction description..          -2937.30 201610261234567890250JIMENEZKT161026                        
+20173 AC2RGAAITSTFSUB6---CB  04GLCBAG20170400100124This is my transaction description..          -1151.43 201610261234567890250RIVERA KT161026                        
+20173 AC2RGAAOFSTFSB28---CB  04GLCBAG20170400100125This is my transaction description..            229.83 201610261234567890250CLARK  KT161026                        
+20173 AC2RGAAOFSTFSB28---CB  04GLCBAG20170400100126This is my transaction description..           -127.90 201610261234567890250PETKUS KT161026                        
+20173 AC2RGAAOFSTFSB28---CB  04GLCBAG20170400100127This is my transaction description..           -342.38 201610261234567890250WEBSTERKT161026                        
+20173 AC2RGAAOFSTFSB28---CB  04GLCBAG20170400100128This is my transaction description..           -295.19 201610261234567890AETXWLN   KT161026                        
+20173 AC2RGAAOFSTFSUB6---CB  04GLCBAG20170400100129This is my transaction description..          -1807.08 201610261234567890250CLARK  KT161026                        
+20173 AC2RGAAOFSTFSUB6---CB  04GLCBAG20170400100130This is my transaction description..          -1169.65 201610261234567890250PETKUS KT161026                        
+20173 AC2RGAAOFSTFSUB6---CB  04GLCBAG20170400100131This is my transaction description..          -2549.23 201610261234567890250WEBSTERKT161026                        
+20173 AC2RGAAOFSTFSUB6---CB  04GLCBAG20170400100132This is my transaction description..          -2530.59 201610261234567890AETXWLN   KT161026                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG20170400100133This is my transaction description..            -80.76 201610261234567890AMMBFTV   KT161026                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG20170400100134This is my transaction description..           -120.80 201610261234567890BEBBFTV   KT161026                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG20170400100135This is my transaction description..            114.53 201610261234567890BLLBFTV   KT161026                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG20170400100136This is my transaction description..            -81.44 201610261234567890EDDBFTV   KT161026                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG20170400100137This is my transaction description..            -10.63 201610261234567890ENLBFTV   KT161026                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG20170400100138This is my transaction description..            -77.08 201610261234567890FPSBFTV   KT161026                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG20170400100139This is my transaction description..           -116.74 201610261234567890HHLBFTV   KT161026                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG20170400100140This is my transaction description..             96.48 201610261234567890JJVBFTV   KT161026                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG20170400100141This is my transaction description..           -116.36 201610261234567890KANBFTV   KT161026                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG20170400100142This is my transaction description..            -49.46 201610261234567890KVCBFTV   KT161026                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG20170400100143This is my transaction description..            -38.88 201610261234567890LAMBFTV   KT161026                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG20170400100144This is my transaction description..             74.97 201610261234567890LPSBFTV   KT161026                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG20170400100145This is my transaction description..           -145.97 201610261234567890MGTBFTV   KT161026                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG20170400100146This is my transaction description..           -183.58 201610261234567890NERBFTV   KT161026                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG20170400100147This is my transaction description..           -103.68 201610261234567890OPDBFTV   KT161026                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG20170400100148This is my transaction description..            -69.94 201610261234567890SLBBFTV   KT161026                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG20170400100149This is my transaction description..           -113.51 201610261234567890TJDBFTV   KT161026                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG20170400100150This is my transaction description..             88.70 201610261234567890YGGBFTV   KT161026                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG20170400100151This is my transaction description..            -27.82 201610261234567890----------KT161026                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG20170400100152This is my transaction description..           -731.90 201610261234567890AMMBFTV   KT161026                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG20170400100153This is my transaction description..           -916.68 201610261234567890BEBBFTV   KT161026                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG20170400100154This is my transaction description..           -890.90 201610261234567890BLLBFTV   KT161026                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG20170400100155This is my transaction description..           -738.14 201610261234567890EDDBFTV   KT161026                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG20170400100156This is my transaction description..           -550.87 201610261234567890ENLBFTV   KT161026                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG20170400100157This is my transaction description..           -698.56 201610261234567890FPSBFTV   KT161026                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG20170400100158This is my transaction description..          -1057.98 201610261234567890HHLBFTV   KT161026                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG20170400100159This is my transaction description..          -1187.86 201610261234567890JJVBFTV   KT161026                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG20170400100160This is my transaction description..          -1054.50 201610261234567890KANBFTV   KT161026                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG20170400100161This is my transaction description..           -750.32 201610261234567890KVCBFTV   KT161026                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG20170400100162This is my transaction description..           -352.32 201610261234567890LAMBFTV   KT161026                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG20170400100163This is my transaction description..           -740.63 201610261234567890LPSBFTV   KT161026                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG20170400100164This is my transaction description..          -1467.97 201610261234567890MGTBFTV   KT161026                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG20170400100165This is my transaction description..          -1846.17 201610261234567890NERBFTV   KT161026                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG20170400100166This is my transaction description..           -939.64 201610261234567890OPDBFTV   KT161026                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG20170400100167This is my transaction description..           -633.94 201610261234567890SLBBFTV   KT161026                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG20170400100168This is my transaction description..          -1028.70 201610261234567890TJDBFTV   KT161026                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG20170400100169This is my transaction description..           -821.25 201610261234567890YGGBFTV   KT161026                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG20170400100170This is my transaction description..           -149.98 201610261234567890AMMBFTV   KT161026                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG20170400100171This is my transaction description..           -147.63 201610261234567890BEBBFTV   KT161026                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG20170400100172This is my transaction description..            114.53 201610261234567890BLLBFTV   KT161026                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG20170400100173This is my transaction description..           -151.26 201610261234567890EDDBFTV   KT161026                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG20170400100174This is my transaction description..            -10.63 201610261234567890ENLBFTV   KT161026                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG20170400100175This is my transaction description..           -143.14 201610261234567890FPSBFTV   KT161026                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG20170400100176This is my transaction description..           -116.74 201610261234567890HHLBFTV   KT161026                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG20170400100177This is my transaction description..             96.48 201610261234567890JJVBFTV   KT161026                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG20170400100178This is my transaction description..           -116.36 201610261234567890KANBFTV   KT161026                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG20170400100179This is my transaction description..            -74.19 201610261234567890KVCBFTV   KT161026                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG20170400100180This is my transaction description..            -72.20 201610261234567890LAMBFTV   KT161026                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG20170400100181This is my transaction description..           -279.72 201610261234567890LCWBFTV   KT161026                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG20170400100182This is my transaction description..            112.46 201610261234567890LPSBFTV   KT161026                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG20170400100183This is my transaction description..            -48.67 201610261234567890MGTBFTV   KT161026                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG20170400100184This is my transaction description..            -61.19 201610261234567890NERBFTV   KT161026                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG20170400100185This is my transaction description..           -103.68 201610261234567890OPDBFTV   KT161026                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG20170400100186This is my transaction description..           -142.02 201610261234567890SLBBFTV   KT161026                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG20170400100187This is my transaction description..           -234.52 201610261234567890TNBBFTV   KT161026                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG20170400100188This is my transaction description..             88.70 201610261234567890YGGBFTV   KT161026                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG20170400100189This is my transaction description..             -5.62 201610261234567890----------KT161026                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG20170400100190This is my transaction description..          -1359.24 201610261234567890AMMBFTV   KT161026                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG20170400100191This is my transaction description..          -1120.38 201610261234567890BEBBFTV   KT161026                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG20170400100192This is my transaction description..           -890.90 201610261234567890BLLBFTV   KT161026                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG20170400100193This is my transaction description..          -1370.86 201610261234567890EDDBFTV   KT161026                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG20170400100194This is my transaction description..           -550.87 201610261234567890ENLBFTV   KT161026                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG20170400100195This is my transaction description..          -1297.34 201610261234567890FPSBFTV   KT161026                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG20170400100196This is my transaction description..          -1057.98 201610261234567890HHLBFTV   KT161026                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG20170400100197This is my transaction description..          -1187.86 201610261234567890JJVBFTV   KT161026                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG20170400100198This is my transaction description..          -1054.50 201610261234567890KANBFTV   KT161026                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG20170400100199This is my transaction description..          -1125.46 201610261234567890KVCBFTV   KT161026                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG20170400100200This is my transaction description..           -654.32 201610261234567890LAMBFTV   KT161026                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG20170400100201This is my transaction description..          -1831.64 201610261234567890LCWBFTV   KT161026                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG20170400100202This is my transaction description..          -1110.97 201610261234567890LPSBFTV   KT161026                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG20170400100203This is my transaction description..           -489.32 201610261234567890MGTBFTV   KT161026                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG20170400100204This is my transaction description..           -615.39 201610261234567890NERBFTV   KT161026                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG20170400100205This is my transaction description..           -939.64 201610261234567890OPDBFTV   KT161026                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG20170400100206This is my transaction description..          -1287.12 201610261234567890SLBBFTV   KT161026                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG20170400100207This is my transaction description..          -2125.52 201610261234567890TNBBFTV   KT161026                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG20170400100208This is my transaction description..           -821.25 201610261234567890YGGBFTV   KT161026                        
+20173 AC4IGAA-----SB28---CB  04GLCBAG20170400100209This is my transaction description..            -25.71 201610261234567890----------KT161026                        
+20173 AC4IGAA-----SB28---CB  04GLCBAG20170400100210This is my transaction description..           -302.64 201610261234567890BXFP      KT161026                        
+20173 AC4IGAA-----SB28---CB  04GLCBAG20170400100211This is my transaction description..          -1990.85 201610261234567890GMTP      KT161026                        
+20173 AC4IGAA-----SB28---CB  04GLCBAG20170400100212This is my transaction description..           -242.60 201610261234567890JXPP      KT161026                        
+20173 AC4IGAA-----SB28---CB  04GLCBAG20170400100213This is my transaction description..           -211.96 201610261234567890KAWP      KT161026                        
+20173 AC4IGAA-----SB28---CB  04GLCBAG20170400100214This is my transaction description..           -224.93 201610261234567890KXDP      KT161026                        
+20173 AC4IGAA-----SB28---CB  04GLCBAG20170400100215This is my transaction description..             95.34 201610261234567890TAGP      KT161026                        
+20173 AC4IGAA-----SUB6---CB  04GLCBAG20170400100216This is my transaction description..          -1595.30 201610261234567890----------KT161026                        
+20173 AC4IGAA-----SUB6---CB  04GLCBAG20170400100217This is my transaction description..          -2253.22 201610261234567890BXFP      KT161026                        
+20173 AC4IGAA-----SUB6---CB  04GLCBAG20170400100218This is my transaction description..          -3558.96 201610261234567890GMTP      KT161026                        
+20173 AC4IGAA-----SUB6---CB  04GLCBAG20170400100219This is my transaction description..          -2286.13 201610261234567890JXPP      KT161026                        
+20173 AC4IGAA-----SUB6---CB  04GLCBAG20170400100220This is my transaction description..          -1921.06 201610261234567890KAWP      KT161026                        
+20173 AC4IGAA-----SUB6---CB  04GLCBAG20170400100221This is my transaction description..          -2522.29 201610261234567890KXDP      KT161026                        
+20173 AC4IGAA-----SUB6---CB  04GLCBAG20170400100222This is my transaction description..          -2281.37 201610261234567890TAGP      KT161026                        
+20173 AC4RGAA-----SB28---CB  04GLCBAG20170400100223This is my transaction description..            975.31 201610261234567890----------KT161026                        
+20173 AC4RGAA-----SB28---CB  04GLCBAG20170400100224This is my transaction description..           -289.82 201610261234567890BAMP      KT161026                        
+20173 AC4RGAA-----SB28---CB  04GLCBAG20170400100225This is my transaction description..           -124.15 201610261234567890CNLP      KT161026                        
+20173 AC4RGAA-----SB28---CB  04GLCBAG20170400100226This is my transaction description..           -279.16 201610261234567890EGHP      KT161026                        
+20173 AC4RGAA-----SB28---CB  04GLCBAG20170400100227This is my transaction description..           -358.04 201610261234567890GFYP      KT161026                        
+20173 AC4RGAA-----SB28---CB  04GLCBAG20170400100228This is my transaction description..           -451.90 201610261234567890JCKP      KT161026                        
+20173 AC4RGAA-----SB28---CB  04GLCBAG20170400100229This is my transaction description..           -165.99 201610261234567890JXKP      KT161026                        
+20173 AC4RGAA-----SB28---CB  04GLCBAG20170400100230This is my transaction description..            -44.86 201610261234567890MTTP      KT161026                        
+20173 AC4RGAA-----SB28---CB  04GLCBAG20170400100231This is my transaction description..           -425.28 201610261234567890WJMP      KT161026                        
+20173 AC4RGAA-----SB28---CB  04GLCBAG20170400100232This is my transaction description..           -287.24 201610261234567890WSMP      KT161026                        
+20173 AC4RGAA-----SUB6---CB  04GLCBAG20170400100233This is my transaction description..           1193.10 201610261234567890----------KT161026                        
+20173 AC4RGAA-----SUB6---CB  04GLCBAG20170400100234This is my transaction description..          -2626.68 201610261234567890BAMP      KT161026                        
+20173 AC4RGAA-----SUB6---CB  04GLCBAG20170400100235This is my transaction description..          -1125.17 201610261234567890CNLP      KT161026                        
+20173 AC4RGAA-----SUB6---CB  04GLCBAG20170400100236This is my transaction description..          -2530.08 201610261234567890EGHP      KT161026                        
+20173 AC4RGAA-----SUB6---CB  04GLCBAG20170400100237This is my transaction description..          -2750.31 201610261234567890GFYP      KT161026                        
+20173 AC4RGAA-----SUB6---CB  04GLCBAG20170400100238This is my transaction description..          -2672.06 201610261234567890JCKP      KT161026                        
+20173 AC4RGAA-----SUB6---CB  04GLCBAG20170400100239This is my transaction description..          -1504.37 201610261234567890JXKP      KT161026                        
+20173 AC4RGAA-----SUB6---CB  04GLCBAG20170400100240This is my transaction description..          -2346.09 201610261234567890MTTP      KT161026                        
+20173 AC4RGAA-----SUB6---CB  04GLCBAG20170400100241This is my transaction description..          -2784.80 201610261234567890WJMP      KT161026                        
+20173 AC4RGAA-----SUB6---CB  04GLCBAG20170400100242This is my transaction description..          -3178.79 201610261234567890WSMP      KT161026                        
+20173 AC4RGAATEMP SUB6---CB  04GLCBAG20170400100243This is my transaction description..           -378.26 201610261234567890----------KT161026                        
+20173 AC5IGAA-----SB28---CB  04GLCBAG20170400100244This is my transaction description..           -165.88 201610261234567890ACL5DELCARKT161026                        
+20173 AC5IGAA-----SB28---CB  04GLCBAG20170400100245This is my transaction description..           -278.20 201610261234567890ACL5GEIGERKT161026                        
+20173 AC5IGAA-----SB28---CB  04GLCBAG20170400100246This is my transaction description..            -11.66 201610261234567890ARES_POHL KT161026                        
+20173 AC5IGAA-----SB28---CB  04GLCBAG20170400100247This is my transaction description..           -104.02 201610261234567890FMCCLEERY KT161026                        
+20173 AC5IGAA-----SUB6---CB  04GLCBAG20170400100248This is my transaction description..             -9.89 201610261234567890----------KT161026                        
+20173 AC5IGAA-----SUB6---CB  04GLCBAG20170400100249This is my transaction description..          -1503.44 201610261234567890ACL5DELCARKT161026                        
+20173 AC5IGAA-----SUB6---CB  04GLCBAG20170400100250This is my transaction description..          -1955.03 201610261234567890ACL5GEIGERKT161026                        
+20173 AC5IGAA-----SUB6---CB  04GLCBAG20170400100251This is my transaction description..           -213.79 201610261234567890ARES_POHL KT161026                        
+20173 AC5IGAA-----SUB6---CB  04GLCBAG20170400100252This is my transaction description..           -942.79 201610261234567890FMCCLEERY KT161026                        
+20173 AC5RGAA-----SB28---CB  04GLCBAG20170400100253This is my transaction description..            -49.68 201610261234567890ARE_HELSINKT161026                        
+20173 AC5RGAA-----SUB6---CB  04GLCBAG20170400100254This is my transaction description..           -450.32 201610261234567890ARE_HELSINKT161026                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG20170400100255This is my transaction description..           -139.93 201610261234567890ADOBJN    KT161026                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG20170400100256This is my transaction description..            -58.32 201610261234567890ADOCFA    KT161026                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG20170400100257This is my transaction description..           -126.84 201610261234567890ADOCRC    KT161026                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG20170400100258This is my transaction description..            -95.38 201610261234567890ADOCWF    KT161026                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG20170400100259This is my transaction description..              5.70 201610261234567890ADODWJ    KT161026                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG20170400100260This is my transaction description..           -116.60 201610261234567890ADOHTD    KT161026                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG20170400100261This is my transaction description..            155.64 201610261234567890ADOJCD    KT161026                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG20170400100262This is my transaction description..            -36.47 201610261234567890ADOJLB    KT161026                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG20170400100263This is my transaction description..             94.48 201610261234567890ADOJXE    KT161026                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG20170400100264This is my transaction description..           -167.92 201610261234567890ADOLMW    KT161026                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG20170400100265This is my transaction description..            -99.30 201610261234567890ADOMXW    KT161026                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG20170400100266This is my transaction description..            257.01 201610261234567890ADOPAS    KT161026                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG20170400100267This is my transaction description..            101.44 201610261234567890ADOSXG    KT161026                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG20170400100268This is my transaction description..           -221.26 201610261234567890ADOYXC    KT161026                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG20170400100269This is my transaction description..          -1099.14 201610261234567890ADOBJN    KT161026                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG20170400100270This is my transaction description..           -884.34 201610261234567890ADOCFA    KT161026                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG20170400100271This is my transaction description..          -1149.58 201610261234567890ADOCRC    KT161026                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG20170400100272This is my transaction description..          -1068.37 201610261234567890ADOCWF    KT161026                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG20170400100273This is my transaction description..          -1167.53 201610261234567890ADODWJ    KT161026                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG20170400100274This is my transaction description..          -2394.18 201610261234567890ADOHTD    KT161026                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG20170400100275This is my transaction description..          -1916.35 201610261234567890ADOJCD    KT161026                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG20170400100276This is my transaction description..           -914.66 201610261234567890ADOJLB    KT161026                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG20170400100277This is my transaction description..          -1163.16 201610261234567890ADOJXE    KT161026                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG20170400100278This is my transaction description..          -1250.18 201610261234567890ADOLMW    KT161026                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG20170400100279This is my transaction description..           -900.00 201610261234567890ADOMXW    KT161026                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG20170400100280This is my transaction description..           -793.19 201610261234567890ADOPAS    KT161026                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG20170400100281This is my transaction description..          -1034.98 201610261234567890ADOSXG    KT161026                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG20170400100282This is my transaction description..          -1348.90 201610261234567890ADOYXC    KT161026                        
+20173 ADORGA2-----SB28---CB  04GLCBAG20170400100283This is my transaction description..           -617.23 201610261234567890----------KT161026                        
+20173 ADORGA2-----SUB6---CB  04GLCBAG20170400100284This is my transaction description..          -4634.98 201610261234567890----------KT161026                        
+20173 ADORGAA-----SB28---CB  04GLCBAG20170400100285This is my transaction description..           -131.05 201610261234567890ADOBJN    KT161026                        
+20173 ADORGAA-----SB28---CB  04GLCBAG20170400100286This is my transaction description..            -54.50 201610261234567890ADOCFA    KT161026                        
+20173 ADORGAA-----SB28---CB  04GLCBAG20170400100287This is my transaction description..           -126.92 201610261234567890ADOCRC    KT161026                        
+20173 ADORGAA-----SB28---CB  04GLCBAG20170400100288This is my transaction description..            -89.16 201610261234567890ADOCWF    KT161026                        
+20173 ADORGAA-----SB28---CB  04GLCBAG20170400100289This is my transaction description..              5.34 201610261234567890ADODWJ    KT161026                        
+20173 ADORGAA-----SB28---CB  04GLCBAG20170400100290This is my transaction description..            -34.21 201610261234567890ADOJLB    KT161026                        
+20173 ADORGAA-----SB28---CB  04GLCBAG20170400100291This is my transaction description..             88.31 201610261234567890ADOJXE    KT161026                        
+20173 ADORGAA-----SB28---CB  04GLCBAG20170400100292This is my transaction description..             17.77 201610261234567890ADOJXS    KT161026                        
+20173 ADORGAA-----SB28---CB  04GLCBAG20170400100293This is my transaction description..           -156.96 201610261234567890ADOLMW    KT161026                        
+20173 ADORGAA-----SB28---CB  04GLCBAG20170400100294This is my transaction description..            -99.30 201610261234567890ADOMXW    KT161026                        
+20173 ADORGAA-----SB28---CB  04GLCBAG20170400100295This is my transaction description..            240.24 201610261234567890ADOPAS    KT161026                        
+20173 ADORGAA-----SB28---CB  04GLCBAG20170400100296This is my transaction description..             94.77 201610261234567890ADOSXG    KT161026                        
+20173 ADORGAA-----SB28---CB  04GLCBAG20170400100297This is my transaction description..           -206.67 201610261234567890ADOYXC    KT161026                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG20170400100298This is my transaction description..          -1027.59 201610261234567890ADOBJN    KT161026                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG20170400100299This is my transaction description..           -826.68 201610261234567890ADOCFA    KT161026                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG20170400100300This is my transaction description..          -1150.28 201610261234567890ADOCRC    KT161026                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG20170400100301This is my transaction description..           -998.69 201610261234567890ADOCWF    KT161026                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG20170400100302This is my transaction description..          -1091.37 201610261234567890ADODWJ    KT161026                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG20170400100303This is my transaction description..           -855.09 201610261234567890ADOJLB    KT161026                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG20170400100304This is my transaction description..          -1087.30 201610261234567890ADOJXE    KT161026                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG20170400100305This is my transaction description..            161.01 201610261234567890ADOJXS    KT161026                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG20170400100306This is my transaction description..          -1168.64 201610261234567890ADOLMW    KT161026                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG20170400100307This is my transaction description..           -900.00 201610261234567890ADOMXW    KT161026                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG20170400100308This is my transaction description..           -741.47 201610261234567890ADOPAS    KT161026                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG20170400100309This is my transaction description..           -967.49 201610261234567890ADOSXG    KT161026                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG20170400100310This is my transaction description..          -1260.87 201610261234567890ADOYXC    KT161026                        
+20173 AECIGAA-----SB28---CB  04GLCBAG20170400100311This is my transaction description..            -33.02 201610261234567890AAREPYONJ KT161026                        
+20173 AECIGAA-----SB28---CB  04GLCBAG20170400100312This is my transaction description..            -30.84 201610261234567890ACL5WONG  KT161026                        
+20173 AECIGAA-----SB28---CB  04GLCBAG20170400100313This is my transaction description..           -379.90 201610261234567890ARES_CLAR KT161026                        
+20173 AECIGAA-----SB28---CB  04GLCBAG20170400100314This is my transaction description..           -441.04 201610261234567890ARES_HANS KT161026                        
+20173 AECIGAA-----SB28---CB  04GLCBAG20170400100315This is my transaction description..           -206.40 201610261234567890ARES_OKOLOKT161026                        
+20173 AECIGAA-----SB28---CB  04GLCBAG20170400100316This is my transaction description..           -104.84 201610261234567890ARES_POHL KT161026                        
+20173 AECIGAA-----SB28---CB  04GLCBAG20170400100317This is my transaction description..           -168.70 201610261234567890ARES_SMAL KT161026                        
+20173 AECIGAA-----SB28---CB  04GLCBAG20170400100318This is my transaction description..           -335.56 201610261234567890SHANNON   KT161026                        
+20173 AECIGAA-----SUB6---CB  04GLCBAG20170400100319This is my transaction description..          -1802.39 201610261234567890AAREPYONJ KT161026                        
+20173 AECIGAA-----SUB6---CB  04GLCBAG20170400100320This is my transaction description..           -279.50 201610261234567890ACL5WONG  KT161026                        
+20173 AECIGAA-----SUB6---CB  04GLCBAG20170400100321This is my transaction description..           -136.50 201610261234567890AREF_REG3 KT161026                        
+20173 AECIGAA-----SUB6---CB  04GLCBAG20170400100322This is my transaction description..          -2883.02 201610261234567890ARES_CLAR KT161026                        
+20173 AECIGAA-----SUB6---CB  04GLCBAG20170400100323This is my transaction description..          -2888.12 201610261234567890ARES_HANS KT161026                        
+20173 AECIGAA-----SUB6---CB  04GLCBAG20170400100324This is my transaction description..          -1870.60 201610261234567890ARES_OKOLOKT161026                        
+20173 AECIGAA-----SUB6---CB  04GLCBAG20170400100325This is my transaction description..          -1924.21 201610261234567890ARES_POHL KT161026                        
+20173 AECIGAA-----SUB6---CB  04GLCBAG20170400100326This is my transaction description..          -2184.50 201610261234567890ARES_SMAL KT161026                        
+20173 AECIGAA-----SUB6---CB  04GLCBAG20170400100327This is my transaction description..          -2526.20 201610261234567890SHANNON   KT161026                        
+20173 AECITMP-----SUB6---CB  04GLCBAG20170400100328This is my transaction description..          -4620.80 201610261234567890----------KT161026                        
+20173 AECRGAA-----SB28---CB  04GLCBAG20170400100329This is my transaction description..           -230.98 201610261234567890ACL5CALLAHKT161026                        
+20173 AECRGAA-----SB28---CB  04GLCBAG20170400100330This is my transaction description..            -14.89 201610261234567890ACL5SLOAN KT161026                        
+20173 AECRGAA-----SB28---CB  04GLCBAG20170400100331This is my transaction description..            -49.68 201610261234567890ARE_HELSINKT161026                        
+20173 AECRGAA-----SB28---CB  04GLCBAG20170400100332This is my transaction description..            -99.08 201610261234567890ARES_BURT KT161026                        
+20173 AECRGAA-----SUB6---CB  04GLCBAG20170400100333This is my transaction description..          -2093.34 201610261234567890ACL5CALLAHKT161026                        
+20173 AECRGAA-----SUB6---CB  04GLCBAG20170400100334This is my transaction description..          -2044.03 201610261234567890ACL5SLOAN KT161026                        
+20173 AECRGAA-----SUB6---CB  04GLCBAG20170400100335This is my transaction description..           -450.32 201610261234567890ARE_HELSINKT161026                        
+20173 AECRGAA-----SUB6---CB  04GLCBAG20170400100336This is my transaction description..           -897.88 201610261234567890ARES_BURT KT161026                        
+20173 AESIGAA-----SB28---CB  04GLCBAG20170400100337This is my transaction description..            715.40 201610261234567890ACL5AUGUSTKT161026                        
+20173 AESIGAA-----SB28---CB  04GLCBAG20170400100338This is my transaction description..            142.28 201610261234567890CARRIERE  KT161026                        
+20173 AESIGAA-----SB28---CB  04GLCBAG20170400100339This is my transaction description..           -217.24 201610261234567890CLOPEZ    KT161026                        
+20173 AESIGAA-----SB28---CB  04GLCBAG20170400100340This is my transaction description..           -251.72 201610261234567890DESMWHALEYKT161026                        
+20173 AESIGAA-----SUB6---CB  04GLCBAG20170400100341This is my transaction description..             -5.41 201610261234567890----------KT161026                        
+20173 AESIGAA-----SUB6---CB  04GLCBAG20170400100342This is my transaction description..          -1445.33 201610261234567890ACL5AUGUSTKT161026                        
+20173 AESIGAA-----SUB6---CB  04GLCBAG20170400100343This is my transaction description..          -1049.86 201610261234567890CARRIERE  KT161026                        
+20173 AESIGAA-----SUB6---CB  04GLCBAG20170400100344This is my transaction description..          -1968.92 201610261234567890CLOPEZ    KT161026                        
+20173 AESIGAA-----SUB6---CB  04GLCBAG20170400100345This is my transaction description..          -2281.28 201610261234567890DESMWHALEYKT161026                        
+20173 AESIGAA-----SUB6---CB  04GLCBAG20170400100346This is my transaction description..          -2646.74 201610261234567890ESPMORGAN KT161026                        
+20173 AESITMP-----SUB6---CB  04GLCBAG20170400100347This is my transaction description..             -1.40 201610261234567890----------KT161026                        
+20173 AESRG21-----SUB6---CB  04GLCBAG20170400100348This is my transaction description..           -146.92 201610261234567890----------KT161026                        
+20173 AESRGAA-----SB28---CB  04GLCBAG20170400100349This is my transaction description..           -234.52 201610261234567890----------KT161026                        
+20173 AESRGAA-----SB28---CB  04GLCBAG20170400100350This is my transaction description..            -45.53 201610261234567890ACL5HEREVIKT161026                        
+20173 AESRGAA-----SUB6---CB  04GLCBAG20170400100351This is my transaction description..          -2125.52 201610261234567890----------KT161026                        
+20173 AESRGAA-----SUB6---CB  04GLCBAG20170400100352This is my transaction description..          -1810.28 201610261234567890ACL5HEREVIKT161026                        
+20173 AESRGAA-----SUB6---CB  04GLCBAG20170400100353This is my transaction description..            -30.96 201610261234567890ESPSPRINGBKT161026                        
+20173 AETIGAA-----SB28---CB  04GLCBAG20170400100354This is my transaction description..             -8.32 201610261234567890AETXPIO   KT161026                        
+20173 AETIGAA-----SUB6---CB  04GLCBAG20170400100355This is my transaction description..            -70.20 201610261234567890AETXNWG   KT161026                        
+20173 AETIGAA-----SUB6---CB  04GLCBAG20170400100356This is my transaction description..            -36.48 201610261234567890AETXPIO   KT161026                        
+20173 AETIGAAAASAOSB28---CB  04GLCBAG20170400100357This is my transaction description..           -436.39 201610261234567890AETXSGK   KT161026                        
+20173 AETIGAAAASAOSUB6---CB  04GLCBAG20170400100358This is my transaction description..          -2702.68 201610261234567890AETXSGK   KT161026                        
+20173 AETRGAA-----SB28---CB  04GLCBAG20170400100359This is my transaction description..            -10.16 201610261234567890AETXPIO   KT161026                        
+20173 AETRGAA-----SUB6---CB  04GLCBAG20170400100360This is my transaction description..            -23.40 201610261234567890AETXNWG   KT161026                        
+20173 AETRGAA-----SUB6---CB  04GLCBAG20170400100361This is my transaction description..            -44.62 201610261234567890AETXPIO   KT161026                        
+20173 AETRGAAAGCHMSB28---CB  04GLCBAG20170400100362This is my transaction description..           -134.30 201610261234567890AETXGJE   KT161026                        
+20173 AETRGAAAGCHMSUB6---CB  04GLCBAG20170400100363This is my transaction description..          -1205.30 201610261234567890AETXGJE   KT161026                        
+20173 AETRGAAPHTOXSB28---CB  04GLCBAG20170400100364This is my transaction description..           -134.30 201610261234567890AETXGJE   KT161026                        
+20173 AETRGAAPHTOXSUB6---CB  04GLCBAG20170400100365This is my transaction description..          -1205.30 201610261234567890AETXGJE   KT161026                        
+20173 AFSIGAAADVISSUB6---CB  04GLCBAG20170400100366This is my transaction description..            -15.64 201610261234567890----------KT161026                        
+20173 AGARGAA-----SB28---CB  04GLCBAG20170400100367This is my transaction description..           2985.19 201610261234567890ADOCJT    KT161026                        
+20173 AGARGAA-----SUB6---CB  04GLCBAG20170400100368This is my transaction description..           1137.36 201610261234567890ADOCJT    KT161026                        
+20173 AHCRG14-----SUB6---CB  04GLCBAG20170400100369This is my transaction description..             -4.10 201610261234567890----------KT161026                        
+20173 AHEDC02-----SUB6---CB  04GLCBAG20170400100370This is my transaction description..             -3.51 201610261234567890----------KT161026                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG20170400100371This is my transaction description..           -141.12 201610261234567890----------KT161026                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG20170400100372This is my transaction description..           -221.02 201610261234567890ACL5KETCHUKT161026                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG20170400100373This is my transaction description..             71.00 201610261234567890ACL5LIETHMKT161026                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG20170400100374This is my transaction description..           -211.96 201610261234567890ACL5SUTTONKT161026                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG20170400100375This is my transaction description..           -353.78 201610261234567890CARMSTRONGKT161026                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG20170400100376This is my transaction description..           -304.28 201610261234567890CHENEY    KT161026                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG20170400100377This is my transaction description..           -350.34 201610261234567890HCDERDMAN KT161026                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG20170400100378This is my transaction description..           -209.14 201610261234567890HCDLOGANJOKT161026                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG20170400100379This is my transaction description..           -127.19 201610261234567890HE_KREZO  KT161026                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG20170400100380This is my transaction description..           -186.62 201610261234567890KCHAIDEZ  KT161026                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG20170400100381This is my transaction description..            -40.84 201610261234567890RCROTTY   KT161026                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG20170400100382This is my transaction description..             61.50 201610261234567890WILCOX    KT161026                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG20170400100383This is my transaction description..          -1278.97 201610261234567890----------KT161026                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG20170400100384This is my transaction description..          -2222.84 201610261234567890ACL5KETCHUKT161026                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG20170400100385This is my transaction description..           -511.15 201610261234567890ACL5LIETHMKT161026                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG20170400100386This is my transaction description..          -1921.06 201610261234567890ACL5SUTTONKT161026                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG20170400100387This is my transaction description..          -2634.04 201610261234567890CARMSTRONGKT161026                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG20170400100388This is my transaction description..          -2265.56 201610261234567890CHENEY    KT161026                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG20170400100389This is my transaction description..          -2608.46 201610261234567890HCDERDMAN KT161026                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG20170400100390This is my transaction description..          -1557.14 201610261234567890HCDLOGANJOKT161026                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG20170400100391This is my transaction description..           4931.70 201610261234567890HCDSWARTZ KT161026                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG20170400100392This is my transaction description..          -2112.33 201610261234567890HE_KREZO  KT161026                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG20170400100393This is my transaction description..          -1691.38 201610261234567890KCHAIDEZ  KT161026                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG20170400100394This is my transaction description..          -2115.63 201610261234567890RCROTTY   KT161026                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG20170400100395This is my transaction description..           -757.15 201610261234567890WILCOX    KT161026                        
+20173 AHEIGAACRDSBSUB6---CB  04GLCBAG20170400100396This is my transaction description..             -4.10 201610261234567890----------KT161026                        
+20173 AHEIGAAHDESBSUB6---CB  04GLCBAG20170400100397This is my transaction description..             21.96 201610261234567890----------KT161026                        
+20173 AHEIGAALDASBSB28---CB  04GLCBAG20170400100398This is my transaction description..           -182.78 201610261234567890LDALIDD   KT161026                        
+20173 AHEIGAALDASBSUB6---CB  04GLCBAG20170400100399This is my transaction description..            -13.94 201610261234567890----------KT161026                        
+20173 AHEIGAALDASBSUB6---CB  04GLCBAG20170400100400This is my transaction description..          -1693.19 201610261234567890LDALIDD   KT161026                        
+20173 AHEITMPHDESBSUB6---CB  04GLCBAG20170400100401This is my transaction description..             -5.37 201610261234567890----------KT161026                        
+20173 AHELH02-----SB28---CB  04GLCBAG20170400100402This is my transaction description..           -241.52 201610261234567890----------KT161026                        
+20173 AHELH02-----SUB6---CB  04GLCBAG20170400100403This is my transaction description..          -2216.55 201610261234567890----------KT161026                        
+20173 AHERCSM-----SUB6---CB  04GLCBAG20170400100404This is my transaction description..             -3.12 201610261234567890----------KT161026                        
+20173 AHERFAV-----SUB6---CB  04GLCBAG20170400100405This is my transaction description..             -2.74 201610261234567890----------KT161026                        
+20173 AHERFLH-----SUB6---CB  04GLCBAG20170400100406This is my transaction description..             11.61 201610261234567890----------KT161026                        
+20173 AHERGAA-----SB28---CB  04GLCBAG20170400100407This is my transaction description..           -141.12 201610261234567890----------KT161026                        
+20173 AHERGAA-----SB28---CB  04GLCBAG20170400100408This is my transaction description..            196.82 201610261234567890ACL5LIETHMKT161026                        
+20173 AHERGAA-----SB28---CB  04GLCBAG20170400100409This is my transaction description..             92.25 201610261234567890WILCOX    KT161026                        
+20173 AHERGAA-----SUB6---CB  04GLCBAG20170400100410This is my transaction description..          -1278.97 201610261234567890----------KT161026                        
+20173 AHERGAA-----SUB6---CB  04GLCBAG20170400100411This is my transaction description..          -1415.78 201610261234567890ACL5LIETHMKT161026                        
+20173 AHERGAA-----SUB6---CB  04GLCBAG20170400100412This is my transaction description..           2396.16 201610261234567890HCDLONDON KT161026                        
+20173 AHERGAA-----SUB6---CB  04GLCBAG20170400100413This is my transaction description..           2465.85 201610261234567890HCDSWARTZ KT161026                        
+20173 AHERGAA-----SUB6---CB  04GLCBAG20170400100414This is my transaction description..          -1135.74 201610261234567890WILCOX    KT161026                        
+20173 AHHRG42-----SUB6---CB  04GLCBAG20170400100415This is my transaction description..             -1.50 201610261234567890----------KT161026                        
+20173 AHHRG52-----SUB6---CB  04GLCBAG20170400100416This is my transaction description..             -0.29 201610261234567890----------KT161026                        
+20173 AIARGAA-----SB28---CB  04GLCBAG20170400100417This is my transaction description..           -143.55 201610261234567890----------KT161026                        
+20173 AIARGAA-----SB28---CB  04GLCBAG20170400100418This is my transaction description..           -113.90 201610261234567890ADOMSR    KT161026                        
+20173 AIARGAA-----SUB6---CB  04GLCBAG20170400100419This is my transaction description..          -1030.96 201610261234567890----------KT161026                        
+20173 AIARGAA-----SUB6---CB  04GLCBAG20170400100420This is my transaction description..          -1032.32 201610261234567890ADOMSR    KT161026                        
+20173 ALTRGAB-----SB28---CB  04GLCBAG20170400100421This is my transaction description..           -148.44 201610261234567890----------KT161026                        
+20173 ALTRGAB-----SB28---CB  04GLCBAG20170400100422This is my transaction description..           -155.94 201610261234567890ADOLAL    KT161026                        
+20173 ALTRGAB-----SUB6---CB  04GLCBAG20170400100423This is my transaction description..          -1631.24 201610261234567890----------KT161026                        
+20173 ALTRGAB-----SUB6---CB  04GLCBAG20170400100424This is my transaction description..          -1713.66 201610261234567890ADOLAL    KT161026                        
+20173 ALWIGAA-----SUB6---CB  04GLCBAG20170400100425This is my transaction description..           -329.02 201610261234567890----------KT161026                        
+20173 ALWIGAAAAFOPSB28---CB  04GLCBAG20170400100426This is my transaction description..            238.02 201610261234567890243READ   KT161026                        
+20173 ALWIGAAAAFOPSUB6---CB  04GLCBAG20170400100427This is my transaction description..           2157.18 201610261234567890243READ   KT161026                        
+20173 ALWIGAAAASAOSB28---CB  04GLCBAG20170400100428This is my transaction description..           -234.93 201610261234567890250BROOKS KT161026                        
+20173 ALWIGAAAASAOSB28---CB  04GLCBAG20170400100429This is my transaction description..            -47.50 201610261234567890250RUIZ   KT161026                        
+20173 ALWIGAAAASAOSUB6---CB  04GLCBAG20170400100430This is my transaction description..          -2186.78 201610261234567890250BROOKS KT161026                        
+20173 ALWIGAAAASAOSUB6---CB  04GLCBAG20170400100431This is my transaction description..          -2461.33 201610261234567890250RUIZ   KT161026                        
+20173 ALWRGAAAAFOPSB28---CB  04GLCBAG20170400100432This is my transaction description..            357.03 201610261234567890243READ   KT161026                        
+20173 ALWRGAAAAFOPSUB6---CB  04GLCBAG20170400100433This is my transaction description..           3235.77 201610261234567890243READ   KT161026                        
+20173 ALWRGAAAASRASUB6---CB  04GLCBAG20170400100434This is my transaction description..            718.20 201610261234567890242DOANE  KT161026                        
+20173 ANSFHXZ-----SUB6---CB  04GLCBAG20170400100435This is my transaction description..             -8.26 201610261234567890----------KT161026                        
+20173 ANSFJDM-----SUB6---CB  04GLCBAG20170400100436This is my transaction description..            -15.60 201610261234567890----------KT161026                        
+20173 ANSFJFM-----SB28---CB  04GLCBAG20170400100437This is my transaction description..           -151.24 201610261234567890TREJO     KT161026                        
+20173 ANSFJFM-----SUB6---CB  04GLCBAG20170400100438This is my transaction description..           -990.30 201610261234567890TREJO     KT161026                        
+20173 ANSFMED-----SB28---CB  04GLCBAG20170400100439This is my transaction description..           -214.66 201610261234567890----------KT161026                        
+20173 ANSFMED-----SUB6---CB  04GLCBAG20170400100440This is my transaction description..          -1945.42 201610261234567890----------KT161026                        
+20173 ANSFPJB-----SB28---CB  04GLCBAG20170400100441This is my transaction description..           -114.11 201610261234567890----------KT161026                        
+20173 ANSFPJB-----SUB6---CB  04GLCBAG20170400100442This is my transaction description..           -826.15 201610261234567890----------KT161026                        
+20173 ANSFPJR-----SB28---CB  04GLCBAG20170400100443This is my transaction description..           -189.04 201610261234567890TREJO     KT161026                        
+20173 ANSFPJR-----SUB6---CB  04GLCBAG20170400100444This is my transaction description..          -1237.90 201610261234567890TREJO     KT161026                        
+20173 ANSFRAZ-----SB28---CB  04GLCBAG20170400100445This is my transaction description..           -182.62 201610261234567890----------KT161026                        
+20173 ANSFRAZ-----SUB6---CB  04GLCBAG20170400100446This is my transaction description..          -1079.88 201610261234567890----------KT161026                        
+20173 ANTGGNBGRADSSB28---CB  04GLCBAG20170400100447This is my transaction description..           -228.32 201610261234567890----------KT161026                        
+20173 ANTGGNBGRADSSUB6---CB  04GLCBAG20170400100448This is my transaction description..          -1927.81 201610261234567890----------KT161026                        
+20173 ANTIGAA-----SB28---CB  04GLCBAG20170400100449This is my transaction description..           -197.64 201610261234567890----------KT161026                        
+20173 ANTIGAA-----SUB6---CB  04GLCBAG20170400100450This is my transaction description..          -1915.86 201610261234567890----------KT161026                        
+20173 ANTIGAAADVISSB28---CB  04GLCBAG20170400100451This is my transaction description..           -195.22 201610261234567890NUTUNDR   KT161026                        
+20173 ANTIGAAADVISSUB6---CB  04GLCBAG20170400100452This is my transaction description..          -2280.18 201610261234567890NUTUNDR   KT161026                        
+20173 ANTIGAASALRYSB28---CB  04GLCBAG20170400100453This is my transaction description..             -8.20 201610261234567890NUTCPS    KT161026                        
+20173 ANTIGAASALRYSB28---CB  04GLCBAG20170400100454This is my transaction description..             -7.62 201610261234567890NUTGNC    KT161026                        
+20173 ANTIGAASALRYSB28---CB  04GLCBAG20170400100455This is my transaction description..            -19.20 201610261234567890NUTKGD    KT161026                        
+20173 ANTIGAASALRYSB28---CB  04GLCBAG20170400100456This is my transaction description..            -40.62 201610261234567890NUTPIO    KT161026                        
+20173 ANTIGAASALRYSUB6---CB  04GLCBAG20170400100457This is my transaction description..           -203.78 201610261234567890NUTCLK    KT161026                        
+20173 ANTIGAASALRYSUB6---CB  04GLCBAG20170400100458This is my transaction description..            -68.90 201610261234567890NUTCPS    KT161026                        
+20173 ANTIGAASALRYSUB6---CB  04GLCBAG20170400100459This is my transaction description..            -33.48 201610261234567890NUTGNC    KT161026                        
+20173 ANTIGAASALRYSUB6---CB  04GLCBAG20170400100460This is my transaction description..            -84.30 201610261234567890NUTKGD    KT161026                        
+20173 ANTIGAASALRYSUB6---CB  04GLCBAG20170400100461This is my transaction description..           -105.30 201610261234567890NUTNWG    KT161026                        
+20173 ANTIGAASALRYSUB6---CB  04GLCBAG20170400100462This is my transaction description..           -178.42 201610261234567890NUTPIO    KT161026                        
+20173 ANTITMPNU010SUB6---CB  04GLCBAG20170400100463This is my transaction description..          -7942.38 201610261234567890----------KT161026                        
+20173 ANTRGAA-----SB28---CB  04GLCBAG20170400100464This is my transaction description..             -0.24 201610261234567890----------KT161026                        
+20173 ANTRGAA-----SUB6---CB  04GLCBAG20170400100465This is my transaction description..           -411.79 201610261234567890----------KT161026                        
+20173 ANTRGAASALRYSB28---CB  04GLCBAG20170400100466This is my transaction description..             -0.98 201610261234567890NUTCPS    KT161026                        
+20173 ANTRGAASALRYSB28---CB  04GLCBAG20170400100467This is my transaction description..             -6.21 201610261234567890NUTGNC    KT161026                        
+20173 ANTRGAASALRYSB28---CB  04GLCBAG20170400100468This is my transaction description..            -27.06 201610261234567890NUTKGD    KT161026                        
+20173 ANTRGAASALRYSB28---CB  04GLCBAG20170400100469This is my transaction description..            -33.24 201610261234567890NUTPIO    KT161026                        
+20173 ANTRGAASALRYSB28---CB  04GLCBAG20170400100470This is my transaction description..             -9.23 201610261234567890NUTSZC    KT161026                        
+20173 ANTRGAASALRYSUB6---CB  04GLCBAG20170400100471This is my transaction description..           -166.72 201610261234567890NUTCLK    KT161026                        
+20173 ANTRGAASALRYSUB6---CB  04GLCBAG20170400100472This is my transaction description..            -20.35 201610261234567890NUTCPS    KT161026                        
+20173 ANTRGAASALRYSUB6---CB  04GLCBAG20170400100473This is my transaction description..            -27.39 201610261234567890NUTGNC    KT161026                        
+20173 ANTRGAASALRYSUB6---CB  04GLCBAG20170400100474This is my transaction description..           -118.80 201610261234567890NUTKGD    KT161026                        
+20173 ANTRGAASALRYSUB6---CB  04GLCBAG20170400100475This is my transaction description..            -35.10 201610261234567890NUTNWG    KT161026                        
+20173 ANTRGAASALRYSUB6---CB  04GLCBAG20170400100476This is my transaction description..           -145.98 201610261234567890NUTPIO    KT161026                        
+20173 ANTRGAASALRYSUB6---CB  04GLCBAG20170400100477This is my transaction description..            -77.62 201610261234567890NUTSZC    KT161026                        
+20173 ANTUNDRADVISSUB6---CB  04GLCBAG20170400100478This is my transaction description..            -21.01 201610261234567890----------KT161026                        
+20173 APFIGAAXPSTXSB28---CB  04GLCBAG20170400100479This is my transaction description..            -39.96 201610261234567890MONTOYA-P KT161026                        
+20173 APFIGAAXPSTXSUB6---CB  04GLCBAG20170400100480This is my transaction description..           -286.50 201610261234567890MONTOYA-P KT161026                        
+20173 APPIGAA-----SUB6---CB  04GLCBAG20170400100481This is my transaction description..             -4.20 201610261234567890----------KT161026                        
+20173 APPIGAA-----SUB6---CB  04GLCBAG20170400100482This is my transaction description..          -1252.86 201610261234567890PCRP      KT161026                        
+20173 APPRGAA-----SB28---CB  04GLCBAG20170400100483This is my transaction description..            -36.05 201610261234567890BTPP      KT161026                        
+20173 APPRGAA-----SB28---CB  04GLCBAG20170400100484This is my transaction description..           -299.20 201610261234567890JCRP      KT161026                        
+20173 APPRGAA-----SUB6---CB  04GLCBAG20170400100485This is my transaction description..            -22.22 201610261234567890----------KT161026                        
+20173 APPRGAA-----SUB6---CB  04GLCBAG20170400100486This is my transaction description..          -2264.31 201610261234567890BTPP      KT161026                        
+20173 APPRGAA-----SUB6---CB  04GLCBAG20170400100487This is my transaction description..          -1959.24 201610261234567890JCRP      KT161026                        
+20173 APPRGAA-----SUB6---CB  04GLCBAG20170400100488This is my transaction description..          -1486.18 201610261234567890PCRP      KT161026                        
+20173 APRIGAU-----SB28---CB  04GLCBAG20170400100489This is my transaction description..          13378.58 201610261234567890----------KT161026                        
+20173 APRIGAU-----SUB6---CB  04GLCBAG20170400100490This is my transaction description..         206311.82 201610261234567890----------KT161026                        
+20173 APRRGAU-----SB28---CB  04GLCBAG20170400100491This is my transaction description..          -2008.40 201610261234567890----------KT161026                        
+20173 APRRGAU-----SUB6---CB  04GLCBAG20170400100492This is my transaction description..         227535.80 201610261234567890----------KT161026                        
+20173 APSGPBCOPBC2SB28---CB  04GLCBAG20170400100493This is my transaction description..           -223.58 201610261234567890PIETROS   KT161026                        
+20173 APSGPBCOPBC2SUB6---CB  04GLCBAG20170400100494This is my transaction description..             -2.66 201610261234567890----------KT161026                        
+20173 APSGPBCOPBC2SUB6---CB  04GLCBAG20170400100495This is my transaction description..          -2026.34 201610261234567890PIETROS   KT161026                        
+20173 APSIGAAAEUGASUB6---CB  04GLCBAG20170400100496This is my transaction description..            -20.99 201610261234567890----------KT161026                        
+20173 APSIGAAASADVSB28---CB  04GLCBAG20170400100497This is my transaction description..           -466.18 201610261234567890BROWNL    KT161026                        
+20173 APSIGAAASADVSB28---CB  04GLCBAG20170400100498This is my transaction description..           -196.10 201610261234567890SMITHCOLBYKT161026                        
+20173 APSIGAAASADVSB28---CB  04GLCBAG20170400100499This is my transaction description..           -235.63 201610261234567890SOUZAKAE  KT161026                        
+20173 APSIGAAASADVSUB6---CB  04GLCBAG20170400100500This is my transaction description..          -2756.56 201610261234567890BROWNL    KT161026                        
+20173 APSIGAAASADVSUB6---CB  04GLCBAG20170400100501This is my transaction description..          -1782.66 201610261234567890SMITHCOLBYKT161026                        
+20173 APSIGAAASADVSUB6---CB  04GLCBAG20170400100502This is my transaction description..          -2438.12 201610261234567890SOUZAKAE  KT161026                        
+20173 APSIGAAASFLVSB28---CB  04GLCBAG20170400100503This is my transaction description..           -143.62 201610261234567890BOONET    KT161026                        
+20173 APSIGAAASFLVSB28---CB  04GLCBAG20170400100504This is my transaction description..           -134.60 201610261234567890MANDRES   KT161026                        
+20173 APSIGAAASFLVSB28---CB  04GLCBAG20170400100505This is my transaction description..           -105.56 201610261234567890MILLERRJ  KT161026                        
+20173 APSIGAAASFLVSB28---CB  04GLCBAG20170400100506This is my transaction description..           -119.88 201610261234567890MONTOYA   KT161026                        
+20173 APSIGAAASFLVSUB6---CB  04GLCBAG20170400100507This is my transaction description..          -1578.16 201610261234567890BOONET    KT161026                        
+20173 APSIGAAASFLVSUB6---CB  04GLCBAG20170400100508This is my transaction description..          -1479.00 201610261234567890MANDRES   KT161026                        
+20173 APSIGAAASFLVSUB6---CB  04GLCBAG20170400100509This is my transaction description..          -1159.88 201610261234567890MILLERRJ  KT161026                        
+20173 APSIGAAASFLVSUB6---CB  04GLCBAG20170400100510This is my transaction description..           -859.48 201610261234567890MONTOYA   KT161026                        
+20173 APSIGAAASITESB28---CB  04GLCBAG20170400100511This is my transaction description..             66.30 201610261234567890SZETO,B   KT161026                        
+20173 APSIGAAASITESB28---CB  04GLCBAG20170400100512This is my transaction description..            243.11 201610261234567890WONGK     KT161026                        
+20173 APSIGAAASITESUB6---CB  04GLCBAG20170400100513This is my transaction description..           -340.99 201610261234567890SZETO,B   KT161026                        
+20173 APSIGAAASITESUB6---CB  04GLCBAG20170400100514This is my transaction description..           -519.69 201610261234567890WONGK     KT161026                        
+20173 APSIGAAASOFCSB28---CB  04GLCBAG20170400100515This is my transaction description..             43.10 201610261234567890ADAMS     KT161026                        
+20173 APSIGAAASOFCSB28---CB  04GLCBAG20170400100516This is my transaction description..            -94.44 201610261234567890CHAVEZ,DANKT161026                        
+20173 APSIGAAASOFCSB28---CB  04GLCBAG20170400100517This is my transaction description..            -91.40 201610261234567890DHINDSABALKT161026                        
+20173 APSIGAAASOFCSB28---CB  04GLCBAG20170400100518This is my transaction description..           -181.16 201610261234567890GEER      KT161026                        
+20173 APSIGAAASOFCSB28---CB  04GLCBAG20170400100519This is my transaction description..            -16.94 201610261234567890GILDAY    KT161026                        
+20173 APSIGAAASOFCSB28---CB  04GLCBAG20170400100520This is my transaction description..            510.51 201610261234567890MCVARISH  KT161026                        
+20173 APSIGAAASOFCSB28---CB  04GLCBAG20170400100521This is my transaction description..             14.69 201610261234567890REIDS     KT161026                        
+20173 APSIGAAASOFCSB28---CB  04GLCBAG20170400100522This is my transaction description..            245.33 201610261234567890SABERI-S  KT161026                        
+20173 APSIGAAASOFCSB28---CB  04GLCBAG20170400100523This is my transaction description..           -171.38 201610261234567890SALAZAR,C KT161026                        
+20173 APSIGAAASOFCSB28---CB  04GLCBAG20170400100524This is my transaction description..           -148.10 201610261234567890WATERSON-KKT161026                        
+20173 APSIGAAASOFCSUB6---CB  04GLCBAG20170400100525This is my transaction description..           -305.38 201610261234567890ADAMS     KT161026                        
+20173 APSIGAAASOFCSUB6---CB  04GLCBAG20170400100526This is my transaction description..          -1203.43 201610261234567890CHAVEZ,DANKT161026                        
+20173 APSIGAAASOFCSUB6---CB  04GLCBAG20170400100527This is my transaction description..           -828.28 201610261234567890DHINDSABALKT161026                        
+20173 APSIGAAASOFCSUB6---CB  04GLCBAG20170400100528This is my transaction description..          -1186.24 201610261234567890GEER      KT161026                        
+20173 APSIGAAASOFCSUB6---CB  04GLCBAG20170400100529This is my transaction description..           -877.71 201610261234567890GILDAY    KT161026                        
+20173 APSIGAAASOFCSUB6---CB  04GLCBAG20170400100530This is my transaction description..           -653.01 201610261234567890MCVARISH  KT161026                        
+20173 APSIGAAASOFCSUB6---CB  04GLCBAG20170400100531This is my transaction description..           -120.79 201610261234567890REIDS     KT161026                        
+20173 APSIGAAASOFCSUB6---CB  04GLCBAG20170400100532This is my transaction description..           -409.40 201610261234567890SABERI-S  KT161026                        
+20173 APSIGAAASOFCSUB6---CB  04GLCBAG20170400100533This is my transaction description..          -1276.02 201610261234567890SALAZAR,C KT161026                        
+20173 APSIGAAASOFCSUB6---CB  04GLCBAG20170400100534This is my transaction description..          -1102.64 201610261234567890WATERSON-KKT161026                        
+20173 APSIGAAASSAFSB28---CB  04GLCBAG20170400100535This is my transaction description..            -55.54 201610261234567890WARREN,B  KT161026                        
+20173 APSIGAAASSAFSUB6---CB  04GLCBAG20170400100536This is my transaction description..           -978.15 201610261234567890WARREN,B  KT161026                        
+20173 APSITMPCS021SUB6---CB  04GLCBAG20170400100537This is my transaction description..            -68.70 201610261234567890----------KT161026                        
+20173 APSRG12RBH03SB28---CB  04GLCBAG20170400100538This is my transaction description..            -34.50 201610261234567890----------KT161026                        
+20173 APSRG12RBH03SUB6---CB  04GLCBAG20170400100539This is my transaction description..          -2960.52 201610261234567890----------KT161026                        
+20173 APSRG44FAMD2SB28---CB  04GLCBAG20170400100540This is my transaction description..              2.68 201610261234567890----------KT161026                        
+20173 APSRG44FAMD2SUB6---CB  04GLCBAG20170400100541This is my transaction description..            144.75 201610261234567890----------KT161026                        
+20173 APSRG51FJML0SUB6---CB  04GLCBAG20170400100542This is my transaction description..             -6.04 201610261234567890----------KT161026                        
+20173 APSRG55FEJM2SUB6---CB  04GLCBAG20170400100543This is my transaction description..            -17.34 201610261234567890----------KT161026                        
+20173 APSRG67FABB2SB28---CB  04GLCBAG20170400100544This is my transaction description..            -39.89 201610261234567890----------KT161026                        
+20173 APSRG67FABB2SUB6---CB  04GLCBAG20170400100545This is my transaction description..           -325.92 201610261234567890----------KT161026                        
+20173 APSRG71FRTC1SB28---CB  04GLCBAG20170400100546This is my transaction description..            -35.06 201610261234567890----------KT161026                        
+20173 APSRG71FRTC1SUB6---CB  04GLCBAG20170400100547This is my transaction description..          -1816.36 201610261234567890----------KT161026                        
+20173 APSRGAAAEFLPSB28---CB  04GLCBAG20170400100548This is my transaction description..            -16.26 201610261234567890----------KT161026                        
+20173 APSRGAAAEFLPSUB6---CB  04GLCBAG20170400100549This is my transaction description..           -545.98 201610261234567890----------KT161026                        
+20173 APSRGAAAEITESUB6---CB  04GLCBAG20170400100550This is my transaction description..            -10.86 201610261234567890----------KT161026                        
+20173 APSRGAAAEOFCSUB6---CB  04GLCBAG20170400100551This is my transaction description..             -6.25 201610261234567890----------KT161026                        
+20173 APSRGAAAESAFSUB6---CB  04GLCBAG20170400100552This is my transaction description..             -8.84 201610261234567890----------KT161026                        
+20173 APSRGAAASFLESB28---CB  04GLCBAG20170400100553This is my transaction description..            -54.01 201610261234567890LOPEZANT  KT161026                        
+20173 APSRGAAASFLESUB6---CB  04GLCBAG20170400100554This is my transaction description..           -593.16 201610261234567890LOPEZANT  KT161026                        
+20173 APSRGAAASFLPSB28---CB  04GLCBAG20170400100555This is my transaction description..            -35.56 201610261234567890DDICKSON  KT161026                        
+20173 APSRGAAASFLPSUB6---CB  04GLCBAG20170400100556This is my transaction description..          -2234.44 201610261234567890DDICKSON  KT161026                        
+20173 APSRGAAASFLVSB28---CB  04GLCBAG20170400100557This is my transaction description..           -143.62 201610261234567890BOONET    KT161026                        
+20173 APSRGAAASFLVSB28---CB  04GLCBAG20170400100558This is my transaction description..           -105.56 201610261234567890MILLERRJ  KT161026                        
+20173 APSRGAAASFLVSB28---CB  04GLCBAG20170400100559This is my transaction description..           -239.76 201610261234567890MONTOYA   KT161026                        
+20173 APSRGAAASFLVSUB6---CB  04GLCBAG20170400100560This is my transaction description..          -1578.16 201610261234567890BOONET    KT161026                        
+20173 APSRGAAASFLVSUB6---CB  04GLCBAG20170400100561This is my transaction description..          -1159.88 201610261234567890MILLERRJ  KT161026                        
+20173 APSRGAAASFLVSUB6---CB  04GLCBAG20170400100562This is my transaction description..          -1718.96 201610261234567890MONTOYA   KT161026                        
+20173 APSRGAAASFLVSUB6---CB  04GLCBAG20170400100563This is my transaction description..          -1767.03 201610261234567890PLOCHER   KT161026                        
+20173 APSRGAAASFLWSB28---CB  04GLCBAG20170400100564This is my transaction description..           -292.90 201610261234567890EERICKSON KT161026                        
+20173 APSRGAAASFLWSUB6---CB  04GLCBAG20170400100565This is my transaction description..          -3232.78 201610261234567890EERICKSON KT161026                        
+20173 APSRGAAASITESB28---CB  04GLCBAG20170400100566This is my transaction description..           -286.66 201610261234567890BRYANS    KT161026                        
+20173 APSRGAAASITESB28---CB  04GLCBAG20170400100567This is my transaction description..           -216.62 201610261234567890DUSSAULT,LKT161026                        
+20173 APSRGAAASITESB28---CB  04GLCBAG20170400100568This is my transaction description..            614.92 201610261234567890SZETO,B   KT161026                        
+20173 APSRGAAASITESB28---CB  04GLCBAG20170400100569This is my transaction description..            655.62 201610261234567890WONGK     KT161026                        
+20173 APSRGAAASITESUB6---CB  04GLCBAG20170400100570This is my transaction description..          -2597.96 201610261234567890BRYANS    KT161026                        
+20173 APSRGAAASITESUB6---CB  04GLCBAG20170400100571This is my transaction description..          -1418.50 201610261234567890DUSSAULT,LKT161026                        
+20173 APSRGAAASITESUB6---CB  04GLCBAG20170400100572This is my transaction description..           -148.07 201610261234567890SZETO,B   KT161026                        
+20173 APSRGAAASITESUB6---CB  04GLCBAG20170400100573This is my transaction description..           -411.82 201610261234567890WONGK     KT161026                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG20170400100574This is my transaction description..            244.18 201610261234567890ADAMS     KT161026                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG20170400100575This is my transaction description..           -232.32 201610261234567890CBROWNE   KT161026                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG20170400100576This is my transaction description..           -115.09 201610261234567890CHAVEZ,DANKT161026                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG20170400100577This is my transaction description..             69.10 201610261234567890CLEARWATERKT161026                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG20170400100578This is my transaction description..            -91.40 201610261234567890DHINDSABALKT161026                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG20170400100579This is my transaction description..           -288.35 201610261234567890GARTUNGALYKT161026                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG20170400100580This is my transaction description..           -221.40 201610261234567890GEER      KT161026                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG20170400100581This is my transaction description..            -16.94 201610261234567890GILDAY    KT161026                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG20170400100582This is my transaction description..            458.41 201610261234567890GREENLEAF KT161026                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG20170400100583This is my transaction description..            182.52 201610261234567890HENDRICKS KT161026                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG20170400100584This is my transaction description..            623.94 201610261234567890MCVARISH  KT161026                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG20170400100585This is my transaction description..           -206.39 201610261234567890NIJJAR-BALKT161026                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG20170400100586This is my transaction description..            279.24 201610261234567890REIDS     KT161026                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG20170400100587This is my transaction description..            245.33 201610261234567890SABERI-S  KT161026                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG20170400100588This is my transaction description..           -171.38 201610261234567890SALAZAR,C KT161026                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG20170400100589This is my transaction description..           -222.14 201610261234567890WATERSON-KKT161026                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG20170400100590This is my transaction description..          -1730.55 201610261234567890ADAMS     KT161026                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG20170400100591This is my transaction description..          -2105.52 201610261234567890CBROWNE   KT161026                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG20170400100592This is my transaction description..          -1470.69 201610261234567890CHAVEZ,DANKT161026                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG20170400100593This is my transaction description..          -2127.53 201610261234567890CLEARWATERKT161026                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG20170400100594This is my transaction description..           -828.28 201610261234567890DHINDSABALKT161026                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG20170400100595This is my transaction description..          -1888.20 201610261234567890GARTUNGALYKT161026                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG20170400100596This is my transaction description..          -1449.84 201610261234567890GEER      KT161026                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG20170400100597This is my transaction description..           -877.71 201610261234567890GILDAY    KT161026                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG20170400100598This is my transaction description..          -2331.48 201610261234567890GREENLEAF KT161026                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG20170400100599This is my transaction description..          -1157.60 201610261234567890HENDRICKS KT161026                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG20170400100600This is my transaction description..           -798.15 201610261234567890MCVARISH  KT161026                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG20170400100601This is my transaction description..          -2672.52 201610261234567890NIJJAR-BALKT161026                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG20170400100602This is my transaction description..          -2295.05 201610261234567890REIDS     KT161026                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG20170400100603This is my transaction description..           -409.40 201610261234567890SABERI-S  KT161026                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG20170400100604This is my transaction description..          -1276.02 201610261234567890SALAZAR,C KT161026                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG20170400100605This is my transaction description..          -1653.94 201610261234567890WATERSON-KKT161026                        
+20173 APSRGAAASRICSB28---CB  04GLCBAG20170400100606This is my transaction description..            -21.32 201610261234567890----------KT161026                        
+20173 APSRGAAASRICSB28---CB  04GLCBAG20170400100607This is my transaction description..           -177.24 201610261234567890DUSSAULT,LKT161026                        
+20173 APSRGAAASRICSUB6---CB  04GLCBAG20170400100608This is my transaction description..           -557.60 201610261234567890----------KT161026                        
+20173 APSRGAAASRICSUB6---CB  04GLCBAG20170400100609This is my transaction description..          -1160.58 201610261234567890DUSSAULT,LKT161026                        
+20173 APSRGAAASSAFSB28---CB  04GLCBAG20170400100610This is my transaction description..            309.47 201610261234567890PINNEY-R  KT161026                        
+20173 APSRGAAASSAFSB28---CB  04GLCBAG20170400100611This is my transaction description..            -55.54 201610261234567890WARREN,B  KT161026                        
+20173 APSRGAAASSAFSUB6---CB  04GLCBAG20170400100612This is my transaction description..            158.76 201610261234567890PINNEY-R  KT161026                        
+20173 APSRGAAASSAFSUB6---CB  04GLCBAG20170400100613This is my transaction description..           -978.15 201610261234567890WARREN,B  KT161026                        
+20173 APSRGAAFACORSB28---CB  04GLCBAG20170400100614This is my transaction description..            371.80 201610261234567890CADENASSO KT161026                        
+20173 APSRGAAFACORSUB6---CB  04GLCBAG20170400100615This is my transaction description..           2378.28 201610261234567890CADENASSO KT161026                        
+20173 APSRGAAFACORSUB6---CB  04GLCBAG20170400100616This is my transaction description..           -442.65 201610261234567890LACA      KT161026                        
+20173 APSRGABFABB2SB28---CB  04GLCBAG20170400100617This is my transaction description..            -66.49 201610261234567890----------KT161026                        
+20173 APSRGABFABB2SUB6---CB  04GLCBAG20170400100618This is my transaction description..           -543.21 201610261234567890----------KT161026                        
+20173 APSRGAGASGRHSB28---CB  04GLCBAG20170400100619This is my transaction description..            441.47 201610261234567890----------KT161026                        
+20173 APSRGAGASGRHSUB6---CB  04GLCBAG20170400100620This is my transaction description..           -507.56 201610261234567890----------KT161026                        
+20173 APSRHMIFJXD2SB28---CB  04GLCBAG20170400100621This is my transaction description..            146.60 201610261234567890----------KT161026                        
+20173 APSRHMIFJXD2SUB6---CB  04GLCBAG20170400100622This is my transaction description..         -12034.96 201610261234567890----------KT161026                        
+20173 AREMSPL-----SUB6---CB  04GLCBAG20170400100623This is my transaction description..             81.66 201610261234567890----------KT161026                        
+20173 AREUNDR-----SUB6---CB  04GLCBAG20170400100624This is my transaction description..            -16.19 201610261234567890----------KT161026                        
+20173 ASTEACHADMINSUB6---CB  04GLCBAG20170400100625This is my transaction description..             -4.73 201610261234567890----------KT161026                        
+20173 ASTEACHADVSNSUB6---CB  04GLCBAG20170400100626This is my transaction description..            -39.18 201610261234567890----------KT161026                        
+20173 ATXRGAA-----SB28---CB  04GLCBAG20170400100627This is my transaction description..            -49.52 201610261234567890----------KT161026                        
+20173 ATXRGAA-----SUB6---CB  04GLCBAG20170400100628This is my transaction description..           -448.72 201610261234567890----------KT161026                        
+20173 AWFIGAASACARSB28---CB  04GLCBAG20170400100629This is my transaction description..           -211.78 201610261234567890250HUDDLE KT161026                        
+20173 AWFIGAASACARSUB6---CB  04GLCBAG20170400100630This is my transaction description..          -1923.57 201610261234567890250HUDDLE KT161026                        
+20173 AWFIGAATEACHSUB6---CB  04GLCBAG20170400100631This is my transaction description..             -4.38 201610261234567890----------KT161026                        
+20173 AWFRGAAMOLLESB28---CB  04GLCBAG20170400100632This is my transaction description..           -105.32 201610261234567890250MOLLEL KT161026                        
+20173 AWFRGAAMOLLESUB6---CB  04GLCBAG20170400100633This is my transaction description..           -954.44 201610261234567890250MOLLEL KT161026                        
+20173 AWFRGAASAFTYSB28---CB  04GLCBAG20170400100634This is my transaction description..            -11.39 201610261234567890----------KT161026                        
+20173 AWFRGAASAFTYSUB6---CB  04GLCBAG20170400100635This is my transaction description..           -492.58 201610261234567890----------KT161026                        
+20173 AXEIGAA-----SB28---CB  04GLCBAG20170400100636This is my transaction description..            -24.16 201610261234567890EDCN      KT161026                        
+20173 AXEIGAA-----SB28---CB  04GLCBAG20170400100637This is my transaction description..            -18.06 201610261234567890ENTFGZ1513KT161026                        
+20173 AXEIGAA-----SB28---CB  04GLCBAG20170400100638This is my transaction description..            -18.48 201610261234567890SANN      KT161026                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG20170400100639This is my transaction description..             -4.64 201610261234567890----------KT161026                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG20170400100640This is my transaction description..            -55.58 201610261234567890BBWN      KT161026                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG20170400100641This is my transaction description..             -2.58 201610261234567890EBRJ      KT161026                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG20170400100642This is my transaction description..           -219.00 201610261234567890EDCN      KT161026                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG20170400100643This is my transaction description..           -128.00 201610261234567890EELN      KT161026                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG20170400100644This is my transaction description..           -162.82 201610261234567890ENTDEU0116KT161026                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG20170400100645This is my transaction description..            -79.26 201610261234567890ENTFGZ1513KT161026                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG20170400100646This is my transaction description..           -166.12 201610261234567890ENTJAR0103KT161026                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG20170400100647This is my transaction description..             -3.32 201610261234567890ENTJRC0543KT161026                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG20170400100648This is my transaction description..             -2.36 201610261234567890ENTLHYANG KT161026                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG20170400100649This is my transaction description..           -161.68 201610261234567890ENTLSK7695KT161026                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG20170400100650This is my transaction description..           -162.82 201610261234567890ENTPSW6753KT161026                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG20170400100651This is my transaction description..           -162.82 201610261234567890ENTRXK8132KT161026                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG20170400100652This is my transaction description..           -347.06 201610261234567890ENTSPL4707KT161026                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG20170400100653This is my transaction description..           -155.24 201610261234567890SANN      KT161026                        
+20173 AXERGAA-----SB28---CB  04GLCBAG20170400100654This is my transaction description..           -144.80 201610261234567890----------KT161026                        
+20173 AXERGAA-----SB28---CB  04GLCBAG20170400100655This is my transaction description..           -169.14 201610261234567890EDCN      KT161026                        
+20173 AXERGAA-----SB28---CB  04GLCBAG20170400100656This is my transaction description..            -18.06 201610261234567890ENTFGZ1513KT161026                        
+20173 AXERGAA-----SB28---CB  04GLCBAG20170400100657This is my transaction description..            -27.71 201610261234567890SANN      KT161026                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG20170400100658This is my transaction description..           -245.78 201610261234567890----------KT161026                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG20170400100659This is my transaction description..           -164.82 201610261234567890EBRJ      KT161026                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG20170400100660This is my transaction description..          -1532.92 201610261234567890EDCN      KT161026                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG20170400100661This is my transaction description..           -128.00 201610261234567890EELN      KT161026                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG20170400100662This is my transaction description..           -191.12 201610261234567890ENTDEU0116KT161026                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG20170400100663This is my transaction description..            -79.26 201610261234567890ENTFGZ1513KT161026                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG20170400100664This is my transaction description..           -195.02 201610261234567890ENTJAR0103KT161026                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG20170400100665This is my transaction description..             -3.90 201610261234567890ENTJRC0543KT161026                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG20170400100666This is my transaction description..           -111.14 201610261234567890ENTLDG8783KT161026                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG20170400100667This is my transaction description..             -2.76 201610261234567890ENTLHYANG KT161026                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG20170400100668This is my transaction description..           -189.80 201610261234567890ENTLSK7695KT161026                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG20170400100669This is my transaction description..           -191.12 201610261234567890ENTPSW6753KT161026                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG20170400100670This is my transaction description..           -191.12 201610261234567890ENTRXK8132KT161026                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG20170400100671This is my transaction description..           -407.40 201610261234567890ENTSPL4707KT161026                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG20170400100672This is my transaction description..           -232.84 201610261234567890SANN      KT161026                        
+20173 BUS9047-----SUB6---CB  04GLCBAG20170400100673This is my transaction description..             -1.98 201610261234567890----------KT161026                        
+20173 CRF9060-----SB28---CB  04GLCBAG20170400100674This is my transaction description..            -18.66 201610261234567890----------KT161026                        
+20173 CRF9060-----SB28---CB  04GLCBAG20170400100675This is my transaction description..            644.20 201610261234567890ADOKEG    KT161026                        
+20173 CRF9060-----SUB6---CB  04GLCBAG20170400100676This is my transaction description..            -81.97 201610261234567890----------KT161026                        
+20173 CRF9060-----SUB6---CB  04GLCBAG20170400100677This is my transaction description..            245.44 201610261234567890ADOKEG    KT161026                        
+20173 CRU9033-----SUB6---CB  04GLCBAG20170400100678This is my transaction description..             -6.64 201610261234567890----------KT161026                        
+20173 CUH9080-----SB28---CB  04GLCBAG20170400100679This is my transaction description..           -217.38 201610261234567890ADOKML    KT161026                        
+20173 CUH9080-----SUB6---CB  04GLCBAG20170400100680This is my transaction description..          -1970.20 201610261234567890ADOKML    KT161026                        
+20173 DAH7779-----SB28---CB  04GLCBAG20170400100681This is my transaction description..            -48.87 201610261234567890----------KT161026                        
+20173 DAH7779-----SUB6---CB  04GLCBAG20170400100682This is my transaction description..           -876.45 201610261234567890----------KT161026                        
+20173 EEL0214-----SB28---CB  04GLCBAG20170400100683This is my transaction description..            -94.64 201610261234567890----------KT161026                        
+20173 EEL0214-----SUB6---CB  04GLCBAG20170400100684This is my transaction description..           -559.60 201610261234567890----------KT161026                        
+20173 ESP8E87-----SB28---CB  04GLCBAG20170400100685This is my transaction description..            -72.38 201610261234567890----------KT161026                        
+20173 ESP8E87-----SUB6---CB  04GLCBAG20170400100686This is my transaction description..          -1011.02 201610261234567890----------KT161026                        
+20173 EVE9031-----SUB6---CB  04GLCBAG20170400100687This is my transaction description..             -4.43 201610261234567890----------KT161026                        
+20173 FCM3STR-----SUB6---CB  04GLCBAG20170400100688This is my transaction description..            -49.68 201610261234567890----------KT161026                        
+20173 FIELDOP-----SUB6---CB  04GLCBAG20170400100689This is my transaction description..             -7.94 201610261234567890----------KT161026                        
+20173 FMSCHAR-----SB28---CB  04GLCBAG20170400100690This is my transaction description..             -0.48 201610261234567890----------KT161026                        
+20173 FMSCHAR-----SUB6---CB  04GLCBAG20170400100691This is my transaction description..           -496.62 201610261234567890----------KT161026                        
+20173 HAM25BH-----SB28---CB  04GLCBAG20170400100692This is my transaction description..           -241.44 201610261234567890----------KT161026                        
+20173 HAM25BH-----SUB6---CB  04GLCBAG20170400100693This is my transaction description..          -5026.80 201610261234567890----------KT161026                        
+20173 HER1990-----SUB6---CB  04GLCBAG20170400100694This is my transaction description..           6960.91 201610261234567890----------KT161026                        
+20173 HERBARIASHERSB28---CB  04GLCBAG20170400100695This is my transaction description..           -183.07 201610261234567890SHEPARD   KT161026                        
+20173 HERBARIASHERSUB6---CB  04GLCBAG20170400100696This is my transaction description..          -1567.05 201610261234567890SHEPARD   KT161026                        
+20173 KGDPINS-----SB28---CB  04GLCBAG20170400100697This is my transaction description..            -38.30 201610261234567890----------KT161026                        
+20173 KGDPINS-----SB28---CB  04GLCBAG20170400100698This is my transaction description..            -28.80 201610261234567890NUTKGD    KT161026                        
+20173 KGDPINS-----SUB6---CB  04GLCBAG20170400100699This is my transaction description..          -1984.65 201610261234567890----------KT161026                        
+20173 KGDPINS-----SUB6---CB  04GLCBAG20170400100700This is my transaction description..           -126.46 201610261234567890NUTKGD    KT161026                        
+20173 KGDSALR-----SB28---CB  04GLCBAG20170400100701This is my transaction description..           -123.25 201610261234567890----------KT161026                        
+20173 KGDSALR-----SUB6---CB  04GLCBAG20170400100702This is my transaction description..          -1117.01 201610261234567890----------KT161026                        
+20173 KXB3SED-----SB28---CB  04GLCBAG20170400100703This is my transaction description..           -259.26 201610261234567890----------KT161026                        
+20173 KXB3SED-----SUB6---CB  04GLCBAG20170400100704This is my transaction description..          -1138.57 201610261234567890----------KT161026                        
+20173 LFBS199-----SUB6---CB  04GLCBAG20170400100705This is my transaction description..             -3.92 201610261234567890----------KT161026                        
+20173 METROC2STASTSUB6---CB  04GLCBAG20170400100706This is my transaction description..             -5.36 201610261234567890----------KT161026                        
+20173 NW00RAC-----SB28---CB  04GLCBAG20170400100707This is my transaction description..           -121.61 201610261234567890----------KT161026                        
+20173 NW00RAC-----SUB6---CB  04GLCBAG20170400100708This is my transaction description..           -702.38 201610261234567890----------KT161026                        
+20173 RELEASEIRWINSUB6---CB  04GLCBAG20170400100709This is my transaction description..            -42.60 201610261234567890----------KT161026                        
+20173 RMIADMN-----SB28---CB  04GLCBAG20170400100710This is my transaction description..            165.16 201610261234567890ADOBRO    KT161026                        
+20173 RMIADMN-----SUB6---CB  04GLCBAG20170400100711This is my transaction description..          -1968.36 201610261234567890ADOBRO    KT161026                        
+20173 ROS25JR-----SUB6---CB  04GLCBAG20170400100712This is my transaction description..             28.73 201610261234567890----------KT161026                        
+20173 SAV3FAC-----SUB6---CB  04GLCBAG20170400100713This is my transaction description..             -2.97 201610261234567890----------KT161026                        
+20173 SRC9090-----SB28---CB  04GLCBAG20170400100714This is my transaction description..            -14.40 201610261234567890----------KT161026                        
+20173 SRC9090-----SB28---CB  04GLCBAG20170400100715This is my transaction description..           -167.28 201610261234567890ADOVJC    KT161026                        
+20173 SRC9090-----SUB6---CB  04GLCBAG20170400100716This is my transaction description..           -136.36 201610261234567890----------KT161026                        
+20173 SRC9090-----SUB6---CB  04GLCBAG20170400100717This is my transaction description..          -1516.08 201610261234567890ADOVJC    KT161026                        
+20173 SXL3HES-----SB28---CB  04GLCBAG20170400100718This is my transaction description..             -7.12 201610261234567890----------KT161026                        
+20173 SXL3HES-----SUB6---CB  04GLCBAG20170400100719This is my transaction description..            -64.54 201610261234567890----------KT161026                        
+20173 TKB3GSR-----SUB6---CB  04GLCBAG20170400100720This is my transaction description..             83.21 201610261234567890----------KT161026                        
+20173 UAP997HAMBASSUB6---CB  04GLCBAG20170400100721This is my transaction description..             -3.33 201610261234567890----------KT161026                        
+20173 UNDGRAD-----SUB6---CB  04GLCBAG20170400100722This is my transaction description..            -14.52 201610261234567890----------KT161026                        
+20173 VEIVINE-----SB28---CB  04GLCBAG20170400100723This is my transaction description..           -104.59 201610261234567890AVITKEA   KT161026                        
+20173 VEIVINE-----SUB6---CB  04GLCBAG20170400100724This is my transaction description..          -1149.33 201610261234567890AVITKEA   KT161026                        
+20173 VENVINE-----SB28---CB  04GLCBAG20170400100725This is my transaction description..            -96.57 201610261234567890----------KT161026                        
+20173 VENVINE-----SUB6---CB  04GLCBAG20170400100726This is my transaction description..          -2041.50 201610261234567890----------KT161026                        
