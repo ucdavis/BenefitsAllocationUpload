@@ -68,7 +68,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldTrim(TrimMode.Right)]
         private string _subAccount;
 
-        [Display(Name = "Sub-account")]
+        [Display(Name = "Sub Acct")]
         public string SubAccount
         {
             get
@@ -94,7 +94,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldFixedLength(4)]
         private string _objectCode;
 
-        [Display(Name = "Object Code")]
+        [Display(Name = "Obj Cons")]
         public string ObjectCode { get { return _objectCode; } set { _objectCode = value; } }
 
         /// <summary>
@@ -105,7 +105,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldTrim(TrimMode.Right)]
         private string _subObjectCode;
 
-        [Display(Name = "Sub-object Code")]
+        [Display(Name = "Sub Obj")]
         public string SubObjectCode { get { return _subObjectCode; } set { _subObjectCode = value; } }
 
         /// <summary>
@@ -116,7 +116,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldFixedLength(2)]
         private string _balanceType;
 
-        [Display(Name = "Balance Type")]
+        [Display(Name = "Bal Type")]
         public string BalanceType { get { return _balanceType; } set { _balanceType = value; } }
 
         /// <summary>
@@ -127,7 +127,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldFixedLength(2)]
         private string _objectType;
 
-        [Display(Name = "Object Type")]
+        [Display(Name = "Obj Type")]
         public string ObjectType { get { return _objectType; } set { _objectType = value; } }
 
         /// <summary>
@@ -159,7 +159,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldFixedLength(2)]
         private string _originCode;
 
-        [Display(Name = "Doc Origin Code")]
+        [Display(Name = "Origin")]
         public string OriginCode { get { return _originCode; } set { _originCode = value; } }
 
         /// <summary>
@@ -172,7 +172,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldTrim(TrimMode.Right)]
         private string _documentNumber;
 
-        [Display(Name = "Doc Number")]
+        [Display(Name = "Doc No")]
         public string DocumentNumber { get { return _documentNumber; } set { _documentNumber = value; } }
 
         /// <summary>
@@ -185,7 +185,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldTrim(TrimMode.Left)]
         private string _lineSequenceNumber;
 
-        [Display(Name = "Line Number")]
+        [Display(Name = "Seq No")]
         public string LineSequenceNumber { get { return _lineSequenceNumber; } set { _lineSequenceNumber = value; } }
 
         /// <summary>
@@ -222,7 +222,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldFixedLength(1)]
         private string _debitCreditCode;
 
-        [Display(Name = "Debit/Credit Code")]
+        [Display(Name = "D/C")]
         public string DebitCreditCode { get { return _debitCreditCode; } set { _debitCreditCode = value; } }
 
         /// <summary>
@@ -247,7 +247,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldTrim(TrimMode.Right)]
         private string _organizationTrackingNumber;
 
-        [Display(Name = "Tracking Number(KFS Key)")]
+        [Display(Name = "Org Doc No")]
         public string OrganizationTrackingNumber { get { return _organizationTrackingNumber; } set { _organizationTrackingNumber = value; } }
 
         /// <summary>
@@ -260,7 +260,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldTrim(TrimMode.Right)]
         private string _projectCode;
 
-        [Display(Name = "Project Code")]
+        [Display(Name = "Project")]
         public string ProjectCode { get { return _projectCode; } set { _projectCode = value; } }
 
         /// <summary>
@@ -284,7 +284,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldFixedLength(4)]
         private string _referenceTypeCode;
 
-        [Display(Name = "Ref Doc Type Code")]
+        [Display(Name = "Ref Doc Type")]
         public string ReferenceTypeCode { get { return _referenceTypeCode; } set { _referenceTypeCode = value; } }
 
         /// <summary>
@@ -295,7 +295,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldFixedLength(2)]
         private string _referenceOriginCode;
 
-        [Display(Name = "Ref Doc Origin Code")]
+        [Display(Name = "Ref Origin")]
         public string ReferenceOriginCode { get { return _referenceOriginCode; } set { _referenceOriginCode = value; } }
 
         /// <summary>
@@ -306,7 +306,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldFixedLength(9)]
         private string _referenceNumber;
 
-        [Display(Name = "Ref Doc Number")]
+        [Display(Name = "Ref Doc No")]
         public string ReferenceNumber { get { return _referenceNumber; } set { _referenceNumber = value; } }
 
         /// <summary>
@@ -317,7 +317,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldFixedLength(8)]
         private string _reversalDate;
 
-        [Display(Name = "Reversal Date (always blank)")]
+        [Display(Name = "Reverse Date")]
         public string ReversalDate { get { return _reversalDate; } set { _reversalDate = value; } }
 
         /// <summary>
@@ -328,7 +328,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldFixedLength(1)]
         private string _transactionEncumbranceUpdateCode;
 
-        [Display(Name = "Encumb Update Code (always blank)")]
+        [Display(Name = "Enc Update")]
         public string TransactionEncumbranceUpdateCode { get { return _transactionEncumbranceUpdateCode; } set { _transactionEncumbranceUpdateCode = value; } }
 
         /// <summary>
