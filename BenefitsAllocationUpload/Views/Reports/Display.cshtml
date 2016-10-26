@@ -52,7 +52,7 @@
                         '<option value="-1">All</option>' +
                         '</select> records'
                 },
-                "iDisplayLength": 25,
+                "iDisplayLength": -1,
                 "aaSorting": [[0, "asc"]], //Default sort on second column
                 //"aoColumnDefs": [
                 //    //{ 'bSortable': false, 'aTargets': [0, 5] } //Disables sort on icon columns
@@ -113,9 +113,11 @@
                 <th>@Html.DisplayNameFor(m => m[0].OrganizationTrackingNumber)</th>
                 <th>@Html.DisplayNameFor(m => m[0].ProjectCode)</th>
                 <th>@Html.DisplayNameFor(m => m[0].OrganizationReferenceId)</th>
-                @*<th>@Html.DisplayNameFor(m => m[0].ReferenceTypeCode)</th>
-                    <th>@Html.DisplayNameFor(m => m[0].ReferenceOriginCode)</th>
-                    <th>@Html.DisplayNameFor(m => m[0].ReferenceNumber)</th>*@
+                <th>@Html.DisplayNameFor(m => m[0].ReferenceTypeCode)</th>
+                <th>@Html.DisplayNameFor(m => m[0].ReferenceOriginCode)</th>
+                <th>@Html.DisplayNameFor(m => m[0].ReferenceNumber)</th>
+                <th>@Html.DisplayNameFor(m => m[0].ReversalDate)</th>
+                <th>@Html.DisplayNameFor(m => m[0].TransactionEncumbranceUpdateCode)</th>
             </tr>
         </thead>
         <tbody>
@@ -182,15 +184,21 @@
                     <td>
                         @item.OrganizationReferenceId
                     </td>
-                    @*<td>
-                            @item.ReferenceTypeCode
-                        </td>
-                        <td>
-                            @item.ReferenceOriginCode
-                        </td>
-                        <td>
-                            @item.ReferenceNumber
-                        </td>*@
+                    <td>
+                        @item.ReferenceTypeCode
+                    </td>
+                    <td>
+                        @item.ReferenceOriginCode
+                    </td>
+                    <td>
+                        @item.ReferenceNumber
+                    </td>
+                    <td>
+                        @item.ReversalDate
+                    </td>
+                    <td>
+                        @item.TransactionEncumbranceUpdateCode
+                    </td>
                 </tr>
             }
         </tbody>
