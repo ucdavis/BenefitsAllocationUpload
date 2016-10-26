@@ -105,6 +105,15 @@ namespace BenefitsAllocationUpload.Models
         /// The Length of the file in bytes.
         /// </summary>
         public long Length { get; set; }
+
+        public string FileNameLessExtension
+        {
+            get
+            {
+                return FileName.Substring(0, FileName.LastIndexOf('.'));
+                
+            }
+        }
     }
 
     public static class RoleNames
