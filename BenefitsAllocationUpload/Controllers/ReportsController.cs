@@ -118,9 +118,8 @@ namespace BenefitsAllocationUpload.Controllers
             {
                 var file = GetNamedFile(id);
                 var created = file.TimeStamp;
-                var filenameWithExtension = file.FileName;
                 var filePathAndFilename = file.FilePath;
-                var filename = filenameWithExtension.Substring(0, filenameWithExtension.LastIndexOf('.'));
+                var filename = file.FileNameLessExtension;
 
                 var streamReader = new StreamReader(filePathAndFilename);
 
@@ -391,7 +390,7 @@ namespace BenefitsAllocationUpload.Controllers
             var transactions = result.ToList();
 
             TempData["Message"] = String.Format("Now viewing \"{0}\".", file.FileName);
-            TempData["Filename"] = file.FileName.Substring(0, file.FileName.LastIndexOf('.'));
+            TempData["Filename"] = file.FileNameLessExtension;
             return View(transactions);
         }
     }
