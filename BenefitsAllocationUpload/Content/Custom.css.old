@@ -1,0 +1,37 @@
+﻿h1 { margin: 1em 0 .5em 0;}
+
+.form-text { font-weight: bold;padding-top: 5px; }
+.checkbox input { margin-bottom: 8px;margin-right: 5px;}
+
+a.btn, input.btn {
+    font-size: 1.2em;
+    font-weight: 400;
+    padding: 7px;
+    margin-right: 8px;
+}
+
+a.btn.btn-success, a.btn.btn-info, a.btn.btn-warning, a.btn.btn-danger, a.btn.btn-inverse, a.btn-primary {
+    color: #FFFFFF;
+}
+
+.control-group .required { color: red; }
+
+#newvector, #newstrain{ border: 1px solid green;padding-top: 20px;margin-bottom: 20px;}
+
+/* Menu Styles */
+ul#menu li .divider, ul#menu li .nav-header { display: block;padding-left: 0;}
+ul#menu li.dropdown.open ul.dropdown-menu li {display: block; padding-top: 0;padding-bottom: 0;}
+
+/* Main menu */
+.main-menu { text-align: center;margin-top: 1em;}
+.main-menu a.span4:nth-child(4) { margin-left: 0;}
+.main-menu a {
+    text-decoration: none;
+    border: 1px solid lightgray;
+    padding-top: 1em;
+    background-color: #E1E1E1;
+    cursor: pointer;
+}
+.main-menu a.span3 { min-height: 125px;}
+.main-menu a:hover { background-color: #F0F0F0; }
+

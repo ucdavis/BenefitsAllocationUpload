@@ -67,9 +67,9 @@
         <li>Check for Expired Accounts: Select <i>@Html.ActionLink("Expired Accounts", "Index", "ExpiredAccounts", null, new { @class="btn-info btn-mini"})</i> to verify that no expired accounts exist.  If found, resolve them before continuing.</li>
         <li>Select <i>@Html.ActionLink("Create a New Upload File", "Create", "Reports", null, new { @class="btn-info btn-mini"})</i> to create a new <i>journal.xx...</i> upload file if one for the desired period has yet to be created.</li>
         <li>Download and save the desired <i>journal.xx...</i> file to your local hard drive.</li>
-        <li>*Download and save the Excel template file to you local hard drive if not done so previously.  Note: It should be the file at the top of the file listing <i>(below)</i>.</li>
-        <li>Open the Excel template file. A file explorer window should open asking you to select an input file. Note: You will need to <i>"Enable Content"</i> if this is the first time the template has been used.</li>
-        <li>Select the desired, downloaded <i>journal.xx...</i> file and review the results.  Return to this page when satisfied with its contents and proceed to step (7).</li>
+        @*<li>*Download and save the Excel template file to you local hard drive if not done so previously.  Note: It should be the file at the top of the file listing <i>(below)</i>.</li>
+        <li>Open the Excel template file. A file explorer window should open asking you to select an input file. Note: You will need to <i>"Enable Content"</i> if this is the first time the template has been used.</li>*@
+        <li>Select the desired, downloaded <i>journal.xx...</i> file and review the results.  Return to this page when satisfied with its contents and proceed to step (5).</li>
         <li>Locate the desired <i>journal.xx...</i> file and select "Upload" to upload the file to the A&amp;FS server.</li>
     </ol>
 </div>
@@ -102,7 +102,7 @@
                                                                                                                                                                                           <text>Uploaded by  @item.UploadedBy on @item.Uploaded.Value.ToString("M/d/yyyy hh:mm:ss tt")</text>
                                                                                                                                                                                       } </span></a></p>*@
                         @*This uses the pre-fetched data, and builds the link to download the pertainent file:*@
-                        <p id="tooltip1"><a href="~/Reports/Download/@item.FileId">@Html.DisplayFor(modelItem => item.FileName)<span>Created by @item.CreatedBy on @item.TimeStamp <br/>@if (item.Uploaded != null)
+                        <p id="tooltip1"><a href="~/Reports/Display/@item.FileId">@Html.DisplayFor(modelItem => item.FileName)<span>Created by @item.CreatedBy on @item.TimeStamp <br/>@if (item.Uploaded != null)
                                                                                                                                                                                         {
                                                                                                                                                                                             <text>Uploaded by  @item.UploadedBy on @item.Uploaded.Value.ToString("M/d/yyyy hh:mm:ss tt")</text>
                                                                                                                                                                                         }
@@ -117,7 +117,7 @@
                         @Html.DisplayFor(modelItem => item.TimeStamp)
                     </td>
                     <td>
-                        @Html.ActionLink("Download", "Download", new { id = item.FileId }, new { @class = "btn btn-primary"})
+                        @Html.ActionLink("Download", "DownloadAsExcel", new { id = item.FileId }, new { @class = "btn btn-primary"})
                     </td>
                     @if (item.FileName.EndsWith(BenefitsAllocationUpload.Models.DataClasses.TemplateFileExtension))
                     {

@@ -16,9 +16,9 @@
         <div id="div-emulate-user">
             @using (Html.BeginForm("Emulate", "Account", FormMethod.Post))
             {
-                @Html.TextBox("id")
+                @Html.TextBox("loginId")
 
-                <input id="btnEmulateUserSubmit" type="submit" value="Emulate" />
+                <input id="btnEmulateUserSubmit" type="submit" value="Emulate" class="btn btn-info"/>
             }
         </div>
     }

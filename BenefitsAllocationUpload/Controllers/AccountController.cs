@@ -352,14 +352,14 @@ namespace BenefitsAllocationUpload.Controllers
             return PartialView("_RemoveExternalLoginsPartial", externalLogins);
         }
 
-        public RedirectToRouteResult Emulate(string id /* Login ID*/)
+        public RedirectToRouteResult Emulate(string loginId /* Login ID*/)
         {
             if (User.IsInRole("EmulationUser"))
             {
-                if (!string.IsNullOrEmpty(id))
+                if (!string.IsNullOrEmpty(loginId))
                 {
-                    Message = "Emulating " + id;
-                    FormsAuthentication.RedirectFromLoginPage(id, false);
+                    Message = "Emulating " + loginId;
+                    FormsAuthentication.RedirectFromLoginPage(loginId, false);
                 }
                 else
                 {

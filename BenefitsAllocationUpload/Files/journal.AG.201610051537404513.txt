@@ -1,0 +1,675 @@
+20173 1MUSEUMNHMUSSB28---CB  03GLCBAG20170300100001Test Description                                 54.45 20161005          250ENGILIS123456                          
+20173 1MUSEUMNHMUSSUB6---CB  03GLCBAG20170300100002Test Description                              -1046.50 20161005          250ENGILIS123456                          
+20173 2200229-----SUB6---CB  03GLCBAG20170300100003Test Description                                 -0.65 20161005          ----------123456                          
+20173 2200528-----SB28---CB  03GLCBAG20170300100004Test Description                                -96.67 20161005          ----------123456                          
+20173 2200528-----SUB6---CB  03GLCBAG20170300100005Test Description                               -876.14 20161005          ----------123456                          
+20173 A400344ADMTCSUB6---CB  03GLCBAG20170300100006Test Description                                 -1.60 20161005          ----------123456                          
+20173 AAFRGAA-----SB28---CB  03GLCBAG20170300100007Test Description                                -62.83 20161005          ADOMLS    123456                          
+20173 AAFRGAA-----SUB6---CB  03GLCBAG20170300100008Test Description                               -629.88 20161005          ADOMLS    123456                          
+20173 AASIGAA-----SB28---CB  03GLCBAG20170300100009Test Description                               -543.89 20161005          ----------123456                          
+20173 AASIGAA-----SB28---CB  03GLCBAG20170300100010Test Description                                -15.16 20161005          BERGERT   123456                          
+20173 AASIGAA-----SB28---CB  03GLCBAG20170300100011Test Description                               -123.26 20161005          EMARTINEZ 123456                          
+20173 AASIGAA-----SB28---CB  03GLCBAG20170300100012Test Description                               -123.26 20161005          KJACKSON  123456                          
+20173 AASIGAA-----SB28---CB  03GLCBAG20170300100013Test Description                                -45.02 20161005          KLASING   123456                          
+20173 AASIGAA-----SB28---CB  03GLCBAG20170300100014Test Description                                -43.40 20161005          KUELTZ    123456                          
+20173 AASIGAA-----SB28---CB  03GLCBAG20170300100015Test Description                                -44.12 20161005          MEDRANO   123456                          
+20173 AASIGAA-----SB28---CB  03GLCBAG20170300100016Test Description                                 71.81 20161005          MURRAY    123456                          
+20173 AASIGAA-----SB28---CB  03GLCBAG20170300100017Test Description                                -52.26 20161005          ZHOU      123456                          
+20173 AASIGAA-----SUB6---CB  03GLCBAG20170300100018Test Description                              -4251.14 20161005          ----------123456                          
+20173 AASIGAA-----SUB6---CB  03GLCBAG20170300100019Test Description                               -155.04 20161005          BERGERT   123456                          
+20173 AASIGAA-----SUB6---CB  03GLCBAG20170300100020Test Description                               -216.68 20161005          DEPETERS  123456                          
+20173 AASIGAA-----SUB6---CB  03GLCBAG20170300100021Test Description                              -1270.29 20161005          EMARTINEZ 123456                          
+20173 AASIGAA-----SUB6---CB  03GLCBAG20170300100022Test Description                                -37.58 20161005          HESSM     123456                          
+20173 AASIGAA-----SUB6---CB  03GLCBAG20170300100023Test Description                               -185.24 20161005          HUNG      123456                          
+20173 AASIGAA-----SUB6---CB  03GLCBAG20170300100024Test Description                               -381.12 20161005          KINGA     123456                          
+20173 AASIGAA-----SUB6---CB  03GLCBAG20170300100025Test Description                              -1288.40 20161005          KJACKSON  123456                          
+20173 AASIGAA-----SUB6---CB  03GLCBAG20170300100026Test Description                               -197.72 20161005          KLASING   123456                          
+20173 AASIGAA-----SUB6---CB  03GLCBAG20170300100027Test Description                               -190.60 20161005          KUELTZ    123456                          
+20173 AASIGAA-----SUB6---CB  03GLCBAG20170300100028Test Description                                -43.78 20161005          LIUY      123456                          
+20173 AASIGAA-----SUB6---CB  03GLCBAG20170300100029Test Description                               -193.76 20161005          MEDRANO   123456                          
+20173 AASIGAA-----SUB6---CB  03GLCBAG20170300100030Test Description                               -137.54 20161005          MIENAL    123456                          
+20173 AASIGAA-----SUB6---CB  03GLCBAG20170300100031Test Description                                -92.60 20161005          MILLERM   123456                          
+20173 AASIGAA-----SUB6---CB  03GLCBAG20170300100032Test Description                               -105.85 20161005          MURRAY    123456                          
+20173 AASIGAA-----SUB6---CB  03GLCBAG20170300100033Test Description                               -452.68 20161005          SAINZ     123456                          
+20173 AASIGAA-----SUB6---CB  03GLCBAG20170300100034Test Description                                -37.16 20161005          TODGHAM   123456                          
+20173 AASIGAA-----SUB6---CB  03GLCBAG20170300100035Test Description                               -229.47 20161005          ZHOU      123456                          
+20173 AASIGAAHENDRSB28---CB  03GLCBAG20170300100036Test Description                                  7.05 20161005          ----------123456                          
+20173 AASIGAAHENDRSUB6---CB  03GLCBAG20170300100037Test Description                               -719.93 20161005          ----------123456                          
+20173 AASIGAB-----SB28---CB  03GLCBAG20170300100038Test Description                                -50.77 20161005          ----------123456                          
+20173 AASIGAB-----SUB6---CB  03GLCBAG20170300100039Test Description                               -300.20 20161005          ----------123456                          
+20173 AASRGAA-----SB28---CB  03GLCBAG20170300100040Test Description                               -549.13 20161005          ----------123456                          
+20173 AASRGAA-----SB28---CB  03GLCBAG20170300100041Test Description                                -15.16 20161005          BERGERT   123456                          
+20173 AASRGAA-----SB28---CB  03GLCBAG20170300100042Test Description                                -45.02 20161005          KLASING   123456                          
+20173 AASRGAA-----SB28---CB  03GLCBAG20170300100043Test Description                                -43.40 20161005          KUELTZ    123456                          
+20173 AASRGAA-----SB28---CB  03GLCBAG20170300100044Test Description                                -44.12 20161005          MEDRANO   123456                          
+20173 AASRGAA-----SB28---CB  03GLCBAG20170300100045Test Description                                 71.81 20161005          MURRAY    123456                          
+20173 AASRGAA-----SB28---CB  03GLCBAG20170300100046Test Description                               9434.27 20161005          ROSS      123456                          
+20173 AASRGAA-----SB28---CB  03GLCBAG20170300100047Test Description                                -18.90 20161005          TREJO     123456                          
+20173 AASRGAA-----SB28---CB  03GLCBAG20170300100048Test Description                                -37.62 20161005          ZHOU      123456                          
+20173 AASRGAA-----SUB6---CB  03GLCBAG20170300100049Test Description                             -10345.02 20161005          ----------123456                          
+20173 AASRGAA-----SUB6---CB  03GLCBAG20170300100050Test Description                               -155.04 20161005          BERGERT   123456                          
+20173 AASRGAA-----SUB6---CB  03GLCBAG20170300100051Test Description                               -144.44 20161005          DEPETERS  123456                          
+20173 AASRGAA-----SUB6---CB  03GLCBAG20170300100052Test Description                                -30.74 20161005          HESSM     123456                          
+20173 AASRGAA-----SUB6---CB  03GLCBAG20170300100053Test Description                               -185.24 20161005          HUNG      123456                          
+20173 AASRGAA-----SUB6---CB  03GLCBAG20170300100054Test Description                               -381.12 20161005          KINGA     123456                          
+20173 AASRGAA-----SUB6---CB  03GLCBAG20170300100055Test Description                               -197.72 20161005          KLASING   123456                          
+20173 AASRGAA-----SUB6---CB  03GLCBAG20170300100056Test Description                               -190.60 20161005          KUELTZ    123456                          
+20173 AASRGAA-----SUB6---CB  03GLCBAG20170300100057Test Description                                -43.78 20161005          LIUY      123456                          
+20173 AASRGAA-----SUB6---CB  03GLCBAG20170300100058Test Description                               -193.76 20161005          MEDRANO   123456                          
+20173 AASRGAA-----SUB6---CB  03GLCBAG20170300100059Test Description                                -92.64 20161005          MEYER     123456                          
+20173 AASRGAA-----SUB6---CB  03GLCBAG20170300100060Test Description                               -112.52 20161005          MIENAL    123456                          
+20173 AASRGAA-----SUB6---CB  03GLCBAG20170300100061Test Description                                -75.76 20161005          MILLERM   123456                          
+20173 AASRGAA-----SUB6---CB  03GLCBAG20170300100062Test Description                               -105.85 20161005          MURRAY    123456                          
+20173 AASRGAA-----SUB6---CB  03GLCBAG20170300100063Test Description                               1750.35 20161005          ROSS      123456                          
+20173 AASRGAA-----SUB6---CB  03GLCBAG20170300100064Test Description                               -301.80 20161005          SAINZ     123456                          
+20173 AASRGAA-----SUB6---CB  03GLCBAG20170300100065Test Description                                -30.40 20161005          TODGHAM   123456                          
+20173 AASRGAA-----SUB6---CB  03GLCBAG20170300100066Test Description                               -123.79 20161005          TREJO     123456                          
+20173 AASRGAA-----SUB6---CB  03GLCBAG20170300100067Test Description                               -165.21 20161005          ZHOU      123456                          
+20173 AASRGAAMIENASB28---CB  03GLCBAG20170300100068Test Description                                  7.05 20161005          ----------123456                          
+20173 AASRGAAMIENASUB6---CB  03GLCBAG20170300100069Test Description                               -719.93 20161005          ----------123456                          
+20173 AC1IGAA-----SB28---CB  03GLCBAG20170300100070Test Description                               -130.71 20161005          ----------123456                          
+20173 AC1IGAA-----SB28---CB  03GLCBAG20170300100071Test Description                               -166.00 20161005          FCCAER    123456                          
+20173 AC1IGAA-----SB28---CB  03GLCBAG20170300100072Test Description                               -157.42 20161005          FCCCIS    123456                          
+20173 AC1IGAA-----SB28---CB  03GLCBAG20170300100073Test Description                                417.15 20161005          FCCETH    123456                          
+20173 AC1IGAA-----SB28---CB  03GLCBAG20170300100074Test Description                                -72.86 20161005          FCCHLE    123456                          
+20173 AC1IGAA-----SB28---CB  03GLCBAG20170300100075Test Description                                364.62 20161005          FCCJAV    123456                          
+20173 AC1IGAA-----SB28---CB  03GLCBAG20170300100076Test Description                                 37.52 20161005          FCCJMK    123456                          
+20173 AC1IGAA-----SB28---CB  03GLCBAG20170300100077Test Description                                 77.49 20161005          FCCLFM    123456                          
+20173 AC1IGAA-----SB28---CB  03GLCBAG20170300100078Test Description                                -78.26 20161005          FCCLMR    123456                          
+20173 AC1IGAA-----SB28---CB  03GLCBAG20170300100079Test Description                                115.29 20161005          FCCMDJ    123456                          
+20173 AC1IGAA-----SUB6---CB  03GLCBAG20170300100080Test Description                               -993.38 20161005          ----------123456                          
+20173 AC1IGAA-----SUB6---CB  03GLCBAG20170300100081Test Description                              -1235.92 20161005          FCCAER    123456                          
+20173 AC1IGAA-----SUB6---CB  03GLCBAG20170300100082Test Description                              -1030.84 20161005          FCCCIS    123456                          
+20173 AC1IGAA-----SUB6---CB  03GLCBAG20170300100083Test Description                               -617.88 20161005          FCCETH    123456                          
+20173 AC1IGAA-----SUB6---CB  03GLCBAG20170300100084Test Description                               -943.54 20161005          FCCHLE    123456                          
+20173 AC1IGAA-----SUB6---CB  03GLCBAG20170300100085Test Description                               -914.87 20161005          FCCJAV    123456                          
+20173 AC1IGAA-----SUB6---CB  03GLCBAG20170300100086Test Description                              -1264.07 20161005          FCCJMK    123456                          
+20173 AC1IGAA-----SUB6---CB  03GLCBAG20170300100087Test Description                              -1038.37 20161005          FCCLFM    123456                          
+20173 AC1IGAA-----SUB6---CB  03GLCBAG20170300100088Test Description                               -709.27 20161005          FCCLMR    123456                          
+20173 AC1IGAA-----SUB6---CB  03GLCBAG20170300100089Test Description                              -1004.21 20161005          FCCMDJ    123456                          
+20173 AC1RGAA-----SB28---CB  03GLCBAG20170300100090Test Description                               -202.70 20161005          ----------123456                          
+20173 AC1RGAA-----SB28---CB  03GLCBAG20170300100091Test Description                                -56.24 20161005          FCCAAM    123456                          
+20173 AC1RGAA-----SB28---CB  03GLCBAG20170300100092Test Description                               1188.03 20161005          FCCAZI    123456                          
+20173 AC1RGAA-----SB28---CB  03GLCBAG20170300100093Test Description                               -133.63 20161005          FCCHTN    123456                          
+20173 AC1RGAA-----SB28---CB  03GLCBAG20170300100094Test Description                               -205.73 20161005          FCCMLR    123456                          
+20173 AC1RGAA-----SB28---CB  03GLCBAG20170300100095Test Description                               -199.10 20161005          FCCVMO    123456                          
+20173 AC1RGAA-----SUB6---CB  03GLCBAG20170300100096Test Description                              -1536.10 20161005          ----------123456                          
+20173 AC1RGAA-----SUB6---CB  03GLCBAG20170300100097Test Description                               -509.73 20161005          FCCAAM    123456                          
+20173 AC1RGAA-----SUB6---CB  03GLCBAG20170300100098Test Description                               -915.08 20161005          FCCAZI    123456                          
+20173 AC1RGAA-----SUB6---CB  03GLCBAG20170300100099Test Description                              -1211.10 20161005          FCCHTN    123456                          
+20173 AC1RGAA-----SUB6---CB  03GLCBAG20170300100100Test Description                              -1216.49 20161005          FCCMLR    123456                          
+20173 AC1RGAA-----SUB6---CB  03GLCBAG20170300100101Test Description                              -1303.79 20161005          FCCVMO    123456                          
+20173 AC2IGAAITSTFSB28---CB  03GLCBAG20170300100102Test Description                                -28.01 20161005          250RIVERA 123456                          
+20173 AC2IGAAITSTFSUB6---CB  03GLCBAG20170300100103Test Description                               -613.14 20161005          250RIVERA 123456                          
+20173 AC2IGAAOFSTFSB28---CB  03GLCBAG20170300100104Test Description                                176.02 20161005          250ANNALEE123456                          
+20173 AC2IGAAOFSTFSB28---CB  03GLCBAG20170300100105Test Description                                 10.59 20161005          250DINGER 123456                          
+20173 AC2IGAAOFSTFSB28---CB  03GLCBAG20170300100106Test Description                                -92.52 20161005          250HO     123456                          
+20173 AC2IGAAOFSTFSB28---CB  03GLCBAG20170300100107Test Description                                -99.07 20161005          250MANZO  123456                          
+20173 AC2IGAAOFSTFSB28---CB  03GLCBAG20170300100108Test Description                                 13.63 20161005          250MATT   123456                          
+20173 AC2IGAAOFSTFSB28---CB  03GLCBAG20170300100109Test Description                                -16.09 20161005          250PETKUS 123456                          
+20173 AC2IGAAOFSTFSB28---CB  03GLCBAG20170300100110Test Description                               -164.83 20161005          250SKYBERG123456                          
+20173 AC2IGAAOFSTFSUB6---CB  03GLCBAG20170300100111Test Description                              -1097.81 20161005          250ANNALEE123456                          
+20173 AC2IGAAOFSTFSUB6---CB  03GLCBAG20170300100112Test Description                              -1080.90 20161005          250DINGER 123456                          
+20173 AC2IGAAOFSTFSUB6---CB  03GLCBAG20170300100113Test Description                               -838.51 20161005          250HO     123456                          
+20173 AC2IGAAOFSTFSUB6---CB  03GLCBAG20170300100114Test Description                               -897.89 20161005          250MANZO  123456                          
+20173 AC2IGAAOFSTFSUB6---CB  03GLCBAG20170300100115Test Description                              -1391.24 20161005          250MATT   123456                          
+20173 AC2IGAAOFSTFSUB6---CB  03GLCBAG20170300100116Test Description                               -148.43 20161005          250PETKUS 123456                          
+20173 AC2IGAAOFSTFSUB6---CB  03GLCBAG20170300100117Test Description                              -1079.37 20161005          250SKYBERG123456                          
+20173 AC2RGAAITSTFSB28---CB  03GLCBAG20170300100118Test Description                               -140.06 20161005          250BOOTON 123456                          
+20173 AC2RGAAITSTFSB28---CB  03GLCBAG20170300100119Test Description                               -179.26 20161005          250JIMENEZ123456                          
+20173 AC2RGAAITSTFSB28---CB  03GLCBAG20170300100120Test Description                                -28.01 20161005          250RIVERA 123456                          
+20173 AC2RGAAITSTFSUB6---CB  03GLCBAG20170300100121Test Description                              -1269.40 20161005          250BOOTON 123456                          
+20173 AC2RGAAITSTFSUB6---CB  03GLCBAG20170300100122Test Description                              -1334.65 20161005          250JIMENEZ123456                          
+20173 AC2RGAAITSTFSUB6---CB  03GLCBAG20170300100123Test Description                               -613.14 20161005          250RIVERA 123456                          
+20173 AC2RGAAOFSTFSB28---CB  03GLCBAG20170300100124Test Description                                408.07 20161005          250CLARK  123456                          
+20173 AC2RGAAOFSTFSB28---CB  03GLCBAG20170300100125Test Description                                -64.36 20161005          250PETKUS 123456                          
+20173 AC2RGAAOFSTFSB28---CB  03GLCBAG20170300100126Test Description                               -180.20 20161005          250WEBSTER123456                          
+20173 AC2RGAAOFSTFSB28---CB  03GLCBAG20170300100127Test Description                               -169.61 20161005          AETXWLN   123456                          
+20173 AC2RGAAOFSTFSUB6---CB  03GLCBAG20170300100128Test Description                               -753.15 20161005          250CLARK  123456                          
+20173 AC2RGAAOFSTFSUB6---CB  03GLCBAG20170300100129Test Description                               -593.74 20161005          250PETKUS 123456                          
+20173 AC2RGAAOFSTFSUB6---CB  03GLCBAG20170300100130Test Description                              -1341.70 20161005          250WEBSTER123456                          
+20173 AC2RGAAOFSTFSUB6---CB  03GLCBAG20170300100131Test Description                              -1279.34 20161005          AETXWLN   123456                          
+20173 AC3IGAA-----SB28---CB  03GLCBAG20170300100132Test Description                                -39.60 20161005          AMMBFTV   123456                          
+20173 AC3IGAA-----SB28---CB  03GLCBAG20170300100133Test Description                                -49.99 20161005          BEBBFTV   123456                          
+20173 AC3IGAA-----SB28---CB  03GLCBAG20170300100134Test Description                                135.36 20161005          BLLBFTV   123456                          
+20173 AC3IGAA-----SB28---CB  03GLCBAG20170300100135Test Description                                -40.72 20161005          EDDBFTV   123456                          
+20173 AC3IGAA-----SB28---CB  03GLCBAG20170300100136Test Description                                -38.54 20161005          FPSBFTV   123456                          
+20173 AC3IGAA-----SB28---CB  03GLCBAG20170300100137Test Description                                -58.37 20161005          HHLBFTV   123456                          
+20173 AC3IGAA-----SB28---CB  03GLCBAG20170300100138Test Description                                 48.24 20161005          JJVBFTV   123456                          
+20173 AC3IGAA-----SB28---CB  03GLCBAG20170300100139Test Description                                -58.18 20161005          KANBFTV   123456                          
+20173 AC3IGAA-----SB28---CB  03GLCBAG20170300100140Test Description                                -42.39 20161005          KVCBFTV   123456                          
+20173 AC3IGAA-----SB28---CB  03GLCBAG20170300100141Test Description                                -19.44 20161005          LAMBFTV   123456                          
+20173 AC3IGAA-----SB28---CB  03GLCBAG20170300100142Test Description                                -14.72 20161005          LPSBFTV   123456                          
+20173 AC3IGAA-----SB28---CB  03GLCBAG20170300100143Test Description                                -81.47 20161005          MGTBFTV   123456                          
+20173 AC3IGAA-----SB28---CB  03GLCBAG20170300100144Test Description                                -81.12 20161005          NERBFTV   123456                          
+20173 AC3IGAA-----SB28---CB  03GLCBAG20170300100145Test Description                                -51.84 20161005          OPDBFTV   123456                          
+20173 AC3IGAA-----SB28---CB  03GLCBAG20170300100146Test Description                                -34.97 20161005          SLBBFTV   123456                          
+20173 AC3IGAA-----SB28---CB  03GLCBAG20170300100147Test Description                                -57.11 20161005          TJDBFTV   123456                          
+20173 AC3IGAA-----SB28---CB  03GLCBAG20170300100148Test Description                                -50.69 20161005          YGGBFTV   123456                          
+20173 AC3IGAA-----SUB6---CB  03GLCBAG20170300100149Test Description                                -16.44 20161005          ----------123456                          
+20173 AC3IGAA-----SUB6---CB  03GLCBAG20170300100150Test Description                               -358.86 20161005          AMMBFTV   123456                          
+20173 AC3IGAA-----SUB6---CB  03GLCBAG20170300100151Test Description                               -453.00 20161005          BEBBFTV   123456                          
+20173 AC3IGAA-----SUB6---CB  03GLCBAG20170300100152Test Description                               -405.39 20161005          BLLBFTV   123456                          
+20173 AC3IGAA-----SUB6---CB  03GLCBAG20170300100153Test Description                               -369.07 20161005          EDDBFTV   123456                          
+20173 AC3IGAA-----SUB6---CB  03GLCBAG20170300100154Test Description                               -349.28 20161005          FPSBFTV   123456                          
+20173 AC3IGAA-----SUB6---CB  03GLCBAG20170300100155Test Description                               -528.99 20161005          HHLBFTV   123456                          
+20173 AC3IGAA-----SUB6---CB  03GLCBAG20170300100156Test Description                               -593.93 20161005          JJVBFTV   123456                          
+20173 AC3IGAA-----SUB6---CB  03GLCBAG20170300100157Test Description                               -527.25 20161005          KANBFTV   123456                          
+20173 AC3IGAA-----SUB6---CB  03GLCBAG20170300100158Test Description                               -384.22 20161005          KVCBFTV   123456                          
+20173 AC3IGAA-----SUB6---CB  03GLCBAG20170300100159Test Description                               -176.16 20161005          LAMBFTV   123456                          
+20173 AC3IGAA-----SUB6---CB  03GLCBAG20170300100160Test Description                               -397.10 20161005          LPSBFTV   123456                          
+20173 AC3IGAA-----SUB6---CB  03GLCBAG20170300100161Test Description                               -738.34 20161005          MGTBFTV   123456                          
+20173 AC3IGAA-----SUB6---CB  03GLCBAG20170300100162Test Description                               -917.61 20161005          NERBFTV   123456                          
+20173 AC3IGAA-----SUB6---CB  03GLCBAG20170300100163Test Description                               -469.82 20161005          OPDBFTV   123456                          
+20173 AC3IGAA-----SUB6---CB  03GLCBAG20170300100164Test Description                               -316.97 20161005          SLBBFTV   123456                          
+20173 AC3IGAA-----SUB6---CB  03GLCBAG20170300100165Test Description                               -517.55 20161005          TJDBFTV   123456                          
+20173 AC3IGAA-----SUB6---CB  03GLCBAG20170300100166Test Description                               -459.38 20161005          YGGBFTV   123456                          
+20173 AC3RGAA-----SB28---CB  03GLCBAG20170300100167Test Description                                -73.54 20161005          AMMBFTV   123456                          
+20173 AC3RGAA-----SB28---CB  03GLCBAG20170300100168Test Description                                -61.09 20161005          BEBBFTV   123456                          
+20173 AC3RGAA-----SB28---CB  03GLCBAG20170300100169Test Description                                135.36 20161005          BLLBFTV   123456                          
+20173 AC3RGAA-----SB28---CB  03GLCBAG20170300100170Test Description                                -75.63 20161005          EDDBFTV   123456                          
+20173 AC3RGAA-----SB28---CB  03GLCBAG20170300100171Test Description                                -71.57 20161005          FPSBFTV   123456                          
+20173 AC3RGAA-----SB28---CB  03GLCBAG20170300100172Test Description                                -58.37 20161005          HHLBFTV   123456                          
+20173 AC3RGAA-----SB28---CB  03GLCBAG20170300100173Test Description                                 48.24 20161005          JJVBFTV   123456                          
+20173 AC3RGAA-----SB28---CB  03GLCBAG20170300100174Test Description                                -58.18 20161005          KANBFTV   123456                          
+20173 AC3RGAA-----SB28---CB  03GLCBAG20170300100175Test Description                                -63.59 20161005          KVCBFTV   123456                          
+20173 AC3RGAA-----SB28---CB  03GLCBAG20170300100176Test Description                                -36.10 20161005          LAMBFTV   123456                          
+20173 AC3RGAA-----SB28---CB  03GLCBAG20170300100177Test Description                               -139.86 20161005          LCWBFTV   123456                          
+20173 AC3RGAA-----SB28---CB  03GLCBAG20170300100178Test Description                                -22.08 20161005          LPSBFTV   123456                          
+20173 AC3RGAA-----SB28---CB  03GLCBAG20170300100179Test Description                                -27.16 20161005          MGTBFTV   123456                          
+20173 AC3RGAA-----SB28---CB  03GLCBAG20170300100180Test Description                                -27.04 20161005          NERBFTV   123456                          
+20173 AC3RGAA-----SB28---CB  03GLCBAG20170300100181Test Description                                -51.84 20161005          OPDBFTV   123456                          
+20173 AC3RGAA-----SB28---CB  03GLCBAG20170300100182Test Description                                -71.01 20161005          SLBBFTV   123456                          
+20173 AC3RGAA-----SB28---CB  03GLCBAG20170300100183Test Description                               -117.26 20161005          TNBBFTV   123456                          
+20173 AC3RGAA-----SB28---CB  03GLCBAG20170300100184Test Description                                -50.69 20161005          YGGBFTV   123456                          
+20173 AC3RGAA-----SUB6---CB  03GLCBAG20170300100185Test Description                                 -1.95 20161005          ----------123456                          
+20173 AC3RGAA-----SUB6---CB  03GLCBAG20170300100186Test Description                               -666.47 20161005          AMMBFTV   123456                          
+20173 AC3RGAA-----SUB6---CB  03GLCBAG20170300100187Test Description                               -553.66 20161005          BEBBFTV   123456                          
+20173 AC3RGAA-----SUB6---CB  03GLCBAG20170300100188Test Description                               -405.39 20161005          BLLBFTV   123456                          
+20173 AC3RGAA-----SUB6---CB  03GLCBAG20170300100189Test Description                               -685.43 20161005          EDDBFTV   123456                          
+20173 AC3RGAA-----SUB6---CB  03GLCBAG20170300100190Test Description                               -648.67 20161005          FPSBFTV   123456                          
+20173 AC3RGAA-----SUB6---CB  03GLCBAG20170300100191Test Description                               -528.99 20161005          HHLBFTV   123456                          
+20173 AC3RGAA-----SUB6---CB  03GLCBAG20170300100192Test Description                               -593.93 20161005          JJVBFTV   123456                          
+20173 AC3RGAA-----SUB6---CB  03GLCBAG20170300100193Test Description                               -527.25 20161005          KANBFTV   123456                          
+20173 AC3RGAA-----SUB6---CB  03GLCBAG20170300100194Test Description                               -576.32 20161005          KVCBFTV   123456                          
+20173 AC3RGAA-----SUB6---CB  03GLCBAG20170300100195Test Description                               -327.16 20161005          LAMBFTV   123456                          
+20173 AC3RGAA-----SUB6---CB  03GLCBAG20170300100196Test Description                               -915.82 20161005          LCWBFTV   123456                          
+20173 AC3RGAA-----SUB6---CB  03GLCBAG20170300100197Test Description                               -595.66 20161005          LPSBFTV   123456                          
+20173 AC3RGAA-----SUB6---CB  03GLCBAG20170300100198Test Description                               -246.11 20161005          MGTBFTV   123456                          
+20173 AC3RGAA-----SUB6---CB  03GLCBAG20170300100199Test Description                               -305.87 20161005          NERBFTV   123456                          
+20173 AC3RGAA-----SUB6---CB  03GLCBAG20170300100200Test Description                               -469.82 20161005          OPDBFTV   123456                          
+20173 AC3RGAA-----SUB6---CB  03GLCBAG20170300100201Test Description                               -643.56 20161005          SLBBFTV   123456                          
+20173 AC3RGAA-----SUB6---CB  03GLCBAG20170300100202Test Description                              -1062.76 20161005          TNBBFTV   123456                          
+20173 AC3RGAA-----SUB6---CB  03GLCBAG20170300100203Test Description                               -459.38 20161005          YGGBFTV   123456                          
+20173 AC4IGAA-----SB28---CB  03GLCBAG20170300100204Test Description                                 40.09 20161005          ----------123456                          
+20173 AC4IGAA-----SB28---CB  03GLCBAG20170300100205Test Description                               -151.32 20161005          BXFP      123456                          
+20173 AC4IGAA-----SB28---CB  03GLCBAG20170300100206Test Description                               -258.70 20161005          GMTP      123456                          
+20173 AC4IGAA-----SB28---CB  03GLCBAG20170300100207Test Description                               -121.30 20161005          JXPP      123456                          
+20173 AC4IGAA-----SB28---CB  03GLCBAG20170300100208Test Description                               -105.98 20161005          KAWP      123456                          
+20173 AC4IGAA-----SB28---CB  03GLCBAG20170300100209Test Description                               -138.37 20161005          KXDP      123456                          
+20173 AC4IGAA-----SB28---CB  03GLCBAG20170300100210Test Description                                 33.65 20161005          TAGP      123456                          
+20173 AC4IGAA-----SUB6---CB  03GLCBAG20170300100211Test Description                               -770.49 20161005          ----------123456                          
+20173 AC4IGAA-----SUB6---CB  03GLCBAG20170300100212Test Description                              -1126.61 20161005          BXFP      123456                          
+20173 AC4IGAA-----SUB6---CB  03GLCBAG20170300100213Test Description                              -1529.71 20161005          GMTP      123456                          
+20173 AC4IGAA-----SUB6---CB  03GLCBAG20170300100214Test Description                              -1186.82 20161005          JXPP      123456                          
+20173 AC4IGAA-----SUB6---CB  03GLCBAG20170300100215Test Description                               -960.53 20161005          KAWP      123456                          
+20173 AC4IGAA-----SUB6---CB  03GLCBAG20170300100216Test Description                              -1282.93 20161005          KXDP      123456                          
+20173 AC4IGAA-----SUB6---CB  03GLCBAG20170300100217Test Description                              -1133.49 20161005          TAGP      123456                          
+20173 AC4RGAA-----SB28---CB  03GLCBAG20170300100218Test Description                                997.42 20161005          ----------123456                          
+20173 AC4RGAA-----SB28---CB  03GLCBAG20170300100219Test Description                               -144.91 20161005          BAMP      123456                          
+20173 AC4RGAA-----SB28---CB  03GLCBAG20170300100220Test Description                                -64.71 20161005          CNLP      123456                          
+20173 AC4RGAA-----SB28---CB  03GLCBAG20170300100221Test Description                               -139.58 20161005          EGHP      123456                          
+20173 AC4RGAA-----SB28---CB  03GLCBAG20170300100222Test Description                               -451.54 20161005          GFYP      123456                          
+20173 AC4RGAA-----SB28---CB  03GLCBAG20170300100223Test Description                               -451.90 20161005          JCKP      123456                          
+20173 AC4RGAA-----SB28---CB  03GLCBAG20170300100224Test Description                               -119.97 20161005          JXKP      123456                          
+20173 AC4RGAA-----SB28---CB  03GLCBAG20170300100225Test Description                               -134.59 20161005          MTTP      123456                          
+20173 AC4RGAA-----SB28---CB  03GLCBAG20170300100226Test Description                               -212.64 20161005          WJMP      123456                          
+20173 AC4RGAA-----SB28---CB  03GLCBAG20170300100227Test Description                               -143.62 20161005          WSMP      123456                          
+20173 AC4RGAA-----SUB6---CB  03GLCBAG20170300100228Test Description                               1468.12 20161005          ----------123456                          
+20173 AC4RGAA-----SUB6---CB  03GLCBAG20170300100229Test Description                              -1313.34 20161005          BAMP      123456                          
+20173 AC4RGAA-----SUB6---CB  03GLCBAG20170300100230Test Description                               -586.44 20161005          CNLP      123456                          
+20173 AC4RGAA-----SUB6---CB  03GLCBAG20170300100231Test Description                              -1265.04 20161005          EGHP      123456                          
+20173 AC4RGAA-----SUB6---CB  03GLCBAG20170300100232Test Description                              -2669.95 20161005          GFYP      123456                          
+20173 AC4RGAA-----SUB6---CB  03GLCBAG20170300100233Test Description                              -2672.06 20161005          JCKP      123456                          
+20173 AC4RGAA-----SUB6---CB  03GLCBAG20170300100234Test Description                              -1087.25 20161005          JXKP      123456                          
+20173 AC4RGAA-----SUB6---CB  03GLCBAG20170300100235Test Description                              -1241.37 20161005          MTTP      123456                          
+20173 AC4RGAA-----SUB6---CB  03GLCBAG20170300100236Test Description                              -1392.40 20161005          WJMP      123456                          
+20173 AC4RGAA-----SUB6---CB  03GLCBAG20170300100237Test Description                              -1554.86 20161005          WSMP      123456                          
+20173 AC4RGAATEMP SUB6---CB  03GLCBAG20170300100238Test Description                               -189.13 20161005          ----------123456                          
+20173 AC5IGAA-----SB28---CB  03GLCBAG20170300100239Test Description                                -82.94 20161005          ACL5DELCAR123456                          
+20173 AC5IGAA-----SB28---CB  03GLCBAG20170300100240Test Description                               -128.06 20161005          ACL5GEIGER123456                          
+20173 AC5IGAA-----SB28---CB  03GLCBAG20170300100241Test Description                                -14.69 20161005          ARES_POHL 123456                          
+20173 AC5IGAA-----SB28---CB  03GLCBAG20170300100242Test Description                                710.84 20161005          FMCCLEERY 123456                          
+20173 AC5IGAA-----SUB6---CB  03GLCBAG20170300100243Test Description                                 -3.36 20161005          ----------123456                          
+20173 AC5IGAA-----SUB6---CB  03GLCBAG20170300100244Test Description                               -751.72 20161005          ACL5DELCAR123456                          
+20173 AC5IGAA-----SUB6---CB  03GLCBAG20170300100245Test Description                               -971.85 20161005          ACL5GEIGER123456                          
+20173 AC5IGAA-----SUB6---CB  03GLCBAG20170300100246Test Description                               -111.44 20161005          ARES_POHL 123456                          
+20173 AC5IGAA-----SUB6---CB  03GLCBAG20170300100247Test Description                               -969.47 20161005          FMCCLEERY 123456                          
+20173 AC5RGAA-----SB28---CB  03GLCBAG20170300100248Test Description                                -24.84 20161005          ARE_HELSIN123456                          
+20173 AC5RGAA-----SUB6---CB  03GLCBAG20170300100249Test Description                               -225.16 20161005          ARE_HELSIN123456                          
+20173 ADOIGAA-----SB28---CB  03GLCBAG20170300100250Test Description                                -79.35 20161005          ADOBJN    123456                          
+20173 ADOIGAA-----SB28---CB  03GLCBAG20170300100251Test Description                                -39.57 20161005          ADOCFA    123456                          
+20173 ADOIGAA-----SB28---CB  03GLCBAG20170300100252Test Description                                -63.42 20161005          ADOCRC    123456                          
+20173 ADOIGAA-----SB28---CB  03GLCBAG20170300100253Test Description                                -47.69 20161005          ADOCWF    123456                          
+20173 ADOIGAA-----SB28---CB  03GLCBAG20170300100254Test Description                                -39.93 20161005          ADODWJ    123456                          
+20173 ADOIGAA-----SB28---CB  03GLCBAG20170300100255Test Description                               -136.51 20161005          ADOHTD    123456                          
+20173 ADOIGAA-----SB28---CB  03GLCBAG20170300100256Test Description                                -19.46 20161005          ADOJCD    123456                          
+20173 ADOIGAA-----SB28---CB  03GLCBAG20170300100257Test Description                                 22.70 20161005          ADOJLB    123456                          
+20173 ADOIGAA-----SB28---CB  03GLCBAG20170300100258Test Description                                -70.85 20161005          ADOJXE    123456                          
+20173 ADOIGAA-----SB28---CB  03GLCBAG20170300100259Test Description                                -83.96 20161005          ADOLMW    123456                          
+20173 ADOIGAA-----SB28---CB  03GLCBAG20170300100260Test Description                                -49.65 20161005          ADOMXW    123456                          
+20173 ADOIGAA-----SB28---CB  03GLCBAG20170300100261Test Description                                129.19 20161005          ADOPAS    123456                          
+20173 ADOIGAA-----SB28---CB  03GLCBAG20170300100262Test Description                                -50.33 20161005          ADOSXG    123456                          
+20173 ADOIGAA-----SB28---CB  03GLCBAG20170300100263Test Description                               -114.39 20161005          ADOYXC    123456                          
+20173 ADOIGAA-----SUB6---CB  03GLCBAG20170300100264Test Description                               -554.38 20161005          ADOBJN    123456                          
+20173 ADOIGAA-----SUB6---CB  03GLCBAG20170300100265Test Description                               -447.51 20161005          ADOCFA    123456                          
+20173 ADOIGAA-----SUB6---CB  03GLCBAG20170300100266Test Description                               -574.79 20161005          ADOCRC    123456                          
+20173 ADOIGAA-----SUB6---CB  03GLCBAG20170300100267Test Description                               -546.93 20161005          ADOCWF    123456                          
+20173 ADOIGAA-----SUB6---CB  03GLCBAG20170300100268Test Description                               -605.71 20161005          ADODWJ    123456                          
+20173 ADOIGAA-----SUB6---CB  03GLCBAG20170300100269Test Description                              -1237.21 20161005          ADOHTD    123456                          
+20173 ADOIGAA-----SUB6---CB  03GLCBAG20170300100270Test Description                              -1008.08 20161005          ADOJCD    123456                          
+20173 ADOIGAA-----SUB6---CB  03GLCBAG20170300100271Test Description                               -436.33 20161005          ADOJLB    123456                          
+20173 ADOIGAA-----SUB6---CB  03GLCBAG20170300100272Test Description                               -642.16 20161005          ADOJXE    123456                          
+20173 ADOIGAA-----SUB6---CB  03GLCBAG20170300100273Test Description                               -625.09 20161005          ADOLMW    123456                          
+20173 ADOIGAA-----SUB6---CB  03GLCBAG20170300100274Test Description                               -450.00 20161005          ADOMXW    123456                          
+20173 ADOIGAA-----SUB6---CB  03GLCBAG20170300100275Test Description                               -390.39 20161005          ADOPAS    123456                          
+20173 ADOIGAA-----SUB6---CB  03GLCBAG20170300100276Test Description                               -569.33 20161005          ADOSXG    123456                          
+20173 ADOIGAA-----SUB6---CB  03GLCBAG20170300100277Test Description                               -676.38 20161005          ADOYXC    123456                          
+20173 ADORGA2-----SB28---CB  03GLCBAG20170300100278Test Description                               -308.43 20161005          ----------123456                          
+20173 ADORGA2-----SUB6---CB  03GLCBAG20170300100279Test Description                              -2315.82 20161005          ----------123456                          
+20173 ADORGAA-----SB28---CB  03GLCBAG20170300100280Test Description                                -74.23 20161005          ADOBJN    123456                          
+20173 ADORGAA-----SB28---CB  03GLCBAG20170300100281Test Description                                -36.98 20161005          ADOCFA    123456                          
+20173 ADORGAA-----SB28---CB  03GLCBAG20170300100282Test Description                                -63.46 20161005          ADOCRC    123456                          
+20173 ADORGAA-----SB28---CB  03GLCBAG20170300100283Test Description                                -44.58 20161005          ADOCWF    123456                          
+20173 ADORGAA-----SB28---CB  03GLCBAG20170300100284Test Description                                -37.32 20161005          ADODWJ    123456                          
+20173 ADORGAA-----SB28---CB  03GLCBAG20170300100285Test Description                                 21.22 20161005          ADOJLB    123456                          
+20173 ADORGAA-----SB28---CB  03GLCBAG20170300100286Test Description                                -66.23 20161005          ADOJXE    123456                          
+20173 ADORGAA-----SB28---CB  03GLCBAG20170300100287Test Description                                -78.48 20161005          ADOLMW    123456                          
+20173 ADORGAA-----SB28---CB  03GLCBAG20170300100288Test Description                                -49.65 20161005          ADOMXW    123456                          
+20173 ADORGAA-----SB28---CB  03GLCBAG20170300100289Test Description                                120.76 20161005          ADOPAS    123456                          
+20173 ADORGAA-----SB28---CB  03GLCBAG20170300100290Test Description                                -47.05 20161005          ADOSXG    123456                          
+20173 ADORGAA-----SB28---CB  03GLCBAG20170300100291Test Description                               -106.93 20161005          ADOYXC    123456                          
+20173 ADORGAA-----SUB6---CB  03GLCBAG20170300100292Test Description                               -518.26 20161005          ADOBJN    123456                          
+20173 ADORGAA-----SUB6---CB  03GLCBAG20170300100293Test Description                               -418.33 20161005          ADOCFA    123456                          
+20173 ADORGAA-----SUB6---CB  03GLCBAG20170300100294Test Description                               -575.14 20161005          ADOCRC    123456                          
+20173 ADORGAA-----SUB6---CB  03GLCBAG20170300100295Test Description                               -511.26 20161005          ADOCWF    123456                          
+20173 ADORGAA-----SUB6---CB  03GLCBAG20170300100296Test Description                               -566.20 20161005          ADODWJ    123456                          
+20173 ADORGAA-----SUB6---CB  03GLCBAG20170300100297Test Description                               -407.88 20161005          ADOJLB    123456                          
+20173 ADORGAA-----SUB6---CB  03GLCBAG20170300100298Test Description                               -600.28 20161005          ADOJXE    123456                          
+20173 ADORGAA-----SUB6---CB  03GLCBAG20170300100299Test Description                               -584.32 20161005          ADOLMW    123456                          
+20173 ADORGAA-----SUB6---CB  03GLCBAG20170300100300Test Description                               -450.00 20161005          ADOMXW    123456                          
+20173 ADORGAA-----SUB6---CB  03GLCBAG20170300100301Test Description                               -364.93 20161005          ADOPAS    123456                          
+20173 ADORGAA-----SUB6---CB  03GLCBAG20170300100302Test Description                               -532.19 20161005          ADOSXG    123456                          
+20173 ADORGAA-----SUB6---CB  03GLCBAG20170300100303Test Description                               -632.28 20161005          ADOYXC    123456                          
+20173 AECIGAA-----SB28---CB  03GLCBAG20170300100304Test Description                                 66.05 20161005          AAREPYONJ 123456                          
+20173 AECIGAA-----SB28---CB  03GLCBAG20170300100305Test Description                               -222.70 20161005          ARES_CLAR 123456                          
+20173 AECIGAA-----SB28---CB  03GLCBAG20170300100306Test Description                               -220.52 20161005          ARES_HANS 123456                          
+20173 AECIGAA-----SB28---CB  03GLCBAG20170300100307Test Description                               -103.20 20161005          ARES_OKOLO123456                          
+20173 AECIGAA-----SB28---CB  03GLCBAG20170300100308Test Description                               -132.18 20161005          ARES_POHL 123456                          
+20173 AECIGAA-----SB28---CB  03GLCBAG20170300100309Test Description                               -122.69 20161005          ARES_SMAL 123456                          
+20173 AECIGAA-----SB28---CB  03GLCBAG20170300100310Test Description                               -174.95 20161005          SHANNON   123456                          
+20173 AECIGAA-----SUB6---CB  03GLCBAG20170300100311Test Description                               -904.50 20161005          AAREPYONJ 123456                          
+20173 AECIGAA-----SUB6---CB  03GLCBAG20170300100312Test Description                              -1458.31 20161005          ARES_CLAR 123456                          
+20173 AECIGAA-----SUB6---CB  03GLCBAG20170300100313Test Description                              -1444.06 20161005          ARES_HANS 123456                          
+20173 AECIGAA-----SUB6---CB  03GLCBAG20170300100314Test Description                               -935.30 20161005          ARES_OKOLO123456                          
+20173 AECIGAA-----SUB6---CB  03GLCBAG20170300100315Test Description                              -1003.02 20161005          ARES_POHL 123456                          
+20173 AECIGAA-----SUB6---CB  03GLCBAG20170300100316Test Description                              -1111.92 20161005          ARES_SMAL 123456                          
+20173 AECIGAA-----SUB6---CB  03GLCBAG20170300100317Test Description                              -1266.78 20161005          SHANNON   123456                          
+20173 AECITMP-----SUB6---CB  03GLCBAG20170300100318Test Description                              -4585.38 20161005          ----------123456                          
+20173 AECRGAA-----SB28---CB  03GLCBAG20170300100319Test Description                               -115.49 20161005          ACL5CALLAH123456                          
+20173 AECRGAA-----SB28---CB  03GLCBAG20170300100320Test Description                                104.20 20161005          ACL5SLOAN 123456                          
+20173 AECRGAA-----SB28---CB  03GLCBAG20170300100321Test Description                                -24.84 20161005          ARE_HELSIN123456                          
+20173 AECRGAA-----SB28---CB  03GLCBAG20170300100322Test Description                                -49.54 20161005          ARES_BURT 123456                          
+20173 AECRGAA-----SUB6---CB  03GLCBAG20170300100323Test Description                              -1046.67 20161005          ACL5CALLAH123456                          
+20173 AECRGAA-----SUB6---CB  03GLCBAG20170300100324Test Description                               -964.74 20161005          ACL5SLOAN 123456                          
+20173 AECRGAA-----SUB6---CB  03GLCBAG20170300100325Test Description                               -225.16 20161005          ARE_HELSIN123456                          
+20173 AECRGAA-----SUB6---CB  03GLCBAG20170300100326Test Description                               -448.94 20161005          ARES_BURT 123456                          
+20173 AESIGAA-----SB28---CB  03GLCBAG20170300100327Test Description                                777.22 20161005          ACL5AUGUST123456                          
+20173 AESIGAA-----SB28---CB  03GLCBAG20170300100328Test Description                                153.22 20161005          CARRIERE  123456                          
+20173 AESIGAA-----SB28---CB  03GLCBAG20170300100329Test Description                               -108.62 20161005          CLOPEZ    123456                          
+20173 AESIGAA-----SB28---CB  03GLCBAG20170300100330Test Description                               -125.86 20161005          DESMWHALEY123456                          
+20173 AESIGAA-----SUB6---CB  03GLCBAG20170300100331Test Description                                 -2.51 20161005          ----------123456                          
+20173 AESIGAA-----SUB6---CB  03GLCBAG20170300100332Test Description                               -507.45 20161005          ACL5AUGUST123456                          
+20173 AESIGAA-----SUB6---CB  03GLCBAG20170300100333Test Description                               -482.82 20161005          CARRIERE  123456                          
+20173 AESIGAA-----SUB6---CB  03GLCBAG20170300100334Test Description                               -984.46 20161005          CLOPEZ    123456                          
+20173 AESIGAA-----SUB6---CB  03GLCBAG20170300100335Test Description                              -1140.64 20161005          DESMWHALEY123456                          
+20173 AESIGAA-----SUB6---CB  03GLCBAG20170300100336Test Description                              -2646.74 20161005          ESPMORGAN 123456                          
+20173 AESRG21-----SUB6---CB  03GLCBAG20170300100337Test Description                                -73.46 20161005          ----------123456                          
+20173 AESRGAA-----SB28---CB  03GLCBAG20170300100338Test Description                               -117.26 20161005          ----------123456                          
+20173 AESRGAA-----SB28---CB  03GLCBAG20170300100339Test Description                                -88.03 20161005          ACL5HEREVI123456                          
+20173 AESRGAA-----SUB6---CB  03GLCBAG20170300100340Test Description                              -1062.76 20161005          ----------123456                          
+20173 AESRGAA-----SUB6---CB  03GLCBAG20170300100341Test Description                               -851.53 20161005          ACL5HEREVI123456                          
+20173 AETIGAA-----SB28---CB  03GLCBAG20170300100342Test Description                                 -8.32 20161005          AETXPIO   123456                          
+20173 AETIGAA-----SUB6---CB  03GLCBAG20170300100343Test Description                                -70.20 20161005          AETXNWG   123456                          
+20173 AETIGAA-----SUB6---CB  03GLCBAG20170300100344Test Description                                -36.48 20161005          AETXPIO   123456                          
+20173 AETIGAAAASAOSB28---CB  03GLCBAG20170300100345Test Description                               -206.87 20161005          AETXSGK   123456                          
+20173 AETIGAAAASAOSUB6---CB  03GLCBAG20170300100346Test Description                              -1345.53 20161005          AETXSGK   123456                          
+20173 AETRGAA-----SB28---CB  03GLCBAG20170300100347Test Description                                -10.16 20161005          AETXPIO   123456                          
+20173 AETRGAA-----SUB6---CB  03GLCBAG20170300100348Test Description                                -23.40 20161005          AETXNWG   123456                          
+20173 AETRGAA-----SUB6---CB  03GLCBAG20170300100349Test Description                                -44.62 20161005          AETXPIO   123456                          
+20173 AETRGAAAGCHMSB28---CB  03GLCBAG20170300100350Test Description                                -91.38 20161005          AETXGJE   123456                          
+20173 AETRGAAAGCHMSUB6---CB  03GLCBAG20170300100351Test Description                               -615.08 20161005          AETXGJE   123456                          
+20173 AETRGAAPHTOXSB28---CB  03GLCBAG20170300100352Test Description                                -91.38 20161005          AETXGJE   123456                          
+20173 AETRGAAPHTOXSUB6---CB  03GLCBAG20170300100353Test Description                               -615.08 20161005          AETXGJE   123456                          
+20173 AFSIGAAADVISSUB6---CB  03GLCBAG20170300100354Test Description                                 -6.01 20161005          ----------123456                          
+20173 AHCRG14-----SUB6---CB  03GLCBAG20170300100355Test Description                                 -2.73 20161005          ----------123456                          
+20173 AHEIGAA-----SB28---CB  03GLCBAG20170300100356Test Description                                -67.20 20161005          ----------123456                          
+20173 AHEIGAA-----SB28---CB  03GLCBAG20170300100357Test Description                               -123.36 20161005          ACL5KETCHU123456                          
+20173 AHEIGAA-----SB28---CB  03GLCBAG20170300100358Test Description                                 94.73 20161005          ACL5LIETHM123456                          
+20173 AHEIGAA-----SB28---CB  03GLCBAG20170300100359Test Description                               -105.98 20161005          ACL5SUTTON123456                          
+20173 AHEIGAA-----SB28---CB  03GLCBAG20170300100360Test Description                               -176.89 20161005          CARMSTRONG123456                          
+20173 AHEIGAA-----SB28---CB  03GLCBAG20170300100361Test Description                               -152.14 20161005          CHENEY    123456                          
+20173 AHEIGAA-----SB28---CB  03GLCBAG20170300100362Test Description                               -175.17 20161005          HCDERDMAN 123456                          
+20173 AHEIGAA-----SB28---CB  03GLCBAG20170300100363Test Description                               -104.57 20161005          HCDLOGANJO123456                          
+20173 AHEIGAA-----SB28---CB  03GLCBAG20170300100364Test Description                               -119.71 20161005          HE_KREZO  123456                          
+20173 AHEIGAA-----SB28---CB  03GLCBAG20170300100365Test Description                                -93.31 20161005          KCHAIDEZ  123456                          
+20173 AHEIGAA-----SB28---CB  03GLCBAG20170300100366Test Description                                 81.66 20161005          RCROTTY   123456                          
+20173 AHEIGAA-----SB28---CB  03GLCBAG20170300100367Test Description                                126.84 20161005          WILCOX    123456                          
+20173 AHEIGAA-----SUB6---CB  03GLCBAG20170300100368Test Description                               -609.03 20161005          ----------123456                          
+20173 AHEIGAA-----SUB6---CB  03GLCBAG20170300100369Test Description                              -1118.01 20161005          ACL5KETCHU123456                          
+20173 AHEIGAA-----SUB6---CB  03GLCBAG20170300100370Test Description                               -225.19 20161005          ACL5LIETHM123456                          
+20173 AHEIGAA-----SUB6---CB  03GLCBAG20170300100371Test Description                               -960.53 20161005          ACL5SUTTON123456                          
+20173 AHEIGAA-----SUB6---CB  03GLCBAG20170300100372Test Description                              -1317.02 20161005          CARMSTRONG123456                          
+20173 AHEIGAA-----SUB6---CB  03GLCBAG20170300100373Test Description                              -1132.78 20161005          CHENEY    123456                          
+20173 AHEIGAA-----SUB6---CB  03GLCBAG20170300100374Test Description                              -1304.23 20161005          HCDERDMAN 123456                          
+20173 AHEIGAA-----SUB6---CB  03GLCBAG20170300100375Test Description                               -778.57 20161005          HCDLOGANJO123456                          
+20173 AHEIGAA-----SUB6---CB  03GLCBAG20170300100376Test Description                               4931.70 20161005          HCDSWARTZ 123456                          
+20173 AHEIGAA-----SUB6---CB  03GLCBAG20170300100377Test Description                              -1084.95 20161005          HE_KREZO  123456                          
+20173 AHEIGAA-----SUB6---CB  03GLCBAG20170300100378Test Description                               -845.69 20161005          KCHAIDEZ  123456                          
+20173 AHEIGAA-----SUB6---CB  03GLCBAG20170300100379Test Description                              -1005.45 20161005          RCROTTY   123456                          
+20173 AHEIGAA-----SUB6---CB  03GLCBAG20170300100380Test Description                               -329.28 20161005          WILCOX    123456                          
+20173 AHEIGAACRDSBSUB6---CB  03GLCBAG20170300100381Test Description                                 -1.37 20161005          ----------123456                          
+20173 AHEIGAAHDESBSUB6---CB  03GLCBAG20170300100382Test Description                                 40.25 20161005          ----------123456                          
+20173 AHEIGAALDASBSB28---CB  03GLCBAG20170300100383Test Description                                -91.39 20161005          LDALIDD   123456                          
+20173 AHEIGAALDASBSUB6---CB  03GLCBAG20170300100384Test Description                                 -0.91 20161005          ----------123456                          
+20173 AHEIGAALDASBSUB6---CB  03GLCBAG20170300100385Test Description                               -864.91 20161005          LDALIDD   123456                          
+20173 AHELH02-----SB28---CB  03GLCBAG20170300100386Test Description                                -43.49 20161005          ----------123456                          
+20173 AHELH02-----SUB6---CB  03GLCBAG20170300100387Test Description                               -394.11 20161005          ----------123456                          
+20173 AHERFLH-----SUB6---CB  03GLCBAG20170300100388Test Description                                -11.33 20161005          ----------123456                          
+20173 AHERGAA-----SB28---CB  03GLCBAG20170300100389Test Description                                -67.20 20161005          ----------123456                          
+20173 AHERGAA-----SB28---CB  03GLCBAG20170300100390Test Description                                262.39 20161005          ACL5LIETHM123456                          
+20173 AHERGAA-----SB28---CB  03GLCBAG20170300100391Test Description                                190.26 20161005          WILCOX    123456                          
+20173 AHERGAA-----SUB6---CB  03GLCBAG20170300100392Test Description                               -609.03 20161005          ----------123456                          
+20173 AHERGAA-----SUB6---CB  03GLCBAG20170300100393Test Description                               -623.77 20161005          ACL5LIETHM123456                          
+20173 AHERGAA-----SUB6---CB  03GLCBAG20170300100394Test Description                               2465.85 20161005          HCDSWARTZ 123456                          
+20173 AHERGAA-----SUB6---CB  03GLCBAG20170300100395Test Description                               -493.93 20161005          WILCOX    123456                          
+20173 AHHRG52-----SUB6---CB  03GLCBAG20170300100396Test Description                                 -0.29 20161005          ----------123456                          
+20173 AIARGAA-----SB28---CB  03GLCBAG20170300100397Test Description                                -20.95 20161005          ----------123456                          
+20173 AIARGAA-----SB28---CB  03GLCBAG20170300100398Test Description                                -56.95 20161005          ADOMSR    123456                          
+20173 AIARGAA-----SUB6---CB  03GLCBAG20170300100399Test Description                               -268.50 20161005          ----------123456                          
+20173 AIARGAA-----SUB6---CB  03GLCBAG20170300100400Test Description                               -516.16 20161005          ADOMSR    123456                          
+20173 ALTRGAB-----SB28---CB  03GLCBAG20170300100401Test Description                                -74.22 20161005          ----------123456                          
+20173 ALTRGAB-----SB28---CB  03GLCBAG20170300100402Test Description                                -77.97 20161005          ADOLAL    123456                          
+20173 ALTRGAB-----SUB6---CB  03GLCBAG20170300100403Test Description                               -815.62 20161005          ----------123456                          
+20173 ALTRGAB-----SUB6---CB  03GLCBAG20170300100404Test Description                               -856.83 20161005          ADOLAL    123456                          
+20173 ALWIGAAAASAOSB28---CB  03GLCBAG20170300100405Test Description                               -119.71 20161005          250BROOKS 123456                          
+20173 ALWIGAAAASAOSB28---CB  03GLCBAG20170300100406Test Description                               -142.51 20161005          250RUIZ   123456                          
+20173 ALWIGAAAASAOSUB6---CB  03GLCBAG20170300100407Test Description                              -1084.95 20161005          250BROOKS 123456                          
+20173 ALWIGAAAASAOSUB6---CB  03GLCBAG20170300100408Test Description                              -1291.59 20161005          250RUIZ   123456                          
+20173 ANSFJFM-----SB28---CB  03GLCBAG20170300100409Test Description                                -75.62 20161005          TREJO     123456                          
+20173 ANSFJFM-----SUB6---CB  03GLCBAG20170300100410Test Description                               -495.15 20161005          TREJO     123456                          
+20173 ANSFMED-----SB28---CB  03GLCBAG20170300100411Test Description                               -107.33 20161005          ----------123456                          
+20173 ANSFMED-----SUB6---CB  03GLCBAG20170300100412Test Description                               -972.71 20161005          ----------123456                          
+20173 ANSFPJB-----SB28---CB  03GLCBAG20170300100413Test Description                                -71.08 20161005          ----------123456                          
+20173 ANSFPJB-----SUB6---CB  03GLCBAG20170300100414Test Description                               -420.27 20161005          ----------123456                          
+20173 ANSFPJR-----SB28---CB  03GLCBAG20170300100415Test Description                                -94.52 20161005          TREJO     123456                          
+20173 ANSFPJR-----SUB6---CB  03GLCBAG20170300100416Test Description                               -618.95 20161005          TREJO     123456                          
+20173 ANSFRAZ-----SB28---CB  03GLCBAG20170300100417Test Description                                -91.31 20161005          ----------123456                          
+20173 ANSFRAZ-----SUB6---CB  03GLCBAG20170300100418Test Description                               -539.94 20161005          ----------123456                          
+20173 ANTGGNBGRADSSB28---CB  03GLCBAG20170300100419Test Description                               -122.43 20161005          ----------123456                          
+20173 ANTGGNBGRADSSUB6---CB  03GLCBAG20170300100420Test Description                               -968.15 20161005          ----------123456                          
+20173 ANTIGAA-----SB28---CB  03GLCBAG20170300100421Test Description                                -97.85 20161005          ----------123456                          
+20173 ANTIGAA-----SUB6---CB  03GLCBAG20170300100422Test Description                               -961.59 20161005          ----------123456                          
+20173 ANTIGAAADVISSB28---CB  03GLCBAG20170300100423Test Description                               -127.49 20161005          NUTUNDR   123456                          
+20173 ANTIGAAADVISSUB6---CB  03GLCBAG20170300100424Test Description                              -1155.42 20161005          NUTUNDR   123456                          
+20173 ANTIGAASALRYSB28---CB  03GLCBAG20170300100425Test Description                                 -8.20 20161005          NUTCPS    123456                          
+20173 ANTIGAASALRYSB28---CB  03GLCBAG20170300100426Test Description                                -19.20 20161005          NUTKGD    123456                          
+20173 ANTIGAASALRYSB28---CB  03GLCBAG20170300100427Test Description                                -40.62 20161005          NUTPIO    123456                          
+20173 ANTIGAASALRYSUB6---CB  03GLCBAG20170300100428Test Description                               -203.78 20161005          NUTCLK    123456                          
+20173 ANTIGAASALRYSUB6---CB  03GLCBAG20170300100429Test Description                                -68.90 20161005          NUTCPS    123456                          
+20173 ANTIGAASALRYSUB6---CB  03GLCBAG20170300100430Test Description                                -84.30 20161005          NUTKGD    123456                          
+20173 ANTIGAASALRYSUB6---CB  03GLCBAG20170300100431Test Description                               -105.30 20161005          NUTNWG    123456                          
+20173 ANTIGAASALRYSUB6---CB  03GLCBAG20170300100432Test Description                               -178.42 20161005          NUTPIO    123456                          
+20173 ANTRGAA-----SB28---CB  03GLCBAG20170300100433Test Description                                 18.87 20161005          ----------123456                          
+20173 ANTRGAA-----SUB6---CB  03GLCBAG20170300100434Test Description                               -194.94 20161005          ----------123456                          
+20173 ANTRGAASALRYSB28---CB  03GLCBAG20170300100435Test Description                                 -0.98 20161005          NUTCPS    123456                          
+20173 ANTRGAASALRYSB28---CB  03GLCBAG20170300100436Test Description                                -27.06 20161005          NUTKGD    123456                          
+20173 ANTRGAASALRYSB28---CB  03GLCBAG20170300100437Test Description                                -33.24 20161005          NUTPIO    123456                          
+20173 ANTRGAASALRYSB28---CB  03GLCBAG20170300100438Test Description                                 -9.23 20161005          NUTSZC    123456                          
+20173 ANTRGAASALRYSUB6---CB  03GLCBAG20170300100439Test Description                               -166.72 20161005          NUTCLK    123456                          
+20173 ANTRGAASALRYSUB6---CB  03GLCBAG20170300100440Test Description                                -20.35 20161005          NUTCPS    123456                          
+20173 ANTRGAASALRYSUB6---CB  03GLCBAG20170300100441Test Description                               -118.80 20161005          NUTKGD    123456                          
+20173 ANTRGAASALRYSUB6---CB  03GLCBAG20170300100442Test Description                                -35.10 20161005          NUTNWG    123456                          
+20173 ANTRGAASALRYSUB6---CB  03GLCBAG20170300100443Test Description                               -145.98 20161005          NUTPIO    123456                          
+20173 ANTRGAASALRYSUB6---CB  03GLCBAG20170300100444Test Description                                -77.62 20161005          NUTSZC    123456                          
+20173 ANTUNDRADVISSUB6---CB  03GLCBAG20170300100445Test Description                                 -8.46 20161005          ----------123456                          
+20173 APFIGAAXPSTXSB28---CB  03GLCBAG20170300100446Test Description                                -19.98 20161005          MONTOYA-P 123456                          
+20173 APFIGAAXPSTXSUB6---CB  03GLCBAG20170300100447Test Description                               -143.25 20161005          MONTOYA-P 123456                          
+20173 APPIGAA-----SUB6---CB  03GLCBAG20170300100448Test Description                                 -1.30 20161005          ----------123456                          
+20173 APPRGAA-----SB28---CB  03GLCBAG20170300100449Test Description                                -63.08 20161005          BTPP      123456                          
+20173 APPRGAA-----SB28---CB  03GLCBAG20170300100450Test Description                               -149.60 20161005          JCRP      123456                          
+20173 APPRGAA-----SUB6---CB  03GLCBAG20170300100451Test Description                                -11.11 20161005          ----------123456                          
+20173 APPRGAA-----SUB6---CB  03GLCBAG20170300100452Test Description                              -1160.18 20161005          BTPP      123456                          
+20173 APPRGAA-----SUB6---CB  03GLCBAG20170300100453Test Description                               -979.62 20161005          JCRP      123456                          
+20173 APRIGAU-----SB28---CB  03GLCBAG20170300100454Test Description                               5104.49 20161005          ----------123456                          
+20173 APRIGAU-----SUB6---CB  03GLCBAG20170300100455Test Description                             103724.77 20161005          ----------123456                          
+20173 APRRGAU-----SB28---CB  03GLCBAG20170300100456Test Description                              -3861.89 20161005          ----------123456                          
+20173 APRRGAU-----SUB6---CB  03GLCBAG20170300100457Test Description                             114936.53 20161005          ----------123456                          
+20173 APSGPBCOPBC2SB28---CB  03GLCBAG20170300100458Test Description                               -111.79 20161005          PIETROS   123456                          
+20173 APSGPBCOPBC2SUB6---CB  03GLCBAG20170300100459Test Description                                 -0.27 20161005          ----------123456                          
+20173 APSGPBCOPBC2SUB6---CB  03GLCBAG20170300100460Test Description                              -1013.17 20161005          PIETROS   123456                          
+20173 APSIGAAAEUGASUB6---CB  03GLCBAG20170300100461Test Description                                 -9.70 20161005          ----------123456                          
+20173 APSIGAAASADVSB28---CB  03GLCBAG20170300100462Test Description                               -233.09 20161005          BROWNL    123456                          
+20173 APSIGAAASADVSB28---CB  03GLCBAG20170300100463Test Description                               -101.38 20161005          SMITHCOLBY123456                          
+20173 APSIGAAASADVSB28---CB  03GLCBAG20170300100464Test Description                               -135.94 20161005          SOUZAKAE  123456                          
+20173 APSIGAAASADVSUB6---CB  03GLCBAG20170300100465Test Description                              -1378.28 20161005          BROWNL    123456                          
+20173 APSIGAAASADVSUB6---CB  03GLCBAG20170300100466Test Description                               -918.77 20161005          SMITHCOLBY123456                          
+20173 APSIGAAASADVSUB6---CB  03GLCBAG20170300100467Test Description                              -1231.99 20161005          SOUZAKAE  123456                          
+20173 APSIGAAASFLVSB28---CB  03GLCBAG20170300100468Test Description                                -71.81 20161005          BOONET    123456                          
+20173 APSIGAAASFLVSB28---CB  03GLCBAG20170300100469Test Description                                -67.30 20161005          MANDRES   123456                          
+20173 APSIGAAASFLVSB28---CB  03GLCBAG20170300100470Test Description                                -52.78 20161005          MILLERRJ  123456                          
+20173 APSIGAAASFLVSB28---CB  03GLCBAG20170300100471Test Description                                -59.94 20161005          MONTOYA   123456                          
+20173 APSIGAAASFLVSUB6---CB  03GLCBAG20170300100472Test Description                               -789.08 20161005          BOONET    123456                          
+20173 APSIGAAASFLVSUB6---CB  03GLCBAG20170300100473Test Description                               -739.50 20161005          MANDRES   123456                          
+20173 APSIGAAASFLVSUB6---CB  03GLCBAG20170300100474Test Description                               -579.94 20161005          MILLERRJ  123456                          
+20173 APSIGAAASFLVSUB6---CB  03GLCBAG20170300100475Test Description                               -429.74 20161005          MONTOYA   123456                          
+20173 APSIGAAASITESB28---CB  03GLCBAG20170300100476Test Description                                 82.87 20161005          SZETO,B   123456                          
+20173 APSIGAAASITESB28---CB  03GLCBAG20170300100477Test Description                                -37.15 20161005          WONGK     123456                          
+20173 APSIGAAASITESUB6---CB  03GLCBAG20170300100478Test Description                               -145.61 20161005          SZETO,B   123456                          
+20173 APSIGAAASITESUB6---CB  03GLCBAG20170300100479Test Description                               -336.70 20161005          WONGK     123456                          
+20173 APSIGAAASOFCSB28---CB  03GLCBAG20170300100480Test Description                                  1.60 20161005          ADAMS     123456                          
+20173 APSIGAAASOFCSB28---CB  03GLCBAG20170300100481Test Description                               -100.07 20161005          CHAVEZ,DAN123456                          
+20173 APSIGAAASOFCSB28---CB  03GLCBAG20170300100482Test Description                                -45.70 20161005          DHINDSABAL123456                          
+20173 APSIGAAASOFCSB28---CB  03GLCBAG20170300100483Test Description                                -90.58 20161005          GEER      123456                          
+20173 APSIGAAASOFCSB28---CB  03GLCBAG20170300100484Test Description                                -50.82 20161005          GILDAY    123456                          
+20173 APSIGAAASOFCSB28---CB  03GLCBAG20170300100485Test Description                                472.61 20161005          MCVARISH  123456                          
+20173 APSIGAAASOFCSB28---CB  03GLCBAG20170300100486Test Description                                 -2.82 20161005          REIDS     123456                          
+20173 APSIGAAASOFCSB28---CB  03GLCBAG20170300100487Test Description                                 74.22 20161005          SABERI-S  123456                          
+20173 APSIGAAASOFCSB28---CB  03GLCBAG20170300100488Test Description                                -85.69 20161005          SALAZAR,C 123456                          
+20173 APSIGAAASOFCSB28---CB  03GLCBAG20170300100489Test Description                                -74.05 20161005          WATERSON-K123456                          
+20173 APSIGAAASOFCSUB6---CB  03GLCBAG20170300100490Test Description                               -162.92 20161005          ADAMS     123456                          
+20173 APSIGAAASOFCSUB6---CB  03GLCBAG20170300100491Test Description                               -628.83 20161005          CHAVEZ,DAN123456                          
+20173 APSIGAAASOFCSUB6---CB  03GLCBAG20170300100492Test Description                               -414.14 20161005          DHINDSABAL123456                          
+20173 APSIGAAASOFCSUB6---CB  03GLCBAG20170300100493Test Description                               -593.12 20161005          GEER      123456                          
+20173 APSIGAAASOFCSUB6---CB  03GLCBAG20170300100494Test Description                               -460.58 20161005          GILDAY    123456                          
+20173 APSIGAAASOFCSUB6---CB  03GLCBAG20170300100495Test Description                               -215.00 20161005          MCVARISH  123456                          
+20173 APSIGAAASOFCSUB6---CB  03GLCBAG20170300100496Test Description                                -65.61 20161005          REIDS     123456                          
+20173 APSIGAAASOFCSUB6---CB  03GLCBAG20170300100497Test Description                               -176.03 20161005          SABERI-S  123456                          
+20173 APSIGAAASOFCSUB6---CB  03GLCBAG20170300100498Test Description                               -638.01 20161005          SALAZAR,C 123456                          
+20173 APSIGAAASOFCSUB6---CB  03GLCBAG20170300100499Test Description                               -551.32 20161005          WATERSON-K123456                          
+20173 APSIGAAASSAFSUB6---CB  03GLCBAG20170300100500Test Description                               -474.83 20161005          WARREN,B  123456                          
+20173 APSITMPCS021SUB6---CB  03GLCBAG20170300100501Test Description                                 -5.46 20161005          ----------123456                          
+20173 APSRG12RBH03SB28---CB  03GLCBAG20170300100502Test Description                                126.50 20161005          ----------123456                          
+20173 APSRG12RBH03SUB6---CB  03GLCBAG20170300100503Test Description                              -1411.58 20161005          ----------123456                          
+20173 APSRG44FAMD2SB28---CB  03GLCBAG20170300100504Test Description                                  5.33 20161005          ----------123456                          
+20173 APSRG44FAMD2SUB6---CB  03GLCBAG20170300100505Test Description                                168.70 20161005          ----------123456                          
+20173 APSRG51FJML0SUB6---CB  03GLCBAG20170300100506Test Description                                 -3.55 20161005          ----------123456                          
+20173 APSRG55FEJM2SUB6---CB  03GLCBAG20170300100507Test Description                                 -3.79 20161005          ----------123456                          
+20173 APSRG67FABB2SB28---CB  03GLCBAG20170300100508Test Description                                -17.86 20161005          ----------123456                          
+20173 APSRG67FABB2SUB6---CB  03GLCBAG20170300100509Test Description                               -161.89 20161005          ----------123456                          
+20173 APSRG71FRTC1SB28---CB  03GLCBAG20170300100510Test Description                               -105.17 20161005          ----------123456                          
+20173 APSRG71FRTC1SUB6---CB  03GLCBAG20170300100511Test Description                               -953.14 20161005          ----------123456                          
+20173 APSRGAAAEFLPSB28---CB  03GLCBAG20170300100512Test Description                                  5.27 20161005          ----------123456                          
+20173 APSRGAAAEFLPSUB6---CB  03GLCBAG20170300100513Test Description                               -351.70 20161005          ----------123456                          
+20173 APSRGAAAEITESUB6---CB  03GLCBAG20170300100514Test Description                                 -4.58 20161005          ----------123456                          
+20173 APSRGAAAEOFCSUB6---CB  03GLCBAG20170300100515Test Description                                 -3.84 20161005          ----------123456                          
+20173 APSRGAAAESAFSUB6---CB  03GLCBAG20170300100516Test Description                                 -4.30 20161005          ----------123456                          
+20173 APSRGAAASFLESB28---CB  03GLCBAG20170300100517Test Description                                -54.01 20161005          LOPEZANT  123456                          
+20173 APSRGAAASFLESUB6---CB  03GLCBAG20170300100518Test Description                               -593.16 20161005          LOPEZANT  123456                          
+20173 APSRGAAASFLPSB28---CB  03GLCBAG20170300100519Test Description                               -106.70 20161005          DDICKSON  123456                          
+20173 APSRGAAASFLPSUB6---CB  03GLCBAG20170300100520Test Description                              -1172.53 20161005          DDICKSON  123456                          
+20173 APSRGAAASFLVSB28---CB  03GLCBAG20170300100521Test Description                                -71.81 20161005          BOONET    123456                          
+20173 APSRGAAASFLVSB28---CB  03GLCBAG20170300100522Test Description                                -52.78 20161005          MILLERRJ  123456                          
+20173 APSRGAAASFLVSB28---CB  03GLCBAG20170300100523Test Description                               -119.88 20161005          MONTOYA   123456                          
+20173 APSRGAAASFLVSUB6---CB  03GLCBAG20170300100524Test Description                               -789.08 20161005          BOONET    123456                          
+20173 APSRGAAASFLVSUB6---CB  03GLCBAG20170300100525Test Description                               -579.94 20161005          MILLERRJ  123456                          
+20173 APSRGAAASFLVSUB6---CB  03GLCBAG20170300100526Test Description                               -859.48 20161005          MONTOYA   123456                          
+20173 APSRGAAASFLVSUB6---CB  03GLCBAG20170300100527Test Description                               -876.87 20161005          PLOCHER   123456                          
+20173 APSRGAAASFLWSB28---CB  03GLCBAG20170300100528Test Description                               -146.45 20161005          EERICKSON 123456                          
+20173 APSRGAAASFLWSUB6---CB  03GLCBAG20170300100529Test Description                              -1623.51 20161005          EERICKSON 123456                          
+20173 APSRGAAASITESB28---CB  03GLCBAG20170300100530Test Description                               -143.33 20161005          BRYANS    123456                          
+20173 APSRGAAASITESB28---CB  03GLCBAG20170300100531Test Description                               -108.31 20161005          DUSSAULT,L123456                          
+20173 APSRGAAASITESB28---CB  03GLCBAG20170300100532Test Description                                583.49 20161005          SZETO,B   123456                          
+20173 APSRGAAASITESB28---CB  03GLCBAG20170300100533Test Description                                  1.67 20161005          WONGK     123456                          
+20173 APSRGAAASITESUB6---CB  03GLCBAG20170300100534Test Description                              -1298.98 20161005          BRYANS    123456                          
+20173 APSRGAAASITESUB6---CB  03GLCBAG20170300100535Test Description                               -709.25 20161005          DUSSAULT,L123456                          
+20173 APSRGAAASITESUB6---CB  03GLCBAG20170300100536Test Description                                 22.52 20161005          SZETO,B   123456                          
+20173 APSRGAAASITESUB6---CB  03GLCBAG20170300100537Test Description                                 15.14 20161005          WONGK     123456                          
+20173 APSRGAAASOFCSB28---CB  03GLCBAG20170300100538Test Description                                  9.04 20161005          ADAMS     123456                          
+20173 APSRGAAASOFCSB28---CB  03GLCBAG20170300100539Test Description                               -116.16 20161005          CBROWNE   123456                          
+20173 APSRGAAASOFCSB28---CB  03GLCBAG20170300100540Test Description                               -121.96 20161005          CHAVEZ,DAN123456                          
+20173 APSRGAAASOFCSB28---CB  03GLCBAG20170300100541Test Description                                151.67 20161005          CLEARWATER123456                          
+20173 APSRGAAASOFCSB28---CB  03GLCBAG20170300100542Test Description                                -45.70 20161005          DHINDSABAL123456                          
+20173 APSRGAAASOFCSB28---CB  03GLCBAG20170300100543Test Description                               -174.99 20161005          GARTUNGALY123456                          
+20173 APSRGAAASOFCSB28---CB  03GLCBAG20170300100544Test Description                               -110.70 20161005          GEER      123456                          
+20173 APSRGAAASOFCSB28---CB  03GLCBAG20170300100545Test Description                                -50.82 20161005          GILDAY    123456                          
+20173 APSRGAAASOFCSB28---CB  03GLCBAG20170300100546Test Description                                252.66 20161005          GREENLEAF 123456                          
+20173 APSRGAAASOFCSB28---CB  03GLCBAG20170300100547Test Description                                -76.73 20161005          HENDRICKS 123456                          
+20173 APSRGAAASOFCSB28---CB  03GLCBAG20170300100548Test Description                                577.63 20161005          MCVARISH  123456                          
+20173 APSRGAAASOFCSB28---CB  03GLCBAG20170300100549Test Description                                -56.29 20161005          NIJJAR-BAL123456                          
+20173 APSRGAAASOFCSB28---CB  03GLCBAG20170300100550Test Description                                -53.47 20161005          REIDS     123456                          
+20173 APSRGAAASOFCSB28---CB  03GLCBAG20170300100551Test Description                                 74.22 20161005          SABERI-S  123456                          
+20173 APSRGAAASOFCSB28---CB  03GLCBAG20170300100552Test Description                                -85.69 20161005          SALAZAR,C 123456                          
+20173 APSRGAAASOFCSB28---CB  03GLCBAG20170300100553Test Description                               -111.07 20161005          WATERSON-K123456                          
+20173 APSRGAAASOFCSUB6---CB  03GLCBAG20170300100554Test Description                               -923.27 20161005          ADAMS     123456                          
+20173 APSRGAAASOFCSUB6---CB  03GLCBAG20170300100555Test Description                              -1052.76 20161005          CBROWNE   123456                          
+20173 APSRGAAASOFCSUB6---CB  03GLCBAG20170300100556Test Description                               -768.39 20161005          CHAVEZ,DAN123456                          
+20173 APSRGAAASOFCSUB6---CB  03GLCBAG20170300100557Test Description                              -1003.68 20161005          CLEARWATER123456                          
+20173 APSRGAAASOFCSUB6---CB  03GLCBAG20170300100558Test Description                               -414.14 20161005          DHINDSABAL123456                          
+20173 APSRGAAASOFCSUB6---CB  03GLCBAG20170300100559Test Description                              -1145.91 20161005          GARTUNGALY123456                          
+20173 APSRGAAASOFCSUB6---CB  03GLCBAG20170300100560Test Description                               -724.92 20161005          GEER      123456                          
+20173 APSRGAAASOFCSUB6---CB  03GLCBAG20170300100561Test Description                               -460.58 20161005          GILDAY    123456                          
+20173 APSRGAAASOFCSUB6---CB  03GLCBAG20170300100562Test Description                              -1153.71 20161005          GREENLEAF 123456                          
+20173 APSRGAAASOFCSUB6---CB  03GLCBAG20170300100563Test Description                               -695.44 20161005          HENDRICKS 123456                          
+20173 APSRGAAASOFCSUB6---CB  03GLCBAG20170300100564Test Description                               -262.79 20161005          MCVARISH  123456                          
+20173 APSRGAAASOFCSUB6---CB  03GLCBAG20170300100565Test Description                              -1312.20 20161005          NIJJAR-BAL123456                          
+20173 APSRGAAASOFCSUB6---CB  03GLCBAG20170300100566Test Description                              -1246.58 20161005          REIDS     123456                          
+20173 APSRGAAASOFCSUB6---CB  03GLCBAG20170300100567Test Description                               -176.03 20161005          SABERI-S  123456                          
+20173 APSRGAAASOFCSUB6---CB  03GLCBAG20170300100568Test Description                               -638.01 20161005          SALAZAR,C 123456                          
+20173 APSRGAAASOFCSUB6---CB  03GLCBAG20170300100569Test Description                               -826.97 20161005          WATERSON-K123456                          
+20173 APSRGAAASRICSB28---CB  03GLCBAG20170300100570Test Description                                -50.62 20161005          ----------123456                          
+20173 APSRGAAASRICSB28---CB  03GLCBAG20170300100571Test Description                                -88.62 20161005          DUSSAULT,L123456                          
+20173 APSRGAAASRICSUB6---CB  03GLCBAG20170300100572Test Description                               -299.30 20161005          ----------123456                          
+20173 APSRGAAASRICSUB6---CB  03GLCBAG20170300100573Test Description                               -580.29 20161005          DUSSAULT,L123456                          
+20173 APSRGAAASSAFSB28---CB  03GLCBAG20170300100574Test Description                                309.47 20161005          PINNEY-R  123456                          
+20173 APSRGAAASSAFSUB6---CB  03GLCBAG20170300100575Test Description                                158.76 20161005          PINNEY-R  123456                          
+20173 APSRGAAASSAFSUB6---CB  03GLCBAG20170300100576Test Description                               -474.83 20161005          WARREN,B  123456                          
+20173 APSRGAAFACORSUB6---CB  03GLCBAG20170300100577Test Description                               -442.65 20161005          LACA      123456                          
+20173 APSRGABFABB2SB28---CB  03GLCBAG20170300100578Test Description                                -29.77 20161005          ----------123456                          
+20173 APSRGABFABB2SUB6---CB  03GLCBAG20170300100579Test Description                               -269.82 20161005          ----------123456                          
+20173 APSRGAGASGRHSB28---CB  03GLCBAG20170300100580Test Description                                126.68 20161005          ----------123456                          
+20173 APSRGAGASGRHSUB6---CB  03GLCBAG20170300100581Test Description                               -302.03 20161005          ----------123456                          
+20173 APSRHMIFJXD2SB28---CB  03GLCBAG20170300100582Test Description                                 73.30 20161005          ----------123456                          
+20173 APSRHMIFJXD2SUB6---CB  03GLCBAG20170300100583Test Description                               -264.04 20161005          ----------123456                          
+20173 ASTEACHADMINSUB6---CB  03GLCBAG20170300100584Test Description                                 -1.47 20161005          ----------123456                          
+20173 ASTEACHADVSNSUB6---CB  03GLCBAG20170300100585Test Description                                -20.39 20161005          ----------123456                          
+20173 ATXRGAA-----SB28---CB  03GLCBAG20170300100586Test Description                                -24.76 20161005          ----------123456                          
+20173 ATXRGAA-----SUB6---CB  03GLCBAG20170300100587Test Description                               -224.36 20161005          ----------123456                          
+20173 AWFIGAASACARSB28---CB  03GLCBAG20170300100588Test Description                               -105.89 20161005          250HUDDLE 123456                          
+20173 AWFIGAASACARSUB6---CB  03GLCBAG20170300100589Test Description                               -959.66 20161005          250HUDDLE 123456                          
+20173 AWFIGAATEACHSUB6---CB  03GLCBAG20170300100590Test Description                                 -1.64 20161005          ----------123456                          
+20173 AWFRGAAMOLLESB28---CB  03GLCBAG20170300100591Test Description                                -52.66 20161005          250MOLLEL 123456                          
+20173 AWFRGAAMOLLESUB6---CB  03GLCBAG20170300100592Test Description                               -477.22 20161005          250MOLLEL 123456                          
+20173 AWFRGAASAFTYSB28---CB  03GLCBAG20170300100593Test Description                                 23.72 20161005          ----------123456                          
+20173 AWFRGAASAFTYSUB6---CB  03GLCBAG20170300100594Test Description                               -231.20 20161005          ----------123456                          
+20173 AXEIGAA-----SB28---CB  03GLCBAG20170300100595Test Description                                -12.08 20161005          EDCN      123456                          
+20173 AXEIGAA-----SB28---CB  03GLCBAG20170300100596Test Description                                -18.06 20161005          ENTFGZ1513123456                          
+20173 AXEIGAA-----SB28---CB  03GLCBAG20170300100597Test Description                                -18.48 20161005          SANN      123456                          
+20173 AXEIGAA-----SUB6---CB  03GLCBAG20170300100598Test Description                                 -1.23 20161005          ----------123456                          
+20173 AXEIGAA-----SUB6---CB  03GLCBAG20170300100599Test Description                                -55.58 20161005          BBWN      123456                          
+20173 AXEIGAA-----SUB6---CB  03GLCBAG20170300100600Test Description                                 -2.58 20161005          EBRJ      123456                          
+20173 AXEIGAA-----SUB6---CB  03GLCBAG20170300100601Test Description                               -109.50 20161005          EDCN      123456                          
+20173 AXEIGAA-----SUB6---CB  03GLCBAG20170300100602Test Description                               -128.00 20161005          EELN      123456                          
+20173 AXEIGAA-----SUB6---CB  03GLCBAG20170300100603Test Description                               -162.82 20161005          ENTDEU0116123456                          
+20173 AXEIGAA-----SUB6---CB  03GLCBAG20170300100604Test Description                                -79.26 20161005          ENTFGZ1513123456                          
+20173 AXEIGAA-----SUB6---CB  03GLCBAG20170300100605Test Description                               -166.12 20161005          ENTJAR0103123456                          
+20173 AXEIGAA-----SUB6---CB  03GLCBAG20170300100606Test Description                                 -3.32 20161005          ENTJRC0543123456                          
+20173 AXEIGAA-----SUB6---CB  03GLCBAG20170300100607Test Description                                 -2.36 20161005          ENTLHYANG 123456                          
+20173 AXEIGAA-----SUB6---CB  03GLCBAG20170300100608Test Description                               -161.68 20161005          ENTLSK7695123456                          
+20173 AXEIGAA-----SUB6---CB  03GLCBAG20170300100609Test Description                               -162.82 20161005          ENTPSW6753123456                          
+20173 AXEIGAA-----SUB6---CB  03GLCBAG20170300100610Test Description                               -162.82 20161005          ENTRXK8132123456                          
+20173 AXEIGAA-----SUB6---CB  03GLCBAG20170300100611Test Description                               -347.06 20161005          ENTSPL4707123456                          
+20173 AXEIGAA-----SUB6---CB  03GLCBAG20170300100612Test Description                               -155.24 20161005          SANN      123456                          
+20173 AXERGAA-----SB28---CB  03GLCBAG20170300100613Test Description                                -72.40 20161005          ----------123456                          
+20173 AXERGAA-----SB28---CB  03GLCBAG20170300100614Test Description                                -84.57 20161005          EDCN      123456                          
+20173 AXERGAA-----SB28---CB  03GLCBAG20170300100615Test Description                                -18.06 20161005          ENTFGZ1513123456                          
+20173 AXERGAA-----SB28---CB  03GLCBAG20170300100616Test Description                                -27.71 20161005          SANN      123456                          
+20173 AXERGAA-----SUB6---CB  03GLCBAG20170300100617Test Description                               -656.19 20161005          ----------123456                          
+20173 AXERGAA-----SUB6---CB  03GLCBAG20170300100618Test Description                               -164.82 20161005          EBRJ      123456                          
+20173 AXERGAA-----SUB6---CB  03GLCBAG20170300100619Test Description                               -766.46 20161005          EDCN      123456                          
+20173 AXERGAA-----SUB6---CB  03GLCBAG20170300100620Test Description                               -128.00 20161005          EELN      123456                          
+20173 AXERGAA-----SUB6---CB  03GLCBAG20170300100621Test Description                               -191.12 20161005          ENTDEU0116123456                          
+20173 AXERGAA-----SUB6---CB  03GLCBAG20170300100622Test Description                                -79.26 20161005          ENTFGZ1513123456                          
+20173 AXERGAA-----SUB6---CB  03GLCBAG20170300100623Test Description                               -195.02 20161005          ENTJAR0103123456                          
+20173 AXERGAA-----SUB6---CB  03GLCBAG20170300100624Test Description                                 -3.90 20161005          ENTJRC0543123456                          
+20173 AXERGAA-----SUB6---CB  03GLCBAG20170300100625Test Description                               -111.14 20161005          ENTLDG8783123456                          
+20173 AXERGAA-----SUB6---CB  03GLCBAG20170300100626Test Description                                 -2.76 20161005          ENTLHYANG 123456                          
+20173 AXERGAA-----SUB6---CB  03GLCBAG20170300100627Test Description                               -189.80 20161005          ENTLSK7695123456                          
+20173 AXERGAA-----SUB6---CB  03GLCBAG20170300100628Test Description                               -191.12 20161005          ENTPSW6753123456                          
+20173 AXERGAA-----SUB6---CB  03GLCBAG20170300100629Test Description                               -191.12 20161005          ENTRXK8132123456                          
+20173 AXERGAA-----SUB6---CB  03GLCBAG20170300100630Test Description                               -407.40 20161005          ENTSPL4707123456                          
+20173 AXERGAA-----SUB6---CB  03GLCBAG20170300100631Test Description                               -232.84 20161005          SANN      123456                          
+20173 BUS9047-----SUB6---CB  03GLCBAG20170300100632Test Description                                 -0.75 20161005          ----------123456                          
+20173 CRU9033-----SUB6---CB  03GLCBAG20170300100633Test Description                                 -3.91 20161005          ----------123456                          
+20173 CUH9080-----SB28---CB  03GLCBAG20170300100634Test Description                               -108.69 20161005          ADOKML    123456                          
+20173 CUH9080-----SUB6---CB  03GLCBAG20170300100635Test Description                               -985.10 20161005          ADOKML    123456                          
+20173 DAH7779-----SB28---CB  03GLCBAG20170300100636Test Description                                 13.83 20161005          ----------123456                          
+20173 DAH7779-----SUB6---CB  03GLCBAG20170300100637Test Description                               -465.89 20161005          ----------123456                          
+20173 EEL0214-----SB28---CB  03GLCBAG20170300100638Test Description                                -47.32 20161005          ----------123456                          
+20173 EEL0214-----SUB6---CB  03GLCBAG20170300100639Test Description                               -279.80 20161005          ----------123456                          
+20173 ESP8E87-----SB28---CB  03GLCBAG20170300100640Test Description                                -56.95 20161005          ----------123456                          
+20173 ESP8E87-----SUB6---CB  03GLCBAG20170300100641Test Description                               -516.16 20161005          ----------123456                          
+20173 EVE9031-----SUB6---CB  03GLCBAG20170300100642Test Description                                 -1.77 20161005          ----------123456                          
+20173 FIELDOP-----SUB6---CB  03GLCBAG20170300100643Test Description                                 -2.93 20161005          ----------123456                          
+20173 FMSCHAR-----SB28---CB  03GLCBAG20170300100644Test Description                                 31.45 20161005          ----------123456                          
+20173 FMSCHAR-----SUB6---CB  03GLCBAG20170300100645Test Description                               -232.05 20161005          ----------123456                          
+20173 HAM25BH-----SB28---CB  03GLCBAG20170300100646Test Description                               -120.72 20161005          ----------123456                          
+20173 HAM25BH-----SUB6---CB  03GLCBAG20170300100647Test Description                              -1094.09 20161005          ----------123456                          
+20173 HERBARIASHERSB28---CB  03GLCBAG20170300100648Test Description                                -46.67 20161005          SHEPARD   123456                          
+20173 HERBARIASHERSUB6---CB  03GLCBAG20170300100649Test Description                               -760.51 20161005          SHEPARD   123456                          
+20173 KGDPINS-----SB28---CB  03GLCBAG20170300100650Test Description                               -114.91 20161005          ----------123456                          
+20173 KGDPINS-----SB28---CB  03GLCBAG20170300100651Test Description                                -28.80 20161005          NUTKGD    123456                          
+20173 KGDPINS-----SUB6---CB  03GLCBAG20170300100652Test Description                              -1041.45 20161005          ----------123456                          
+20173 KGDPINS-----SUB6---CB  03GLCBAG20170300100653Test Description                               -126.46 20161005          NUTKGD    123456                          
+20173 KGDSALR-----SB28---CB  03GLCBAG20170300100654Test Description                                -46.34 20161005          ----------123456                          
+20173 KGDSALR-----SUB6---CB  03GLCBAG20170300100655Test Description                               -419.96 20161005          ----------123456                          
+20173 KXB3SED-----SB28---CB  03GLCBAG20170300100656Test Description                               -259.26 20161005          ----------123456                          
+20173 KXB3SED-----SUB6---CB  03GLCBAG20170300100657Test Description                              -1138.57 20161005          ----------123456                          
+20173 LFBS199-----SUB6---CB  03GLCBAG20170300100658Test Description                                 -3.59 20161005          ----------123456                          
+20173 METROC2STASTSUB6---CB  03GLCBAG20170300100659Test Description                                 -1.36 20161005          ----------123456                          
+20173 NW00RAC-----SB28---CB  03GLCBAG20170300100660Test Description                                -85.59 20161005          ----------123456                          
+20173 NW00RAC-----SUB6---CB  03GLCBAG20170300100661Test Description                               -375.89 20161005          ----------123456                          
+20173 RMIADMN-----SB28---CB  03GLCBAG20170300100662Test Description                               -121.58 20161005          ADOBRO    123456                          
+20173 RMIADMN-----SUB6---CB  03GLCBAG20170300100663Test Description                              -1101.91 20161005          ADOBRO    123456                          
+20173 SAV3FAC-----SUB6---CB  03GLCBAG20170300100664Test Description                                 -1.23 20161005          ----------123456                          
+20173 SRC9090-----SB28---CB  03GLCBAG20170300100665Test Description                                 -4.51 20161005          ----------123456                          
+20173 SRC9090-----SB28---CB  03GLCBAG20170300100666Test Description                                -83.64 20161005          ADOVJC    123456                          
+20173 SRC9090-----SUB6---CB  03GLCBAG20170300100667Test Description                                -44.88 20161005          ----------123456                          
+20173 SRC9090-----SUB6---CB  03GLCBAG20170300100668Test Description                               -758.04 20161005          ADOVJC    123456                          
+20173 SXL3HES-----SB28---CB  03GLCBAG20170300100669Test Description                                 -7.12 20161005          ----------123456                          
+20173 SXL3HES-----SUB6---CB  03GLCBAG20170300100670Test Description                                -64.54 20161005          ----------123456                          
+20173 UNDGRAD-----SUB6---CB  03GLCBAG20170300100671Test Description                                 -6.23 20161005          ----------123456                          
+20173 VEIVINE-----SB28---CB  03GLCBAG20170300100672Test Description                               -104.59 20161005          AVITKEA   123456                          
+20173 VEIVINE-----SUB6---CB  03GLCBAG20170300100673Test Description                              -1149.33 20161005          AVITKEA   123456                          
+20173 VENVINE-----SB28---CB  03GLCBAG20170300100674Test Description                                -95.57 20161005          ----------123456                          
+20173 VENVINE-----SUB6---CB  03GLCBAG20170300100675Test Description                              -1050.16 20161005          ----------123456                          
