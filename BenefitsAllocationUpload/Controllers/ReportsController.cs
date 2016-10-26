@@ -1,5 +1,4 @@
-﻿using System.Transactions;
-using BenefitsAllocationUpload.Models;
+﻿using BenefitsAllocationUpload.Models;
 using BenefitsAllocationUpload.Services;
 using FileHelpers;
 using System;
@@ -32,6 +31,13 @@ namespace BenefitsAllocationUpload.Controllers
             _sftpService = sftpService;
             _unitFileRepository = unitFileRepository;
         }
+
+        private FileNames GetNamedFile(string id)
+        {
+            int fid = Convert.ToInt32(id);
+            var files = _objData.GetFiles();
+            return (files.Where(f => f.FileId == fid)).First();
+        } 
  
         //
         // GET: /Reports/
@@ -80,15 +86,10 @@ namespace BenefitsAllocationUpload.Controllers
        
         public FileResult Download(string id)
         {
-            int fid = Convert.ToInt32(id);
-            var files = _objData.GetFiles();
-            string filename = (from f in files
-                               where f.FileId == fid
-                               select f.FileName).First();
+            var file = GetNamedFile(id);
+            var filename = file.FileName;
+            var filePathAndFilename = file.FilePath;
 
-            string filePathAndFilename = (from f in files
-                               where f.FileId == fid
-                               select f.FilePath).First();
             const string contentType = "application/text";
             //Parameters to file are
             //1. The File Path on the File Server
@@ -101,10 +102,7 @@ namespace BenefitsAllocationUpload.Controllers
         {
             try
             {
-                int fid = Convert.ToInt32(id);
-                var files = _objData.GetFiles();
-                var file = (files.Where(f => f.FileId == fid)).First();
-
+                var file = GetNamedFile(id);
                 var created = file.TimeStamp;
                 var filenameWithExtension = file.FileName;
                 var filePathAndFilename = file.FilePath;
@@ -229,11 +227,8 @@ namespace BenefitsAllocationUpload.Controllers
 
         public ActionResult Upload(string id)
         {
-            int fid = Convert.ToInt32(id);
-            var files = _objData.GetFiles();
-            string filename = (from f in files
-                               where f.FileId == fid
-                               select f.FileName).First();
+            var file = GetNamedFile(id);
+            string filename = file.FileName;
 
             //var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
             var user = Models.User.FindByLoginId(System.Web.HttpContext.Current.User.Identity.Name);
@@ -261,7 +256,7 @@ namespace BenefitsAllocationUpload.Controllers
 
             _unitFileRepository.EnsurePersistent(unitFile);
 
-            Message = "File \"" + filename + "\" has been uploaded.";
+            Message = String.Format("File \"{0}\" has been uploaded.", filename);
             return RedirectToAction("Index");
         }
 
@@ -269,11 +264,7 @@ namespace BenefitsAllocationUpload.Controllers
         {
             //var deleteSuccess = false; 
 
-            int fid = Convert.ToInt32(id);
-            var files = _objData.GetFiles();
-            string fullPath = (from f in files
-                               where f.FileId == fid
-                               select f.FilePath).First();
+            var fullPath = GetNamedFile(id).FilePath;
 
             var file = new FileInfo(fullPath);
 
@@ -283,7 +274,7 @@ namespace BenefitsAllocationUpload.Controllers
                 //deleteSuccess = true;
             } 
 
-            Message = "File \"" + file.Name + "\" has been deleted.";
+            Message = String.Format("File \"{0}\" has been deleted.", file.Name);
             return RedirectToAction("Index");
         }
 
@@ -349,7 +340,7 @@ namespace BenefitsAllocationUpload.Controllers
 
                 _unitFileRepository.EnsurePersistent(unitFile);
 
-                Message = "File \"" + filename + "\" has been created.";
+                Message = String.Format("File \"{0}\" has been created.", filename);
 
                 return RedirectToAction("Index");
             }
@@ -358,25 +349,18 @@ namespace BenefitsAllocationUpload.Controllers
 
         public ActionResult Display(string id)
         {
-            int fid = Convert.ToInt32(id);
-            var files = _objData.GetFiles();
-            string filename = (from f in files
-                               where f.FileId == fid
-                               select f.FileName).First();
 
-            string filePathAndFilename = (from f in files
-                                          where f.FileId == fid
-                                          select f.FilePath).First();
-
+            var file = GetNamedFile(id);
+           
             var engine = new FileHelperEngine<FeederSystemFixedLengthRecord>();
 
-            var streamReader = new StreamReader(filePathAndFilename);
+            var streamReader = new StreamReader(file.FilePath);
 
             var result = engine.ReadStream(streamReader);
 
             var transactions = result.ToList();
 
-            TempData["Message"] = "Now viewing \"" + filename + "\".";
+            TempData["Message"] = String.Format("Now viewing \"{0}\".", file.FileName);
             return View(transactions);
         }
     }
