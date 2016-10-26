@@ -67,7 +67,7 @@ namespace BenefitsAllocationUpload.Models
             var retval =
                 files.Where(
                     file =>
-                    file.SchoolCode != null && (file.SchoolCode.Equals("00") || file.SchoolCode.Equals(schoolCode)))
+                    file.SchoolCode != null && (file.SchoolCode.Equals("00") || file.SchoolCode.Equals(schoolCode)) && !file.FileName.EndsWith(".xltx") && !file.FileName.EndsWith(".xlsx"))
                      .ToList();
 
             return retval;
