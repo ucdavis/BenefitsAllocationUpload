@@ -41,7 +41,11 @@
         $(function () {
             var table = $('#transactionsListTable').DataTable({
                 "buttons": [
-                    'copy', 'excel'
+                    'copy', {
+                        extend: 'excel',
+                        text: 'Export to Excel',
+                        filename: '@TempData["Filename"]'
+                }
                 ],
                 "oLanguage": {
                     "sLengthMenu": 'Display <select>' +
