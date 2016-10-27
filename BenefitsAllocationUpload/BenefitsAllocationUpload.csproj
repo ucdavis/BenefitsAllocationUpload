@@ -52,9 +52,6 @@
     <Reference Include="Dapper">
       <HintPath>..\packages\Dapper.1.50.2\lib\net45\Dapper.dll</HintPath>
     </Reference>
-    <Reference Include="Dapper.Mapper">
-      <HintPath>..\packages\Dapper.Mapper.1.50.1\lib\net45\Dapper.Mapper.dll</HintPath>
-    </Reference>
     <Reference Include="DataAnnotationsExtensions">
       <HintPath>..\packages\DataAnnotationsExtensions.1.1.0.0\lib\NETFramework40\DataAnnotationsExtensions.dll</HintPath>
       <Private>True</Private>
