@@ -488,6 +488,7 @@
       <Generator>EntityModelCodeGenerator</Generator>
       <LastGenOutput>Catbert3.Designer.cs</LastGenOutput>
     </EntityDeploy>
+    <Content Include="Images\debut-light.png" />
     <Content Include="Images\delete_icon.png" />
     <Content Include="Images\header_bg.jpg" />
     <Content Include="Images\ie.png" />
@@ -600,6 +601,9 @@
     <Content Include="Views\ReimbursableBenefitsAccount\Create.cshtml" />
     <Content Include="Views\ReimbursableBenefitsAccount\Details.cshtml" />
     <Content Include="Views\Reports\Display.cshtml" />
+    <None Include="Web.Test.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -620,6 +624,9 @@
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Test|AnyCPU'">
+    <OutputPath>bin\</OutputPath>
   </PropertyGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
