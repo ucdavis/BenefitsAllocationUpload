@@ -130,7 +130,7 @@ namespace BenefitsAllocationUpload.Controllers
                 var transactions = result.ToList();
 
                 // Opening the Excel template...
-                var templateFileStream = new FileStream(Server.MapPath(@"\Files\RevisedScrubberWithoutData.xlsx"),
+                var templateFileStream = new FileStream(Server.MapPath(@"~\Files\RevisedScrubberWithoutData.xlsx"),
                     FileMode.Open, FileAccess.Read);
 
                 // Getting the complete workbook...
@@ -193,7 +193,7 @@ namespace BenefitsAllocationUpload.Controllers
 
                     cell = dataRow.CreateCell(16);
                     cell.CellStyle = dateCellStyle;
-                    cell.SetCellValue(transaction.TransactionDate);
+                    cell.SetCellValue(Convert.ToDateTime(transaction.TransactionDate));
 
                     dataRow.CreateCell(17).SetCellValue(transaction.OrganizationTrackingNumber);
                     dataRow.CreateCell(18).SetCellValue(transaction.ProjectCode);
@@ -232,7 +232,7 @@ namespace BenefitsAllocationUpload.Controllers
             }
             catch (Exception ex)
             {
-                TempData["Message"] = String.Format("Opps!  Something went wrong: {0}", ex.InnerException);
+                TempData["Message"] = String.Format("Opps!  Something went wrong: {0}", ex.Message);
 
                 return RedirectToAction("Index");
             }
@@ -353,7 +353,11 @@ namespace BenefitsAllocationUpload.Controllers
                 var filename = _dataExtractionService.CreateFile(m.FiscalYear, m.FiscalPeriod.Period, m.TransDescription, m.OrgDocNumber, m.OrgRefId, m.TransDocNumberSequence, orgId, transDocOriginCode, useDaFIS);
                 //var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
                 //var unit = user.Units.FirstOrDefault();
-                var unitFile = new UnitFile()
+
+                Message = "No file was created.  There was no benefits data available.";
+                if (!string.IsNullOrWhiteSpace(filename))
+                {
+                    var unitFile = new UnitFile()
                     {
                         Filename = filename,
                         SchoolCode = unit.DeansOfficeSchoolCode,
@@ -362,10 +366,11 @@ namespace BenefitsAllocationUpload.Controllers
                         CreatedBy = User.Identity.Name
                     };
 
-                _unitFileRepository.EnsurePersistent(unitFile);
+                    _unitFileRepository.EnsurePersistent(unitFile);
 
-                Message = String.Format("File \"{0}\" has been created.", filename);
-
+                    Message = String.Format("File \"{0}\" has been created.", filename);
+                }
+                
                 return RedirectToAction("Index");
             }
             return View(m);

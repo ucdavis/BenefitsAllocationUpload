@@ -177,7 +177,7 @@
                         @item.DebitCreditCode
                     </td>
                     <td>
-                        @item.TransactionDate.ToString("d")
+                        @Convert.ToDateTime(item.TransactionDate).ToString("d")
                     </td>
                     <td>
                         @item.OrganizationTrackingNumber
