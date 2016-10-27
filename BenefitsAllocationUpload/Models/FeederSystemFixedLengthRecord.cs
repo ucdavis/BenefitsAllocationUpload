@@ -1,5 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
+using System.Data.Linq.Mapping;
+using System.Globalization;
 using FileHelpers;
 
 namespace BenefitsAllocationUpload.Models
@@ -17,7 +19,7 @@ namespace BenefitsAllocationUpload.Models
         /// </summary>
         [FieldFixedLength(4)]
         private int _fiscalYear;
-
+        [Column(Name = "UNIV_FISCAL_YEAR")]
         [Display(Name = "Year")]
         public int FiscalYear { get { return _fiscalYear; } set { _fiscalYear = value; } }
 
@@ -33,6 +35,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldAlign(AlignMode.Left)]
         private string _chartNum;
 
+        [Column(Name = "FIN_COA_CD")]
         [Display(Name = "Chart")]
         public string ChartNum { get { return _chartNum; } set { _chartNum = value; } }
 
@@ -42,6 +45,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldFixedLength(7)]
         private string _account;
 
+        [Column(Name = "ACCOUNT_NBR")]
         [Display(Name = "Account")]
         public string Account
         {
@@ -68,6 +72,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldTrim(TrimMode.Right)]
         private string _subAccount;
 
+        [Column(Name = "SUB_ACCT_NBR")]
         [Display(Name = "Sub Acct")]
         public string SubAccount
         {
@@ -94,6 +99,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldFixedLength(4)]
         private string _objectCode;
 
+        [Column(Name = "FIN_OBJECT_CD")]
         [Display(Name = "Obj Cons")]
         public string ObjectCode { get { return _objectCode; } set { _objectCode = value; } }
 
@@ -105,6 +111,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldTrim(TrimMode.Right)]
         private string _subObjectCode;
 
+        [Column(Name = "FIN_SUB_OBJ_CD")]
         [Display(Name = "Sub Obj")]
         public string SubObjectCode { get { return _subObjectCode; } set { _subObjectCode = value; } }
 
@@ -116,6 +123,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldFixedLength(2)]
         private string _balanceType;
 
+        [Column(Name = "FIN_BALANCE_TYP_CD")]
         [Display(Name = "Bal Type")]
         public string BalanceType { get { return _balanceType; } set { _balanceType = value; } }
 
@@ -127,6 +135,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldFixedLength(2)]
         private string _objectType;
 
+        [Column(Name = "FIN_OBJ_TYP_CD")]
         [Display(Name = "Obj Type")]
         public string ObjectType { get { return _objectType; } set { _objectType = value; } }
 
@@ -137,6 +146,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldFixedLength(2)]
         private string _fiscalPeriod;
 
+        [Column(Name = "UNIV_FISCAL_PRD_CD")]
         [Display(Name = "Period")]
         public string FiscalPeriod { get { return _fiscalPeriod; } set { _fiscalPeriod = value; } }
 
@@ -147,6 +157,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldFixedLength(4)]
         private string _documentType;
 
+        [Column(Name = "FDOC_TYP_CD")]
         [Display(Name = "Doc Type")]
         public string DocumentType { get { return _documentType; } set { _documentType = value; } }
 
@@ -159,6 +170,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldFixedLength(2)]
         private string _originCode;
 
+        [Column(Name = "FS_ORIGIN_CD")]
         [Display(Name = "Origin")]
         public string OriginCode { get { return _originCode; } set { _originCode = value; } }
 
@@ -172,6 +184,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldTrim(TrimMode.Right)]
         private string _documentNumber;
 
+        [Column(Name = "FDOC_NBR")]
         [Display(Name = "Doc No")]
         public string DocumentNumber { get { return _documentNumber; } set { _documentNumber = value; } }
 
@@ -185,6 +198,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldTrim(TrimMode.Left)]
         private string _lineSequenceNumber;
 
+        [Column(Name = "TRN_ENTR_SEQ_NBR")]
         [Display(Name = "Seq No")]
         public string LineSequenceNumber { get { return _lineSequenceNumber; } set { _lineSequenceNumber = value; } }
 
@@ -198,6 +212,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldTrim(TrimMode.Right)]
         private string _transactionDescription;
 
+        [Column(Name = "TRN_LDGR_ENTR_DESC")]
         [Display(Name = "Description")]
         public string TransactionDescription { get { return _transactionDescription; } set { _transactionDescription = value; } }
 
@@ -211,6 +226,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldAlign(AlignMode.Right)]
         private string _amount;
 
+        [Column(Name = "TRN_LDGR_ENTR_AMT")]
         [Display(Name = "Amount")]
         public string Amount { get { return _amount; } set { _amount = value; } }
 
@@ -222,8 +238,32 @@ namespace BenefitsAllocationUpload.Models
         [FieldFixedLength(1)]
         private string _debitCreditCode;
 
+        [Column(Name = "TRN_DEBIT_CRDT_CD")]
         [Display(Name = "D/C")]
         public string DebitCreditCode { get { return _debitCreditCode; } set { _debitCreditCode = value; } }
+
+        ///// <summary>
+        ///// Transaction (Initiation) Date
+        ///// The ledger date on a transaction, i.e. not the actual date posted to the general ledger.
+        ///// format: yyyymmdd
+        ///// </summary>
+        //[FieldFixedLength(8)]
+        //[FieldConverter(ConverterKind.Date, "yyyyMMdd")]
+        //private DateTime _transactionDate;
+
+        //[Column(Name = "TRANSACTION_DT")]
+        //[Display(Name = "Trans Date")]
+        //public DateTime TransactionDate
+        //{
+        //    get
+        //    {
+        //        return _transactionDate;
+        //    }
+        //    set
+        //    {
+        //        _transactionDate = DateTime.ParseExact(value.ToShortDateString(), "yyyyMMdd", CultureInfo.InvariantCulture);
+        //    }
+        //}
 
         /// <summary>
         /// Transaction (Initiation) Date
@@ -234,8 +274,13 @@ namespace BenefitsAllocationUpload.Models
         [FieldConverter(ConverterKind.Date, "yyyyMMdd")]
         private DateTime _transactionDate;
 
+        [Column(Name = "TRANSACTION_DT")]
         [Display(Name = "Trans Date")]
-        public DateTime TransactionDate { get { return _transactionDate; } set { _transactionDate = value; } }
+        public Object TransactionDate
+        {
+            get { return _transactionDate; }
+            set { _transactionDate = DateTime.ParseExact(value.ToString(), "yyyyMMdd", CultureInfo.InvariantCulture); }
+        }
 
         /// <summary>
         /// Organization Document (Tracking) Number, i.e., KFS Key
@@ -247,6 +292,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldTrim(TrimMode.Right)]
         private string _organizationTrackingNumber;
 
+        [Column(Name = "ORG_DOC_NBR")]
         [Display(Name = "Org Doc No")]
         public string OrganizationTrackingNumber { get { return _organizationTrackingNumber; } set { _organizationTrackingNumber = value; } }
 
@@ -260,6 +306,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldTrim(TrimMode.Right)]
         private string _projectCode;
 
+        [Column(Name = "PROJECT_CD")]
         [Display(Name = "Project")]
         public string ProjectCode { get { return _projectCode; } set { _projectCode = value; } }
 
@@ -273,6 +320,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldTrim(TrimMode.Right)]
         private string _organizationReferenceId;
 
+        [Column(Name = "ORG_REFERENCE_ID")]
         [Display(Name = "Org Ref ID")]
         public string OrganizationReferenceId { get { return _organizationReferenceId; } set { _organizationReferenceId = value; } }
 
@@ -284,6 +332,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldFixedLength(4)]
         private string _referenceTypeCode;
 
+        [Column(Name = "FDOC_REF_TYP_CD")]
         [Display(Name = "Ref Doc Type")]
         public string ReferenceTypeCode { get { return _referenceTypeCode; } set { _referenceTypeCode = value; } }
 
@@ -295,6 +344,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldFixedLength(2)]
         private string _referenceOriginCode;
 
+        [Column(Name = "FS_REF_ORIGIN_CD")]
         [Display(Name = "Ref Origin")]
         public string ReferenceOriginCode { get { return _referenceOriginCode; } set { _referenceOriginCode = value; } }
 
@@ -306,6 +356,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldFixedLength(9)]
         private string _referenceNumber;
 
+        [Column(Name = "FDOC_REF_NBR")]
         [Display(Name = "Ref Doc No")]
         public string ReferenceNumber { get { return _referenceNumber; } set { _referenceNumber = value; } }
 
@@ -317,6 +368,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldFixedLength(8)]
         private string _reversalDate;
 
+        [Column(Name = "FDOC_REVERSAL_DT")]
         [Display(Name = "Reverse Date")]
         public string ReversalDate { get { return _reversalDate; } set { _reversalDate = value; } }
 
@@ -328,6 +380,7 @@ namespace BenefitsAllocationUpload.Models
         [FieldFixedLength(1)]
         private string _transactionEncumbranceUpdateCode;
 
+        [Column(Name = "TRN_ENCUM_UPDT_CD")]
         [Display(Name = "Enc Update")]
         public string TransactionEncumbranceUpdateCode { get { return _transactionEncumbranceUpdateCode; } set { _transactionEncumbranceUpdateCode = value; } }
 
