@@ -1,7 +1,6 @@
 ﻿using System.Collections.Generic;
-using System.Globalization;
+using System.Data.Linq.Mapping;
 using System.IO;
-using System.Web.Util;
 using BenefitsAllocationUpload.Models;
 using System;
 using System.Configuration;
@@ -11,15 +10,16 @@ using System.Linq;
 using System.Text;
 using System.Web.Hosting;
 using FileHelpers;
-using NHibernate.Mapping;
-using NPOI.SS.Formula.Functions;
+using Dapper;
+
 
 namespace BenefitsAllocationUpload.Services
 {
     public interface IDataExtractionService
     {
         //string CreateFile(string fiscalYear, string fiscalPeriod, string transDescription, string orgDocNumber, string orgRefId, string transDocNumberSequence);
-        string CreateFile(string fiscalYear, string fiscalPeriod, string transDescription, string orgDocNumber, string orgRefId, string transDocNumberSequence, string orgId, string transDocOriginCode, bool useDaFIS);
+        string CreateFile(string fiscalYear, string fiscalPeriod, string transDescription, string orgDocNumber,
+            string orgRefId, string transDocNumberSequence, string orgId, string transDocOriginCode, bool useDaFIS);
     }
 
     /// <summary>
@@ -27,20 +27,24 @@ namespace BenefitsAllocationUpload.Services
     /// </summary>
     public class DataExtractionService : IDataExtractionService
     {
-        private static readonly string FileTimeStampFormat = ConfigurationManager.AppSettings["FileTimeStampFormat"]; // File name timestamp format.
-        private readonly string _storageLocation = ConfigurationManager.AppSettings["StorageLocation"]; // Directory where the files are created and stored on the server or file system.
-        private static readonly int _commandTimeout = int.Parse(ConfigurationManager.AppSettings["CommandTimeout"]);
+        private static readonly string FileTimeStampFormat = ConfigurationManager.AppSettings["FileTimeStampFormat"];
+            // File name timestamp format.
+
+        private readonly string _storageLocation = ConfigurationManager.AppSettings["StorageLocation"];
+            // Directory where the files are created and stored on the server or file system.
+
+        private static readonly int CommandTimeout = int.Parse(ConfigurationManager.AppSettings["CommandTimeout"]);
         private const string FilenamePrefix = "journal.";
         private const string FilenameExtension = ".txt";
         private string _fileName = String.Empty; // Name for new file when created.
-       
+
         public static readonly string DefaultCollegeLevelOrg = "AAES";
         public static readonly string DefaultDivisionLevelOrgs = string.Empty;
 
         public string CollegeLevelOrg { get; set; }
         public string DivisionLevelOrgs { get; set; }
 
-        protected string GetFilenameForOrgId(string orgId, string transDocOriginCode="")
+        protected string GetFilenameForOrgId(string orgId, string transDocOriginCode = "")
         {
             var stringBuilder = new StringBuilder(FilenamePrefix);
 
@@ -86,140 +90,48 @@ namespace BenefitsAllocationUpload.Services
                 // can run longer than default time-out of 30 seconds.
 
                 var transactions = new List<FeederSystemFixedLengthRecord>();
-                var command = context.Database.Connection.CreateCommand();
-                // Set the command timeout because query can run longer than 
-                // default time of 30 seconds:
-                command.CommandTimeout = _commandTimeout;
-                command.CommandText = "dbo.usp_GetBudgetAdjustmentUploadDataForOrg";
-                command.CommandType = CommandType.StoredProcedure;
-
-                var parameter = new SqlParameter
+                using (var command = context.Database.Connection.CreateCommand())
                 {
-                    ParameterName = "@FiscalYear",
-                    SqlDbType = SqlDbType.VarChar,
-                    Direction = ParameterDirection.Input,
-                    Value = fiscalYear
-                };
-                command.Parameters.Add(parameter);
+                    // Set the command timeout because query can run longer than 
+                    // default time of 30 seconds:
+                    command.CommandTimeout = CommandTimeout;
+                    command.CommandText = "dbo.usp_GetBudgetAdjustmentUploadDataForOrg";
+                    command.CommandType = CommandType.StoredProcedure;
 
-                parameter = new SqlParameter
-                {
-                    ParameterName = "@FiscalPeriod",
-                    SqlDbType = SqlDbType.VarChar,
-                    Direction = ParameterDirection.Input,
-                    Value = fiscalPeriod
-                };
-                command.Parameters.Add(parameter);
+                    var parameters = new DynamicParameters();
+                    parameters.Add("@FiscalYear", fiscalYear, DbType.String, ParameterDirection.Input);
+                    parameters.Add("@FiscalPeriod", fiscalPeriod, DbType.String, ParameterDirection.Input);
+                    parameters.Add("@TransDescription", transDescription, DbType.String, ParameterDirection.Input);
+                    parameters.Add("@OrgDocNumber", orgDocNumber, DbType.String, ParameterDirection.Input);
+                    parameters.Add("@OrgRefId", orgRefId, DbType.String, ParameterDirection.Input);
+                    parameters.Add("@TransDocNumberSequence", transDocNumberSequence, DbType.String,
+                        ParameterDirection.Input);
+                    parameters.Add("@OrgId", orgId, DbType.String, ParameterDirection.Input);
+                    parameters.Add("@TransDocOriginCode", transDocOriginCode, DbType.String, ParameterDirection.Input);
+                    parameters.Add("@UseDaFIS", useDaFIS, DbType.Boolean, ParameterDirection.Input);
 
-                parameter = new SqlParameter
-                {
-                    ParameterName = "@TransDescription",
-                    SqlDbType = SqlDbType.VarChar,
-                    Direction = ParameterDirection.Input,
-                    Value = transDescription
-                };
-                command.Parameters.Add(parameter);
+                    command.Connection.Open();
 
-                parameter = new SqlParameter
-                {
-                    ParameterName = "@OrgDocNumber",
-                    SqlDbType = SqlDbType.VarChar,
-                    Direction = ParameterDirection.Input,
-                    Value = orgDocNumber
-                };
-                command.Parameters.Add(parameter);
+                    Dapper.SqlMapper.SetTypeMap(
+                    typeof(FeederSystemFixedLengthRecord),
+                    new CustomPropertyTypeMap(
+                        typeof(FeederSystemFixedLengthRecord),
+                        (type, columnName) =>
+                            type.GetProperties().FirstOrDefault(prop =>
+                                prop.GetCustomAttributes(false)
+                                    .OfType<ColumnAttribute>()
+                                    .Any(attr => attr.Name == columnName))));
 
-                parameter = new SqlParameter
-                {
-                    ParameterName = "@OrgRefId",
-                    SqlDbType = SqlDbType.VarChar,
-                    Direction = ParameterDirection.Input,
-                    Value = orgRefId
-                };
-                command.Parameters.Add(parameter);
+                    transactions =
+                    command.Connection.Query<FeederSystemFixedLengthRecord>(command.CommandText, parameters,
+                        transaction: null, buffered: true, commandTimeout: command.CommandTimeout,
+                        commandType: CommandType.StoredProcedure).ToList();
 
-                parameter = new SqlParameter
-                {
-                    ParameterName = "@TransDocNumberSequence",
-                    SqlDbType = SqlDbType.VarChar,
-                    Direction = ParameterDirection.Input,
-                    Value = transDocNumberSequence
-                };
-                command.Parameters.Add(parameter);
-
-                parameter = new SqlParameter
-                {
-                    ParameterName = "@OrgId",
-                    SqlDbType = SqlDbType.VarChar,
-                    Direction = ParameterDirection.Input,
-                    Value = orgId
-                };
-                command.Parameters.Add(parameter);
-
-                parameter = new SqlParameter
-                {
-                    ParameterName = "@TransDocOriginCode",
-                    SqlDbType = SqlDbType.VarChar,
-                    Direction = ParameterDirection.Input,
-                    Value = transDocOriginCode
-                };
-                command.Parameters.Add(parameter);
-
-                parameter = new SqlParameter
-                {
-                    ParameterName = "@UseDaFIS",
-                    SqlDbType = SqlDbType.Bit,
-                    Direction = ParameterDirection.Input,
-                    Value = useDaFIS
-                };
-                command.Parameters.Add(parameter);
-
-                command.Connection.Open();
-                
-                var reader = command.ExecuteReader();
-                if (reader.HasRows)
-                {
-                    while (reader.Read())
-                    {
-                        var transaction = new FeederSystemFixedLengthRecord()
-                        {
-                            FiscalYear                      = Convert.ToInt32(reader[0].ToString()),
-                            ChartNum                        = reader[1].ToString(),
-                            Account                         = reader[2].ToString(),
-                            SubAccount                      = reader[3].ToString(),
-                            ObjectCode                      = reader[4].ToString(),
-                            SubObjectCode                   = reader[5].ToString(),
-                            BalanceType                     = reader[6].ToString(),
-                            ObjectType                      = reader[7].ToString(),
-                            FiscalPeriod                    = reader[8].ToString(),
-                            DocumentType                    = reader[9].ToString(),
-                            OriginCode                      = reader[10].ToString(),
-                            DocumentNumber                  = reader[11].ToString(),
-                            LineSequenceNumber              = reader[12].ToString(),
-                            TransactionDescription          = reader[13].ToString(),
-                            Amount                          = reader[14].ToString(),
-                            DebitCreditCode                 = reader[15].ToString(),
-                            TransactionDate                 = DateTime.ParseExact(reader[16].ToString(), "yyyyMMdd", CultureInfo.InvariantCulture),
-                            OrganizationTrackingNumber      = reader[17].ToString(),
-                            ProjectCode                     = reader[18].ToString(),
-                            OrganizationReferenceId         = reader[19].ToString(),
-                            ReferenceTypeCode               = reader[20].ToString(),
-                            ReferenceOriginCode             = reader[21].ToString(),
-                            ReferenceNumber                 = reader[22].ToString(),
-                            ReversalDate                    = reader[23].ToString(),
-                            TransactionEncumbranceUpdateCode= reader[24].ToString()
-                        };
-                        transactions.Add(transaction);
-                    }
-                } // end if (reader.HasRows) 
-
-                reader.Close();
-                command.Connection.Close();
-                command.Dispose();
-
+                }
                 return transactions;
             }
         }
+
 
         /// <summary>
         /// Alternate method for extracting Benefits Allocation data using CAES Local FIS DataMart (for AAES only) OR
