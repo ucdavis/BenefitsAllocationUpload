@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Configuration;
 using System.IO;
 using System.Linq;
@@ -89,6 +90,7 @@ namespace BenefitsAllocationUpload.Models
         /// <summary>
         /// The Time Stamp when the file was created (or last modified)
         /// </summary>
+        [DisplayFormat(DataFormatString = "{0:G}")]
         public DateTimeOffset? TimeStamp { get; set; }
         // public DateTime TimeStamp { get; set; }
 

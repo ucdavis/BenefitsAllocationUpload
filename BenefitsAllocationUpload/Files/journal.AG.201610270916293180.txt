@@ -1,0 +1,726 @@
+20173 1MUSEUMNHMUSSB28---CB  04GLCBAG201704001    1My seventh test on localhost.                  -100.54 201610276789012345250ENGILISK161027a                        
+20173 1MUSEUMNHMUSSUB6---CB  04GLCBAG201704001    2My seventh test on localhost.                 -2200.44 201610276789012345250ENGILISK161027a                        
+20173 2200229-----SUB6---CB  04GLCBAG201704001    3My seventh test on localhost.                    -3.51 201610276789012345----------K161027a                        
+20173 2200253-----SUB6---CB  04GLCBAG201704001    4My seventh test on localhost.                   -49.62 201610276789012345----------K161027a                        
+20173 2200528-----SB28---CB  04GLCBAG201704001    5My seventh test on localhost.                  -193.34 201610276789012345----------K161027a                        
+20173 2200528-----SUB6---CB  04GLCBAG201704001    6My seventh test on localhost.                 -1752.28 201610276789012345----------K161027a                        
+20173 A400344ADMTCSUB6---CB  04GLCBAG201704001    7My seventh test on localhost.                    -2.90 201610276789012345----------K161027a                        
+20173 AAFRGAA-----SB28---CB  04GLCBAG201704001    8My seventh test on localhost.                  -188.49 201610276789012345ADOMLS    K161027a                        
+20173 AAFRGAA-----SUB6---CB  04GLCBAG201704001    9My seventh test on localhost.                 -2403.36 201610276789012345ADOMLS    K161027a                        
+20173 AASIGAA-----SB28---CB  04GLCBAG201704001   10My seventh test on localhost.                  -904.79 201610276789012345----------K161027a                        
+20173 AASIGAA-----SB28---CB  04GLCBAG201704001   11My seventh test on localhost.                   -15.16 201610276789012345BERGERT   K161027a                        
+20173 AASIGAA-----SB28---CB  04GLCBAG201704001   12My seventh test on localhost.                  -246.52 201610276789012345EMARTINEZ K161027a                        
+20173 AASIGAA-----SB28---CB  04GLCBAG201704001   13My seventh test on localhost.                  -246.52 201610276789012345KJACKSON  K161027a                        
+20173 AASIGAA-----SB28---CB  04GLCBAG201704001   14My seventh test on localhost.                   -45.02 201610276789012345KLASING   K161027a                        
+20173 AASIGAA-----SB28---CB  04GLCBAG201704001   15My seventh test on localhost.                   -43.40 201610276789012345KUELTZ    K161027a                        
+20173 AASIGAA-----SB28---CB  04GLCBAG201704001   16My seventh test on localhost.                   -44.12 201610276789012345MEDRANO   K161027a                        
+20173 AASIGAA-----SB28---CB  04GLCBAG201704001   17My seventh test on localhost.                    71.81 201610276789012345MURRAY    K161027a                        
+20173 AASIGAA-----SB28---CB  04GLCBAG201704001   18My seventh test on localhost.                   -52.26 201610276789012345ZHOU      K161027a                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG201704001   19My seventh test on localhost.                 -8440.65 201610276789012345----------K161027a                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG201704001   20My seventh test on localhost.                  -155.04 201610276789012345BERGERT   K161027a                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG201704001   21My seventh test on localhost.                  -216.68 201610276789012345DEPETERS  K161027a                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG201704001   22My seventh test on localhost.                 -2496.12 201610276789012345EMARTINEZ K161027a                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG201704001   23My seventh test on localhost.                   -37.58 201610276789012345HESSM     K161027a                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG201704001   24My seventh test on localhost.                  -185.24 201610276789012345HUNG      K161027a                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG201704001   25My seventh test on localhost.                  -381.12 201610276789012345KINGA     K161027a                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG201704001   26My seventh test on localhost.                 -2568.56 201610276789012345KJACKSON  K161027a                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG201704001   27My seventh test on localhost.                  -197.72 201610276789012345KLASING   K161027a                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG201704001   28My seventh test on localhost.                  -190.60 201610276789012345KUELTZ    K161027a                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG201704001   29My seventh test on localhost.                   -43.78 201610276789012345LIUY      K161027a                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG201704001   30My seventh test on localhost.                  -193.76 201610276789012345MEDRANO   K161027a                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG201704001   31My seventh test on localhost.                  -137.54 201610276789012345MIENAL    K161027a                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG201704001   32My seventh test on localhost.                   -92.60 201610276789012345MILLERM   K161027a                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG201704001   33My seventh test on localhost.                  -105.85 201610276789012345MURRAY    K161027a                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG201704001   34My seventh test on localhost.                  -452.68 201610276789012345SAINZ     K161027a                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG201704001   35My seventh test on localhost.                   -37.16 201610276789012345TODGHAM   K161027a                        
+20173 AASIGAA-----SUB6---CB  04GLCBAG201704001   36My seventh test on localhost.                  -229.47 201610276789012345ZHOU      K161027a                        
+20173 AASIGAAHENDRSB28---CB  04GLCBAG201704001   37My seventh test on localhost.                  -109.31 201610276789012345----------K161027a                        
+20173 AASIGAAHENDRSUB6---CB  04GLCBAG201704001   38My seventh test on localhost.                 -1503.17 201610276789012345----------K161027a                        
+20173 AASIGAB-----SB28---CB  04GLCBAG201704001   39My seventh test on localhost.                   -81.50 201610276789012345----------K161027a                        
+20173 AASIGAB-----SUB6---CB  04GLCBAG201704001   40My seventh test on localhost.                  -590.12 201610276789012345----------K161027a                        
+20173 AASRGAA-----SB28---CB  04GLCBAG201704001   41My seventh test on localhost.                 -1427.30 201610276789012345----------K161027a                        
+20173 AASRGAA-----SB28---CB  04GLCBAG201704001   42My seventh test on localhost.                   -15.16 201610276789012345BERGERT   K161027a                        
+20173 AASRGAA-----SB28---CB  04GLCBAG201704001   43My seventh test on localhost.                   -45.02 201610276789012345KLASING   K161027a                        
+20173 AASRGAA-----SB28---CB  04GLCBAG201704001   44My seventh test on localhost.                   -43.40 201610276789012345KUELTZ    K161027a                        
+20173 AASRGAA-----SB28---CB  04GLCBAG201704001   45My seventh test on localhost.                   -44.12 201610276789012345MEDRANO   K161027a                        
+20173 AASRGAA-----SB28---CB  04GLCBAG201704001   46My seventh test on localhost.                    71.81 201610276789012345MURRAY    K161027a                        
+20173 AASRGAA-----SB28---CB  04GLCBAG201704001   47My seventh test on localhost.                  9434.27 201610276789012345ROSS      K161027a                        
+20173 AASRGAA-----SB28---CB  04GLCBAG201704001   48My seventh test on localhost.                   -37.80 201610276789012345TREJO     K161027a                        
+20173 AASRGAA-----SB28---CB  04GLCBAG201704001   49My seventh test on localhost.                   -37.62 201610276789012345ZHOU      K161027a                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG201704001   50My seventh test on localhost.                -22413.83 201610276789012345----------K161027a                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG201704001   51My seventh test on localhost.                  -155.04 201610276789012345BERGERT   K161027a                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG201704001   52My seventh test on localhost.                  -144.44 201610276789012345DEPETERS  K161027a                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG201704001   53My seventh test on localhost.                   -30.74 201610276789012345HESSM     K161027a                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG201704001   54My seventh test on localhost.                  -185.24 201610276789012345HUNG      K161027a                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG201704001   55My seventh test on localhost.                  -381.12 201610276789012345KINGA     K161027a                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG201704001   56My seventh test on localhost.                  -197.72 201610276789012345KLASING   K161027a                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG201704001   57My seventh test on localhost.                  -190.60 201610276789012345KUELTZ    K161027a                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG201704001   58My seventh test on localhost.                   -43.78 201610276789012345LIUY      K161027a                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG201704001   59My seventh test on localhost.                  -193.76 201610276789012345MEDRANO   K161027a                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG201704001   60My seventh test on localhost.                   -92.64 201610276789012345MEYER     K161027a                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG201704001   61My seventh test on localhost.                  -112.52 201610276789012345MIENAL    K161027a                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG201704001   62My seventh test on localhost.                   -75.76 201610276789012345MILLERM   K161027a                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG201704001   63My seventh test on localhost.                  -105.85 201610276789012345MURRAY    K161027a                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG201704001   64My seventh test on localhost.                  1750.35 201610276789012345ROSS      K161027a                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG201704001   65My seventh test on localhost.                  -301.80 201610276789012345SAINZ     K161027a                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG201704001   66My seventh test on localhost.                   -30.40 201610276789012345TODGHAM   K161027a                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG201704001   67My seventh test on localhost.                  -247.58 201610276789012345TREJO     K161027a                        
+20173 AASRGAA-----SUB6---CB  04GLCBAG201704001   68My seventh test on localhost.                  -165.21 201610276789012345ZHOU      K161027a                        
+20173 AASRGAAMIENASB28---CB  04GLCBAG201704001   69My seventh test on localhost.                  -109.31 201610276789012345----------K161027a                        
+20173 AASRGAAMIENASUB6---CB  04GLCBAG201704001   70My seventh test on localhost.                 -1503.17 201610276789012345----------K161027a                        
+20173 AC1IGAA-----SB28---CB  04GLCBAG201704001   71My seventh test on localhost.                  -261.42 201610276789012345----------K161027a                        
+20173 AC1IGAA-----SB28---CB  04GLCBAG201704001   72My seventh test on localhost.                  -332.00 201610276789012345FCCAER    K161027a                        
+20173 AC1IGAA-----SB28---CB  04GLCBAG201704001   73My seventh test on localhost.                  -314.84 201610276789012345FCCCIS    K161027a                        
+20173 AC1IGAA-----SB28---CB  04GLCBAG201704001   74My seventh test on localhost.                   626.53 201610276789012345FCCETH    K161027a                        
+20173 AC1IGAA-----SB28---CB  04GLCBAG201704001   75My seventh test on localhost.                  -145.72 201610276789012345FCCHLE    K161027a                        
+20173 AC1IGAA-----SB28---CB  04GLCBAG201704001   76My seventh test on localhost.                   205.67 201610276789012345FCCJAV    K161027a                        
+20173 AC1IGAA-----SB28---CB  04GLCBAG201704001   77My seventh test on localhost.                    75.04 201610276789012345FCCJMK    K161027a                        
+20173 AC1IGAA-----SB28---CB  04GLCBAG201704001   78My seventh test on localhost.                   135.28 201610276789012345FCCLFM    K161027a                        
+20173 AC1IGAA-----SB28---CB  04GLCBAG201704001   79My seventh test on localhost.                  -107.30 201610276789012345FCCLMR    K161027a                        
+20173 AC1IGAA-----SB28---CB  04GLCBAG201704001   80My seventh test on localhost.                    68.65 201610276789012345FCCMDJ    K161027a                        
+20173 AC1IGAA-----SUB6---CB  04GLCBAG201704001   81My seventh test on localhost.                 -1981.92 201610276789012345----------K161027a                        
+20173 AC1IGAA-----SUB6---CB  04GLCBAG201704001   82My seventh test on localhost.                 -2471.84 201610276789012345FCCAER    K161027a                        
+20173 AC1IGAA-----SUB6---CB  04GLCBAG201704001   83My seventh test on localhost.                 -2061.68 201610276789012345FCCCIS    K161027a                        
+20173 AC1IGAA-----SUB6---CB  04GLCBAG201704001   84My seventh test on localhost.                 -1342.35 201610276789012345FCCETH    K161027a                        
+20173 AC1IGAA-----SUB6---CB  04GLCBAG201704001   85My seventh test on localhost.                 -1887.08 201610276789012345FCCHLE    K161027a                        
+20173 AC1IGAA-----SUB6---CB  04GLCBAG201704001   86My seventh test on localhost.                 -2098.33 201610276789012345FCCJAV    K161027a                        
+20173 AC1IGAA-----SUB6---CB  04GLCBAG201704001   87My seventh test on localhost.                 -2528.14 201610276789012345FCCJMK    K161027a                        
+20173 AC1IGAA-----SUB6---CB  04GLCBAG201704001   88My seventh test on localhost.                 -2086.84 201610276789012345FCCLFM    K161027a                        
+20173 AC1IGAA-----SUB6---CB  04GLCBAG201704001   89My seventh test on localhost.                 -1393.29 201610276789012345FCCLMR    K161027a                        
+20173 AC1IGAA-----SUB6---CB  04GLCBAG201704001   90My seventh test on localhost.                 -2091.49 201610276789012345FCCMDJ    K161027a                        
+20173 AC1RGAA-----SB28---CB  04GLCBAG201704001   91My seventh test on localhost.                  -405.40 201610276789012345----------K161027a                        
+20173 AC1RGAA-----SB28---CB  04GLCBAG201704001   92My seventh test on localhost.                  -112.48 201610276789012345FCCAAM    K161027a                        
+20173 AC1RGAA-----SB28---CB  04GLCBAG201704001   93My seventh test on localhost.                   981.66 201610276789012345FCCAZI    K161027a                        
+20173 AC1RGAA-----SB28---CB  04GLCBAG201704001   94My seventh test on localhost.                  -267.26 201610276789012345FCCHTN    K161027a                        
+20173 AC1RGAA-----SB28---CB  04GLCBAG201704001   95My seventh test on localhost.                  -343.79 201610276789012345FCCMLR    K161027a                        
+20173 AC1RGAA-----SB28---CB  04GLCBAG201704001   96My seventh test on localhost.                  -163.96 201610276789012345FCCVMO    K161027a                        
+20173 AC1RGAA-----SUB6---CB  04GLCBAG201704001   97My seventh test on localhost.                 -3084.82 201610276789012345----------K161027a                        
+20173 AC1RGAA-----SUB6---CB  04GLCBAG201704001   98My seventh test on localhost.                 -1019.46 201610276789012345FCCAAM    K161027a                        
+20173 AC1RGAA-----SUB6---CB  04GLCBAG201704001   99My seventh test on localhost.                 -2505.25 201610276789012345FCCAZI    K161027a                        
+20173 AC1RGAA-----SUB6---CB  04GLCBAG201704001  100My seventh test on localhost.                 -2422.20 201610276789012345FCCHTN    K161027a                        
+20173 AC1RGAA-----SUB6---CB  04GLCBAG201704001  101My seventh test on localhost.                 -2398.27 201610276789012345FCCMLR    K161027a                        
+20173 AC1RGAA-----SUB6---CB  04GLCBAG201704001  102My seventh test on localhost.                 -2487.41 201610276789012345FCCVMO    K161027a                        
+20173 AC2IGAAITSTFSB28---CB  04GLCBAG201704001  103My seventh test on localhost.                    89.88 201610276789012345250RIVERA K161027a                        
+20173 AC2IGAAITSTFSUB6---CB  04GLCBAG201704001  104My seventh test on localhost.                 -1151.43 201610276789012345250RIVERA K161027a                        
+20173 AC2IGAAOFSTFSB28---CB  04GLCBAG201704001  105My seventh test on localhost.                     4.64 201610276789012345250ANNALEEK161027a                        
+20173 AC2IGAAOFSTFSB28---CB  04GLCBAG201704001  106My seventh test on localhost.                    21.18 201610276789012345250DINGER K161027a                        
+20173 AC2IGAAOFSTFSB28---CB  04GLCBAG201704001  107My seventh test on localhost.                  -185.04 201610276789012345250HO     K161027a                        
+20173 AC2IGAAOFSTFSB28---CB  04GLCBAG201704001  108My seventh test on localhost.                  -198.14 201610276789012345250MANZO  K161027a                        
+20173 AC2IGAAOFSTFSB28---CB  04GLCBAG201704001  109My seventh test on localhost.                  -245.30 201610276789012345250MATT   K161027a                        
+20173 AC2IGAAOFSTFSB28---CB  04GLCBAG201704001  110My seventh test on localhost.                   -31.98 201610276789012345250PETKUS K161027a                        
+20173 AC2IGAAOFSTFSB28---CB  04GLCBAG201704001  111My seventh test on localhost.                    58.18 201610276789012345250SKYBERGK161027a                        
+20173 AC2IGAAOFSTFSUB6---CB  04GLCBAG201704001  112My seventh test on localhost.                 -2373.84 201610276789012345250ANNALEEK161027a                        
+20173 AC2IGAAOFSTFSUB6---CB  04GLCBAG201704001  113My seventh test on localhost.                 -2161.80 201610276789012345250DINGER K161027a                        
+20173 AC2IGAAOFSTFSUB6---CB  04GLCBAG201704001  114My seventh test on localhost.                 -1677.02 201610276789012345250HO     K161027a                        
+20173 AC2IGAAOFSTFSUB6---CB  04GLCBAG201704001  115My seventh test on localhost.                 -1795.78 201610276789012345250MANZO  K161027a                        
+20173 AC2IGAAOFSTFSUB6---CB  04GLCBAG201704001  116My seventh test on localhost.                 -2922.30 201610276789012345250MATT   K161027a                        
+20173 AC2IGAAOFSTFSUB6---CB  04GLCBAG201704001  117My seventh test on localhost.                  -292.41 201610276789012345250PETKUS K161027a                        
+20173 AC2IGAAOFSTFSUB6---CB  04GLCBAG201704001  118My seventh test on localhost.                 -1959.78 201610276789012345250SKYBERGK161027a                        
+20173 AC2RGAAITSTFSB28---CB  04GLCBAG201704001  119My seventh test on localhost.                  -280.12 201610276789012345250BOOTON K161027a                        
+20173 AC2RGAAITSTFSB28---CB  04GLCBAG201704001  120My seventh test on localhost.                  -394.52 201610276789012345250JIMENEZK161027a                        
+20173 AC2RGAAITSTFSB28---CB  04GLCBAG201704001  121My seventh test on localhost.                    89.88 201610276789012345250RIVERA K161027a                        
+20173 AC2RGAAITSTFSUB6---CB  04GLCBAG201704001  122My seventh test on localhost.                 -2538.80 201610276789012345250BOOTON K161027a                        
+20173 AC2RGAAITSTFSUB6---CB  04GLCBAG201704001  123My seventh test on localhost.                 -2937.30 201610276789012345250JIMENEZK161027a                        
+20173 AC2RGAAITSTFSUB6---CB  04GLCBAG201704001  124My seventh test on localhost.                 -1151.43 201610276789012345250RIVERA K161027a                        
+20173 AC2RGAAOFSTFSB28---CB  04GLCBAG201704001  125My seventh test on localhost.                   229.83 201610276789012345250CLARK  K161027a                        
+20173 AC2RGAAOFSTFSB28---CB  04GLCBAG201704001  126My seventh test on localhost.                  -127.90 201610276789012345250PETKUS K161027a                        
+20173 AC2RGAAOFSTFSB28---CB  04GLCBAG201704001  127My seventh test on localhost.                  -342.38 201610276789012345250WEBSTERK161027a                        
+20173 AC2RGAAOFSTFSB28---CB  04GLCBAG201704001  128My seventh test on localhost.                  -295.19 201610276789012345AETXWLN   K161027a                        
+20173 AC2RGAAOFSTFSUB6---CB  04GLCBAG201704001  129My seventh test on localhost.                 -1807.08 201610276789012345250CLARK  K161027a                        
+20173 AC2RGAAOFSTFSUB6---CB  04GLCBAG201704001  130My seventh test on localhost.                 -1169.65 201610276789012345250PETKUS K161027a                        
+20173 AC2RGAAOFSTFSUB6---CB  04GLCBAG201704001  131My seventh test on localhost.                 -2549.23 201610276789012345250WEBSTERK161027a                        
+20173 AC2RGAAOFSTFSUB6---CB  04GLCBAG201704001  132My seventh test on localhost.                 -2530.59 201610276789012345AETXWLN   K161027a                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG201704001  133My seventh test on localhost.                   -80.76 201610276789012345AMMBFTV   K161027a                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG201704001  134My seventh test on localhost.                  -120.80 201610276789012345BEBBFTV   K161027a                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG201704001  135My seventh test on localhost.                   114.53 201610276789012345BLLBFTV   K161027a                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG201704001  136My seventh test on localhost.                   -81.44 201610276789012345EDDBFTV   K161027a                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG201704001  137My seventh test on localhost.                   -10.63 201610276789012345ENLBFTV   K161027a                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG201704001  138My seventh test on localhost.                   -77.08 201610276789012345FPSBFTV   K161027a                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG201704001  139My seventh test on localhost.                  -116.74 201610276789012345HHLBFTV   K161027a                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG201704001  140My seventh test on localhost.                    96.48 201610276789012345JJVBFTV   K161027a                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG201704001  141My seventh test on localhost.                  -116.36 201610276789012345KANBFTV   K161027a                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG201704001  142My seventh test on localhost.                   -49.46 201610276789012345KVCBFTV   K161027a                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG201704001  143My seventh test on localhost.                   -38.88 201610276789012345LAMBFTV   K161027a                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG201704001  144My seventh test on localhost.                    74.97 201610276789012345LPSBFTV   K161027a                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG201704001  145My seventh test on localhost.                  -145.97 201610276789012345MGTBFTV   K161027a                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG201704001  146My seventh test on localhost.                  -183.58 201610276789012345NERBFTV   K161027a                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG201704001  147My seventh test on localhost.                  -103.68 201610276789012345OPDBFTV   K161027a                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG201704001  148My seventh test on localhost.                   -69.94 201610276789012345SLBBFTV   K161027a                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG201704001  149My seventh test on localhost.                  -113.51 201610276789012345TJDBFTV   K161027a                        
+20173 AC3IGAA-----SB28---CB  04GLCBAG201704001  150My seventh test on localhost.                    88.70 201610276789012345YGGBFTV   K161027a                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG201704001  151My seventh test on localhost.                   -27.82 201610276789012345----------K161027a                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG201704001  152My seventh test on localhost.                  -731.90 201610276789012345AMMBFTV   K161027a                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG201704001  153My seventh test on localhost.                  -916.68 201610276789012345BEBBFTV   K161027a                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG201704001  154My seventh test on localhost.                  -890.90 201610276789012345BLLBFTV   K161027a                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG201704001  155My seventh test on localhost.                  -738.14 201610276789012345EDDBFTV   K161027a                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG201704001  156My seventh test on localhost.                  -550.87 201610276789012345ENLBFTV   K161027a                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG201704001  157My seventh test on localhost.                  -698.56 201610276789012345FPSBFTV   K161027a                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG201704001  158My seventh test on localhost.                 -1057.98 201610276789012345HHLBFTV   K161027a                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG201704001  159My seventh test on localhost.                 -1187.86 201610276789012345JJVBFTV   K161027a                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG201704001  160My seventh test on localhost.                 -1054.50 201610276789012345KANBFTV   K161027a                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG201704001  161My seventh test on localhost.                  -750.32 201610276789012345KVCBFTV   K161027a                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG201704001  162My seventh test on localhost.                  -352.32 201610276789012345LAMBFTV   K161027a                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG201704001  163My seventh test on localhost.                  -740.63 201610276789012345LPSBFTV   K161027a                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG201704001  164My seventh test on localhost.                 -1467.97 201610276789012345MGTBFTV   K161027a                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG201704001  165My seventh test on localhost.                 -1846.17 201610276789012345NERBFTV   K161027a                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG201704001  166My seventh test on localhost.                  -939.64 201610276789012345OPDBFTV   K161027a                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG201704001  167My seventh test on localhost.                  -633.94 201610276789012345SLBBFTV   K161027a                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG201704001  168My seventh test on localhost.                 -1028.70 201610276789012345TJDBFTV   K161027a                        
+20173 AC3IGAA-----SUB6---CB  04GLCBAG201704001  169My seventh test on localhost.                  -821.25 201610276789012345YGGBFTV   K161027a                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG201704001  170My seventh test on localhost.                  -149.98 201610276789012345AMMBFTV   K161027a                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG201704001  171My seventh test on localhost.                  -147.63 201610276789012345BEBBFTV   K161027a                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG201704001  172My seventh test on localhost.                   114.53 201610276789012345BLLBFTV   K161027a                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG201704001  173My seventh test on localhost.                  -151.26 201610276789012345EDDBFTV   K161027a                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG201704001  174My seventh test on localhost.                   -10.63 201610276789012345ENLBFTV   K161027a                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG201704001  175My seventh test on localhost.                  -143.14 201610276789012345FPSBFTV   K161027a                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG201704001  176My seventh test on localhost.                  -116.74 201610276789012345HHLBFTV   K161027a                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG201704001  177My seventh test on localhost.                    96.48 201610276789012345JJVBFTV   K161027a                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG201704001  178My seventh test on localhost.                  -116.36 201610276789012345KANBFTV   K161027a                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG201704001  179My seventh test on localhost.                   -74.19 201610276789012345KVCBFTV   K161027a                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG201704001  180My seventh test on localhost.                   -72.20 201610276789012345LAMBFTV   K161027a                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG201704001  181My seventh test on localhost.                  -279.72 201610276789012345LCWBFTV   K161027a                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG201704001  182My seventh test on localhost.                   112.46 201610276789012345LPSBFTV   K161027a                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG201704001  183My seventh test on localhost.                   -48.67 201610276789012345MGTBFTV   K161027a                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG201704001  184My seventh test on localhost.                   -61.19 201610276789012345NERBFTV   K161027a                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG201704001  185My seventh test on localhost.                  -103.68 201610276789012345OPDBFTV   K161027a                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG201704001  186My seventh test on localhost.                  -142.02 201610276789012345SLBBFTV   K161027a                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG201704001  187My seventh test on localhost.                  -234.52 201610276789012345TNBBFTV   K161027a                        
+20173 AC3RGAA-----SB28---CB  04GLCBAG201704001  188My seventh test on localhost.                    88.70 201610276789012345YGGBFTV   K161027a                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG201704001  189My seventh test on localhost.                    -5.62 201610276789012345----------K161027a                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG201704001  190My seventh test on localhost.                 -1359.24 201610276789012345AMMBFTV   K161027a                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG201704001  191My seventh test on localhost.                 -1120.38 201610276789012345BEBBFTV   K161027a                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG201704001  192My seventh test on localhost.                  -890.90 201610276789012345BLLBFTV   K161027a                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG201704001  193My seventh test on localhost.                 -1370.86 201610276789012345EDDBFTV   K161027a                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG201704001  194My seventh test on localhost.                  -550.87 201610276789012345ENLBFTV   K161027a                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG201704001  195My seventh test on localhost.                 -1297.34 201610276789012345FPSBFTV   K161027a                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG201704001  196My seventh test on localhost.                 -1057.98 201610276789012345HHLBFTV   K161027a                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG201704001  197My seventh test on localhost.                 -1187.86 201610276789012345JJVBFTV   K161027a                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG201704001  198My seventh test on localhost.                 -1054.50 201610276789012345KANBFTV   K161027a                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG201704001  199My seventh test on localhost.                 -1125.46 201610276789012345KVCBFTV   K161027a                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG201704001  200My seventh test on localhost.                  -654.32 201610276789012345LAMBFTV   K161027a                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG201704001  201My seventh test on localhost.                 -1831.64 201610276789012345LCWBFTV   K161027a                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG201704001  202My seventh test on localhost.                 -1110.97 201610276789012345LPSBFTV   K161027a                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG201704001  203My seventh test on localhost.                  -489.32 201610276789012345MGTBFTV   K161027a                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG201704001  204My seventh test on localhost.                  -615.39 201610276789012345NERBFTV   K161027a                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG201704001  205My seventh test on localhost.                  -939.64 201610276789012345OPDBFTV   K161027a                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG201704001  206My seventh test on localhost.                 -1287.12 201610276789012345SLBBFTV   K161027a                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG201704001  207My seventh test on localhost.                 -2125.52 201610276789012345TNBBFTV   K161027a                        
+20173 AC3RGAA-----SUB6---CB  04GLCBAG201704001  208My seventh test on localhost.                  -821.25 201610276789012345YGGBFTV   K161027a                        
+20173 AC4IGAA-----SB28---CB  04GLCBAG201704001  209My seventh test on localhost.                   -25.71 201610276789012345----------K161027a                        
+20173 AC4IGAA-----SB28---CB  04GLCBAG201704001  210My seventh test on localhost.                  -302.64 201610276789012345BXFP      K161027a                        
+20173 AC4IGAA-----SB28---CB  04GLCBAG201704001  211My seventh test on localhost.                 -1990.85 201610276789012345GMTP      K161027a                        
+20173 AC4IGAA-----SB28---CB  04GLCBAG201704001  212My seventh test on localhost.                  -242.60 201610276789012345JXPP      K161027a                        
+20173 AC4IGAA-----SB28---CB  04GLCBAG201704001  213My seventh test on localhost.                  -211.96 201610276789012345KAWP      K161027a                        
+20173 AC4IGAA-----SB28---CB  04GLCBAG201704001  214My seventh test on localhost.                  -224.93 201610276789012345KXDP      K161027a                        
+20173 AC4IGAA-----SB28---CB  04GLCBAG201704001  215My seventh test on localhost.                    95.34 201610276789012345TAGP      K161027a                        
+20173 AC4IGAA-----SUB6---CB  04GLCBAG201704001  216My seventh test on localhost.                 -1595.30 201610276789012345----------K161027a                        
+20173 AC4IGAA-----SUB6---CB  04GLCBAG201704001  217My seventh test on localhost.                 -2253.22 201610276789012345BXFP      K161027a                        
+20173 AC4IGAA-----SUB6---CB  04GLCBAG201704001  218My seventh test on localhost.                 -3558.96 201610276789012345GMTP      K161027a                        
+20173 AC4IGAA-----SUB6---CB  04GLCBAG201704001  219My seventh test on localhost.                 -2286.13 201610276789012345JXPP      K161027a                        
+20173 AC4IGAA-----SUB6---CB  04GLCBAG201704001  220My seventh test on localhost.                 -1921.06 201610276789012345KAWP      K161027a                        
+20173 AC4IGAA-----SUB6---CB  04GLCBAG201704001  221My seventh test on localhost.                 -2522.29 201610276789012345KXDP      K161027a                        
+20173 AC4IGAA-----SUB6---CB  04GLCBAG201704001  222My seventh test on localhost.                 -2281.37 201610276789012345TAGP      K161027a                        
+20173 AC4RGAA-----SB28---CB  04GLCBAG201704001  223My seventh test on localhost.                   975.31 201610276789012345----------K161027a                        
+20173 AC4RGAA-----SB28---CB  04GLCBAG201704001  224My seventh test on localhost.                  -289.82 201610276789012345BAMP      K161027a                        
+20173 AC4RGAA-----SB28---CB  04GLCBAG201704001  225My seventh test on localhost.                  -124.15 201610276789012345CNLP      K161027a                        
+20173 AC4RGAA-----SB28---CB  04GLCBAG201704001  226My seventh test on localhost.                  -279.16 201610276789012345EGHP      K161027a                        
+20173 AC4RGAA-----SB28---CB  04GLCBAG201704001  227My seventh test on localhost.                  -358.04 201610276789012345GFYP      K161027a                        
+20173 AC4RGAA-----SB28---CB  04GLCBAG201704001  228My seventh test on localhost.                  -451.90 201610276789012345JCKP      K161027a                        
+20173 AC4RGAA-----SB28---CB  04GLCBAG201704001  229My seventh test on localhost.                  -165.99 201610276789012345JXKP      K161027a                        
+20173 AC4RGAA-----SB28---CB  04GLCBAG201704001  230My seventh test on localhost.                   -44.86 201610276789012345MTTP      K161027a                        
+20173 AC4RGAA-----SB28---CB  04GLCBAG201704001  231My seventh test on localhost.                  -425.28 201610276789012345WJMP      K161027a                        
+20173 AC4RGAA-----SB28---CB  04GLCBAG201704001  232My seventh test on localhost.                  -287.24 201610276789012345WSMP      K161027a                        
+20173 AC4RGAA-----SUB6---CB  04GLCBAG201704001  233My seventh test on localhost.                  1193.10 201610276789012345----------K161027a                        
+20173 AC4RGAA-----SUB6---CB  04GLCBAG201704001  234My seventh test on localhost.                 -2626.68 201610276789012345BAMP      K161027a                        
+20173 AC4RGAA-----SUB6---CB  04GLCBAG201704001  235My seventh test on localhost.                 -1125.17 201610276789012345CNLP      K161027a                        
+20173 AC4RGAA-----SUB6---CB  04GLCBAG201704001  236My seventh test on localhost.                 -2530.08 201610276789012345EGHP      K161027a                        
+20173 AC4RGAA-----SUB6---CB  04GLCBAG201704001  237My seventh test on localhost.                 -2750.31 201610276789012345GFYP      K161027a                        
+20173 AC4RGAA-----SUB6---CB  04GLCBAG201704001  238My seventh test on localhost.                 -2672.06 201610276789012345JCKP      K161027a                        
+20173 AC4RGAA-----SUB6---CB  04GLCBAG201704001  239My seventh test on localhost.                 -1504.37 201610276789012345JXKP      K161027a                        
+20173 AC4RGAA-----SUB6---CB  04GLCBAG201704001  240My seventh test on localhost.                 -2346.09 201610276789012345MTTP      K161027a                        
+20173 AC4RGAA-----SUB6---CB  04GLCBAG201704001  241My seventh test on localhost.                 -2784.80 201610276789012345WJMP      K161027a                        
+20173 AC4RGAA-----SUB6---CB  04GLCBAG201704001  242My seventh test on localhost.                 -3178.79 201610276789012345WSMP      K161027a                        
+20173 AC4RGAATEMP SUB6---CB  04GLCBAG201704001  243My seventh test on localhost.                  -378.26 201610276789012345----------K161027a                        
+20173 AC5IGAA-----SB28---CB  04GLCBAG201704001  244My seventh test on localhost.                  -165.88 201610276789012345ACL5DELCARK161027a                        
+20173 AC5IGAA-----SB28---CB  04GLCBAG201704001  245My seventh test on localhost.                  -278.20 201610276789012345ACL5GEIGERK161027a                        
+20173 AC5IGAA-----SB28---CB  04GLCBAG201704001  246My seventh test on localhost.                   -11.66 201610276789012345ARES_POHL K161027a                        
+20173 AC5IGAA-----SB28---CB  04GLCBAG201704001  247My seventh test on localhost.                  -104.02 201610276789012345FMCCLEERY K161027a                        
+20173 AC5IGAA-----SUB6---CB  04GLCBAG201704001  248My seventh test on localhost.                    -9.89 201610276789012345----------K161027a                        
+20173 AC5IGAA-----SUB6---CB  04GLCBAG201704001  249My seventh test on localhost.                 -1503.44 201610276789012345ACL5DELCARK161027a                        
+20173 AC5IGAA-----SUB6---CB  04GLCBAG201704001  250My seventh test on localhost.                 -1955.03 201610276789012345ACL5GEIGERK161027a                        
+20173 AC5IGAA-----SUB6---CB  04GLCBAG201704001  251My seventh test on localhost.                  -213.79 201610276789012345ARES_POHL K161027a                        
+20173 AC5IGAA-----SUB6---CB  04GLCBAG201704001  252My seventh test on localhost.                  -942.79 201610276789012345FMCCLEERY K161027a                        
+20173 AC5RGAA-----SB28---CB  04GLCBAG201704001  253My seventh test on localhost.                   -49.68 201610276789012345ARE_HELSINK161027a                        
+20173 AC5RGAA-----SUB6---CB  04GLCBAG201704001  254My seventh test on localhost.                  -450.32 201610276789012345ARE_HELSINK161027a                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG201704001  255My seventh test on localhost.                  -139.93 201610276789012345ADOBJN    K161027a                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG201704001  256My seventh test on localhost.                   -58.32 201610276789012345ADOCFA    K161027a                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG201704001  257My seventh test on localhost.                  -126.84 201610276789012345ADOCRC    K161027a                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG201704001  258My seventh test on localhost.                   -95.38 201610276789012345ADOCWF    K161027a                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG201704001  259My seventh test on localhost.                     5.70 201610276789012345ADODWJ    K161027a                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG201704001  260My seventh test on localhost.                  -116.60 201610276789012345ADOHTD    K161027a                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG201704001  261My seventh test on localhost.                   155.64 201610276789012345ADOJCD    K161027a                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG201704001  262My seventh test on localhost.                   -36.47 201610276789012345ADOJLB    K161027a                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG201704001  263My seventh test on localhost.                    94.48 201610276789012345ADOJXE    K161027a                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG201704001  264My seventh test on localhost.                  -167.92 201610276789012345ADOLMW    K161027a                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG201704001  265My seventh test on localhost.                   -99.30 201610276789012345ADOMXW    K161027a                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG201704001  266My seventh test on localhost.                   257.01 201610276789012345ADOPAS    K161027a                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG201704001  267My seventh test on localhost.                   101.44 201610276789012345ADOSXG    K161027a                        
+20173 ADOIGAA-----SB28---CB  04GLCBAG201704001  268My seventh test on localhost.                  -221.26 201610276789012345ADOYXC    K161027a                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG201704001  269My seventh test on localhost.                 -1099.14 201610276789012345ADOBJN    K161027a                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG201704001  270My seventh test on localhost.                  -884.34 201610276789012345ADOCFA    K161027a                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG201704001  271My seventh test on localhost.                 -1149.58 201610276789012345ADOCRC    K161027a                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG201704001  272My seventh test on localhost.                 -1068.37 201610276789012345ADOCWF    K161027a                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG201704001  273My seventh test on localhost.                 -1167.53 201610276789012345ADODWJ    K161027a                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG201704001  274My seventh test on localhost.                 -2394.18 201610276789012345ADOHTD    K161027a                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG201704001  275My seventh test on localhost.                 -1916.35 201610276789012345ADOJCD    K161027a                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG201704001  276My seventh test on localhost.                  -914.66 201610276789012345ADOJLB    K161027a                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG201704001  277My seventh test on localhost.                 -1163.16 201610276789012345ADOJXE    K161027a                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG201704001  278My seventh test on localhost.                 -1250.18 201610276789012345ADOLMW    K161027a                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG201704001  279My seventh test on localhost.                  -900.00 201610276789012345ADOMXW    K161027a                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG201704001  280My seventh test on localhost.                  -793.19 201610276789012345ADOPAS    K161027a                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG201704001  281My seventh test on localhost.                 -1034.98 201610276789012345ADOSXG    K161027a                        
+20173 ADOIGAA-----SUB6---CB  04GLCBAG201704001  282My seventh test on localhost.                 -1348.90 201610276789012345ADOYXC    K161027a                        
+20173 ADORGA2-----SB28---CB  04GLCBAG201704001  283My seventh test on localhost.                  -617.23 201610276789012345----------K161027a                        
+20173 ADORGA2-----SUB6---CB  04GLCBAG201704001  284My seventh test on localhost.                 -4634.98 201610276789012345----------K161027a                        
+20173 ADORGAA-----SB28---CB  04GLCBAG201704001  285My seventh test on localhost.                  -131.05 201610276789012345ADOBJN    K161027a                        
+20173 ADORGAA-----SB28---CB  04GLCBAG201704001  286My seventh test on localhost.                   -54.50 201610276789012345ADOCFA    K161027a                        
+20173 ADORGAA-----SB28---CB  04GLCBAG201704001  287My seventh test on localhost.                  -126.92 201610276789012345ADOCRC    K161027a                        
+20173 ADORGAA-----SB28---CB  04GLCBAG201704001  288My seventh test on localhost.                   -89.16 201610276789012345ADOCWF    K161027a                        
+20173 ADORGAA-----SB28---CB  04GLCBAG201704001  289My seventh test on localhost.                     5.34 201610276789012345ADODWJ    K161027a                        
+20173 ADORGAA-----SB28---CB  04GLCBAG201704001  290My seventh test on localhost.                   -34.21 201610276789012345ADOJLB    K161027a                        
+20173 ADORGAA-----SB28---CB  04GLCBAG201704001  291My seventh test on localhost.                    88.31 201610276789012345ADOJXE    K161027a                        
+20173 ADORGAA-----SB28---CB  04GLCBAG201704001  292My seventh test on localhost.                    17.77 201610276789012345ADOJXS    K161027a                        
+20173 ADORGAA-----SB28---CB  04GLCBAG201704001  293My seventh test on localhost.                  -156.96 201610276789012345ADOLMW    K161027a                        
+20173 ADORGAA-----SB28---CB  04GLCBAG201704001  294My seventh test on localhost.                   -99.30 201610276789012345ADOMXW    K161027a                        
+20173 ADORGAA-----SB28---CB  04GLCBAG201704001  295My seventh test on localhost.                   240.24 201610276789012345ADOPAS    K161027a                        
+20173 ADORGAA-----SB28---CB  04GLCBAG201704001  296My seventh test on localhost.                    94.77 201610276789012345ADOSXG    K161027a                        
+20173 ADORGAA-----SB28---CB  04GLCBAG201704001  297My seventh test on localhost.                  -206.67 201610276789012345ADOYXC    K161027a                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG201704001  298My seventh test on localhost.                 -1027.59 201610276789012345ADOBJN    K161027a                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG201704001  299My seventh test on localhost.                  -826.68 201610276789012345ADOCFA    K161027a                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG201704001  300My seventh test on localhost.                 -1150.28 201610276789012345ADOCRC    K161027a                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG201704001  301My seventh test on localhost.                  -998.69 201610276789012345ADOCWF    K161027a                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG201704001  302My seventh test on localhost.                 -1091.37 201610276789012345ADODWJ    K161027a                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG201704001  303My seventh test on localhost.                  -855.09 201610276789012345ADOJLB    K161027a                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG201704001  304My seventh test on localhost.                 -1087.30 201610276789012345ADOJXE    K161027a                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG201704001  305My seventh test on localhost.                   161.01 201610276789012345ADOJXS    K161027a                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG201704001  306My seventh test on localhost.                 -1168.64 201610276789012345ADOLMW    K161027a                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG201704001  307My seventh test on localhost.                  -900.00 201610276789012345ADOMXW    K161027a                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG201704001  308My seventh test on localhost.                  -741.47 201610276789012345ADOPAS    K161027a                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG201704001  309My seventh test on localhost.                  -967.49 201610276789012345ADOSXG    K161027a                        
+20173 ADORGAA-----SUB6---CB  04GLCBAG201704001  310My seventh test on localhost.                 -1260.87 201610276789012345ADOYXC    K161027a                        
+20173 AECIGAA-----SB28---CB  04GLCBAG201704001  311My seventh test on localhost.                   -33.02 201610276789012345AAREPYONJ K161027a                        
+20173 AECIGAA-----SB28---CB  04GLCBAG201704001  312My seventh test on localhost.                   -30.84 201610276789012345ACL5WONG  K161027a                        
+20173 AECIGAA-----SB28---CB  04GLCBAG201704001  313My seventh test on localhost.                  -379.90 201610276789012345ARES_CLAR K161027a                        
+20173 AECIGAA-----SB28---CB  04GLCBAG201704001  314My seventh test on localhost.                  -441.04 201610276789012345ARES_HANS K161027a                        
+20173 AECIGAA-----SB28---CB  04GLCBAG201704001  315My seventh test on localhost.                  -206.40 201610276789012345ARES_OKOLOK161027a                        
+20173 AECIGAA-----SB28---CB  04GLCBAG201704001  316My seventh test on localhost.                  -104.84 201610276789012345ARES_POHL K161027a                        
+20173 AECIGAA-----SB28---CB  04GLCBAG201704001  317My seventh test on localhost.                  -168.70 201610276789012345ARES_SMAL K161027a                        
+20173 AECIGAA-----SB28---CB  04GLCBAG201704001  318My seventh test on localhost.                  -335.56 201610276789012345SHANNON   K161027a                        
+20173 AECIGAA-----SUB6---CB  04GLCBAG201704001  319My seventh test on localhost.                 -1802.39 201610276789012345AAREPYONJ K161027a                        
+20173 AECIGAA-----SUB6---CB  04GLCBAG201704001  320My seventh test on localhost.                  -279.50 201610276789012345ACL5WONG  K161027a                        
+20173 AECIGAA-----SUB6---CB  04GLCBAG201704001  321My seventh test on localhost.                  -136.50 201610276789012345AREF_REG3 K161027a                        
+20173 AECIGAA-----SUB6---CB  04GLCBAG201704001  322My seventh test on localhost.                 -2883.02 201610276789012345ARES_CLAR K161027a                        
+20173 AECIGAA-----SUB6---CB  04GLCBAG201704001  323My seventh test on localhost.                 -2888.12 201610276789012345ARES_HANS K161027a                        
+20173 AECIGAA-----SUB6---CB  04GLCBAG201704001  324My seventh test on localhost.                 -1870.60 201610276789012345ARES_OKOLOK161027a                        
+20173 AECIGAA-----SUB6---CB  04GLCBAG201704001  325My seventh test on localhost.                 -1924.21 201610276789012345ARES_POHL K161027a                        
+20173 AECIGAA-----SUB6---CB  04GLCBAG201704001  326My seventh test on localhost.                 -2184.50 201610276789012345ARES_SMAL K161027a                        
+20173 AECIGAA-----SUB6---CB  04GLCBAG201704001  327My seventh test on localhost.                 -2526.20 201610276789012345SHANNON   K161027a                        
+20173 AECITMP-----SUB6---CB  04GLCBAG201704001  328My seventh test on localhost.                 -4620.80 201610276789012345----------K161027a                        
+20173 AECRGAA-----SB28---CB  04GLCBAG201704001  329My seventh test on localhost.                  -230.98 201610276789012345ACL5CALLAHK161027a                        
+20173 AECRGAA-----SB28---CB  04GLCBAG201704001  330My seventh test on localhost.                   -14.89 201610276789012345ACL5SLOAN K161027a                        
+20173 AECRGAA-----SB28---CB  04GLCBAG201704001  331My seventh test on localhost.                   -49.68 201610276789012345ARE_HELSINK161027a                        
+20173 AECRGAA-----SB28---CB  04GLCBAG201704001  332My seventh test on localhost.                   -99.08 201610276789012345ARES_BURT K161027a                        
+20173 AECRGAA-----SUB6---CB  04GLCBAG201704001  333My seventh test on localhost.                 -2093.34 201610276789012345ACL5CALLAHK161027a                        
+20173 AECRGAA-----SUB6---CB  04GLCBAG201704001  334My seventh test on localhost.                 -2044.03 201610276789012345ACL5SLOAN K161027a                        
+20173 AECRGAA-----SUB6---CB  04GLCBAG201704001  335My seventh test on localhost.                  -450.32 201610276789012345ARE_HELSINK161027a                        
+20173 AECRGAA-----SUB6---CB  04GLCBAG201704001  336My seventh test on localhost.                  -897.88 201610276789012345ARES_BURT K161027a                        
+20173 AESIGAA-----SB28---CB  04GLCBAG201704001  337My seventh test on localhost.                   715.40 201610276789012345ACL5AUGUSTK161027a                        
+20173 AESIGAA-----SB28---CB  04GLCBAG201704001  338My seventh test on localhost.                   142.28 201610276789012345CARRIERE  K161027a                        
+20173 AESIGAA-----SB28---CB  04GLCBAG201704001  339My seventh test on localhost.                  -217.24 201610276789012345CLOPEZ    K161027a                        
+20173 AESIGAA-----SB28---CB  04GLCBAG201704001  340My seventh test on localhost.                  -251.72 201610276789012345DESMWHALEYK161027a                        
+20173 AESIGAA-----SUB6---CB  04GLCBAG201704001  341My seventh test on localhost.                    -5.41 201610276789012345----------K161027a                        
+20173 AESIGAA-----SUB6---CB  04GLCBAG201704001  342My seventh test on localhost.                 -1445.33 201610276789012345ACL5AUGUSTK161027a                        
+20173 AESIGAA-----SUB6---CB  04GLCBAG201704001  343My seventh test on localhost.                 -1049.86 201610276789012345CARRIERE  K161027a                        
+20173 AESIGAA-----SUB6---CB  04GLCBAG201704001  344My seventh test on localhost.                 -1968.92 201610276789012345CLOPEZ    K161027a                        
+20173 AESIGAA-----SUB6---CB  04GLCBAG201704001  345My seventh test on localhost.                 -2281.28 201610276789012345DESMWHALEYK161027a                        
+20173 AESIGAA-----SUB6---CB  04GLCBAG201704001  346My seventh test on localhost.                 -2646.74 201610276789012345ESPMORGAN K161027a                        
+20173 AESITMP-----SUB6---CB  04GLCBAG201704001  347My seventh test on localhost.                    -1.40 201610276789012345----------K161027a                        
+20173 AESRG21-----SUB6---CB  04GLCBAG201704001  348My seventh test on localhost.                  -146.92 201610276789012345----------K161027a                        
+20173 AESRGAA-----SB28---CB  04GLCBAG201704001  349My seventh test on localhost.                  -234.52 201610276789012345----------K161027a                        
+20173 AESRGAA-----SB28---CB  04GLCBAG201704001  350My seventh test on localhost.                   -45.53 201610276789012345ACL5HEREVIK161027a                        
+20173 AESRGAA-----SUB6---CB  04GLCBAG201704001  351My seventh test on localhost.                 -2125.52 201610276789012345----------K161027a                        
+20173 AESRGAA-----SUB6---CB  04GLCBAG201704001  352My seventh test on localhost.                 -1810.28 201610276789012345ACL5HEREVIK161027a                        
+20173 AESRGAA-----SUB6---CB  04GLCBAG201704001  353My seventh test on localhost.                   -30.96 201610276789012345ESPSPRINGBK161027a                        
+20173 AETIGAA-----SB28---CB  04GLCBAG201704001  354My seventh test on localhost.                    -8.32 201610276789012345AETXPIO   K161027a                        
+20173 AETIGAA-----SUB6---CB  04GLCBAG201704001  355My seventh test on localhost.                   -70.20 201610276789012345AETXNWG   K161027a                        
+20173 AETIGAA-----SUB6---CB  04GLCBAG201704001  356My seventh test on localhost.                   -36.48 201610276789012345AETXPIO   K161027a                        
+20173 AETIGAAAASAOSB28---CB  04GLCBAG201704001  357My seventh test on localhost.                  -436.39 201610276789012345AETXSGK   K161027a                        
+20173 AETIGAAAASAOSUB6---CB  04GLCBAG201704001  358My seventh test on localhost.                 -2702.68 201610276789012345AETXSGK   K161027a                        
+20173 AETRGAA-----SB28---CB  04GLCBAG201704001  359My seventh test on localhost.                   -10.16 201610276789012345AETXPIO   K161027a                        
+20173 AETRGAA-----SUB6---CB  04GLCBAG201704001  360My seventh test on localhost.                   -23.40 201610276789012345AETXNWG   K161027a                        
+20173 AETRGAA-----SUB6---CB  04GLCBAG201704001  361My seventh test on localhost.                   -44.62 201610276789012345AETXPIO   K161027a                        
+20173 AETRGAAAGCHMSB28---CB  04GLCBAG201704001  362My seventh test on localhost.                  -134.30 201610276789012345AETXGJE   K161027a                        
+20173 AETRGAAAGCHMSUB6---CB  04GLCBAG201704001  363My seventh test on localhost.                 -1205.30 201610276789012345AETXGJE   K161027a                        
+20173 AETRGAAPHTOXSB28---CB  04GLCBAG201704001  364My seventh test on localhost.                  -134.30 201610276789012345AETXGJE   K161027a                        
+20173 AETRGAAPHTOXSUB6---CB  04GLCBAG201704001  365My seventh test on localhost.                 -1205.30 201610276789012345AETXGJE   K161027a                        
+20173 AFSIGAAADVISSUB6---CB  04GLCBAG201704001  366My seventh test on localhost.                   -15.64 201610276789012345----------K161027a                        
+20173 AGARGAA-----SB28---CB  04GLCBAG201704001  367My seventh test on localhost.                  2985.19 201610276789012345ADOCJT    K161027a                        
+20173 AGARGAA-----SUB6---CB  04GLCBAG201704001  368My seventh test on localhost.                  1137.36 201610276789012345ADOCJT    K161027a                        
+20173 AHCRG14-----SUB6---CB  04GLCBAG201704001  369My seventh test on localhost.                    -4.10 201610276789012345----------K161027a                        
+20173 AHEDC02-----SUB6---CB  04GLCBAG201704001  370My seventh test on localhost.                    -3.51 201610276789012345----------K161027a                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG201704001  371My seventh test on localhost.                  -141.12 201610276789012345----------K161027a                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG201704001  372My seventh test on localhost.                  -221.02 201610276789012345ACL5KETCHUK161027a                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG201704001  373My seventh test on localhost.                    71.00 201610276789012345ACL5LIETHMK161027a                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG201704001  374My seventh test on localhost.                  -211.96 201610276789012345ACL5SUTTONK161027a                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG201704001  375My seventh test on localhost.                  -353.78 201610276789012345CARMSTRONGK161027a                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG201704001  376My seventh test on localhost.                  -304.28 201610276789012345CHENEY    K161027a                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG201704001  377My seventh test on localhost.                  -350.34 201610276789012345HCDERDMAN K161027a                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG201704001  378My seventh test on localhost.                  -209.14 201610276789012345HCDLOGANJOK161027a                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG201704001  379My seventh test on localhost.                  -127.19 201610276789012345HE_KREZO  K161027a                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG201704001  380My seventh test on localhost.                  -186.62 201610276789012345KCHAIDEZ  K161027a                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG201704001  381My seventh test on localhost.                   -40.84 201610276789012345RCROTTY   K161027a                        
+20173 AHEIGAA-----SB28---CB  04GLCBAG201704001  382My seventh test on localhost.                    61.50 201610276789012345WILCOX    K161027a                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG201704001  383My seventh test on localhost.                 -1278.97 201610276789012345----------K161027a                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG201704001  384My seventh test on localhost.                 -2222.84 201610276789012345ACL5KETCHUK161027a                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG201704001  385My seventh test on localhost.                  -511.15 201610276789012345ACL5LIETHMK161027a                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG201704001  386My seventh test on localhost.                 -1921.06 201610276789012345ACL5SUTTONK161027a                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG201704001  387My seventh test on localhost.                 -2634.04 201610276789012345CARMSTRONGK161027a                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG201704001  388My seventh test on localhost.                 -2265.56 201610276789012345CHENEY    K161027a                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG201704001  389My seventh test on localhost.                 -2608.46 201610276789012345HCDERDMAN K161027a                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG201704001  390My seventh test on localhost.                 -1557.14 201610276789012345HCDLOGANJOK161027a                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG201704001  391My seventh test on localhost.                  4931.70 201610276789012345HCDSWARTZ K161027a                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG201704001  392My seventh test on localhost.                 -2112.33 201610276789012345HE_KREZO  K161027a                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG201704001  393My seventh test on localhost.                 -1691.38 201610276789012345KCHAIDEZ  K161027a                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG201704001  394My seventh test on localhost.                 -2115.63 201610276789012345RCROTTY   K161027a                        
+20173 AHEIGAA-----SUB6---CB  04GLCBAG201704001  395My seventh test on localhost.                  -757.15 201610276789012345WILCOX    K161027a                        
+20173 AHEIGAACRDSBSUB6---CB  04GLCBAG201704001  396My seventh test on localhost.                    -4.10 201610276789012345----------K161027a                        
+20173 AHEIGAAHDESBSUB6---CB  04GLCBAG201704001  397My seventh test on localhost.                    21.96 201610276789012345----------K161027a                        
+20173 AHEIGAALDASBSB28---CB  04GLCBAG201704001  398My seventh test on localhost.                  -182.78 201610276789012345LDALIDD   K161027a                        
+20173 AHEIGAALDASBSUB6---CB  04GLCBAG201704001  399My seventh test on localhost.                   -13.94 201610276789012345----------K161027a                        
+20173 AHEIGAALDASBSUB6---CB  04GLCBAG201704001  400My seventh test on localhost.                 -1693.19 201610276789012345LDALIDD   K161027a                        
+20173 AHEITMPHDESBSUB6---CB  04GLCBAG201704001  401My seventh test on localhost.                    -5.37 201610276789012345----------K161027a                        
+20173 AHELH02-----SB28---CB  04GLCBAG201704001  402My seventh test on localhost.                  -241.52 201610276789012345----------K161027a                        
+20173 AHELH02-----SUB6---CB  04GLCBAG201704001  403My seventh test on localhost.                 -2216.55 201610276789012345----------K161027a                        
+20173 AHERCSM-----SUB6---CB  04GLCBAG201704001  404My seventh test on localhost.                    -3.12 201610276789012345----------K161027a                        
+20173 AHERFAV-----SUB6---CB  04GLCBAG201704001  405My seventh test on localhost.                    -2.74 201610276789012345----------K161027a                        
+20173 AHERFLH-----SUB6---CB  04GLCBAG201704001  406My seventh test on localhost.                    11.61 201610276789012345----------K161027a                        
+20173 AHERGAA-----SB28---CB  04GLCBAG201704001  407My seventh test on localhost.                  -141.12 201610276789012345----------K161027a                        
+20173 AHERGAA-----SB28---CB  04GLCBAG201704001  408My seventh test on localhost.                   196.82 201610276789012345ACL5LIETHMK161027a                        
+20173 AHERGAA-----SB28---CB  04GLCBAG201704001  409My seventh test on localhost.                    92.25 201610276789012345WILCOX    K161027a                        
+20173 AHERGAA-----SUB6---CB  04GLCBAG201704001  410My seventh test on localhost.                 -1278.97 201610276789012345----------K161027a                        
+20173 AHERGAA-----SUB6---CB  04GLCBAG201704001  411My seventh test on localhost.                 -1415.78 201610276789012345ACL5LIETHMK161027a                        
+20173 AHERGAA-----SUB6---CB  04GLCBAG201704001  412My seventh test on localhost.                  2396.16 201610276789012345HCDLONDON K161027a                        
+20173 AHERGAA-----SUB6---CB  04GLCBAG201704001  413My seventh test on localhost.                  2465.85 201610276789012345HCDSWARTZ K161027a                        
+20173 AHERGAA-----SUB6---CB  04GLCBAG201704001  414My seventh test on localhost.                 -1135.74 201610276789012345WILCOX    K161027a                        
+20173 AHHRG42-----SUB6---CB  04GLCBAG201704001  415My seventh test on localhost.                    -1.50 201610276789012345----------K161027a                        
+20173 AHHRG52-----SUB6---CB  04GLCBAG201704001  416My seventh test on localhost.                    -0.29 201610276789012345----------K161027a                        
+20173 AIARGAA-----SB28---CB  04GLCBAG201704001  417My seventh test on localhost.                  -143.55 201610276789012345----------K161027a                        
+20173 AIARGAA-----SB28---CB  04GLCBAG201704001  418My seventh test on localhost.                  -113.90 201610276789012345ADOMSR    K161027a                        
+20173 AIARGAA-----SUB6---CB  04GLCBAG201704001  419My seventh test on localhost.                 -1030.96 201610276789012345----------K161027a                        
+20173 AIARGAA-----SUB6---CB  04GLCBAG201704001  420My seventh test on localhost.                 -1032.32 201610276789012345ADOMSR    K161027a                        
+20173 ALTRGAB-----SB28---CB  04GLCBAG201704001  421My seventh test on localhost.                  -148.44 201610276789012345----------K161027a                        
+20173 ALTRGAB-----SB28---CB  04GLCBAG201704001  422My seventh test on localhost.                  -155.94 201610276789012345ADOLAL    K161027a                        
+20173 ALTRGAB-----SUB6---CB  04GLCBAG201704001  423My seventh test on localhost.                 -1631.24 201610276789012345----------K161027a                        
+20173 ALTRGAB-----SUB6---CB  04GLCBAG201704001  424My seventh test on localhost.                 -1713.66 201610276789012345ADOLAL    K161027a                        
+20173 ALWIGAA-----SUB6---CB  04GLCBAG201704001  425My seventh test on localhost.                  -329.02 201610276789012345----------K161027a                        
+20173 ALWIGAAAAFOPSB28---CB  04GLCBAG201704001  426My seventh test on localhost.                   238.02 201610276789012345243READ   K161027a                        
+20173 ALWIGAAAAFOPSUB6---CB  04GLCBAG201704001  427My seventh test on localhost.                  2157.18 201610276789012345243READ   K161027a                        
+20173 ALWIGAAAASAOSB28---CB  04GLCBAG201704001  428My seventh test on localhost.                  -234.93 201610276789012345250BROOKS K161027a                        
+20173 ALWIGAAAASAOSB28---CB  04GLCBAG201704001  429My seventh test on localhost.                   -47.50 201610276789012345250RUIZ   K161027a                        
+20173 ALWIGAAAASAOSUB6---CB  04GLCBAG201704001  430My seventh test on localhost.                 -2186.78 201610276789012345250BROOKS K161027a                        
+20173 ALWIGAAAASAOSUB6---CB  04GLCBAG201704001  431My seventh test on localhost.                 -2461.33 201610276789012345250RUIZ   K161027a                        
+20173 ALWRGAAAAFOPSB28---CB  04GLCBAG201704001  432My seventh test on localhost.                   357.03 201610276789012345243READ   K161027a                        
+20173 ALWRGAAAAFOPSUB6---CB  04GLCBAG201704001  433My seventh test on localhost.                  3235.77 201610276789012345243READ   K161027a                        
+20173 ALWRGAAAASRASUB6---CB  04GLCBAG201704001  434My seventh test on localhost.                   718.20 201610276789012345242DOANE  K161027a                        
+20173 ANSFHXZ-----SUB6---CB  04GLCBAG201704001  435My seventh test on localhost.                    -8.26 201610276789012345----------K161027a                        
+20173 ANSFJDM-----SUB6---CB  04GLCBAG201704001  436My seventh test on localhost.                   -15.60 201610276789012345----------K161027a                        
+20173 ANSFJFM-----SB28---CB  04GLCBAG201704001  437My seventh test on localhost.                  -151.24 201610276789012345TREJO     K161027a                        
+20173 ANSFJFM-----SUB6---CB  04GLCBAG201704001  438My seventh test on localhost.                  -990.30 201610276789012345TREJO     K161027a                        
+20173 ANSFMED-----SB28---CB  04GLCBAG201704001  439My seventh test on localhost.                  -214.66 201610276789012345----------K161027a                        
+20173 ANSFMED-----SUB6---CB  04GLCBAG201704001  440My seventh test on localhost.                 -1945.42 201610276789012345----------K161027a                        
+20173 ANSFPJB-----SB28---CB  04GLCBAG201704001  441My seventh test on localhost.                  -114.11 201610276789012345----------K161027a                        
+20173 ANSFPJB-----SUB6---CB  04GLCBAG201704001  442My seventh test on localhost.                  -826.15 201610276789012345----------K161027a                        
+20173 ANSFPJR-----SB28---CB  04GLCBAG201704001  443My seventh test on localhost.                  -189.04 201610276789012345TREJO     K161027a                        
+20173 ANSFPJR-----SUB6---CB  04GLCBAG201704001  444My seventh test on localhost.                 -1237.90 201610276789012345TREJO     K161027a                        
+20173 ANSFRAZ-----SB28---CB  04GLCBAG201704001  445My seventh test on localhost.                  -182.62 201610276789012345----------K161027a                        
+20173 ANSFRAZ-----SUB6---CB  04GLCBAG201704001  446My seventh test on localhost.                 -1079.88 201610276789012345----------K161027a                        
+20173 ANTGGNBGRADSSB28---CB  04GLCBAG201704001  447My seventh test on localhost.                  -228.32 201610276789012345----------K161027a                        
+20173 ANTGGNBGRADSSUB6---CB  04GLCBAG201704001  448My seventh test on localhost.                 -1927.81 201610276789012345----------K161027a                        
+20173 ANTIGAA-----SB28---CB  04GLCBAG201704001  449My seventh test on localhost.                  -197.64 201610276789012345----------K161027a                        
+20173 ANTIGAA-----SUB6---CB  04GLCBAG201704001  450My seventh test on localhost.                 -1915.86 201610276789012345----------K161027a                        
+20173 ANTIGAAADVISSB28---CB  04GLCBAG201704001  451My seventh test on localhost.                  -195.22 201610276789012345NUTUNDR   K161027a                        
+20173 ANTIGAAADVISSUB6---CB  04GLCBAG201704001  452My seventh test on localhost.                 -2280.18 201610276789012345NUTUNDR   K161027a                        
+20173 ANTIGAASALRYSB28---CB  04GLCBAG201704001  453My seventh test on localhost.                    -8.20 201610276789012345NUTCPS    K161027a                        
+20173 ANTIGAASALRYSB28---CB  04GLCBAG201704001  454My seventh test on localhost.                    -7.62 201610276789012345NUTGNC    K161027a                        
+20173 ANTIGAASALRYSB28---CB  04GLCBAG201704001  455My seventh test on localhost.                   -19.20 201610276789012345NUTKGD    K161027a                        
+20173 ANTIGAASALRYSB28---CB  04GLCBAG201704001  456My seventh test on localhost.                   -40.62 201610276789012345NUTPIO    K161027a                        
+20173 ANTIGAASALRYSUB6---CB  04GLCBAG201704001  457My seventh test on localhost.                  -203.78 201610276789012345NUTCLK    K161027a                        
+20173 ANTIGAASALRYSUB6---CB  04GLCBAG201704001  458My seventh test on localhost.                   -68.90 201610276789012345NUTCPS    K161027a                        
+20173 ANTIGAASALRYSUB6---CB  04GLCBAG201704001  459My seventh test on localhost.                   -33.48 201610276789012345NUTGNC    K161027a                        
+20173 ANTIGAASALRYSUB6---CB  04GLCBAG201704001  460My seventh test on localhost.                   -84.30 201610276789012345NUTKGD    K161027a                        
+20173 ANTIGAASALRYSUB6---CB  04GLCBAG201704001  461My seventh test on localhost.                  -105.30 201610276789012345NUTNWG    K161027a                        
+20173 ANTIGAASALRYSUB6---CB  04GLCBAG201704001  462My seventh test on localhost.                  -178.42 201610276789012345NUTPIO    K161027a                        
+20173 ANTITMPNU010SUB6---CB  04GLCBAG201704001  463My seventh test on localhost.                 -7942.38 201610276789012345----------K161027a                        
+20173 ANTRGAA-----SB28---CB  04GLCBAG201704001  464My seventh test on localhost.                    -0.24 201610276789012345----------K161027a                        
+20173 ANTRGAA-----SUB6---CB  04GLCBAG201704001  465My seventh test on localhost.                  -411.79 201610276789012345----------K161027a                        
+20173 ANTRGAASALRYSB28---CB  04GLCBAG201704001  466My seventh test on localhost.                    -0.98 201610276789012345NUTCPS    K161027a                        
+20173 ANTRGAASALRYSB28---CB  04GLCBAG201704001  467My seventh test on localhost.                    -6.21 201610276789012345NUTGNC    K161027a                        
+20173 ANTRGAASALRYSB28---CB  04GLCBAG201704001  468My seventh test on localhost.                   -27.06 201610276789012345NUTKGD    K161027a                        
+20173 ANTRGAASALRYSB28---CB  04GLCBAG201704001  469My seventh test on localhost.                   -33.24 201610276789012345NUTPIO    K161027a                        
+20173 ANTRGAASALRYSB28---CB  04GLCBAG201704001  470My seventh test on localhost.                    -9.23 201610276789012345NUTSZC    K161027a                        
+20173 ANTRGAASALRYSUB6---CB  04GLCBAG201704001  471My seventh test on localhost.                  -166.72 201610276789012345NUTCLK    K161027a                        
+20173 ANTRGAASALRYSUB6---CB  04GLCBAG201704001  472My seventh test on localhost.                   -20.35 201610276789012345NUTCPS    K161027a                        
+20173 ANTRGAASALRYSUB6---CB  04GLCBAG201704001  473My seventh test on localhost.                   -27.39 201610276789012345NUTGNC    K161027a                        
+20173 ANTRGAASALRYSUB6---CB  04GLCBAG201704001  474My seventh test on localhost.                  -118.80 201610276789012345NUTKGD    K161027a                        
+20173 ANTRGAASALRYSUB6---CB  04GLCBAG201704001  475My seventh test on localhost.                   -35.10 201610276789012345NUTNWG    K161027a                        
+20173 ANTRGAASALRYSUB6---CB  04GLCBAG201704001  476My seventh test on localhost.                  -145.98 201610276789012345NUTPIO    K161027a                        
+20173 ANTRGAASALRYSUB6---CB  04GLCBAG201704001  477My seventh test on localhost.                   -77.62 201610276789012345NUTSZC    K161027a                        
+20173 ANTUNDRADVISSUB6---CB  04GLCBAG201704001  478My seventh test on localhost.                   -21.01 201610276789012345----------K161027a                        
+20173 APFIGAAXPSTXSB28---CB  04GLCBAG201704001  479My seventh test on localhost.                   -39.96 201610276789012345MONTOYA-P K161027a                        
+20173 APFIGAAXPSTXSUB6---CB  04GLCBAG201704001  480My seventh test on localhost.                  -286.50 201610276789012345MONTOYA-P K161027a                        
+20173 APPIGAA-----SUB6---CB  04GLCBAG201704001  481My seventh test on localhost.                    -4.20 201610276789012345----------K161027a                        
+20173 APPIGAA-----SUB6---CB  04GLCBAG201704001  482My seventh test on localhost.                 -1252.86 201610276789012345PCRP      K161027a                        
+20173 APPRGAA-----SB28---CB  04GLCBAG201704001  483My seventh test on localhost.                   -36.05 201610276789012345BTPP      K161027a                        
+20173 APPRGAA-----SB28---CB  04GLCBAG201704001  484My seventh test on localhost.                  -299.20 201610276789012345JCRP      K161027a                        
+20173 APPRGAA-----SUB6---CB  04GLCBAG201704001  485My seventh test on localhost.                   -22.22 201610276789012345----------K161027a                        
+20173 APPRGAA-----SUB6---CB  04GLCBAG201704001  486My seventh test on localhost.                 -2264.31 201610276789012345BTPP      K161027a                        
+20173 APPRGAA-----SUB6---CB  04GLCBAG201704001  487My seventh test on localhost.                 -1959.24 201610276789012345JCRP      K161027a                        
+20173 APPRGAA-----SUB6---CB  04GLCBAG201704001  488My seventh test on localhost.                 -1486.18 201610276789012345PCRP      K161027a                        
+20173 APRIGAU-----SB28---CB  04GLCBAG201704001  489My seventh test on localhost.                 13378.58 201610276789012345----------K161027a                        
+20173 APRIGAU-----SUB6---CB  04GLCBAG201704001  490My seventh test on localhost.                206311.82 201610276789012345----------K161027a                        
+20173 APRRGAU-----SB28---CB  04GLCBAG201704001  491My seventh test on localhost.                 -2008.40 201610276789012345----------K161027a                        
+20173 APRRGAU-----SUB6---CB  04GLCBAG201704001  492My seventh test on localhost.                227535.80 201610276789012345----------K161027a                        
+20173 APSGPBCOPBC2SB28---CB  04GLCBAG201704001  493My seventh test on localhost.                  -223.58 201610276789012345PIETROS   K161027a                        
+20173 APSGPBCOPBC2SUB6---CB  04GLCBAG201704001  494My seventh test on localhost.                    -2.66 201610276789012345----------K161027a                        
+20173 APSGPBCOPBC2SUB6---CB  04GLCBAG201704001  495My seventh test on localhost.                 -2026.34 201610276789012345PIETROS   K161027a                        
+20173 APSIGAAAEUGASUB6---CB  04GLCBAG201704001  496My seventh test on localhost.                   -20.99 201610276789012345----------K161027a                        
+20173 APSIGAAASADVSB28---CB  04GLCBAG201704001  497My seventh test on localhost.                  -466.18 201610276789012345BROWNL    K161027a                        
+20173 APSIGAAASADVSB28---CB  04GLCBAG201704001  498My seventh test on localhost.                  -196.10 201610276789012345SMITHCOLBYK161027a                        
+20173 APSIGAAASADVSB28---CB  04GLCBAG201704001  499My seventh test on localhost.                  -235.63 201610276789012345SOUZAKAE  K161027a                        
+20173 APSIGAAASADVSUB6---CB  04GLCBAG201704001  500My seventh test on localhost.                 -2756.56 201610276789012345BROWNL    K161027a                        
+20173 APSIGAAASADVSUB6---CB  04GLCBAG201704001  501My seventh test on localhost.                 -1782.66 201610276789012345SMITHCOLBYK161027a                        
+20173 APSIGAAASADVSUB6---CB  04GLCBAG201704001  502My seventh test on localhost.                 -2438.12 201610276789012345SOUZAKAE  K161027a                        
+20173 APSIGAAASFLVSB28---CB  04GLCBAG201704001  503My seventh test on localhost.                  -143.62 201610276789012345BOONET    K161027a                        
+20173 APSIGAAASFLVSB28---CB  04GLCBAG201704001  504My seventh test on localhost.                  -134.60 201610276789012345MANDRES   K161027a                        
+20173 APSIGAAASFLVSB28---CB  04GLCBAG201704001  505My seventh test on localhost.                  -105.56 201610276789012345MILLERRJ  K161027a                        
+20173 APSIGAAASFLVSB28---CB  04GLCBAG201704001  506My seventh test on localhost.                  -119.88 201610276789012345MONTOYA   K161027a                        
+20173 APSIGAAASFLVSUB6---CB  04GLCBAG201704001  507My seventh test on localhost.                 -1578.16 201610276789012345BOONET    K161027a                        
+20173 APSIGAAASFLVSUB6---CB  04GLCBAG201704001  508My seventh test on localhost.                 -1479.00 201610276789012345MANDRES   K161027a                        
+20173 APSIGAAASFLVSUB6---CB  04GLCBAG201704001  509My seventh test on localhost.                 -1159.88 201610276789012345MILLERRJ  K161027a                        
+20173 APSIGAAASFLVSUB6---CB  04GLCBAG201704001  510My seventh test on localhost.                  -859.48 201610276789012345MONTOYA   K161027a                        
+20173 APSIGAAASITESB28---CB  04GLCBAG201704001  511My seventh test on localhost.                    66.30 201610276789012345SZETO,B   K161027a                        
+20173 APSIGAAASITESB28---CB  04GLCBAG201704001  512My seventh test on localhost.                   243.11 201610276789012345WONGK     K161027a                        
+20173 APSIGAAASITESUB6---CB  04GLCBAG201704001  513My seventh test on localhost.                  -340.99 201610276789012345SZETO,B   K161027a                        
+20173 APSIGAAASITESUB6---CB  04GLCBAG201704001  514My seventh test on localhost.                  -519.69 201610276789012345WONGK     K161027a                        
+20173 APSIGAAASOFCSB28---CB  04GLCBAG201704001  515My seventh test on localhost.                    43.10 201610276789012345ADAMS     K161027a                        
+20173 APSIGAAASOFCSB28---CB  04GLCBAG201704001  516My seventh test on localhost.                   -94.44 201610276789012345CHAVEZ,DANK161027a                        
+20173 APSIGAAASOFCSB28---CB  04GLCBAG201704001  517My seventh test on localhost.                   -91.40 201610276789012345DHINDSABALK161027a                        
+20173 APSIGAAASOFCSB28---CB  04GLCBAG201704001  518My seventh test on localhost.                  -181.16 201610276789012345GEER      K161027a                        
+20173 APSIGAAASOFCSB28---CB  04GLCBAG201704001  519My seventh test on localhost.                   -16.94 201610276789012345GILDAY    K161027a                        
+20173 APSIGAAASOFCSB28---CB  04GLCBAG201704001  520My seventh test on localhost.                   510.51 201610276789012345MCVARISH  K161027a                        
+20173 APSIGAAASOFCSB28---CB  04GLCBAG201704001  521My seventh test on localhost.                    14.69 201610276789012345REIDS     K161027a                        
+20173 APSIGAAASOFCSB28---CB  04GLCBAG201704001  522My seventh test on localhost.                   245.33 201610276789012345SABERI-S  K161027a                        
+20173 APSIGAAASOFCSB28---CB  04GLCBAG201704001  523My seventh test on localhost.                  -171.38 201610276789012345SALAZAR,C K161027a                        
+20173 APSIGAAASOFCSB28---CB  04GLCBAG201704001  524My seventh test on localhost.                  -148.10 201610276789012345WATERSON-KK161027a                        
+20173 APSIGAAASOFCSUB6---CB  04GLCBAG201704001  525My seventh test on localhost.                  -305.38 201610276789012345ADAMS     K161027a                        
+20173 APSIGAAASOFCSUB6---CB  04GLCBAG201704001  526My seventh test on localhost.                 -1203.43 201610276789012345CHAVEZ,DANK161027a                        
+20173 APSIGAAASOFCSUB6---CB  04GLCBAG201704001  527My seventh test on localhost.                  -828.28 201610276789012345DHINDSABALK161027a                        
+20173 APSIGAAASOFCSUB6---CB  04GLCBAG201704001  528My seventh test on localhost.                 -1186.24 201610276789012345GEER      K161027a                        
+20173 APSIGAAASOFCSUB6---CB  04GLCBAG201704001  529My seventh test on localhost.                  -877.71 201610276789012345GILDAY    K161027a                        
+20173 APSIGAAASOFCSUB6---CB  04GLCBAG201704001  530My seventh test on localhost.                  -653.01 201610276789012345MCVARISH  K161027a                        
+20173 APSIGAAASOFCSUB6---CB  04GLCBAG201704001  531My seventh test on localhost.                  -120.79 201610276789012345REIDS     K161027a                        
+20173 APSIGAAASOFCSUB6---CB  04GLCBAG201704001  532My seventh test on localhost.                  -409.40 201610276789012345SABERI-S  K161027a                        
+20173 APSIGAAASOFCSUB6---CB  04GLCBAG201704001  533My seventh test on localhost.                 -1276.02 201610276789012345SALAZAR,C K161027a                        
+20173 APSIGAAASOFCSUB6---CB  04GLCBAG201704001  534My seventh test on localhost.                 -1102.64 201610276789012345WATERSON-KK161027a                        
+20173 APSIGAAASSAFSB28---CB  04GLCBAG201704001  535My seventh test on localhost.                   -55.54 201610276789012345WARREN,B  K161027a                        
+20173 APSIGAAASSAFSUB6---CB  04GLCBAG201704001  536My seventh test on localhost.                  -978.15 201610276789012345WARREN,B  K161027a                        
+20173 APSITMPCS021SUB6---CB  04GLCBAG201704001  537My seventh test on localhost.                   -68.70 201610276789012345----------K161027a                        
+20173 APSRG12RBH03SB28---CB  04GLCBAG201704001  538My seventh test on localhost.                   -34.50 201610276789012345----------K161027a                        
+20173 APSRG12RBH03SUB6---CB  04GLCBAG201704001  539My seventh test on localhost.                 -2960.52 201610276789012345----------K161027a                        
+20173 APSRG44FAMD2SB28---CB  04GLCBAG201704001  540My seventh test on localhost.                     2.68 201610276789012345----------K161027a                        
+20173 APSRG44FAMD2SUB6---CB  04GLCBAG201704001  541My seventh test on localhost.                   144.75 201610276789012345----------K161027a                        
+20173 APSRG51FJML0SUB6---CB  04GLCBAG201704001  542My seventh test on localhost.                    -6.04 201610276789012345----------K161027a                        
+20173 APSRG55FEJM2SUB6---CB  04GLCBAG201704001  543My seventh test on localhost.                   -17.34 201610276789012345----------K161027a                        
+20173 APSRG67FABB2SB28---CB  04GLCBAG201704001  544My seventh test on localhost.                   -39.89 201610276789012345----------K161027a                        
+20173 APSRG67FABB2SUB6---CB  04GLCBAG201704001  545My seventh test on localhost.                  -325.92 201610276789012345----------K161027a                        
+20173 APSRG71FRTC1SB28---CB  04GLCBAG201704001  546My seventh test on localhost.                   -35.06 201610276789012345----------K161027a                        
+20173 APSRG71FRTC1SUB6---CB  04GLCBAG201704001  547My seventh test on localhost.                 -1816.36 201610276789012345----------K161027a                        
+20173 APSRGAAAEFLPSB28---CB  04GLCBAG201704001  548My seventh test on localhost.                   -16.26 201610276789012345----------K161027a                        
+20173 APSRGAAAEFLPSUB6---CB  04GLCBAG201704001  549My seventh test on localhost.                  -545.98 201610276789012345----------K161027a                        
+20173 APSRGAAAEITESUB6---CB  04GLCBAG201704001  550My seventh test on localhost.                   -10.86 201610276789012345----------K161027a                        
+20173 APSRGAAAEOFCSUB6---CB  04GLCBAG201704001  551My seventh test on localhost.                    -6.25 201610276789012345----------K161027a                        
+20173 APSRGAAAESAFSUB6---CB  04GLCBAG201704001  552My seventh test on localhost.                    -8.84 201610276789012345----------K161027a                        
+20173 APSRGAAASFLESB28---CB  04GLCBAG201704001  553My seventh test on localhost.                   -54.01 201610276789012345LOPEZANT  K161027a                        
+20173 APSRGAAASFLESUB6---CB  04GLCBAG201704001  554My seventh test on localhost.                  -593.16 201610276789012345LOPEZANT  K161027a                        
+20173 APSRGAAASFLPSB28---CB  04GLCBAG201704001  555My seventh test on localhost.                   -35.56 201610276789012345DDICKSON  K161027a                        
+20173 APSRGAAASFLPSUB6---CB  04GLCBAG201704001  556My seventh test on localhost.                 -2234.44 201610276789012345DDICKSON  K161027a                        
+20173 APSRGAAASFLVSB28---CB  04GLCBAG201704001  557My seventh test on localhost.                  -143.62 201610276789012345BOONET    K161027a                        
+20173 APSRGAAASFLVSB28---CB  04GLCBAG201704001  558My seventh test on localhost.                  -105.56 201610276789012345MILLERRJ  K161027a                        
+20173 APSRGAAASFLVSB28---CB  04GLCBAG201704001  559My seventh test on localhost.                  -239.76 201610276789012345MONTOYA   K161027a                        
+20173 APSRGAAASFLVSUB6---CB  04GLCBAG201704001  560My seventh test on localhost.                 -1578.16 201610276789012345BOONET    K161027a                        
+20173 APSRGAAASFLVSUB6---CB  04GLCBAG201704001  561My seventh test on localhost.                 -1159.88 201610276789012345MILLERRJ  K161027a                        
+20173 APSRGAAASFLVSUB6---CB  04GLCBAG201704001  562My seventh test on localhost.                 -1718.96 201610276789012345MONTOYA   K161027a                        
+20173 APSRGAAASFLVSUB6---CB  04GLCBAG201704001  563My seventh test on localhost.                 -1767.03 201610276789012345PLOCHER   K161027a                        
+20173 APSRGAAASFLWSB28---CB  04GLCBAG201704001  564My seventh test on localhost.                  -292.90 201610276789012345EERICKSON K161027a                        
+20173 APSRGAAASFLWSUB6---CB  04GLCBAG201704001  565My seventh test on localhost.                 -3232.78 201610276789012345EERICKSON K161027a                        
+20173 APSRGAAASITESB28---CB  04GLCBAG201704001  566My seventh test on localhost.                  -286.66 201610276789012345BRYANS    K161027a                        
+20173 APSRGAAASITESB28---CB  04GLCBAG201704001  567My seventh test on localhost.                  -216.62 201610276789012345DUSSAULT,LK161027a                        
+20173 APSRGAAASITESB28---CB  04GLCBAG201704001  568My seventh test on localhost.                   614.92 201610276789012345SZETO,B   K161027a                        
+20173 APSRGAAASITESB28---CB  04GLCBAG201704001  569My seventh test on localhost.                   655.62 201610276789012345WONGK     K161027a                        
+20173 APSRGAAASITESUB6---CB  04GLCBAG201704001  570My seventh test on localhost.                 -2597.96 201610276789012345BRYANS    K161027a                        
+20173 APSRGAAASITESUB6---CB  04GLCBAG201704001  571My seventh test on localhost.                 -1418.50 201610276789012345DUSSAULT,LK161027a                        
+20173 APSRGAAASITESUB6---CB  04GLCBAG201704001  572My seventh test on localhost.                  -148.07 201610276789012345SZETO,B   K161027a                        
+20173 APSRGAAASITESUB6---CB  04GLCBAG201704001  573My seventh test on localhost.                  -411.82 201610276789012345WONGK     K161027a                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG201704001  574My seventh test on localhost.                   244.18 201610276789012345ADAMS     K161027a                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG201704001  575My seventh test on localhost.                  -232.32 201610276789012345CBROWNE   K161027a                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG201704001  576My seventh test on localhost.                  -115.09 201610276789012345CHAVEZ,DANK161027a                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG201704001  577My seventh test on localhost.                    69.10 201610276789012345CLEARWATERK161027a                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG201704001  578My seventh test on localhost.                   -91.40 201610276789012345DHINDSABALK161027a                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG201704001  579My seventh test on localhost.                  -288.35 201610276789012345GARTUNGALYK161027a                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG201704001  580My seventh test on localhost.                  -221.40 201610276789012345GEER      K161027a                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG201704001  581My seventh test on localhost.                   -16.94 201610276789012345GILDAY    K161027a                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG201704001  582My seventh test on localhost.                   458.41 201610276789012345GREENLEAF K161027a                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG201704001  583My seventh test on localhost.                   182.52 201610276789012345HENDRICKS K161027a                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG201704001  584My seventh test on localhost.                   623.94 201610276789012345MCVARISH  K161027a                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG201704001  585My seventh test on localhost.                  -206.39 201610276789012345NIJJAR-BALK161027a                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG201704001  586My seventh test on localhost.                   279.24 201610276789012345REIDS     K161027a                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG201704001  587My seventh test on localhost.                   245.33 201610276789012345SABERI-S  K161027a                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG201704001  588My seventh test on localhost.                  -171.38 201610276789012345SALAZAR,C K161027a                        
+20173 APSRGAAASOFCSB28---CB  04GLCBAG201704001  589My seventh test on localhost.                  -222.14 201610276789012345WATERSON-KK161027a                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG201704001  590My seventh test on localhost.                 -1730.55 201610276789012345ADAMS     K161027a                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG201704001  591My seventh test on localhost.                 -2105.52 201610276789012345CBROWNE   K161027a                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG201704001  592My seventh test on localhost.                 -1470.69 201610276789012345CHAVEZ,DANK161027a                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG201704001  593My seventh test on localhost.                 -2127.53 201610276789012345CLEARWATERK161027a                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG201704001  594My seventh test on localhost.                  -828.28 201610276789012345DHINDSABALK161027a                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG201704001  595My seventh test on localhost.                 -1888.20 201610276789012345GARTUNGALYK161027a                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG201704001  596My seventh test on localhost.                 -1449.84 201610276789012345GEER      K161027a                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG201704001  597My seventh test on localhost.                  -877.71 201610276789012345GILDAY    K161027a                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG201704001  598My seventh test on localhost.                 -2331.48 201610276789012345GREENLEAF K161027a                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG201704001  599My seventh test on localhost.                 -1157.60 201610276789012345HENDRICKS K161027a                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG201704001  600My seventh test on localhost.                  -798.15 201610276789012345MCVARISH  K161027a                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG201704001  601My seventh test on localhost.                 -2672.52 201610276789012345NIJJAR-BALK161027a                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG201704001  602My seventh test on localhost.                 -2295.05 201610276789012345REIDS     K161027a                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG201704001  603My seventh test on localhost.                  -409.40 201610276789012345SABERI-S  K161027a                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG201704001  604My seventh test on localhost.                 -1276.02 201610276789012345SALAZAR,C K161027a                        
+20173 APSRGAAASOFCSUB6---CB  04GLCBAG201704001  605My seventh test on localhost.                 -1653.94 201610276789012345WATERSON-KK161027a                        
+20173 APSRGAAASRICSB28---CB  04GLCBAG201704001  606My seventh test on localhost.                   -21.32 201610276789012345----------K161027a                        
+20173 APSRGAAASRICSB28---CB  04GLCBAG201704001  607My seventh test on localhost.                  -177.24 201610276789012345DUSSAULT,LK161027a                        
+20173 APSRGAAASRICSUB6---CB  04GLCBAG201704001  608My seventh test on localhost.                  -557.60 201610276789012345----------K161027a                        
+20173 APSRGAAASRICSUB6---CB  04GLCBAG201704001  609My seventh test on localhost.                 -1160.58 201610276789012345DUSSAULT,LK161027a                        
+20173 APSRGAAASSAFSB28---CB  04GLCBAG201704001  610My seventh test on localhost.                   309.47 201610276789012345PINNEY-R  K161027a                        
+20173 APSRGAAASSAFSB28---CB  04GLCBAG201704001  611My seventh test on localhost.                   -55.54 201610276789012345WARREN,B  K161027a                        
+20173 APSRGAAASSAFSUB6---CB  04GLCBAG201704001  612My seventh test on localhost.                   158.76 201610276789012345PINNEY-R  K161027a                        
+20173 APSRGAAASSAFSUB6---CB  04GLCBAG201704001  613My seventh test on localhost.                  -978.15 201610276789012345WARREN,B  K161027a                        
+20173 APSRGAAFACORSB28---CB  04GLCBAG201704001  614My seventh test on localhost.                   371.80 201610276789012345CADENASSO K161027a                        
+20173 APSRGAAFACORSUB6---CB  04GLCBAG201704001  615My seventh test on localhost.                  2378.28 201610276789012345CADENASSO K161027a                        
+20173 APSRGAAFACORSUB6---CB  04GLCBAG201704001  616My seventh test on localhost.                  -442.65 201610276789012345LACA      K161027a                        
+20173 APSRGABFABB2SB28---CB  04GLCBAG201704001  617My seventh test on localhost.                   -66.49 201610276789012345----------K161027a                        
+20173 APSRGABFABB2SUB6---CB  04GLCBAG201704001  618My seventh test on localhost.                  -543.21 201610276789012345----------K161027a                        
+20173 APSRGAGASGRHSB28---CB  04GLCBAG201704001  619My seventh test on localhost.                   441.47 201610276789012345----------K161027a                        
+20173 APSRGAGASGRHSUB6---CB  04GLCBAG201704001  620My seventh test on localhost.                  -507.56 201610276789012345----------K161027a                        
+20173 APSRHMIFJXD2SB28---CB  04GLCBAG201704001  621My seventh test on localhost.                   146.60 201610276789012345----------K161027a                        
+20173 APSRHMIFJXD2SUB6---CB  04GLCBAG201704001  622My seventh test on localhost.                -12034.96 201610276789012345----------K161027a                        
+20173 AREMSPL-----SUB6---CB  04GLCBAG201704001  623My seventh test on localhost.                    81.66 201610276789012345----------K161027a                        
+20173 AREUNDR-----SUB6---CB  04GLCBAG201704001  624My seventh test on localhost.                   -16.19 201610276789012345----------K161027a                        
+20173 ASTEACHADMINSUB6---CB  04GLCBAG201704001  625My seventh test on localhost.                    -4.73 201610276789012345----------K161027a                        
+20173 ASTEACHADVSNSUB6---CB  04GLCBAG201704001  626My seventh test on localhost.                   -39.18 201610276789012345----------K161027a                        
+20173 ATXRGAA-----SB28---CB  04GLCBAG201704001  627My seventh test on localhost.                   -49.52 201610276789012345----------K161027a                        
+20173 ATXRGAA-----SUB6---CB  04GLCBAG201704001  628My seventh test on localhost.                  -448.72 201610276789012345----------K161027a                        
+20173 AWFIGAASACARSB28---CB  04GLCBAG201704001  629My seventh test on localhost.                  -211.78 201610276789012345250HUDDLE K161027a                        
+20173 AWFIGAASACARSUB6---CB  04GLCBAG201704001  630My seventh test on localhost.                 -1923.57 201610276789012345250HUDDLE K161027a                        
+20173 AWFIGAATEACHSUB6---CB  04GLCBAG201704001  631My seventh test on localhost.                    -4.38 201610276789012345----------K161027a                        
+20173 AWFRGAAMOLLESB28---CB  04GLCBAG201704001  632My seventh test on localhost.                  -105.32 201610276789012345250MOLLEL K161027a                        
+20173 AWFRGAAMOLLESUB6---CB  04GLCBAG201704001  633My seventh test on localhost.                  -954.44 201610276789012345250MOLLEL K161027a                        
+20173 AWFRGAASAFTYSB28---CB  04GLCBAG201704001  634My seventh test on localhost.                   -11.39 201610276789012345----------K161027a                        
+20173 AWFRGAASAFTYSUB6---CB  04GLCBAG201704001  635My seventh test on localhost.                  -492.58 201610276789012345----------K161027a                        
+20173 AXEIGAA-----SB28---CB  04GLCBAG201704001  636My seventh test on localhost.                   -24.16 201610276789012345EDCN      K161027a                        
+20173 AXEIGAA-----SB28---CB  04GLCBAG201704001  637My seventh test on localhost.                   -18.06 201610276789012345ENTFGZ1513K161027a                        
+20173 AXEIGAA-----SB28---CB  04GLCBAG201704001  638My seventh test on localhost.                   -18.48 201610276789012345SANN      K161027a                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG201704001  639My seventh test on localhost.                    -4.64 201610276789012345----------K161027a                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG201704001  640My seventh test on localhost.                   -55.58 201610276789012345BBWN      K161027a                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG201704001  641My seventh test on localhost.                    -2.58 201610276789012345EBRJ      K161027a                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG201704001  642My seventh test on localhost.                  -219.00 201610276789012345EDCN      K161027a                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG201704001  643My seventh test on localhost.                  -128.00 201610276789012345EELN      K161027a                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG201704001  644My seventh test on localhost.                  -162.82 201610276789012345ENTDEU0116K161027a                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG201704001  645My seventh test on localhost.                   -79.26 201610276789012345ENTFGZ1513K161027a                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG201704001  646My seventh test on localhost.                  -166.12 201610276789012345ENTJAR0103K161027a                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG201704001  647My seventh test on localhost.                    -3.32 201610276789012345ENTJRC0543K161027a                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG201704001  648My seventh test on localhost.                    -2.36 201610276789012345ENTLHYANG K161027a                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG201704001  649My seventh test on localhost.                  -161.68 201610276789012345ENTLSK7695K161027a                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG201704001  650My seventh test on localhost.                  -162.82 201610276789012345ENTPSW6753K161027a                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG201704001  651My seventh test on localhost.                  -162.82 201610276789012345ENTRXK8132K161027a                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG201704001  652My seventh test on localhost.                  -347.06 201610276789012345ENTSPL4707K161027a                        
+20173 AXEIGAA-----SUB6---CB  04GLCBAG201704001  653My seventh test on localhost.                  -155.24 201610276789012345SANN      K161027a                        
+20173 AXERGAA-----SB28---CB  04GLCBAG201704001  654My seventh test on localhost.                  -144.80 201610276789012345----------K161027a                        
+20173 AXERGAA-----SB28---CB  04GLCBAG201704001  655My seventh test on localhost.                  -169.14 201610276789012345EDCN      K161027a                        
+20173 AXERGAA-----SB28---CB  04GLCBAG201704001  656My seventh test on localhost.                   -18.06 201610276789012345ENTFGZ1513K161027a                        
+20173 AXERGAA-----SB28---CB  04GLCBAG201704001  657My seventh test on localhost.                   -27.71 201610276789012345SANN      K161027a                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG201704001  658My seventh test on localhost.                  -245.78 201610276789012345----------K161027a                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG201704001  659My seventh test on localhost.                  -164.82 201610276789012345EBRJ      K161027a                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG201704001  660My seventh test on localhost.                 -1532.92 201610276789012345EDCN      K161027a                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG201704001  661My seventh test on localhost.                  -128.00 201610276789012345EELN      K161027a                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG201704001  662My seventh test on localhost.                  -191.12 201610276789012345ENTDEU0116K161027a                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG201704001  663My seventh test on localhost.                   -79.26 201610276789012345ENTFGZ1513K161027a                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG201704001  664My seventh test on localhost.                  -195.02 201610276789012345ENTJAR0103K161027a                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG201704001  665My seventh test on localhost.                    -3.90 201610276789012345ENTJRC0543K161027a                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG201704001  666My seventh test on localhost.                  -111.14 201610276789012345ENTLDG8783K161027a                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG201704001  667My seventh test on localhost.                    -2.76 201610276789012345ENTLHYANG K161027a                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG201704001  668My seventh test on localhost.                  -189.80 201610276789012345ENTLSK7695K161027a                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG201704001  669My seventh test on localhost.                  -191.12 201610276789012345ENTPSW6753K161027a                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG201704001  670My seventh test on localhost.                  -191.12 201610276789012345ENTRXK8132K161027a                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG201704001  671My seventh test on localhost.                  -407.40 201610276789012345ENTSPL4707K161027a                        
+20173 AXERGAA-----SUB6---CB  04GLCBAG201704001  672My seventh test on localhost.                  -232.84 201610276789012345SANN      K161027a                        
+20173 BUS9047-----SUB6---CB  04GLCBAG201704001  673My seventh test on localhost.                    -1.98 201610276789012345----------K161027a                        
+20173 CRF9060-----SB28---CB  04GLCBAG201704001  674My seventh test on localhost.                   -18.66 201610276789012345----------K161027a                        
+20173 CRF9060-----SB28---CB  04GLCBAG201704001  675My seventh test on localhost.                   644.20 201610276789012345ADOKEG    K161027a                        
+20173 CRF9060-----SUB6---CB  04GLCBAG201704001  676My seventh test on localhost.                   -81.97 201610276789012345----------K161027a                        
+20173 CRF9060-----SUB6---CB  04GLCBAG201704001  677My seventh test on localhost.                   245.44 201610276789012345ADOKEG    K161027a                        
+20173 CRU9033-----SUB6---CB  04GLCBAG201704001  678My seventh test on localhost.                    -6.64 201610276789012345----------K161027a                        
+20173 CUH9080-----SB28---CB  04GLCBAG201704001  679My seventh test on localhost.                  -217.38 201610276789012345ADOKML    K161027a                        
+20173 CUH9080-----SUB6---CB  04GLCBAG201704001  680My seventh test on localhost.                 -1970.20 201610276789012345ADOKML    K161027a                        
+20173 DAH7779-----SB28---CB  04GLCBAG201704001  681My seventh test on localhost.                   -48.87 201610276789012345----------K161027a                        
+20173 DAH7779-----SUB6---CB  04GLCBAG201704001  682My seventh test on localhost.                  -876.45 201610276789012345----------K161027a                        
+20173 EEL0214-----SB28---CB  04GLCBAG201704001  683My seventh test on localhost.                   -94.64 201610276789012345----------K161027a                        
+20173 EEL0214-----SUB6---CB  04GLCBAG201704001  684My seventh test on localhost.                  -559.60 201610276789012345----------K161027a                        
+20173 ESP8E87-----SB28---CB  04GLCBAG201704001  685My seventh test on localhost.                   -72.38 201610276789012345----------K161027a                        
+20173 ESP8E87-----SUB6---CB  04GLCBAG201704001  686My seventh test on localhost.                 -1011.02 201610276789012345----------K161027a                        
+20173 EVE9031-----SUB6---CB  04GLCBAG201704001  687My seventh test on localhost.                    -4.43 201610276789012345----------K161027a                        
+20173 FCM3STR-----SUB6---CB  04GLCBAG201704001  688My seventh test on localhost.                   -49.68 201610276789012345----------K161027a                        
+20173 FIELDOP-----SUB6---CB  04GLCBAG201704001  689My seventh test on localhost.                    -7.94 201610276789012345----------K161027a                        
+20173 FMSCHAR-----SB28---CB  04GLCBAG201704001  690My seventh test on localhost.                    -0.48 201610276789012345----------K161027a                        
+20173 FMSCHAR-----SUB6---CB  04GLCBAG201704001  691My seventh test on localhost.                  -496.62 201610276789012345----------K161027a                        
+20173 HAM25BH-----SB28---CB  04GLCBAG201704001  692My seventh test on localhost.                  -241.44 201610276789012345----------K161027a                        
+20173 HAM25BH-----SUB6---CB  04GLCBAG201704001  693My seventh test on localhost.                 -5026.80 201610276789012345----------K161027a                        
+20173 HER1990-----SUB6---CB  04GLCBAG201704001  694My seventh test on localhost.                  6960.91 201610276789012345----------K161027a                        
+20173 HERBARIASHERSB28---CB  04GLCBAG201704001  695My seventh test on localhost.                  -183.07 201610276789012345SHEPARD   K161027a                        
+20173 HERBARIASHERSUB6---CB  04GLCBAG201704001  696My seventh test on localhost.                 -1567.05 201610276789012345SHEPARD   K161027a                        
+20173 KGDPINS-----SB28---CB  04GLCBAG201704001  697My seventh test on localhost.                   -38.30 201610276789012345----------K161027a                        
+20173 KGDPINS-----SB28---CB  04GLCBAG201704001  698My seventh test on localhost.                   -28.80 201610276789012345NUTKGD    K161027a                        
+20173 KGDPINS-----SUB6---CB  04GLCBAG201704001  699My seventh test on localhost.                 -1984.65 201610276789012345----------K161027a                        
+20173 KGDPINS-----SUB6---CB  04GLCBAG201704001  700My seventh test on localhost.                  -126.46 201610276789012345NUTKGD    K161027a                        
+20173 KGDSALR-----SB28---CB  04GLCBAG201704001  701My seventh test on localhost.                  -123.25 201610276789012345----------K161027a                        
+20173 KGDSALR-----SUB6---CB  04GLCBAG201704001  702My seventh test on localhost.                 -1117.01 201610276789012345----------K161027a                        
+20173 KXB3SED-----SB28---CB  04GLCBAG201704001  703My seventh test on localhost.                  -259.26 201610276789012345----------K161027a                        
+20173 KXB3SED-----SUB6---CB  04GLCBAG201704001  704My seventh test on localhost.                 -1138.57 201610276789012345----------K161027a                        
+20173 LFBS199-----SUB6---CB  04GLCBAG201704001  705My seventh test on localhost.                    -3.92 201610276789012345----------K161027a                        
+20173 METROC2STASTSUB6---CB  04GLCBAG201704001  706My seventh test on localhost.                    -5.36 201610276789012345----------K161027a                        
+20173 NW00RAC-----SB28---CB  04GLCBAG201704001  707My seventh test on localhost.                  -121.61 201610276789012345----------K161027a                        
+20173 NW00RAC-----SUB6---CB  04GLCBAG201704001  708My seventh test on localhost.                  -702.38 201610276789012345----------K161027a                        
+20173 RELEASEIRWINSUB6---CB  04GLCBAG201704001  709My seventh test on localhost.                   -42.60 201610276789012345----------K161027a                        
+20173 RMIADMN-----SB28---CB  04GLCBAG201704001  710My seventh test on localhost.                   165.16 201610276789012345ADOBRO    K161027a                        
+20173 RMIADMN-----SUB6---CB  04GLCBAG201704001  711My seventh test on localhost.                 -1968.36 201610276789012345ADOBRO    K161027a                        
+20173 ROS25JR-----SUB6---CB  04GLCBAG201704001  712My seventh test on localhost.                    28.73 201610276789012345----------K161027a                        
+20173 SAV3FAC-----SUB6---CB  04GLCBAG201704001  713My seventh test on localhost.                    -2.97 201610276789012345----------K161027a                        
+20173 SRC9090-----SB28---CB  04GLCBAG201704001  714My seventh test on localhost.                   -14.40 201610276789012345----------K161027a                        
+20173 SRC9090-----SB28---CB  04GLCBAG201704001  715My seventh test on localhost.                  -167.28 201610276789012345ADOVJC    K161027a                        
+20173 SRC9090-----SUB6---CB  04GLCBAG201704001  716My seventh test on localhost.                  -136.36 201610276789012345----------K161027a                        
+20173 SRC9090-----SUB6---CB  04GLCBAG201704001  717My seventh test on localhost.                 -1516.08 201610276789012345ADOVJC    K161027a                        
+20173 SXL3HES-----SB28---CB  04GLCBAG201704001  718My seventh test on localhost.                    -7.12 201610276789012345----------K161027a                        
+20173 SXL3HES-----SUB6---CB  04GLCBAG201704001  719My seventh test on localhost.                   -64.54 201610276789012345----------K161027a                        
+20173 TKB3GSR-----SUB6---CB  04GLCBAG201704001  720My seventh test on localhost.                    83.21 201610276789012345----------K161027a                        
+20173 UAP997HAMBASSUB6---CB  04GLCBAG201704001  721My seventh test on localhost.                    -3.33 201610276789012345----------K161027a                        
+20173 UNDGRAD-----SUB6---CB  04GLCBAG201704001  722My seventh test on localhost.                   -14.52 201610276789012345----------K161027a                        
+20173 VEIVINE-----SB28---CB  04GLCBAG201704001  723My seventh test on localhost.                  -104.59 201610276789012345AVITKEA   K161027a                        
+20173 VEIVINE-----SUB6---CB  04GLCBAG201704001  724My seventh test on localhost.                 -1149.33 201610276789012345AVITKEA   K161027a                        
+20173 VENVINE-----SB28---CB  04GLCBAG201704001  725My seventh test on localhost.                   -96.57 201610276789012345----------K161027a                        
+20173 VENVINE-----SUB6---CB  04GLCBAG201704001  726My seventh test on localhost.                 -2041.50 201610276789012345----------K161027a                        

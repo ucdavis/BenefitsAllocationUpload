@@ -353,7 +353,11 @@ namespace BenefitsAllocationUpload.Controllers
                 var filename = _dataExtractionService.CreateFile(m.FiscalYear, m.FiscalPeriod.Period, m.TransDescription, m.OrgDocNumber, m.OrgRefId, m.TransDocNumberSequence, orgId, transDocOriginCode, useDaFIS);
                 //var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
                 //var unit = user.Units.FirstOrDefault();
-                var unitFile = new UnitFile()
+
+                Message = "No file was created.  There was no benefits data available.";
+                if (!string.IsNullOrWhiteSpace(filename))
+                {
+                    var unitFile = new UnitFile()
                     {
                         Filename = filename,
                         SchoolCode = unit.DeansOfficeSchoolCode,
@@ -362,10 +366,11 @@ namespace BenefitsAllocationUpload.Controllers
                         CreatedBy = User.Identity.Name
                     };
 
-                _unitFileRepository.EnsurePersistent(unitFile);
+                    _unitFileRepository.EnsurePersistent(unitFile);
 
-                Message = String.Format("File \"{0}\" has been created.", filename);
-
+                    Message = String.Format("File \"{0}\" has been created.", filename);
+                }
+                
                 return RedirectToAction("Index");
             }
             return View(m);
