@@ -193,7 +193,7 @@ namespace BenefitsAllocationUpload.Controllers
 
                     cell = dataRow.CreateCell(16);
                     cell.CellStyle = dateCellStyle;
-                    cell.SetCellValue(transaction.TransactionDate);
+                    cell.SetCellValue(Convert.ToDateTime(transaction.TransactionDate));
 
                     dataRow.CreateCell(17).SetCellValue(transaction.OrganizationTrackingNumber);
                     dataRow.CreateCell(18).SetCellValue(transaction.ProjectCode);
