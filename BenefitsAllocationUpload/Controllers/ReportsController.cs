@@ -130,7 +130,7 @@ namespace BenefitsAllocationUpload.Controllers
                 var transactions = result.ToList();
 
                 // Opening the Excel template...
-                var templateFileStream = new FileStream(Server.MapPath(@"\Files\RevisedScrubberWithoutData.xlsx"),
+                var templateFileStream = new FileStream(Server.MapPath(@"~\Files\RevisedScrubberWithoutData.xlsx"),
                     FileMode.Open, FileAccess.Read);
 
                 // Getting the complete workbook...
@@ -232,7 +232,7 @@ namespace BenefitsAllocationUpload.Controllers
             }
             catch (Exception ex)
             {
-                TempData["Message"] = String.Format("Opps!  Something went wrong: {0}", ex.InnerException);
+                TempData["Message"] = String.Format("Opps!  Something went wrong: {0}", ex.Message);
 
                 return RedirectToAction("Index");
             }
