@@ -68,6 +68,8 @@ namespace BenefitsAllocationUpload.Models
         ///  The KFS sub-account number
         ///  (if blank, then has to be '-----').
         /// </summary>
+        //[FieldConverter(typeof(NoValueConverter))]
+        [FieldAlign(AlignMode.Right, '-')]
         [FieldFixedLength(5)]
         [FieldTrim(TrimMode.Right)]
         private string _subAccount;
@@ -109,6 +111,7 @@ namespace BenefitsAllocationUpload.Models
         /// </summary>
         [FieldFixedLength(3)]
         [FieldTrim(TrimMode.Right)]
+        [FieldAlign(AlignMode.Right, '-')]
         private string _subObjectCode;
 
         [Column(Name = "FIN_SUB_OBJ_CD")]
@@ -119,7 +122,6 @@ namespace BenefitsAllocationUpload.Models
         /// The KFS balance type code, typically "CB" for current budget used with "GLCB" or "AC" for actuals used with GLJV.
         /// Designates the type of transactions summarized in the balance and transaction total amount fields ("AC" (actual), "CB" (budget), encumbrance).
         /// </summary>
-
         [FieldFixedLength(2)]
         private string _balanceType;
 
@@ -143,6 +145,7 @@ namespace BenefitsAllocationUpload.Models
         /// KFS Fiscal Period
         /// July=01... December=06... June=12 
         /// </summary>
+        [FieldAlign(AlignMode.Right, '0')]
         [FieldFixedLength(2)]
         private string _fiscalPeriod;
 
@@ -194,7 +197,7 @@ namespace BenefitsAllocationUpload.Models
         /// Sequential number starting at 00001 for each document number
         /// </summary>
         [FieldFixedLength(5)]
-        [FieldAlign(AlignMode.Right)]
+        [FieldAlign(AlignMode.Right,'0')]
         [FieldTrim(TrimMode.Left)]
         private string _lineSequenceNumber;
 
@@ -242,44 +245,22 @@ namespace BenefitsAllocationUpload.Models
         [Display(Name = "D/C")]
         public string DebitCreditCode { get { return _debitCreditCode; } set { _debitCreditCode = value; } }
 
-        ///// <summary>
-        ///// Transaction (Initiation) Date
-        ///// The ledger date on a transaction, i.e. not the actual date posted to the general ledger.
-        ///// format: yyyymmdd
-        ///// </summary>
-        //[FieldFixedLength(8)]
-        //[FieldConverter(ConverterKind.Date, "yyyyMMdd")]
-        //private DateTime _transactionDate;
-
-        //[Column(Name = "TRANSACTION_DT")]
-        //[Display(Name = "Trans Date")]
-        //public DateTime TransactionDate
-        //{
-        //    get
-        //    {
-        //        return _transactionDate;
-        //    }
-        //    set
-        //    {
-        //        _transactionDate = DateTime.ParseExact(value.ToShortDateString(), "yyyyMMdd", CultureInfo.InvariantCulture);
-        //    }
-        //}
-
         /// <summary>
         /// Transaction (Initiation) Date
         /// The ledger date on a transaction, i.e. not the actual date posted to the general ledger.
         /// format: yyyymmdd
         /// </summary>
         [FieldFixedLength(8)]
-        [FieldConverter(ConverterKind.Date, "yyyyMMdd")]
+        //[FieldConverter(ConverterKind.Date, "yyyyMMdd")]
+        [FieldConverter(typeof(NoDateValueConverter))]
         private DateTime _transactionDate;
 
         [Column(Name = "TRANSACTION_DT")]
         [Display(Name = "Trans Date")]
-        public Object TransactionDate
+        public DateTime TransactionDate
         {
-            get { return _transactionDate; }
-            set { _transactionDate = DateTime.ParseExact(value.ToString(), "yyyyMMdd", CultureInfo.InvariantCulture); }
+            get { return _transactionDate;}
+            set { _transactionDate = value; }
         }
 
         /// <summary>
@@ -302,7 +283,7 @@ namespace BenefitsAllocationUpload.Models
         /// Not used by the GivingService process, so we'll ALWAYS be providing 10 dashes , i.e., "----------" as the project code.
         /// </summary>
         [FieldFixedLength(10)]
-        [FieldAlign(AlignMode.Left)]
+        [FieldAlign(AlignMode.Left,'-')]
         [FieldTrim(TrimMode.Right)]
         private string _projectCode;
 
@@ -423,6 +404,28 @@ namespace BenefitsAllocationUpload.Models
             ReferenceNumber = record.ReferenceNumber;
             ReversalDate = record.ReversalDate;
             TransactionEncumbranceUpdateCode = record.TransactionEncumbranceUpdateCode;
+        }
+    }
+
+    /// <summary>
+    /// Handles the proper setting of the date value should we
+    /// return a null value from the database when creating the initial file.
+    /// </summary>
+    public class NoDateValueConverter : ConverterBase
+    {
+        public override object StringToField(string from)
+        {
+            return DateTime.ParseExact(from, "yyyyMMdd", CultureInfo.InvariantCulture); ;
+        }
+
+        public override string FieldToString(object fieldValue)
+        {
+            if (fieldValue == null || (DateTime)fieldValue == DateTime.MinValue)
+            {
+                return String.Format("{0:yyyyMMdd}",DateTime.Now);
+            }
+
+            return String.Format("{0:yyyyMMdd}",fieldValue);
         }
     }
 }

@@ -667,7 +667,7 @@ IF @IsDebug = 1
 		SELECT SUM(TRANS_LINE_AMT) AS Amount FROM  @TransactionsForSummation'
 		ELSE
 			SELECT @MySQL = '
-		SELECT * FROM [dbo].[udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg](''' +@FiscalYear + ''',''' +@FiscalPeriod + ''', ''' +@TransDescription + ''', ''' +@OrgDocNumber + ''', ''' +@OrgRefId + ''', ''' +@TransDocNumberSequence + ''', ''' +@TransDocOriginCode + ''', @TransactionsForSummation)'
+		SELECT * FROM [dbo].[udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg_v2](''' +@FiscalYear + ''',''' +@FiscalPeriod + ''', ''' +@TransDescription + ''', ''' +@OrgDocNumber + ''', ''' +@OrgRefId + ''', ''' +@TransDocNumberSequence + ''', ''' +@TransDocOriginCode + ''', @TransactionsForSummation)'
 
 		PRINT @MySQL;
 	END
@@ -676,7 +676,7 @@ ELSE
 		IF @PrintGrandTotalOnly = 1
 			SELECT SUM(TRANS_LINE_AMT) AS Amount FROM  @TransactionsForSummation
 		ELSE
-			SELECT * FROM [dbo].[udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg](@FiscalYear, @FiscalPeriod, @TransDescription, @OrgDocNumber, @OrgRefId, @TransDocNumberSequence, @TransDocOriginCode, @TransactionsForSummation)
+			SELECT * FROM [dbo].[udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg_v2](@FiscalYear, @FiscalPeriod, @TransDescription, @OrgDocNumber, @OrgRefId, @TransDocNumberSequence, @TransDocOriginCode, @TransactionsForSummation)
 	END
 END
 
