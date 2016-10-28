@@ -105,7 +105,7 @@ SELECT
 	ConsolidationCode, 
 	SubObject, 
 	@TransBalanceType AS TransBalanceType,
-	null AS ObjectType,
+	null AS ObjectType, -- this is always blank
 	@FiscalPeriod AS FiscalPeriod,
 	@TransDocType AS TransDocType,
 	@TransDocOriginCode AS TransDocOrigin,
@@ -115,17 +115,17 @@ SELECT
 	) AS LineSequenceNum, --generate a unique sequence number for each row.
 	@TransDescription AS TransDescription,
 	Amount,
-	null AS TransDebitCreditCode,
-	@TransCreationDate AS TransCreationDate, --not sure if I want to set this here or not.
-	--null  AS TransCreationDate,
+	null AS TransDebitCreditCode, -- this is always blank
+	--@TransCreationDate AS TransCreationDate, 
+	null  AS TransCreationDate, -- leaving this null here will results in file helpers setting it at the program level instead of at the DB level.
 	@OrgDocNumber AS OrgDocNumber,
 	ProjectCode,
 	@OrgRefId AS OrgRefId,
-	null AS RefDocType,
-	null AS RefOrigin,
-	null AS RefDocNum,
-	null AS ReverseDate,
-	null AS EncumUpdateCode
+	null AS RefDocType, -- this is always blank
+	null AS RefOrigin, -- this is always blank
+	null AS RefDocNum, -- this is always blank
+	null AS ReverseDate, -- this is always blank
+	null AS EncumUpdateCode -- this is always blank
 FROM @Table1
 	
 	RETURN 
