@@ -10,7 +10,7 @@ USE [BenefitsAllocationUpload]
 GO
 
 EXEC [dbo].[usp_GetExpiredAccountsForOrg] 
-	@FiscalYear = '2013',
+	@FiscalYear = '2017',
 	@OrgId = 'AAES', --Kuali level 4 Org ID (College level) or- Kuali level 5 Org Id (Division level), i.e. 'HACS' or 'MPSC' or 'SSCI', etc
 	@UseDaFIS = 0, -- Set this to 1 for any org other than AAES or if you want to get the data directly from DaFIS instead of our local FISDataMart.
 	@IsDebug = 0 --Set to 1 to print SQL generated only, and not execute.
@@ -21,7 +21,7 @@ USE [BenefitsAllocationUpload]
 GO
 
 EXEC [dbo].[usp_GetExpiredAccountsForOrg] 
-	@FiscalYear = '2013',
+	@FiscalYear = '2017',
 	@OrgId = 'AAES', --Kuali level 4 Org ID (College level) or- Kuali level 5 Org Id (Division level), i.e. 'HACS' or 'MPSC' or 'SSCI', etc
 	@UseDaFIS = 1, -- Set this to 0 for any org other than AAES or if you want to get the data directly from DaFIS instead of our local FISDataMart.
 	@IsDebug = 0 --Set to 1 to print SQL generated only, and not execute.
@@ -60,6 +60,7 @@ GO
 --	2014-08-20 by kjt: Revised logic to perform the filtering after returning the results from DaFIS since
 --		we're limited to an 8,000 character restriction, and HACS had nearly 12,000 just for their included
 --		accounts list, which understandably failed.
+--  2016-08-01 by kjt: Modified join on OrganizationsV as this was taking too long to return.
 -- =============================================
 CREATE PROCEDURE [dbo].[usp_GetExpiredAccountsForOrg] 
 	@FiscalYear varchar(4) = '2013',
@@ -117,7 +118,7 @@ IF @UseDaFIS = 0 AND (@OrgLevel IS NOT NULL AND @OrgLevel NOT LIKE '') AND @OrgL
 					--INNER JOIN	FISDataMart.dbo.Accounts AS A ON TLV.AccountsFK = A.AccountPK
 					INNER JOIN FISDataMart.dbo.Accounts AS A ON TLV.Year = A.Year AND TLV.Chart = A.Chart AND TLV.Account = A.Account
 					--INNER JOIN FISDataMart.dbo.OrganizationsV AS O ON A.OrgFK = O.OrganizationPK
-					INNER JOIN FISDataMart.dbo.OrganizationsV AS O ON A.Year = O.Year AND A.Period = O.Period AND A.Chart = O.Chart AND A.Org = O.Org
+					INNER JOIN FISDataMart.dbo.OrganizationsV AS O ON O.Year >= ' + @FiscalYear + ' AND ((Chart1 = ''3'' AND Org1 = ''AAES'') AND NOT (Chart2 = ''3'' AND Org2 = ''ACBS'')) AND A.Org = O.Org
 					--INNER JOIN FISDataMart.dbo.Objects AS Obj ON TLV.ObjectsFK = Obj.ObjectPK
 					INNER JOIN FISDataMart.dbo.Objects AS Obj ON TLV.Year = Obj.Year AND TLV.Chart = Obj.Chart AND TLV.Object = Obj.Object
 
@@ -131,14 +132,14 @@ IF @UseDaFIS = 0 AND (@OrgLevel IS NOT NULL AND @OrgLevel NOT LIKE '') AND @OrgL
 					)) AND
 					(A.Account NOT IN (SELECT Account FROM dbo.CentralAccounts WHERE OrgId = ''AAES'')) AND
 					(A.Chart = ''3'' AND OpFundNum = ''19900'') AND
-					(A.Org IN (
-						SELECT DISTINCT Org 
-						FROM FISDataMart.dbo.OrganizationsV O
-						WHERE Year >= ' + @FiscalYear + ' AND
-						((Chart1 = ''3'' AND Org1 = ''AAES'') AND
-						NOT (Chart2 = ''3'' AND Org2 = ''ACBS''))
-						)
-					) AND
+					--(A.Org IN (
+					--	SELECT DISTINCT Org 
+					--	FROM FISDataMart.dbo.OrganizationsV O
+					--	WHERE Year >= ' + @FiscalYear + ' AND
+					--	((Chart1 = ''3'' AND Org1 = ''AAES'') AND
+					--	NOT (Chart2 = ''3'' AND Org2 = ''ACBS''))
+					--	)
+					--) AND
 					(BalType IN (''AC'', ''CB'')) AND
 					(ConsolidatnCode IN (''SB28'', ''SUB6'')) AND'
 
