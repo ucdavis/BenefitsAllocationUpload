@@ -452,7 +452,7 @@ namespace BenefitsAllocationUpload.Models
     }
 
     /// <summary>
-    /// Handle formatting project numbers that are either blank or less that 5 characters. 
+    /// Handle formatting project numbers that are either blank or less that 10 characters. 
     /// </summary>
     public class NoProjectNumberValueConverter : ConverterBase
     {
