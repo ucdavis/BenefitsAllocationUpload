@@ -432,6 +432,9 @@ namespace BenefitsAllocationUpload.Models
         }
     }
 
+    /// <summary>
+    /// Generic method for handling padding of strings that are less that the necessary number of characters.
+    /// </summary>
     static class NoStringValueConverter
     {
         public static string StringToField(string from, int fieldLength)
@@ -448,6 +451,9 @@ namespace BenefitsAllocationUpload.Models
         }
     }
 
+    /// <summary>
+    /// Handle formatting project numbers that are either blank or less that 5 characters. 
+    /// </summary>
     public class NoProjectNumberValueConverter : ConverterBase
     {
         public override object StringToField(string from)
@@ -461,6 +467,9 @@ namespace BenefitsAllocationUpload.Models
         }
     }
 
+    /// <summary>
+    /// Handle formatting sub account that are either blank or less that 5 characters.
+    /// </summary>
     public class NoSubAccountValueConverter : ConverterBase
     {
         public override object StringToField(string from)
