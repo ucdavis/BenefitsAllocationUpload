@@ -14,6 +14,8 @@ namespace BenefitsAllocationUpload.Models
     [FixedLengthRecord]
     public class FeederSystemFixedLengthRecord
     {
+        public const string Dashes = "----------";
+
         /// <summary>
         /// Fiscal year nnnn - fiscal year 2003-04 would be 2004
         /// </summary>
@@ -68,8 +70,7 @@ namespace BenefitsAllocationUpload.Models
         ///  The KFS sub-account number
         ///  (if blank, then has to be '-----').
         /// </summary>
-        //[FieldConverter(typeof(NoValueConverter))]
-        [FieldAlign(AlignMode.Right, '-')]
+        [FieldConverter(typeof(NoSubAccountValueConverter))]
         [FieldFixedLength(5)]
         [FieldTrim(TrimMode.Right)]
         private string _subAccount;
@@ -283,7 +284,7 @@ namespace BenefitsAllocationUpload.Models
         /// Not used by the GivingService process, so we'll ALWAYS be providing 10 dashes , i.e., "----------" as the project code.
         /// </summary>
         [FieldFixedLength(10)]
-        [FieldAlign(AlignMode.Left,'-')]
+        [FieldConverter(typeof(NoProjectNumberValueConverter))]
         [FieldTrim(TrimMode.Right)]
         private string _projectCode;
 
@@ -413,19 +414,63 @@ namespace BenefitsAllocationUpload.Models
     /// </summary>
     public class NoDateValueConverter : ConverterBase
     {
+        private const string DateTimeFormatString = "{0:yyyyMMdd}";
+        
         public override object StringToField(string from)
         {
-            return DateTime.ParseExact(from, "yyyyMMdd", CultureInfo.InvariantCulture); ;
+            return DateTime.ParseExact(from, "yyyyMMdd", CultureInfo.InvariantCulture);
         }
 
         public override string FieldToString(object fieldValue)
         {
             if (fieldValue == null || (DateTime)fieldValue == DateTime.MinValue)
             {
-                return String.Format("{0:yyyyMMdd}",DateTime.Now);
+                return String.Format(DateTimeFormatString, DateTime.Now);
             }
 
-            return String.Format("{0:yyyyMMdd}",fieldValue);
+            return String.Format(DateTimeFormatString, fieldValue);
+        }
+    }
+
+    static class NoStringValueConverter
+    {
+        public static string StringToField(string from, int fieldLength)
+        {
+            return from.PadRight(fieldLength, ' ');
+        }
+
+        public static string FieldToString(string fieldValue, int fieldLength)
+        {
+            if (!string.IsNullOrWhiteSpace(fieldValue))
+                return fieldValue;
+
+            return FeederSystemFixedLengthRecord.Dashes.Substring(0, fieldLength);
+        }
+    }
+
+    public class NoProjectNumberValueConverter : ConverterBase
+    {
+        public override object StringToField(string from)
+        {
+            return NoStringValueConverter.StringToField(from, 10);
+        }
+
+        public override string FieldToString(object fieldValue)
+        {
+            return NoStringValueConverter.FieldToString(fieldValue as string, 10);
+        }
+    }
+
+    public class NoSubAccountValueConverter : ConverterBase
+    {
+        public override object StringToField(string from)
+        {
+            return NoStringValueConverter.StringToField(from, 5);
+        }
+
+        public override string FieldToString(object fieldValue)
+        {
+            return NoStringValueConverter.FieldToString(fieldValue as string, 5);
         }
     }
 }
