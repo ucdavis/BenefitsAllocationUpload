@@ -94,7 +94,7 @@ INSERT INTO @Table1
 SELECT Chart, CentralAccount AS AccountNum, CentralSubAccount AS SubAccount, ISNULL(CentralObjectConsolidation, ConsolidationCode) AS ConsolidationCode, CentralSubObject AS SubObject, (SUM(AMOUNT) *-1) AS Amount, 
 null AS ProjectCode, CentralAccount, CentralSubAccount, ConsolidationCode CentralObjectConsolidation, CentralSubObject 
 FROM @Table1
-GROUP BY Chart, CentralAccount, CentralSubAccount, ConsolidationCode, CentralObjectConsolidation, CentralSubObject
+GROUP BY Chart, CentralAccount, CentralSubAccount, ConsolidationCode, CentralObjectConsolidation, CentralSubObject HAVING SUM(AMOUNT) <> 0
 
 INSERT INTO @TransferTable
 SELECT  
