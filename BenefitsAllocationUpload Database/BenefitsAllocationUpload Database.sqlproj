@@ -90,6 +90,7 @@
     <Build Include="dbo\User Defined Types\TransactionsForSummationTableType.sql" />
     <Build Include="Security\AESDEAN_ProdApp.sql" />
     <Build Include="dbo\Functions\udf_CreateQuotedStringList.sql" />
+    <Build Include="dbo\Functions\udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg_v2.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="dbo\Data\dbo.UnitFiles.txt" />
