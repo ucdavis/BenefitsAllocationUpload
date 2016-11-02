@@ -71,7 +71,8 @@ namespace BenefitsAllocationUpload.Controllers
                     ParameterName = "@UseDaFIS",
                     SqlDbType = SqlDbType.Bit,
                     Direction = ParameterDirection.Input,
-                    Value =  (!"AAES".Equals(orgId))
+                    //Value =  (!"AAES".Equals(orgId))  // our local database has been timing out lately; therefore, use DaFIS for all Orgs.
+                    Value =  1
                 };
                 command.Parameters.Add(parameter);
 

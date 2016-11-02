@@ -18,23 +18,31 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "BenefitsAllocationUpload Da
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		BenefitsAllocation site|Any CPU = BenefitsAllocation site|Any CPU
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 		Test|Any CPU = Test|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91ED1CD7-2030-4A03-A47D-2744403BD658}.BenefitsAllocation site|Any CPU.ActiveCfg = BenefitsAllocation site|Any CPU
+		{91ED1CD7-2030-4A03-A47D-2744403BD658}.BenefitsAllocation site|Any CPU.Build.0 = BenefitsAllocation site|Any CPU
+		{91ED1CD7-2030-4A03-A47D-2744403BD658}.BenefitsAllocation site|Any CPU.Deploy.0 = BenefitsAllocation site|Any CPU
 		{91ED1CD7-2030-4A03-A47D-2744403BD658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{91ED1CD7-2030-4A03-A47D-2744403BD658}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91ED1CD7-2030-4A03-A47D-2744403BD658}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91ED1CD7-2030-4A03-A47D-2744403BD658}.Release|Any CPU.Build.0 = Release|Any CPU
 		{91ED1CD7-2030-4A03-A47D-2744403BD658}.Test|Any CPU.ActiveCfg = Test|Any CPU
 		{91ED1CD7-2030-4A03-A47D-2744403BD658}.Test|Any CPU.Build.0 = Test|Any CPU
+		{31BE6ED0-118E-4E5E-811B-ED5C34E48E9C}.BenefitsAllocation site|Any CPU.ActiveCfg = BenefitsAllocation site|Any CPU
+		{31BE6ED0-118E-4E5E-811B-ED5C34E48E9C}.BenefitsAllocation site|Any CPU.Build.0 = BenefitsAllocation site|Any CPU
 		{31BE6ED0-118E-4E5E-811B-ED5C34E48E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{31BE6ED0-118E-4E5E-811B-ED5C34E48E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31BE6ED0-118E-4E5E-811B-ED5C34E48E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31BE6ED0-118E-4E5E-811B-ED5C34E48E9C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{31BE6ED0-118E-4E5E-811B-ED5C34E48E9C}.Test|Any CPU.ActiveCfg = Test|Any CPU
 		{31BE6ED0-118E-4E5E-811B-ED5C34E48E9C}.Test|Any CPU.Build.0 = Test|Any CPU
+		{036C6DEA-734A-4695-82A8-5EAC104EB60B}.BenefitsAllocation site|Any CPU.ActiveCfg = BenefitsAllocation site|Any CPU
+		{036C6DEA-734A-4695-82A8-5EAC104EB60B}.BenefitsAllocation site|Any CPU.Build.0 = BenefitsAllocation site|Any CPU
 		{036C6DEA-734A-4695-82A8-5EAC104EB60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{036C6DEA-734A-4695-82A8-5EAC104EB60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{036C6DEA-734A-4695-82A8-5EAC104EB60B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU

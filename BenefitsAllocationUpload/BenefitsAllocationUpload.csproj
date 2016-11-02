@@ -530,6 +530,7 @@
     </Content>
     <Content Include="Files\BA Flat File Import Template.xltx" />
     <Content Include="Files\RevisedScrubberWithoutData.xlsx" />
+    <None Include="Properties\PublishProfiles\BenefitsAllocation.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
     <None Include="Properties\PublishProfiles\Test.pubxml" />
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
@@ -604,6 +605,9 @@
     <Content Include="Views\ReimbursableBenefitsAccount\Create.cshtml" />
     <Content Include="Views\ReimbursableBenefitsAccount\Details.cshtml" />
     <Content Include="Views\Reports\Display.cshtml" />
+    <None Include="Web.BenefitsAllocation site.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
     <None Include="Web.Test.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -633,6 +637,15 @@
     <DefineConstants>TRACE;DEBUG</DefineConstants>
     <DebugType>full</DebugType>
     <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'BenefitsAllocation site|AnyCPU'">
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
