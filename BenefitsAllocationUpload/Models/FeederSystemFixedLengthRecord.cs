@@ -16,6 +16,35 @@ namespace BenefitsAllocationUpload.Models
     {
         public const string Dashes = "----------";
 
+        public FeederSystemFixedLengthRecord(BudgetAdjustmentUploadDataResults data)
+        {
+            Account = data.ACCOUNT_NBR;
+            Amount = data.TRN_LDGR_ENTR_AMT;
+            BalanceType = data.FIN_BALANCE_TYP_CD;
+            ChartNum = data.FIN_COA_CD;
+            DebitCreditCode = data.TRN_DEBIT_CRDT_CD;
+            DocumentNumber = data.FDOC_NBR;
+            DocumentType = data.FDOC_TYP_CD;
+            FiscalPeriod = data.UNIV_FISCAL_PRD_CD;
+            FiscalYear = Convert.ToInt32(data.UNIV_FISCAL_YEAR);
+            LineSequenceNumber = data.TRN_ENTR_SEQ_NBR;
+            ObjectCode = data.FIN_OBJECT_CD;
+            ObjectType = data.FIN_OBJ_TYP_CD;
+            OrganizationReferenceId = data.ORG_REFERENCE_ID;
+            OriginCode = data.FS_ORIGIN_CD;
+            OrganizationTrackingNumber = data.ORG_DOC_NBR;
+            ProjectCode = data.PROJECT_CD;
+            ReferenceNumber = data.FDOC_REF_NBR;
+            ReferenceOriginCode = data.FS_REF_ORIGIN_CD;
+            ReferenceTypeCode = data.FDOC_REF_TYP_CD;
+            ReversalDate = data.FDOC_REVERSAL_DT;
+            SubAccount = data.SUB_ACCT_NBR;
+            SubObjectCode = data.FIN_SUB_OBJ_CD;
+            TransactionDate = DateTime.ParseExact(data.TRANSACTION_DT, "yyyyMMdd", CultureInfo.InvariantCulture);
+            TransactionDescription = data.TRN_LDGR_ENTR_DESC;
+            TransactionEncumbranceUpdateCode = data.TRN_ENCUM_UPDT_CD;
+        }
+
         /// <summary>
         /// Fiscal year nnnn - fiscal year 2003-04 would be 2004
         /// </summary>

@@ -370,6 +370,9 @@
     <Compile Include="Models\udf_Catbert3_vUserUnits_Result.cs">
       <DependentUpon>Catbert3.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg_Result.cs">
+      <DependentUpon>FISDataMartEntities.tt</DependentUpon>
+    </Compile>
     <Compile Include="Models\udf_TrueFalseSelectionList_Result.cs">
       <DependentUpon>FISDataMartEntities.tt</DependentUpon>
     </Compile>

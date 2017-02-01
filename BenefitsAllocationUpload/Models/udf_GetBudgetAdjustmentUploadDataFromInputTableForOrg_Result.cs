@@ -11,7 +11,7 @@ namespace BenefitsAllocationUpload.Models
 {
     using System;
     
-    public partial class BudgetAdjustmentUploadDataResults
+    public partial class udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg_Result
     {
         public string UNIV_FISCAL_YEAR { get; set; }
         public string FIN_COA_CD { get; set; }

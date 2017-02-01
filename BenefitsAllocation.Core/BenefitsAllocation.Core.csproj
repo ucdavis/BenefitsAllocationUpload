@@ -123,6 +123,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BudgetAdjustmentTransactions.cs" />
     <Compile Include="ComponentRegistrar.cs" />
     <Compile Include="Domain\ReimbursableBenefitsAccount.cs" />
     <Compile Include="Domain\Database.cs" />

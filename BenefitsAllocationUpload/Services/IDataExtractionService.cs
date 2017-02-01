@@ -88,8 +88,7 @@ namespace BenefitsAllocationUpload.Services
                 // 2013-05-22 by kjt: Revised to use lower level approach to
                 // allow manual setting of command time-out because query
                 // can run longer than default time-out of 30 seconds.
-
-                var transactions = new List<FeederSystemFixedLengthRecord>();
+                var results = new List<BudgetAdjustmentUploadDataResults>();
                 using (var command = context.Database.Connection.CreateCommand())
                 {
                     // Set the command timeout because query can run longer than 
@@ -112,21 +111,27 @@ namespace BenefitsAllocationUpload.Services
 
                     command.Connection.Open();
 
-                    Dapper.SqlMapper.SetTypeMap(
-                    typeof(FeederSystemFixedLengthRecord),
-                    new CustomPropertyTypeMap(
-                        typeof(FeederSystemFixedLengthRecord),
-                        (type, columnName) =>
-                            type.GetProperties().FirstOrDefault(prop =>
-                                prop.GetCustomAttributes(false)
-                                    .OfType<ColumnAttribute>()
-                                    .Any(attr => attr.Name == columnName))));
+                    //Dapper.SqlMapper.SetTypeMap(
+                    //typeof(FeederSystemFixedLengthRecord),
+                    //new CustomPropertyTypeMap(
+                    //    typeof(FeederSystemFixedLengthRecord),
+                    //    (type, columnName) =>
+                    //        type.GetProperties().FirstOrDefault(prop =>
+                    //            prop.GetCustomAttributes(false)
+                    //                .OfType<ColumnAttribute>()
+                    //                .Any(attr => attr.Name == columnName))));
 
-                    transactions =
-                    command.Connection.Query<FeederSystemFixedLengthRecord>(command.CommandText, parameters,
+                    
+                    results = command.Connection.Query<BudgetAdjustmentUploadDataResults>(command.CommandText, parameters,
                         transaction: null, buffered: true, commandTimeout: command.CommandTimeout,
                         commandType: CommandType.StoredProcedure).ToList();
 
+                }
+
+                var transactions = new List<FeederSystemFixedLengthRecord>();
+                foreach (var result in results)
+                {
+                    transactions.Add(new FeederSystemFixedLengthRecord(result));
                 }
                 return transactions;
             }
