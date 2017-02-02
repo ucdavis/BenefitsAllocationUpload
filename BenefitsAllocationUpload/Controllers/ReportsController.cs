@@ -102,12 +102,9 @@ namespace BenefitsAllocationUpload.Controllers
             // This logic sets the flag to indicate whether the file is still on the server and available for download:
             // It compares the filenames in the log file records against the filenames of those on the server.
             var files = _objData.GetFiles(schoolCode);
-            foreach (var userUnitFile in unitFilesForUser)
+            foreach (var unitFile in unitFilesForUser.Join(files,f => f.Filename, f => f.FileName, (u, f) => u))
             {
-                if (files.Exists(f => f.FileName.Equals(userUnitFile.Filename)))
-                {
-                    userUnitFile.IsAvailable = true;
-                }
+                unitFile.IsAvailable = true;
             }
 
             return View(unitFilesForUser);
