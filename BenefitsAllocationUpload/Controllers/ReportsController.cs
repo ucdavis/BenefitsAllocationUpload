@@ -99,6 +99,8 @@ namespace BenefitsAllocationUpload.Controllers
                     .Where(file => (file.SchoolCode.Equals("00") || file.SchoolCode.Equals(schoolCode)) && !file.Filename.EndsWith(".xltx") && !file.Filename.EndsWith(".xlsx")).OrderByDescending(file => file.Created)
                     .ToList();
 
+            // This logic sets the flag to indicate whether the file is still on the server and available for download:
+            // It compares the filenames in the log file records against the filenames of those on the server.
             var files = _objData.GetFiles(schoolCode);
             foreach (var userUnitFile in unitFilesForUser)
             {
