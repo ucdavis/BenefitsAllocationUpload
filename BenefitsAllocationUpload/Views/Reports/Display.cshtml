@@ -35,8 +35,6 @@
     <script type="text/javascript" src="https://cdn.datatables.net/buttons/1.2.1/js/buttons.html5.min.js"></script>
     <script type="text/javascript" src="https://cdn.datatables.net/buttons/1.2.1/js/buttons.flash.min.js"></script>
 
-
-
     <script type="text/javascript">
         $(function () {
             var table = $('#transactionsListTable').DataTable({
@@ -57,7 +55,7 @@
                         '</select> records'
                 },
                 "iDisplayLength": -1,
-                "aaSorting": [[0, "asc"]], //Default sort on second column
+                "aaSorting": [[0, "asc"]], //Default sort on first column
                 //"aoColumnDefs": [
                 //    //{ 'bSortable': false, 'aTargets': [0, 5] } //Disables sort on icon columns
                 //]
@@ -67,8 +65,6 @@
                .appendTo($('#actionButtons'));
         })
     </script>
-
-
 }
 
 @*<style type="text/css">

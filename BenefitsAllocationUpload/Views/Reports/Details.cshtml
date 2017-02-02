@@ -11,49 +11,83 @@
     <br/>
     <h2>@ViewBag.Message</h2>
 </hgroup>
-<hr/>
+
 
 <h4 class="label-warning">Some files may have been deleted and are no longer available for download.</h4>
+<br/>
+
+@Styles.Render("~/Content/DataTables-1.9.4/media/css/datatables-bootstrap.css")
+@Styles.Render("~/Content/DataTables-1.9.4/media/css/jquery.dataTables.css")
+
+@section AdditionalScripts
+{
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript">
+        $(function() {
+            var table = $('#fileDetailsTable')
+                .DataTable({
+                    "oLanguage": {
+                        "sLengthMenu": 'Display <select>' +
+                            '<option value="10">10</option>' +
+                            '<option value="25">25</option>' +
+                            '<option value="50">50</option>' +
+                            '<option value="100">100</option>' +
+                            '<option value="-1">All</option>' +
+                            '</select> records'
+                    },
+                    "iDisplayLength": 10,
+                    "aaSorting": [[1, "desc"]], //Default sort on second column,
+                    "aoColumns":[{"sType": "checked-in"}, null,null,null]
+                });
+        })
+    </script>
+}
 
 <div>
-    <table class="table">
+    <table id="fileDetailsTable" class="table table-bordered">
+        <thead>
         <tr>
+            <th>@Html.DisplayNameFor(m => m[0].IsAvailable)</th>
             <th>
-                File Name
+                @Html.DisplayNameFor(m => m[0].Filename)
             </th>
             <th>
-                Created
+                @Html.DisplayNameFor(m => m[0].Created)
             </th>
             <th>
-                Uploaded
+                @Html.DisplayNameFor(m => m[0].Uploaded)
             </th>
         </tr>
- 
-        @foreach (var item in Model) {
-            <tr>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Filename)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Created) by @Html.DisplayFor(modelItem => item.CreatedBy)
-                </td>
-        
-                @if (item.UploadedBy != null )
-                {
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Uploaded) by @Html.DisplayFor(modelItem => item.UploadedBy)
-                    </td>
-                }
-                else
-                {
-                    <td>N/A*</td>
-                }
-            </tr>
-        }
-       
-        <tr><td colspan="3"><i>*File details are non-applicable or unavailable.  Note that upload details are available once file has been uploaded.</i></td></tr>
- 
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.IsAvailable)</td>
+                    @if (item.IsAvailable)
+                    {
+                        <td><a href="~/Reports/Display/@item.Filename">@Html.DisplayFor(modelItem => item.Filename)</a></td>
+                    }
+                    else
+                    {
+                        <td>@Html.DisplayFor(modelItem => item.Filename)</td>
+                    }
+                    <td>@Html.DisplayFor(modelItem => item.Created) by @Html.DisplayFor(modelItem => item.CreatedBy)</td>
+                    @if (item.UploadedBy != null)
+                    {
+                        <td>@Html.DisplayFor(modelItem => item.Uploaded) by @Html.DisplayFor(modelItem => item.UploadedBy)</td>
+                    }
+                    else
+                    {
+                        <td>N/A*</td>
+                    }
+                </tr>
+            }
+        </tbody>
     </table>
 </div>
-
-<p>@Html.ActionLink("Return to Files Page", "Index", "Reports", new { }, new { @class = "btn" })</p>
+<br/>
+<br/>
+<div><i>*File details are non-applicable or unavailable. Note that upload details are available once file has been uploaded.</i></div>
+<br/>
+<p>@Html.ActionLink("Return to Files Page", "Index", "Reports", new { }, new { @class = "btn"})</p>
