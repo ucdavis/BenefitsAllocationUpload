@@ -36,7 +36,7 @@ namespace BenefitsAllocationUpload.Models
 
                         FileId = i + 1,
                         FileName = item.Name,
-                        TimeStamp = item.CreationTime,
+                        TimeStamp = item.LastWriteTime,
                         FilePath = dirInfo.FullName + @"\" + item.Name
                     });
                 i = i + 1;
