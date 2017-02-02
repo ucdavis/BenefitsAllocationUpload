@@ -53,7 +53,7 @@ namespace BenefitsAllocationUpload.Controllers
         private FileNames GetFileByName(string name)
         {
             var files = _objData.GetFiles();
-            return (files.Where(f => f.FileName.Equals(name))).FirstOrDefault();
+            return files.FirstOrDefault(f => f.FileName.Equals(name));
         } 
  
         //
