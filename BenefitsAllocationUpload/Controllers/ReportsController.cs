@@ -42,7 +42,7 @@ namespace BenefitsAllocationUpload.Controllers
         {
             int fid = Convert.ToInt32(id);
             var files = _objData.GetFiles();
-            return (files.Where(f => f.FileId == fid)).First();
+            return files.First(f => f.FileId == fid);
         }
 
         /// <summary>
