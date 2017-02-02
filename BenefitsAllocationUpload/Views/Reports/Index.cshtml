@@ -7,6 +7,9 @@
     ViewBag.ErrorMessage = "Here is an error message... It could have come from anywhere!";
 }
 
+@Styles.Render("~/Content/DataTables-1.9.4/media/css/datatables-bootstrap.css")
+@Styles.Render("~/Content/DataTables-1.9.4/media/css/jquery.dataTables.css")
+
 @section AdditionalScripts
 {
     <style type="text/css">
@@ -15,40 +18,65 @@
         #tooltip1 a:hover span {display: block;position: absolute;width: 300px;background: #aaa;height: 50px;left: 250px;top: -10px;color: #FFFFFF;padding: 0 5px; }
     </style>
     
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            var table = $('#filesListTable').DataTable({
+                
+                "oLanguage": {
+                    "sLengthMenu": 'Display <select>' +
+                        '<option value="10">10</option>' +
+                        '<option value="25">25</option>' +
+                        '<option value="50">50</option>' +
+                        '<option value="100">100</option>' +
+                        '<option value="-1">All</option>' +
+                        '</select> records'
+                },
+                "iDisplayLength": 10,
+                "aaSorting": [[1, "desc"]], //Default sort on second column
+                "aoColumnDefs": [
+                    { 'bSortable': false, 'aTargets': [0, 3, 4, 5] } //Disables sort on icon columns
+                ]
+            });
+        })
+    </script>
+
     <script type="text/javascript">
        
         (function() {
-            //$('.findHostName').live('click', function () {
-            // This function makes an ajax call to get any updated file info from the database, and then rewrites the data in the tool-tip.
-            $('.tab-content').on('click', '.getFileDetails', function () {
-                debugger;
-                var $button = $(this);
-                var id = $.trim($button.data('id'));
-                var $span = $button.children("span");
+                //$('.findHostName').live('click', function () {
+                // This function makes an ajax call to get any updated file info from the database, and then rewrites the data in the tool-tip.
+                $('.tab-content').on('click', '.getFileDetails', function () {
+                    debugger;
+                    var $button = $(this);
+                    var id = $.trim($button.data('id'));
+                    var $span = $button.children("span");
                 
-                if (id != "") {
-                    // When not using WebAPI it is not necessary to pass a data mapped object, so it is set to null in the following method, and the
-                    // id is passed in the query string.  Actually, I was not able to get the mapping from data object to MVC input parameter to work
-                    // correctly once I revised it to use a standard MVC controller vs. a WebAPI controller, where as before, I only needed to pass the object,
-                    // not append anything to the query string to get things to map properly.
-                    $.getJSON('@Url.Action("Get","Reports")' + "/?id=" + id, null, function (data) {
-                        debugger;
-                        var myString = "Created by " + data.CreatedBy + " on " +
-                        data.Created.toString("MM/dd/yyyy") + "<br />";
-                        if (data.UploadedBy) {
-                            myString += "Uploaded by " + data.UploadedBy + " on " + data.Uploaded;
-                        } 
-                        $span.html(myString);
-                    });
-                }
-                else {
-                    // leave the filename as-is, and turn off the waiting image:
-                }
-            });
-        }
+                    if (id != "") {
+                        // When not using WebAPI it is not necessary to pass a data mapped object, so it is set to null in the following method, and the
+                        // id is passed in the query string.  Actually, I was not able to get the mapping from data object to MVC input parameter to work
+                        // correctly once I revised it to use a standard MVC controller vs. a WebAPI controller, where as before, I only needed to pass the object,
+                        // not append anything to the query string to get things to map properly.
+                        $.getJSON('@Url.Action("Get","Reports")' + "/?id=" + id, null, function (data) {
+                            debugger;
+                            var myString = "Created by " + data.CreatedBy + " on " +
+                                data.Created.toString("MM/dd/yyyy") + "<br />";
+                            if (data.UploadedBy) {
+                                myString += "Uploaded by " + data.UploadedBy + " on " + data.Uploaded;
+                            } 
+                            $span.html(myString);
+                        });
+                    }
+                    else {
+                        // leave the filename as-is, and turn off the waiting image:
+                    }
+                });
+            }
         )();
     </script>
-}
+
+    }
  
 <hgroup class="title">
     <h1>@ViewBag.Title.</h1>
@@ -73,75 +101,84 @@
         <li>Locate the desired <i>journal.xx...</i> file and select "Upload" to upload the file to the A&amp;FS server.</li>
     </ol>
 </div>
-    <hr/>
+   <hr/>
     <div class="tab-content">
-        <table class="table">
-            <tr>
-                <th>
-                    <br/>
-                </th>
-                <th>
-                    File Name
-                </th>
-                <th>
-                    Timestamp
-                </th>
-            </tr>
- 
-            @foreach (var item in Model) {
+        
+        <table id="filesListTable" class="table table-hover">
+            <thead>
                 <tr>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.FileId)
-                    </td>
-                    <td>
-                        @*This calls the jQuery that makes the AJAX call to populate the tool-tip:*@
-                        @*<p id="tooltip1"><a name="@item.FileName" href="#@item.FileName" data-id="@item.FileName" class="getFileDetails">@Html.DisplayFor(modelItem => item.FileName)<span>Click filename to get created/uploaded details.</span></a></p>*@
-                        @*This uses the pre-fetched data, but also populates an anchor tag targeting back to itself.*@
-                        @*<p id="tooltip1"><a name="@item.FileName" href="#@item.FileName">@Html.DisplayFor(modelItem => item.FileName)<span>Created by @item.CreatedBy on @item.TimeStamp <br/>@if (item.Uploaded != null)
-                                                                                                                                                                                      {
-                                                                                                                                                                                          <text>Uploaded by  @item.UploadedBy on @item.Uploaded.Value.ToString("M/d/yyyy hh:mm:ss tt")</text>
-                                                                                                                                                                                      } </span></a></p>*@
-                        @*This uses the pre-fetched data, and builds the link to download the pertainent file:*@
-                        <p id="tooltip1"><a href="~/Reports/Display/@item.FileId">@Html.DisplayFor(modelItem => item.FileName)<span>Created by @item.CreatedBy on @Html.DisplayFor(modelItem => item.TimeStamp)<br/>@if (item.Uploaded != null)
-                                                                                                                                                                                        {
-                                                                                                                                                                                            <text>Uploaded by  @item.UploadedBy on @item.Uploaded.Value.ToString("M/d/yyyy hh:mm:ss tt")</text>
-                                                                                                                                                                                        }
-                                                                                                                                                                                        else
-                                                                                                                                                                                        {
-                                                                                                                                                                                            <text>File has yet to be uploaded or is N/A.</text>
-                                                                                                                                                                                        }
-
-                                                                                                                               </span></a></p>
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.TimeStamp)
-                    </td>
-                    <td>
-                        @Html.ActionLink("Download", "DownloadAsExcel", new { id = item.FileId }, new { @class = "btn btn-primary"})
-                    </td>
-                    @if (item.FileName.EndsWith(BenefitsAllocationUpload.Models.DataClasses.TemplateFileExtension))
-                    {
-                        <td colspan="8">Excel Template File (with field parsing and column names).<br/>See instructions (above)*.</td>
-                    }
-                    else
-                    {
-                        if(User.IsInRole(RoleNames.UploadFile))
-                        {
-                            <td>@Html.ActionLink("Upload", "Upload", new {id = item.FileId}, new {@class = "btn btn-info"}) </td>
-                        }
-                        <td>@Html.ActionLink("Delete", "Delete", new {id = item.FileId}, new { @class = "btn btn-warning" })</td>
-                        <td><br/></td>
-                        <td><br/></td>
-                        <td><br/></td>
-                        <td><br/></td>
-                        <td><br/></td>
-                        <td><br/></td>
-                    }
+                    <th>
+                        <br />
+                    </th>
+                    <th>
+                        File Name
+                    </th>
+                    <th>
+                        Timestamp
+                    </th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
                 </tr>
-            }
- 
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.FileId)
+                        </td>
+                        <td>
+                            @*This calls the jQuery that makes the AJAX call to populate the tool-tip:*@
+                            @*<p id="tooltip1"><a name="@item.FileName" href="#@item.FileName" data-id="@item.FileName" class="getFileDetails">@Html.DisplayFor(modelItem => item.FileName)<span>Click filename to get created/uploaded details.</span></a></p>*@
+                            @*This uses the pre-fetched data, but also populates an anchor tag targeting back to itself.*@
+                            @*<p id="tooltip1"><a name="@item.FileName" href="#@item.FileName">@Html.DisplayFor(modelItem => item.FileName)<span>Created by @item.CreatedBy on @item.TimeStamp <br/>@if (item.Uploaded != null)
+                            {
+                                <text>Uploaded by  @item.UploadedBy on @item.Uploaded.Value.ToString("M/d/yyyy hh:mm:ss tt")</text>
+                            } </span></a></p>*@
+                            @*This uses the pre-fetched data, and builds the link to download the pertinent file:*@
+                            <p id="tooltip1">
+                                <a href="~/Reports/Display/@item.FileId">
+                                    @Html.DisplayFor(modelItem => item.FileName)<span>
+                                        Created by @item.CreatedBy on @Html.DisplayFor(modelItem => item.TimeStamp)<br />@if (item.Uploaded != null)
+                                        {
+                                            <text>Uploaded by  @item.UploadedBy on @item.Uploaded.Value.ToString("M/d/yyyy hh:mm:ss tt")</text>
+                                        }
+                                        else
+                                        {
+                                            <text>File has yet to be uploaded or is N/A.</text>
+                                        }
+
+                                    </span>
+                                </a>
+                            </p>
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TimeStamp)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Download", "DownloadAsExcel", new { id = item.FileId }, new { @class = "btn btn-primary" })
+                        </td>
+                        @if (item.FileName.EndsWith(BenefitsAllocationUpload.Models.DataClasses.TemplateFileExtension))
+                        {
+                            <td colspan="8">Excel Template File (with field parsing and column names).<br />See instructions (above)*.</td>
+                        }
+                        else
+                        {
+                            if (User.IsInRole(RoleNames.UploadFile))
+                            {
+                                <td>@Html.ActionLink("Upload", "Upload", new { id = item.FileId }, new { @class = "btn btn-info" }) </td>
+                            }
+                            <td>@Html.ActionLink("Delete", "Delete", new { id = item.FileId }, new { @class = "btn btn-warning" })</td>
+
+                        }
+                    </tr>
+                }
+            </tbody>
         </table>
+
     </div>
+<br/>
 <p> @Html.ActionLink("View File Log", "Details", null, new { @class="btn"} )</p>
 
  

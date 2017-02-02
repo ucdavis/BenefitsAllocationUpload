@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -31,6 +32,10 @@ namespace BenefitsAllocation.Core.Domain
 
         [Display(Name = "Uploaded By")]
         public virtual string UploadedBy { get; set; }
+
+        [Display(Name = "Is Available?")]
+        [NotMapped]
+        public virtual bool IsAvailable { get; set; }
     }
 
     public class UnitFileMap : ClassMap<UnitFile>
