@@ -7,6 +7,8 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+using System.ComponentModel.DataAnnotations;
+
 namespace BenefitsAllocationUpload.Models
 {
     using System;
@@ -16,11 +18,17 @@ namespace BenefitsAllocationUpload.Models
     {
         public int Id { get; set; }
         public int UnitId { get; set; }
+        [Display(Name = "File Name")]
         public string Filename { get; set; }
         public string SchoolCode { get; set; }
         public Nullable<System.DateTime> Created { get; set; }
         public string CreatedBy { get; set; }
         public Nullable<System.DateTime> Uploaded { get; set; }
         public string UploadedBy { get; set; }
+
+        /// <summary>
+        /// Set this to determine if the file is available for download.
+        /// </summary>
+        public bool IsAvailable { get; set; }
     }
 }

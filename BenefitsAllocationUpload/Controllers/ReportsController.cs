@@ -6,6 +6,7 @@ using System.Data.SqlClient;
 using System.IO;
 using System.Linq;
 using System.Web.Mvc;
+using DataAnnotationsExtensions;
 using NPOI.SS.UserModel;
 using NPOI.XSSF.UserModel;
 using UCDArch.Core.PersistanceSupport;
@@ -32,11 +33,27 @@ namespace BenefitsAllocationUpload.Controllers
             _unitFileRepository = unitFileRepository;
         }
 
-        private FileNames GetNamedFile(string id)
+        /// <summary>
+        /// Returns a file when the _objData is known.
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
+        private FileNames GetFile(string id)
         {
             int fid = Convert.ToInt32(id);
             var files = _objData.GetFiles();
-            return (files.Where(f => f.FileId == fid)).First();
+            return files.First(f => f.FileId == fid);
+        }
+
+        /// <summary>
+        /// Tries to return a file with the given filename.
+        /// </summary>
+        /// <param name="name"></param>
+        /// <returns></returns>
+        private FileNames GetFileByName(string name)
+        {
+            var files = _objData.GetFiles();
+            return files.FirstOrDefault(f => f.FileName.Equals(name));
         } 
  
         //
@@ -77,11 +94,20 @@ namespace BenefitsAllocationUpload.Controllers
             var unit = user.Units.FirstOrDefault();
             var schoolCode = unit.DeansOfficeSchoolCode;
 
-            var userFiles =
+            var unitFilesForUser =
                 _unitFileRepository.GetAll()
                     .Where(file => (file.SchoolCode.Equals("00") || file.SchoolCode.Equals(schoolCode)) && !file.Filename.EndsWith(".xltx") && !file.Filename.EndsWith(".xlsx")).OrderByDescending(file => file.Created)
                     .ToList();
-            return View(userFiles);
+
+            // This logic sets the flag to indicate whether the file is still on the server and available for download:
+            // It compares the filenames in the log file records against the filenames of those on the server.
+            var files = _objData.GetFiles(schoolCode);
+            foreach (var unitFile in unitFilesForUser.Join(files,f => f.Filename, f => f.FileName, (u, f) => u))
+            {
+                unitFile.IsAvailable = true;
+            }
+
+            return View(unitFilesForUser);
         }
        
         public ActionResult Download(string id)
@@ -92,8 +118,7 @@ namespace BenefitsAllocationUpload.Controllers
                 return HttpNotFound();
             }
 
-            var file = GetNamedFile(id);
-
+            var file = GetFile(id);
 
             var filename = file.FileName;
             var filePathAndFilename = file.FilePath;
@@ -116,7 +141,7 @@ namespace BenefitsAllocationUpload.Controllers
 
             try
             {
-                var file = GetNamedFile(id);
+                var file = GetFile(id);
                 var created = file.TimeStamp;
                 var filePathAndFilename = file.FilePath;
                 var filename = file.FileNameLessExtension;
@@ -246,7 +271,7 @@ namespace BenefitsAllocationUpload.Controllers
                 return RedirectToAction("Index");
             }
 
-            var file = GetNamedFile(id);
+            var file = GetFile(id);
             string filename = file.FileName;
 
             //var user = BenefitsAllocation.Core.Domain.User.GetByLoginId(Repository, User.Identity.Name);
@@ -288,7 +313,7 @@ namespace BenefitsAllocationUpload.Controllers
                 return RedirectToAction("Index");
             }
 
-            var fullPath = GetNamedFile(id).FilePath;
+            var fullPath = GetFile(id).FilePath;
 
             var file = new FileInfo(fullPath);
 
@@ -380,12 +405,30 @@ namespace BenefitsAllocationUpload.Controllers
         {
             if (string.IsNullOrWhiteSpace(id))
             {
-                TempData["Message"] = "Unable to display file.  No file was selected. Please select a file and try again.";
+                TempData["Message"] = "Unable to display file: No file was selected. Please select a file and try again.";
                 return RedirectToAction("Index");
             }
 
-            var file = GetNamedFile(id);
-           
+            // Determine if the ID or the name is being provided:
+            int fileId;
+            Int32.TryParse(id, out fileId);
+
+            FileNames file;
+            if (fileId == 0)
+            {
+                file = GetFileByName(id);
+
+                if (file == null)
+                {
+                    TempData["Message"] = "Unable to display file: File not found.  File may have been deleted.";
+                    return RedirectToAction("Details");
+                }
+            }
+            else
+            {
+                file = GetFile(id);
+            }
+
             var engine = new FileHelperEngine<FeederSystemFixedLengthRecord>();
 
             var streamReader = new StreamReader(file.FilePath);
