@@ -179,3 +179,8 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+BenefitsAllocationUpload/AppSettings.Test.config
+BenefitsAllocationUpload/AppSettings.BenefitsAllocation.config
+BenefitsAllocationUpload/AppSettings.BenefitsAllocation site.config
+BenefitsAllocationUpload/AppSettings.Debug.config
+BenefitsAllocationUpload/AppSettings.Release.config
