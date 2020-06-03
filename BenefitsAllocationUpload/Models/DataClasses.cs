@@ -21,19 +21,19 @@ namespace BenefitsAllocationUpload.Models
     {
         private readonly string _storageLocation = ConfigurationManager.AppSettings["StorageLocation"];
         public static readonly string TemplateFileExtension = ConfigurationManager.AppSettings["TemplateFileExtension"];
-
+        
         public List<FileNames> GetFiles()
         {
             var user = User.FindByLoginId(System.Web.HttpContext.Current.User.Identity.Name);
             var lstFiles = new List<FileNames>();
-            var dirInfo = new DirectoryInfo(HostingEnvironment.MapPath(_storageLocation));
+
+            var dirInfo = _storageLocation.StartsWith(@"\\") ? new DirectoryInfo(_storageLocation) : new DirectoryInfo(path: HostingEnvironment.MapPath(_storageLocation));
 
             int i = 0;
             foreach (var item in dirInfo.GetFiles())
             {
                 lstFiles.Add(new FileNames()
                     {
-
                         FileId = i + 1,
                         FileName = item.Name,
                         TimeStamp = item.LastWriteTime,
@@ -113,7 +113,6 @@ namespace BenefitsAllocationUpload.Models
             get
             {
                 return FileName.Substring(0, FileName.LastIndexOf('.'));
-                
             }
         }
     }

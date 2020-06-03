@@ -2,17 +2,15 @@
 using BenefitsAllocationUpload.Services;
 using FileHelpers;
 using System;
-using System.Data.SqlClient;
+using System.Configuration;using System.Data.SqlClient;
 using System.IO;
 using System.Linq;
 using System.Web.Mvc;
-using DataAnnotationsExtensions;
 using NPOI.SS.UserModel;
 using NPOI.XSSF.UserModel;
 using UCDArch.Core.PersistanceSupport;
 using UCDArch.Web.ActionResults;
 using UnitFile = BenefitsAllocation.Core.Domain.UnitFile;
-
 
 namespace BenefitsAllocationUpload.Controllers
 {
@@ -152,12 +150,19 @@ namespace BenefitsAllocationUpload.Controllers
 
                 var result = engine.ReadStream(streamReader);
 
+                if (result.Length > 2011)
+                {
+                    // NPOI appears to have an issue with greater than 2011 records.
+                    // Therefore, download the file as text:
+                    Download(id);
+                }
+
                 var transactions = result.ToList();
 
                 // Opening the Excel template...
                 var templateFileStream = new FileStream(Server.MapPath(@"~\Files\RevisedScrubberWithoutData.xlsx"),
                     FileMode.Open, FileAccess.Read);
-
+               
                 // Getting the complete workbook...
                 var templateWorkbook = new XSSFWorkbook(templateFileStream);
 
@@ -186,13 +191,22 @@ namespace BenefitsAllocationUpload.Controllers
                 boldTotalAmountStyle.DataFormat = twoDecimalPlacesCellStyle.DataFormat;
                 boldTotalAmountStyle.SetFont(boldFont);
 
+                var numExistingRowsInSheet = sheet.LastRowNum;
                 var grandTotal = 0.0;
                 var i = 0;
                 foreach (var transaction in transactions)
                 {
-                    i++;
-                    // Getting the row... 0 is the first row.
+                    i++; // Increment past the header row, i.e. 0.
+                       
+                    // Check to see if our sheet needs another row created,
+                    // and create a new row if necessary:
+                    if (i > numExistingRowsInSheet)
+                    {
+                        sheet.CreateRow(i);
+                    }
+                    // Get the row... 
                     var dataRow = sheet.GetRow(i);
+
                     dataRow.CreateCell(0).SetCellValue(transaction.FiscalYear);
                     dataRow.CreateCell(1).SetCellValue(transaction.ChartNum);
                     dataRow.CreateCell(2).SetCellValue(transaction.Account);
@@ -211,9 +225,9 @@ namespace BenefitsAllocationUpload.Controllers
                     var transactionAmount = Convert.ToDouble(transaction.Amount.Trim());
                     grandTotal += transactionAmount;
                     var cell = dataRow.CreateCell(14);
-                    cell.CellStyle = twoDecimalPlacesCellStyle;  
+                    cell.CellStyle = twoDecimalPlacesCellStyle;
                     cell.SetCellValue(transactionAmount);
-                               
+
                     dataRow.CreateCell(15).SetCellValue(transaction.DebitCreditCode.Trim());
 
                     cell = dataRow.CreateCell(16);
@@ -229,19 +243,25 @@ namespace BenefitsAllocationUpload.Controllers
                     dataRow.CreateCell(23).SetCellValue(transaction.ReversalDate.Trim());
                     dataRow.CreateCell(24).SetCellValue(transaction.TransactionEncumbranceUpdateCode.Trim());
                 }
-
+                    
                 if (transactions.Any())
                 {
+                    // Check to see if our sheet needs the total row created,
+                    // and create it if necessary:
+                    if (i+1 > numExistingRowsInSheet)
+                    {
+                        sheet.CreateRow(i+1);
+                    }
                     var totalsRow = sheet.GetRow(i + 1);
                     var totalsCell = totalsRow.CreateCell(13);
                     totalsCell.CellStyle = boldCellStyle;
                     totalsCell.SetCellValue(" Grand Total");
-                    
+
                     totalsCell = totalsRow.CreateCell(14);
                     totalsCell.CellStyle = boldTotalAmountStyle;
                     totalsCell.SetCellValue(grandTotal);
                 }
-               
+
                 // Forcing formula recalculation...
                 sheet.ForceFormulaRecalculation = true;
 
@@ -257,7 +277,7 @@ namespace BenefitsAllocationUpload.Controllers
             }
             catch (Exception ex)
             {
-                TempData["Message"] = String.Format("Opps!  Something went wrong: {0}", ex.Message);
+                TempData["Message"] = String.Format("Oops!  Something went wrong: {0}", ex.Message);
 
                 return RedirectToAction("Index");
             }
@@ -443,4 +463,3 @@ namespace BenefitsAllocationUpload.Controllers
         }
     }
 }
-
