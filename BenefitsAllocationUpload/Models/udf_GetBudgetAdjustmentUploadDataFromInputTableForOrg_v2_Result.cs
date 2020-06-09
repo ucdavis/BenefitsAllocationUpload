@@ -11,9 +11,9 @@ namespace BenefitsAllocationUpload.Models
 {
     using System;
     
-    public partial class BudgetAdjustmentUploadDataResults
+    public partial class udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg_v2_Result
     {
-        public string UNIV_FISCAL_YEAR { get; set; }
+        public Nullable<int> UNIV_FISCAL_YEAR { get; set; }
         public string FIN_COA_CD { get; set; }
         public string ACCOUNT_NBR { get; set; }
         public string SUB_ACCT_NBR { get; set; }
@@ -25,11 +25,11 @@ namespace BenefitsAllocationUpload.Models
         public string FDOC_TYP_CD { get; set; }
         public string FS_ORIGIN_CD { get; set; }
         public string FDOC_NBR { get; set; }
-        public string TRN_ENTR_SEQ_NBR { get; set; }
+        public Nullable<int> TRN_ENTR_SEQ_NBR { get; set; }
         public string TRN_LDGR_ENTR_DESC { get; set; }
-        public string TRN_LDGR_ENTR_AMT { get; set; }
+        public Nullable<decimal> TRN_LDGR_ENTR_AMT { get; set; }
         public string TRN_DEBIT_CRDT_CD { get; set; }
-        public string TRANSACTION_DT { get; set; }
+        public Nullable<System.DateTime> TRANSACTION_DT { get; set; }
         public string ORG_DOC_NBR { get; set; }
         public string PROJECT_CD { get; set; }
         public string ORG_REFERENCE_ID { get; set; }

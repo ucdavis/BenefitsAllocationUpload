@@ -6,6 +6,9 @@
     <edmx:Diagrams>
       <Diagram DiagramId="740af0fb66064f068792cdac987fa882" Name="Diagram1">
         <EntityTypeShape EntityType="FISDataMartModel.UnitFile" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="FISDataMartModel.CentralAccount" Width="1.5" PointX="3.75" PointY="0.75" />
+        <EntityTypeShape EntityType="FISDataMartModel.ExcludedObject" Width="1.5" PointX="0.75" PointY="4.75" />
+        <EntityTypeShape EntityType="FISDataMartModel.ReimbursableBenefitsAccount" Width="1.5" PointX="5.75" PointY="0.75" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

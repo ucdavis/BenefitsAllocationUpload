@@ -12,15 +12,11 @@ namespace BenefitsAllocationUpload.Models
     using System;
     using System.Collections.Generic;
     
-    public partial class UnitFile
+    public partial class ReimbursableBenefitsAccount
     {
-        public int Id { get; set; }
-        public int UnitId { get; set; }
-        public string Filename { get; set; }
-        public string SchoolCode { get; set; }
-        public Nullable<System.DateTime> Created { get; set; }
-        public string CreatedBy { get; set; }
-        public Nullable<System.DateTime> Uploaded { get; set; }
-        public string UploadedBy { get; set; }
+        public string OrgID { get; set; }
+        public string Chart { get; set; }
+        public string Account { get; set; }
+        public Nullable<bool> IsActive { get; set; }
     }
 }

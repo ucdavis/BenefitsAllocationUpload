@@ -10,17 +10,15 @@
 namespace BenefitsAllocationUpload.Models
 {
     using System;
-    using System.Collections.Generic;
     
-    public partial class UnitFile
+    public partial class usp_GetExpiredAccountsForOrg_Result
     {
-        public int Id { get; set; }
-        public int UnitId { get; set; }
-        public string Filename { get; set; }
-        public string SchoolCode { get; set; }
-        public Nullable<System.DateTime> Created { get; set; }
-        public string CreatedBy { get; set; }
-        public Nullable<System.DateTime> Uploaded { get; set; }
-        public string UploadedBy { get; set; }
+        public string ORG_ID { get; set; }
+        public string CHART_NUM { get; set; }
+        public string ACCT_NUM { get; set; }
+        public Nullable<System.DateTime> ACCT_EXPIRATION_DATE { get; set; }
+        public Nullable<decimal> TRANS_LINE_AMT { get; set; }
+        public string ACCT_MGR_ID { get; set; }
+        public string ACCT_MGR_NAME { get; set; }
     }
 }

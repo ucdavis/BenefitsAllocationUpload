@@ -10,17 +10,10 @@
 namespace BenefitsAllocationUpload.Models
 {
     using System;
-    using System.Collections.Generic;
     
-    public partial class UnitFile
+    public partial class udf_GetIncludeOpFunds_Result
     {
-        public int Id { get; set; }
-        public int UnitId { get; set; }
-        public string Filename { get; set; }
-        public string SchoolCode { get; set; }
-        public Nullable<System.DateTime> Created { get; set; }
-        public string CreatedBy { get; set; }
-        public Nullable<System.DateTime> Uploaded { get; set; }
-        public string UploadedBy { get; set; }
+        public string ChartNum { get; set; }
+        public string OpFund { get; set; }
     }
 }

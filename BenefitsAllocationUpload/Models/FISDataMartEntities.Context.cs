@@ -29,14 +29,17 @@ namespace BenefitsAllocationUpload.Models
         }
     
         public DbSet<UnitFile> UnitFiles { get; set; }
+        public DbSet<CentralAccount> CentralAccounts { get; set; }
+        public DbSet<ExcludedObject> ExcludedObjects { get; set; }
+        public DbSet<ReimbursableBenefitsAccount> ReimbursableBenefitsAccounts { get; set; }
     
-        [EdmFunction("FISDataMartEntities1", "udf_TrueFalseSelectionList")]
+        [EdmFunction("FISDataMartEntities", "udf_TrueFalseSelectionList")]
         public virtual IQueryable<udf_TrueFalseSelectionList_Result> udf_TrueFalseSelectionList()
         {
-            return ((IObjectContextAdapter)this).ObjectContext.CreateQuery<udf_TrueFalseSelectionList_Result>("[FISDataMartEntities1].[udf_TrueFalseSelectionList]()");
+            return ((IObjectContextAdapter)this).ObjectContext.CreateQuery<udf_TrueFalseSelectionList_Result>("[FISDataMartEntities].[udf_TrueFalseSelectionList]()");
         }
     
-        public virtual ObjectResult<BudgetAdjustmentUploadDataResults> usp_GetBudgetAdjustmentUploadDataForOrg(string fiscalYear, string fiscalPeriod, string transDescription, string orgDocNumber, string orgRefId, string transDocNumberSequence, string orgId, string transDocOriginCode, Nullable<bool> useDaFIS, Nullable<bool> isDebug)
+        public virtual ObjectResult<BudgetAdjustmentUploadDataResults> usp_GetBudgetAdjustmentUploadDataForOrg(string fiscalYear, string fiscalPeriod, string transDescription, string orgDocNumber, string orgRefId, string transDocNumberSequence, string orgId, string transDocOriginCode, Nullable<bool> useDaFIS, Nullable<bool> printGrandTotalOnly, Nullable<bool> useV1Udf, Nullable<bool> isDebug)
         {
             var fiscalYearParameter = fiscalYear != null ?
                 new ObjectParameter("FiscalYear", fiscalYear) :
@@ -74,11 +77,19 @@ namespace BenefitsAllocationUpload.Models
                 new ObjectParameter("UseDaFIS", useDaFIS) :
                 new ObjectParameter("UseDaFIS", typeof(bool));
     
+            var printGrandTotalOnlyParameter = printGrandTotalOnly.HasValue ?
+                new ObjectParameter("PrintGrandTotalOnly", printGrandTotalOnly) :
+                new ObjectParameter("PrintGrandTotalOnly", typeof(bool));
+    
+            var useV1UdfParameter = useV1Udf.HasValue ?
+                new ObjectParameter("UseV1Udf", useV1Udf) :
+                new ObjectParameter("UseV1Udf", typeof(bool));
+    
             var isDebugParameter = isDebug.HasValue ?
                 new ObjectParameter("IsDebug", isDebug) :
                 new ObjectParameter("IsDebug", typeof(bool));
     
-            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<BudgetAdjustmentUploadDataResults>("usp_GetBudgetAdjustmentUploadDataForOrg", fiscalYearParameter, fiscalPeriodParameter, transDescriptionParameter, orgDocNumberParameter, orgRefIdParameter, transDocNumberSequenceParameter, orgIdParameter, transDocOriginCodeParameter, useDaFISParameter, isDebugParameter);
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<BudgetAdjustmentUploadDataResults>("usp_GetBudgetAdjustmentUploadDataForOrg", fiscalYearParameter, fiscalPeriodParameter, transDescriptionParameter, orgDocNumberParameter, orgRefIdParameter, transDocNumberSequenceParameter, orgIdParameter, transDocOriginCodeParameter, useDaFISParameter, printGrandTotalOnlyParameter, useV1UdfParameter, isDebugParameter);
         }
     
         public virtual int usp_GetOrgLevel(string orgId, Nullable<bool> isDebug, ObjectParameter orgLevel)
@@ -92,6 +103,158 @@ namespace BenefitsAllocationUpload.Models
                 new ObjectParameter("IsDebug", typeof(bool));
     
             return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("usp_GetOrgLevel", orgIdParameter, isDebugParameter, orgLevel);
+        }
+    
+        [EdmFunction("FISDataMartEntities", "udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg")]
+        public virtual IQueryable<udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg_Result> udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg(string fiscalYear, string fiscalPeriod, string transDescription, string orgDocNumber, string orgRefId, string transDocNumberSequence, string transDocOriginCode)
+        {
+            var fiscalYearParameter = fiscalYear != null ?
+                new ObjectParameter("FiscalYear", fiscalYear) :
+                new ObjectParameter("FiscalYear", typeof(string));
+    
+            var fiscalPeriodParameter = fiscalPeriod != null ?
+                new ObjectParameter("FiscalPeriod", fiscalPeriod) :
+                new ObjectParameter("FiscalPeriod", typeof(string));
+    
+            var transDescriptionParameter = transDescription != null ?
+                new ObjectParameter("TransDescription", transDescription) :
+                new ObjectParameter("TransDescription", typeof(string));
+    
+            var orgDocNumberParameter = orgDocNumber != null ?
+                new ObjectParameter("OrgDocNumber", orgDocNumber) :
+                new ObjectParameter("OrgDocNumber", typeof(string));
+    
+            var orgRefIdParameter = orgRefId != null ?
+                new ObjectParameter("OrgRefId", orgRefId) :
+                new ObjectParameter("OrgRefId", typeof(string));
+    
+            var transDocNumberSequenceParameter = transDocNumberSequence != null ?
+                new ObjectParameter("TransDocNumberSequence", transDocNumberSequence) :
+                new ObjectParameter("TransDocNumberSequence", typeof(string));
+    
+            var transDocOriginCodeParameter = transDocOriginCode != null ?
+                new ObjectParameter("TransDocOriginCode", transDocOriginCode) :
+                new ObjectParameter("TransDocOriginCode", typeof(string));
+    
+            return ((IObjectContextAdapter)this).ObjectContext.CreateQuery<udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg_Result>("[FISDataMartEntities].[udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg](@FiscalYear, @FiscalPeriod, @TransDescription, @OrgDocNumber, @OrgRefId, @TransDocNumberSequence, @TransDocOriginCode)", fiscalYearParameter, fiscalPeriodParameter, transDescriptionParameter, orgDocNumberParameter, orgRefIdParameter, transDocNumberSequenceParameter, transDocOriginCodeParameter);
+        }
+    
+        [EdmFunction("FISDataMartEntities", "udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg_v2")]
+        public virtual IQueryable<udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg_v2_Result> udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg_v2(Nullable<int> fiscalYear, string fiscalPeriod, string transDescription, string orgDocNumber, string orgRefId, string transDocNumberSequence, string transDocOriginCode)
+        {
+            var fiscalYearParameter = fiscalYear.HasValue ?
+                new ObjectParameter("FiscalYear", fiscalYear) :
+                new ObjectParameter("FiscalYear", typeof(int));
+    
+            var fiscalPeriodParameter = fiscalPeriod != null ?
+                new ObjectParameter("FiscalPeriod", fiscalPeriod) :
+                new ObjectParameter("FiscalPeriod", typeof(string));
+    
+            var transDescriptionParameter = transDescription != null ?
+                new ObjectParameter("TransDescription", transDescription) :
+                new ObjectParameter("TransDescription", typeof(string));
+    
+            var orgDocNumberParameter = orgDocNumber != null ?
+                new ObjectParameter("OrgDocNumber", orgDocNumber) :
+                new ObjectParameter("OrgDocNumber", typeof(string));
+    
+            var orgRefIdParameter = orgRefId != null ?
+                new ObjectParameter("OrgRefId", orgRefId) :
+                new ObjectParameter("OrgRefId", typeof(string));
+    
+            var transDocNumberSequenceParameter = transDocNumberSequence != null ?
+                new ObjectParameter("TransDocNumberSequence", transDocNumberSequence) :
+                new ObjectParameter("TransDocNumberSequence", typeof(string));
+    
+            var transDocOriginCodeParameter = transDocOriginCode != null ?
+                new ObjectParameter("TransDocOriginCode", transDocOriginCode) :
+                new ObjectParameter("TransDocOriginCode", typeof(string));
+    
+            return ((IObjectContextAdapter)this).ObjectContext.CreateQuery<udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg_v2_Result>("[FISDataMartEntities].[udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg_v2](@FiscalYear, @FiscalPeriod, @TransDescription, @OrgDocNumber, @OrgRefId, @TransDocNumberSequence, @TransDocOriginCode)", fiscalYearParameter, fiscalPeriodParameter, transDescriptionParameter, orgDocNumberParameter, orgRefIdParameter, transDocNumberSequenceParameter, transDocOriginCodeParameter);
+        }
+    
+        [EdmFunction("FISDataMartEntities", "udf_GetIncludeOpFunds")]
+        public virtual IQueryable<udf_GetIncludeOpFunds_Result> udf_GetIncludeOpFunds(string orgId)
+        {
+            var orgIdParameter = orgId != null ?
+                new ObjectParameter("OrgId", orgId) :
+                new ObjectParameter("OrgId", typeof(string));
+    
+            return ((IObjectContextAdapter)this).ObjectContext.CreateQuery<udf_GetIncludeOpFunds_Result>("[FISDataMartEntities].[udf_GetIncludeOpFunds](@OrgId)", orgIdParameter);
+        }
+    
+        public virtual ObjectResult<Nullable<decimal>> usp_GetBudgetAdjustmentUploadDataForOrg_20200602_bak(string fiscalYear, string fiscalPeriod, string transDescription, string orgDocNumber, string orgRefId, string transDocNumberSequence, string orgId, string transDocOriginCode, Nullable<bool> useDaFIS, Nullable<bool> printGrandTotalOnly, Nullable<bool> useV1Udf, Nullable<bool> isDebug)
+        {
+            var fiscalYearParameter = fiscalYear != null ?
+                new ObjectParameter("FiscalYear", fiscalYear) :
+                new ObjectParameter("FiscalYear", typeof(string));
+    
+            var fiscalPeriodParameter = fiscalPeriod != null ?
+                new ObjectParameter("FiscalPeriod", fiscalPeriod) :
+                new ObjectParameter("FiscalPeriod", typeof(string));
+    
+            var transDescriptionParameter = transDescription != null ?
+                new ObjectParameter("TransDescription", transDescription) :
+                new ObjectParameter("TransDescription", typeof(string));
+    
+            var orgDocNumberParameter = orgDocNumber != null ?
+                new ObjectParameter("OrgDocNumber", orgDocNumber) :
+                new ObjectParameter("OrgDocNumber", typeof(string));
+    
+            var orgRefIdParameter = orgRefId != null ?
+                new ObjectParameter("OrgRefId", orgRefId) :
+                new ObjectParameter("OrgRefId", typeof(string));
+    
+            var transDocNumberSequenceParameter = transDocNumberSequence != null ?
+                new ObjectParameter("TransDocNumberSequence", transDocNumberSequence) :
+                new ObjectParameter("TransDocNumberSequence", typeof(string));
+    
+            var orgIdParameter = orgId != null ?
+                new ObjectParameter("OrgId", orgId) :
+                new ObjectParameter("OrgId", typeof(string));
+    
+            var transDocOriginCodeParameter = transDocOriginCode != null ?
+                new ObjectParameter("TransDocOriginCode", transDocOriginCode) :
+                new ObjectParameter("TransDocOriginCode", typeof(string));
+    
+            var useDaFISParameter = useDaFIS.HasValue ?
+                new ObjectParameter("UseDaFIS", useDaFIS) :
+                new ObjectParameter("UseDaFIS", typeof(bool));
+    
+            var printGrandTotalOnlyParameter = printGrandTotalOnly.HasValue ?
+                new ObjectParameter("PrintGrandTotalOnly", printGrandTotalOnly) :
+                new ObjectParameter("PrintGrandTotalOnly", typeof(bool));
+    
+            var useV1UdfParameter = useV1Udf.HasValue ?
+                new ObjectParameter("UseV1Udf", useV1Udf) :
+                new ObjectParameter("UseV1Udf", typeof(bool));
+    
+            var isDebugParameter = isDebug.HasValue ?
+                new ObjectParameter("IsDebug", isDebug) :
+                new ObjectParameter("IsDebug", typeof(bool));
+    
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<Nullable<decimal>>("usp_GetBudgetAdjustmentUploadDataForOrg_20200602_bak", fiscalYearParameter, fiscalPeriodParameter, transDescriptionParameter, orgDocNumberParameter, orgRefIdParameter, transDocNumberSequenceParameter, orgIdParameter, transDocOriginCodeParameter, useDaFISParameter, printGrandTotalOnlyParameter, useV1UdfParameter, isDebugParameter);
+        }
+    
+        public virtual ObjectResult<usp_GetExpiredAccountsForOrg_Result> usp_GetExpiredAccountsForOrg(string fiscalYear, string orgId, Nullable<bool> useDaFIS, Nullable<bool> isDebug)
+        {
+            var fiscalYearParameter = fiscalYear != null ?
+                new ObjectParameter("FiscalYear", fiscalYear) :
+                new ObjectParameter("FiscalYear", typeof(string));
+    
+            var orgIdParameter = orgId != null ?
+                new ObjectParameter("OrgId", orgId) :
+                new ObjectParameter("OrgId", typeof(string));
+    
+            var useDaFISParameter = useDaFIS.HasValue ?
+                new ObjectParameter("UseDaFIS", useDaFIS) :
+                new ObjectParameter("UseDaFIS", typeof(bool));
+    
+            var isDebugParameter = isDebug.HasValue ?
+                new ObjectParameter("IsDebug", isDebug) :
+                new ObjectParameter("IsDebug", typeof(bool));
+    
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<usp_GetExpiredAccountsForOrg_Result>("usp_GetExpiredAccountsForOrg", fiscalYearParameter, orgIdParameter, useDaFISParameter, isDebugParameter);
         }
     }
 }
