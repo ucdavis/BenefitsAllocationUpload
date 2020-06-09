@@ -124,6 +124,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ComponentRegistrar.cs" />
+    <Compile Include="Domain\ExcludedObject.cs" />
     <Compile Include="Domain\ReimbursableBenefitsAccount.cs" />
     <Compile Include="Domain\Database.cs" />
     <Compile Include="Domain\ExpiredAccount.cs" />

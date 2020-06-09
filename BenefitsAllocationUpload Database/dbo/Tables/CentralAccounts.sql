@@ -16,10 +16,6 @@
 );
 
 
-
-
-
-
 GO
 CREATE UNIQUE NONCLUSTERED INDEX [CentralAccounts_OrgIdSchCdChartAcctSubAcctObjConsFundingObjConsSubObjFunctCdTransDocOrignCd]
     ON [dbo].[CentralAccounts]([OrgId] ASC, [SchoolCode] ASC, [Chart] ASC, [Account] ASC, [SubAccount] ASC, [ObjectConsolidation] ASC, [FundingObjectConsolidation] ASC, [SubObject] ASC, [FunctionCode] ASC, [TransDocOriginCode] ASC);

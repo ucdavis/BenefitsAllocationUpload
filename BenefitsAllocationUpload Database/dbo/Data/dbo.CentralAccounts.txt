@@ -1,23 +1,25 @@
-"OrgId"	"SchoolCode"	"Chart"	"Account"	"SubAccount"	"ObjectConsolidation"	"FundingObjectConsolidation"	"SubObject"	"FunctionCode"	"TransDocOriginCode"	"OpFund"
-"AAES"	"01"	"3"	"APRIGAU"	(null)	(null)	(null)	(null)	"I"	"AG"	(null)
-"AAES"	"01"	"3"	"APRRGAU"	(null)	(null)	(null)	(null)	"R"	"AG"	(null)
-"DANR"	"99"	"L"	"8449999"	"69085"	"SUB6"	"SUB6"	(null)	"ORES"	"DR"	"69085"
-"DANR"	"99"	"L"	"8629999"	"69085"	"SUB6"	"SUB6"	(null)	"PBSV"	"DR"	"69085"
-"DANR"	"99"	"L"	"8649999"	"69085"	"SUB6"	"SUB6"	(null)	"MOPP"	"DR"	"69085"
-"DANR"	"99"	"L"	"PR21050"	"21050"	"SUB6"	"SUB6"	(null)	"21050"	"DR"	"21050"
-"DANR"	"99"	"L"	"PR21056"	"21056"	"SUB6"	"SUB6"	(null)	"21056"	"DR"	"21056"
-"DANR"	"99"	"L"	"PR21057"	"21057"	"SUB6"	"SUB6"	(null)	"21057"	"DR"	"21057"
-"DANR"	"99"	"L"	"PR21058"	"21058"	"SUB6"	"SUB6"	(null)	"21058"	"DR"	"21058"
-"HACS"	"17"	"3"	"HACBENE"	(null)	(null)	(null)	(null)	"I"	"HA"	(null)
-"HACS"	"17"	"3"	"HACBENE"	(null)	(null)	(null)	(null)	"R"	"HA"	(null)
-"MPSC"	"18"	"3"	"MPSGEND"	"SUPPT"	(null)	(null)	"UNA"	"I"	(null)	(null)
-"MPSC"	"18"	"3"	"MPSGEND"	"SUPPT"	(null)	(null)	"UNA"	"R"	(null)	(null)
-"SSCI"	"19"	"3"	"SSIBENE"	(null)	(null)	(null)	(null)	"I"	"SS"	(null)
-"SSCI"	"19"	"3"	"SSIBENE"	(null)	(null)	(null)	(null)	"R"	"SS"	(null)
-"DANR"	"99"	"L"	"8449999"	"69085"	"SB28"	"SUB8"	(null)	"ORES"	"DR"	"69085"
-"DANR"	"99"	"L"	"8629999"	"69085"	"SB28"	"SUB8"	(null)	"PBSV"	"DR"	"69085"
-"DANR"	"99"	"L"	"8649999"	"69085"	"SB28"	"SUB8"	(null)	"MOPP"	"DR"	"69085"
-"DANR"	"99"	"L"	"PR21050"	"21050"	"SB28"	"SUB8"	(null)	"21050"	"DR"	"21050"
-"DANR"	"99"	"L"	"PR21056"	"21056"	"SB28"	"SUB8"	(null)	"21056"	"DR"	"21056"
-"DANR"	"99"	"L"	"PR21057"	"21057"	"SB28"	"SUB8"	(null)	"21057"	"DR"	"21057"
-"DANR"	"99"	"L"	"PR21058"	"21058"	"SB28"	"SUB8"	(null)	"21058"	"DR"	"21058"
+"PK_CentralAccounts","OrgId","SchoolCode","Chart","Account","SubAccount","ObjectConsolidation","FundingObjectConsolidation","SubObject","FunctionCode","TransDocOriginCode","OpFund","IsActive"
+"AAES|01|3|APRIGAU|||||I|AG|","AAES","01","3","APRIGAU","","","","","I","AG","","True"
+"AAES|01|3|APRRGAU|||||R|AG|","AAES","01","3","APRRGAU","","","","","R","AG","","True"
+"CLAS|15|3|LSCBENE|DEPTR||||I|SS|","CLAS","15","3","LSCBENE","DEPTR","","","","I","SS","","True"
+"CLAS|15|3|LSCBENE|DEPTR||||R|SS|","CLAS","15","3","LSCBENE","DEPTR","","","","R","SS","","True"
+"DANR|99|L|8449999|69085|SB28|SUB8||ORES|DR|69085","DANR","99","L","8449999","69085","SB28","SUB8","","ORES","DR","69085","True"
+"DANR|99|L|8449999|69085|SUB6|SUB6||ORES|DR|69085","DANR","99","L","8449999","69085","SUB6","SUB6","","ORES","DR","69085","True"
+"DANR|99|L|8629999|69085|SB28|SUB8||PBSV|DR|69085","DANR","99","L","8629999","69085","SB28","SUB8","","PBSV","DR","69085","True"
+"DANR|99|L|8629999|69085|SUB6|SUB6||PBSV|DR|69085","DANR","99","L","8629999","69085","SUB6","SUB6","","PBSV","DR","69085","True"
+"DANR|99|L|8649999|69085|SB28|SUB8||MOPP|DR|69085","DANR","99","L","8649999","69085","SB28","SUB8","","MOPP","DR","69085","True"
+"DANR|99|L|8649999|69085|SUB6|SUB6||MOPP|DR|69085","DANR","99","L","8649999","69085","SUB6","SUB6","","MOPP","DR","69085","True"
+"DANR|99|L|PR21050|21050|SB28|SUB8||21050|DR|21050","DANR","99","L","PR21050","21050","SB28","SUB8","","21050","DR","21050","True"
+"DANR|99|L|PR21050|21050|SUB6|SUB6||21050|DR|21050","DANR","99","L","PR21050","21050","SUB6","SUB6","","21050","DR","21050","True"
+"DANR|99|L|PR21056|21056|SB28|SUB8||21056|DR|21056","DANR","99","L","PR21056","21056","SB28","SUB8","","21056","DR","21056","True"
+"DANR|99|L|PR21056|21056|SUB6|SUB6||21056|DR|21056","DANR","99","L","PR21056","21056","SUB6","SUB6","","21056","DR","21056","True"
+"DANR|99|L|PR21057|21057|SB28|SUB8||21057|DR|21057","DANR","99","L","PR21057","21057","SB28","SUB8","","21057","DR","21057","True"
+"DANR|99|L|PR21057|21057|SUB6|SUB6||21057|DR|21057","DANR","99","L","PR21057","21057","SUB6","SUB6","","21057","DR","21057","True"
+"DANR|99|L|PR21058|21058|SB28|SUB8||21058|DR|21058","DANR","99","L","PR21058","21058","SB28","SUB8","","21058","DR","21058","True"
+"DANR|99|L|PR21058|21058|SUB6|SUB6||21058|DR|21058","DANR","99","L","PR21058","21058","SUB6","SUB6","","21058","DR","21058","True"
+"HACS|17|3|HACBENE|||||I|HA|","HACS","17","3","HACBENE","","","","","I","HA","","True"
+"HACS|17|3|HACBENE|||||R|HA|","HACS","17","3","HACBENE","","","","","R","HA","","True"
+"MPSC|18|3|MPSGEND|SUPPT|||UNA|I||","MPSC","18","3","MPSGEND","SUPPT","","","UNA","I","","","True"
+"MPSC|18|3|MPSGEND|SUPPT|||UNA|R||","MPSC","18","3","MPSGEND","SUPPT","","","UNA","R","","","True"
+"SSCI|19|3|SSIBENE|||||I|SS|","SSCI","19","3","SSIBENE","","","","","I","SS","","True"
+"SSCI|19|3|SSIBENE|||||R|SS|","SSCI","19","3","SSIBENE","","","","","R","SS","","True"

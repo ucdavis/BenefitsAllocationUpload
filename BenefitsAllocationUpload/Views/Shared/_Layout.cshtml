@@ -136,13 +136,18 @@
                                 {
                                     <li>@Html.ActionLink("Reimbursable Benefits Accounts", "Index", "ReimbursableBenefitsAccount")</li>
                                 }
-                   
+
+                                if (User.IsInRole(RoleNames.EditExcludedObjects))
+                                {
+                                    <li>@Html.ActionLink("Excluded Objects", "Index", "ExcludedObject")</li>
+                                }
+
                                 if (User.IsInRole(RoleNames.Admin))
                                 {
                                     <li>@Html.ActionLink("Admin", "Index", "UserAdministration")</li>
                                 }
                             }
-                           @* <li>@Html.ActionLink("Benefits Allocation Upload", "Index", "Reports")</li>*@
+                            @* <li>@Html.ActionLink("Benefits Allocation Upload", "Index", "Reports")</li>*@
                             <li>@Html.ActionLink("About", "About", "Home")</li>
                             <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
                         </ul>

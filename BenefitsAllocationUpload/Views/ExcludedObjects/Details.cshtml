@@ -1,0 +1,24 @@
+﻿@model BenefitsAllocation.Core.Domain.ExcludedObject
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div id="details">
+    <table>
+        <tr>
+            <th>@Html.LabelFor(x=>x.Id)</th>
+            <th>@Html.LabelFor(x=>x.OrgId)</th>
+            <th>@Html.LabelFor(x=>x.ObjectNum)</th>
+            <th>@Html.LabelFor(x=>x.IsActive)</th>
+        </tr>
+        <tr>
+            <td>@Html.DisplayFor(x=>x.Id)</td>
+            <td>@Html.DisplayFor(x=>x.OrgId)</td>
+            <td>@Html.DisplayFor(x=>x.ObjectNum)</td>
+            <td>@Html.DisplayFor(x=>x.IsActive)</td>
+        </tr>
+    </table>
+</div>

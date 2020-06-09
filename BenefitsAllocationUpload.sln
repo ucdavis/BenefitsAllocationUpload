@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenefitsAllocationUpload", "BenefitsAllocationUpload\BenefitsAllocationUpload.csproj", "{91ED1CD7-2030-4A03-A47D-2744403BD658}"
 EndProject
@@ -44,8 +44,6 @@ Global
 		{036C6DEA-734A-4695-82A8-5EAC104EB60B}.BenefitsAllocation site|Any CPU.ActiveCfg = BenefitsAllocation site|Any CPU
 		{036C6DEA-734A-4695-82A8-5EAC104EB60B}.BenefitsAllocation site|Any CPU.Build.0 = BenefitsAllocation site|Any CPU
 		{036C6DEA-734A-4695-82A8-5EAC104EB60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{036C6DEA-734A-4695-82A8-5EAC104EB60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{036C6DEA-734A-4695-82A8-5EAC104EB60B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{036C6DEA-734A-4695-82A8-5EAC104EB60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{036C6DEA-734A-4695-82A8-5EAC104EB60B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{036C6DEA-734A-4695-82A8-5EAC104EB60B}.Release|Any CPU.Deploy.0 = Release|Any CPU
@@ -55,5 +53,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EA40D4F-7D47-46F3-A5EE-49B26C121ABA}
 	EndGlobalSection
 EndGlobal

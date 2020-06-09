@@ -83,7 +83,6 @@
   <ItemGroup>
     <Build Include="dbo\Tables\ReimbursableBenefitsAccounts.sql" />
     <Build Include="dbo\Tables\UnitFiles.sql" />
-    <Build Include="dbo\Tables\CentralAccounts.sql" />
     <Build Include="dbo\Functions\udf_GetTransDocOriginCodeForOrg.sql" />
     <Build Include="dbo\Functions\udf_GetExcludeObjectsString.sql" />
     <Build Include="dbo\Functions\udf_GetChartNumStringForOrg.sql" />
@@ -101,10 +100,18 @@
     <Build Include="Security\AESDEAN_ProdApp.sql" />
     <Build Include="dbo\Functions\udf_CreateQuotedStringList.sql" />
     <Build Include="dbo\Functions\udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg_v2.sql" />
+    <Build Include="dbo\Tables\CentralAccounts.sql" />
+    <Build Include="dbo\Tables\ExcludedObjects.sql" />
+    <Build Include="Security\OU_caes-glurmo_.sql" />
+    <Build Include="Security\ProdAppBenefitsAllocation.sql" />
+    <Build Include="Security\RoleMemberships.sql" />
+    <Build Include="dbo\Functions\udf_GetExcludeObjectsString_20200602_bak.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetBudgetAdjustmentUploadDataForOrg_20200602_bak.sql" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="dbo\Data\dbo.UnitFiles.txt" />
-    <None Include="dbo\Data\dbo.ReimbursableBenefitsAccounts.txt" />
+    <None Include="dbo\Data\dbo.ExcludedObjects.txt" />
     <None Include="dbo\Data\dbo.CentralAccounts.txt" />
+    <None Include="dbo\Data\dbo.ReimbursableBenefitsAccounts.txt" />
+    <None Include="dbo\Data\dbo.UnitFiles.txt" />
   </ItemGroup>
 </Project>

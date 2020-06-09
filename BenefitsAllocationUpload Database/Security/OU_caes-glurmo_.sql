@@ -1,0 +1,2 @@
+﻿CREATE USER [OU\caes-glurmo$] FOR LOGIN [OU\CAES-GLURMO$];
+

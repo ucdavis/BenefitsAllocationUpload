@@ -125,6 +125,8 @@ namespace BenefitsAllocationUpload.Models
         public const string EmulationUser = "EmulationUser";
         public const string UploadFile = "UploadFile";
         public const string EditReimbursableAccounts = "EditReimbursableAccounts";
+        public const string EditExcludedObjects = "EditExcludedObjects";
+
     }
 
     public partial class Unit

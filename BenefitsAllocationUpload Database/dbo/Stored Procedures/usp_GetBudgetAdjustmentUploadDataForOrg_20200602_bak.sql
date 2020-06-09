@@ -1,5 +1,4 @@
 ﻿
-
 -- =============================================
 -- Author:		Ken Taylor
 -- Create date: April 17, 2013
@@ -15,17 +14,17 @@ USE BenefitsAllocationUpload
 GO
 
 EXEC [dbo].[usp_GetBudgetAdjustmentUploadDataForOrg] 
-	@FiscalYear = '2020',
-	@FiscalPeriod = '11', --Period in which adjustments are to be applied
-	@TransDescription = 'BA benefits alloc for May 2020', --Some kind of meaningful description. 40 characters max.
-	@OrgDocNumber = 'Excl OPFnd', --Optional: An Organizational Document Number for all the transactions overall.  10 characters max.
-	@OrgRefId = 'May2020Ben', --An Organizational Reference ID for the transactions overall. 8 characters max.
+	@FiscalYear = '2013',
+	@FiscalPeriod = '06', --Period in which adjustments are to be applied
+	@TransDescription = 'BA benefits alloc for June 2012-Dec 2013', --Some kind of meaningful description. 40 characters max.
+	@OrgDocNumber = '', --Optional: An Organizational Document Number for all the transactions overall.  10 characters max.
+	@OrgRefId = '01-06Ben', --An Organizational Reference ID for the transactions overall. 8 characters max.
 	@TransDocNumberSequence = '001',  --Change the ### to something meaningful. A unique sequence number for the group of transactions. Must be 3 characters!
 	@OrgId = 'AAES', --Kuali level 4 Org ID (College level) or- Kuali level 5 Org Id (Division level), i.e. 'HACS' or 'MPSC' or 'SSCI', etc
 	@TransDocOriginCode = 'AG', --Unique code provided by AFS for the corresponding college's dean's office.
 	@UseDaFIS = 0, -- Set this to 1 for any org other than AAES or if you want to get the data directly from DaFIS instead of our local FISDataMart.
 	@PrintGrandTotalOnly = 0, -- Set this to 1 if you want to run a sanity check and print the grand total only.
-	@IsDebug = 1 --Set to 1 to print SQL generated only, and not execute.
+	@IsDebug = 0 --Set to 1 to print SQL generated only, and not execute.
 GO
 
 -- For AAES Using Campus Data Warehouse:
@@ -33,17 +32,17 @@ USE BenefitsAllocationUpload
 GO
 
 EXEC [dbo].[usp_GetBudgetAdjustmentUploadDataForOrg] 
-	@FiscalYear = '2020',
-	@FiscalPeriod = '11', --Period in which adjustments are to be applied
-	@TransDescription = 'BA benefits alloc for May 2020', --Some kind of meaningful description. 40 characters max.
-	@OrgDocNumber = 'Excl OPFnd', --Optional: An Organizational Document Number for all the transactions overall.  10 characters max.
-	@OrgRefId = 'May2020Ben', --An Organizational Reference ID for the transactions overall. 8 characters max.
+	@FiscalYear = '2013',
+	@FiscalPeriod = '06', --Period in which adjustments are to be applied
+	@TransDescription = 'BA benefits alloc for June 2012-Dec 2013', --Some kind of meaningful description. 40 characters max.
+	@OrgDocNumber = '', --Optional: An Organizational Document Number for all the transactions overall.  10 characters max.
+	@OrgRefId = '01-06Ben', --An Organizational Reference ID for the transactions overall. 8 characters max.
 	@TransDocNumberSequence = '001',  --Change the ### to something meaningful. A unique sequence number for the group of transactions. Must be 3 characters!
 	@OrgId = 'AAES', --Kuali level 4 Org ID (College level) or- Kuali level 5 Org Id (Division level), i.e. 'HACS' or 'MPSC' or 'SSCI', etc
 	@TransDocOriginCode = 'AG', --Unique code provided by AFS for the corresponding college's dean's office.
-	@UseDaFIS = 1, -- Set this to 1 for any org other than AAES or if you want to get the data directly from DaFIS instead of our local FISDataMart.
+	@UseDaFIS = 1, -- Set this to 0 for any org other than AAES or if you want to get the data directly from DaFIS instead of our local FISDataMart.
 	@PrintGrandTotalOnly = 0, -- Set this to 1 if you want to run a sanity check and print the grand total only.
-	@IsDebug = 1 --Set to 1 to print SQL generated only, and not execute.
+	@IsDebug = 0 --Set to 1 to print SQL generated only, and not execute.
 GO
 
 ---- For SSCI Using Campus Data Warehouse, since our local CA&ES Datamart does not contain any of their data:
@@ -100,12 +99,7 @@ GO
 --		we're limited to an 8,000 character restriction, and HACS had nearly 12,000 just for their included
 --		accounts list, which understandably failed.
 --	2018-10-28 by kjt: Revised to use udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg_v2.
---	2020-06-02 by kjt: Revised to handle only reimbursing excluded objects with account numbers ending in 'ITMP' as per Shannon Tanguay.
---	2020-06-03 by kjt: Added additional logic to also check length of @IncludeAccountsString, and not add the 
---		OR A.ACCT_NUM IN (' + @IncludeAccountsString + ') if LEN(@IncludeAccountsString) = 0.
---
---
-CREATE PROCEDURE [dbo].[usp_GetBudgetAdjustmentUploadDataForOrg] 
+CREATE PROCEDURE [dbo].[usp_GetBudgetAdjustmentUploadDataForOrg_20200602_bak] 
 	@FiscalYear varchar(4) = '2013',
 	@FiscalPeriod varchar(2) = '06', --Period in which adjustments are to be applied
 	@TransDescription varchar(100) = 'BA benefits alloc for June 2012-Dec 2013', --Some kind of meaningful description. 40 characters max.
@@ -146,10 +140,7 @@ BEGIN
 	EXEC sp_executesql @Statement, N'@TransDocOriginCode nvarchar(2) OUTPUT', @TransDocOriginCode OUTPUT;
 END
 
--- 20200603 by kjt: Moved declarations here so they can be use with this portion of sproc also:
-DECLARE @NumSingleQuotes smallint = 1
-DECLARE @ExcludeObjectsString varchar(MAX) = dbo.udf_GetExcludeObjectsString(@OrgId, @NumSingleQuotes)
-DECLARE @IncludeAccountsString varchar(MAX) = dbo.udf_GetIncludeAccountsString(@OrgId, @NumSingleQuotes)
+DECLARE @ExcludeObjectsString varchar(MAX) = dbo.udf_GetExcludeObjectsString(@OrgId, 2)
 
 DECLARE @MySQL varchar(MAX) = ''
 IF @UseDaFIS = 0 AND (@OrgLevel IS NOT NULL AND @OrgLevel NOT LIKE '') AND @OrgLevel = 4 AND @OrgId = 'AAES'
@@ -208,16 +199,8 @@ IF @UseDaFIS = 0 AND (@OrgLevel IS NOT NULL AND @OrgLevel NOT LIKE '') AND @OrgL
 
 		--DECLARE @ExcludeObjectsString varchar(MAX) = dbo.udf_GetExcludeObjectsString(@OrgId, 2)
 		IF LEN(@ExcludeObjectsString) > 0
-		BEGIN
 			SELECT @MySQL += '
-					(TLV.Object NOT IN (' + @ExcludeObjectsString + ')'
-			IF LEN(@IncludeAccountsString) > 0
-				SELECT @MySQL += ' OR
-					 TLV.Account IN (' + @IncludeAccountsString + ')'
-			
-			SELECT @MySQL += '
-					) AND'
-		END
+					(TLV.Object NOT IN (' + @ExcludeObjectsString + ')) AND'
 
 		SELECT @MySQL += '
 					((A.ExpirationDate IS NULL) OR (A.ExpirationDate >= GETDATE()))
@@ -244,27 +227,14 @@ IF @UseDaFIS = 0 AND (@OrgLevel IS NOT NULL AND @OrgLevel NOT LIKE '') AND @OrgL
 	END -- IF @UseDaFIS = 0 AND (@CollegeLevelOrg IS NOT NULL OR @CollegeLevelOrg NOT LIKE '') AND  @CollegeLevelOrg = 'AAES' 
 ELSE -- @UseDaFIS = 1 AND/OR @CollegeLevelOrg NOT LIKE 'AAES' 
 	BEGIN
-	--2020-06-03 by kjt: Moved this to top of sproc so it can also be used by local FISDataMart section of script,
-		-- plus added SELECT section so it could be rebuilt with the proper number or quotes.
-	--	DECLARE @NumSingleQuotes smallint = 2
-		SELECT @NumSingleQuotes = 2
-
+		DECLARE @NumSingleQuotes smallint = 2
 		DECLARE @UseCollegeLevelOrg bit = 1
 		DECLARE @ChartNum varchar(10) = dbo.udf_GetChartNumStringForOrg(@OrgId, @NumSingleQuotes)
 		DECLARE @FunctionCodeCaseStatement varchar(MAX) = dbo.udf_GetFunctionCodeCaseStatement(@OrgId, @NumSingleQuotes)
-
-		--2013-06-21 by kjt: Moved this to top of sproc so it can also be used by local FISDataMart section of script,
-		-- plus added SELECT section so it could be rebuilt with the proper number or quotes.
+		--2013-06-21 by kjt: Moved this to top of sproc so it can also be used by local FISDataMart section of script.
 		--DECLARE @ExcludeObjectsString varchar(MAX) = dbo.udf_GetExcludeObjectsString(@OrgId, @NumSingleQuotes)
-		SELECT @ExcludeObjectsString  = dbo.udf_GetExcludeObjectsString(@OrgId, @NumSingleQuotes)
-
 		DECLARE @ExcludeAccountsString varchar(MAX) = dbo.udf_GetExcludeAccountsString(@OrgId, @NumSingleQuotes)
-
-		--2020-06-03 by kjt: Moved this to top of sproc so it can also be used by local FISDataMart section of script,
-		-- plus added SELECT section so it could be rebuilt with the proper number or quotes.
-		--DECLARE @IncludeAccountsString varchar(MAX) = dbo.udf_GetIncludeAccountsString(@OrgId, @NumSingleQuotes)
-		SELECT @IncludeAccountsString = dbo.udf_GetIncludeAccountsString(@OrgId, @NumSingleQuotes)
-
+		DECLARE @IncludeAccountsString varchar(MAX) = dbo.udf_GetIncludeAccountsString(@OrgId, @NumSingleQuotes)
 		DECLARE @IncludeOpFundsString varchar(MAX) = dbo.udf_GetIncludeOpFundsString(@OrgId, @NumSingleQuotes)
 
 		DECLARE @OrgForTableName nvarchar(4) = ''
@@ -409,25 +379,11 @@ ELSE -- @UseDaFIS = 1 AND/OR @CollegeLevelOrg NOT LIKE 'AAES'
 				A.BALANCE_TYPE_CODE  IN (''''AC'''', ''''CB'''') AND
 				OBJ_CONSOLIDATN_NUM IN (''''SB28'''', ''''SUB6'''') AND'
 	
-		IF LEN(@ExcludeObjectsString) > 0   
-		BEGIN
-			IF  @OrgId = 'AAES' --2020-06-02 by kjt: Added logic for @OrgId = AAES
-				BEGIN
-					SELECT @TSQL += '
-					(A.OBJECT_NUM NOT IN (' + @ExcludeObjectsString + ')' 
-					
-					IF LEN(@IncludeAccountsString) > 0
-						SELECT @TSQL += ' OR
-					 A.ACCT_NUM IN (' + @IncludeAccountsString + ')'
-
-					SELECT @TSQL += ') AND'
-				END
-			ELSE 
-				BEGIN
-					SELECT @TSQL += '
-					A.OBJECT_NUM NOT IN (' + @ExcludeObjectsString + ') AND'
-				END
-		END
+		IF LEN(@ExcludeObjectsString) > 0
+			BEGIN
+				SELECT @TSQL += '
+				A.OBJECT_NUM NOT IN (' + @ExcludeObjectsString + ') AND'
+			END
 			
 		SELECT @TSQL += '
 				(OA.acct_expiration_date IS NULL OR OA.acct_expiration_date >= SYSDATE)
@@ -530,23 +486,9 @@ ELSE -- @UseDaFIS = 1 AND/OR @CollegeLevelOrg NOT LIKE 'AAES'
 	
 		IF LEN(@ExcludeObjectsString) > 0
 			BEGIN
-			IF  @OrgId = 'AAES' --2020-06-02 by kjt: Added logic for @OrgId = AAES
-				BEGIN
-					SELECT @TSQL += '
-					(P.OBJECT_NUM NOT IN (' + @ExcludeObjectsString + ')' 
-					
-					IF LEN(@IncludeAccountsString) > 0
-						SELECT @TSQL += ' OR
-					 P.ACCT_NUM IN (' + @IncludeAccountsString + ')'
-
-					SELECT @TSQL += ') AND'
-				END
-			ELSE 
-				BEGIN
-					SELECT @TSQL += '
-					P.OBJECT_NUM NOT IN (' + @ExcludeObjectsString + ') AND'
-				END
-		END
+				SELECT @TSQL += '
+				P.OBJECT_NUM NOT IN (' + @ExcludeObjectsString + ') AND'
+			END
 			
 		SELECT @TSQL += '
 				(OA.acct_expiration_date IS NULL OR OA.acct_expiration_date >= SYSDATE)
@@ -699,19 +641,18 @@ END
 -- 2014-08-20 by kjt:  See notes in modifications section.
 	IF LEN(@IncludeAccountsString) > 0  
 		BEGIN
-			IF @IsDebug = 1 AND @OrgId != 'AAES' -- 2020-06-01 by kjt: Added logic to bypass this logic if @OrgId = 'AAES'
+			IF @IsDebug = 1
 				BEGIN
 					SELECT @MySQL = '
 		DELETE TFS FROM @TransactionsForSummation TFS
 		WHERE NOT EXISTS (
 			SELECT 1 
 			FROM dbo.ReimbursableBenefitsAccounts
-			WHERE OrgId = ''' + @OrgId + ''' AND CHART_NUM = Chart AND ACCT_NUM = Account AND IsActive = 1 
+			WHERE OrgId = ''' + @OrgId + ''' AND CHART_NUM = Chart AND ACCT_NUM = Account AND IsActive = 1
 		)'
-
 					PRINT @MySQL
 				END
-			ELSE IF @OrgId != 'AAES'-- 2020-06-01 by kjt: Added logic to bypass this logic if @OrgId = 'AAES'
+			ELSE
 				BEGIN
 					DELETE TFS
 					FROM @TransactionsForSummation TFS
@@ -753,4 +694,3 @@ ELSE
 	END
 
 END
-
