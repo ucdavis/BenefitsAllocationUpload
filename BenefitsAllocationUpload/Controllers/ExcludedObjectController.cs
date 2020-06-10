@@ -8,6 +8,7 @@ using System.Web.Mvc;
 using BenefitsAllocation.Core.Domain;
 using BenefitsAllocationUpload.Models;
 using UCDArch.Core.PersistanceSupport;
+using ExcludedObject = BenefitsAllocation.Core.Domain.ExcludedObject;
 
 namespace BenefitsAllocationUpload.Controllers
 {

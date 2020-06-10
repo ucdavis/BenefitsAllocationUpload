@@ -658,13 +658,13 @@
     <Content Include="Views\Shared\EditorTemplates\Enum_RadioButtonList.cshtml" />
     <Content Include="Views\Reports\Details.cshtml" />
     <Content Include="Views\ExpiredAccounts\Index.cshtml" />
-    <Content Include="Views\ReimbursableBenefitsAccounts\Index.cshtml" />
-    <Content Include="Views\ReimbursableBenefitsAccounts\Create.cshtml" />
-    <Content Include="Views\ReimbursableBenefitsAccounts\Details.cshtml" />
+    <Content Include="Views\ReimbursableBenefitsAccount\Index.cshtml" />
+    <Content Include="Views\ReimbursableBenefitsAccount\Create.cshtml" />
+    <Content Include="Views\ReimbursableBenefitsAccount\Details.cshtml" />
     <Content Include="Views\Reports\Display.cshtml" />
-    <Content Include="Views\ExcludedObjects\Create.cshtml" />
-    <Content Include="Views\ExcludedObjects\Details.cshtml" />
-    <Content Include="Views\ExcludedObjects\Index.cshtml" />
+    <Content Include="Views\ExcludedObject\Create.cshtml" />
+    <Content Include="Views\ExcludedObject\Details.cshtml" />
+    <Content Include="Views\ExcludedObject\Index.cshtml" />
     <None Include="Web.BenefitsAllocation site.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
