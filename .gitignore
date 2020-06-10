@@ -184,3 +184,7 @@ BenefitsAllocationUpload/AppSettings.BenefitsAllocation.config
 BenefitsAllocationUpload/AppSettings.BenefitsAllocation site.config
 BenefitsAllocationUpload/AppSettings.Debug.config
 BenefitsAllocationUpload/AppSettings.Release.config
+BenefitsAllocationUpload/Web.Test.config
+BenefitsAllocationUpload/Web.Release.config
+BenefitsAllocationUpload/Web.Debug.config
+BenefitsAllocationUpload/Web.BenefitsAllocation site.config
