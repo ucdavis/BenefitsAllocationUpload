@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <Name>BenefitsAllocationUpload Database2</Name>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectVersion>4.1</ProjectVersion>
+    <ProjectGuid>{036c6dea-734a-4695-82a8-5eac104eb60b}</ProjectGuid>
+    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql100DatabaseSchemaProvider</DSP>
+    <OutputType>Database</OutputType>
+    <RootPath>
+    </RootPath>
+    <RootNamespace>BenefitsAllocationUpload_Database</RootNamespace>
+    <AssemblyName>BenefitsAllocationUpload_Database</AssemblyName>
+    <ModelCollation>1033,CI</ModelCollation>
+    <DefaultFileStructure>BySchemaAndSchemaType</DefaultFileStructure>
+    <DeployToDatabase>True</DeployToDatabase>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetLanguage>CS</TargetLanguage>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <SqlServerVerification>False</SqlServerVerification>
+    <IncludeCompositeObjects>True</IncludeCompositeObjects>
+    <TargetDatabaseSet>True</TargetDatabaseSet>
+    <DefaultCollation>SQL_Latin1_General_CP1_CI_AS</DefaultCollation>
+    <DefaultFilegroup>PRIMARY</DefaultFilegroup>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <BuildScriptName>$(MSBuildProjectName).sql</BuildScriptName>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <BuildScriptName>$(MSBuildProjectName).sql</BuildScriptName>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <!-- VS10 without SP1 will not have VisualStudioVersion set, so do that here -->
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <!-- Default to the v10.0 targets path if the targets file for the current VS version is not found -->
+    <SSDTExists Condition="Exists('$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets')">True</SSDTExists>
+    <VisualStudioVersion Condition="'$(SSDTExists)' == ''">10.0</VisualStudioVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Test|AnyCPU' ">
+    <OutputPath>bin\Test\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'BenefitsAllocation site|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <BuildScriptName>$(MSBuildProjectName).sql</BuildScriptName>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
+  <ItemGroup>
+    <Folder Include="Properties" />
+    <Folder Include="dbo\" />
+    <Folder Include="dbo\Tables\" />
+    <Folder Include="dbo\Functions\" />
+    <Folder Include="dbo\Stored Procedures\" />
+    <Folder Include="dbo\User Defined Types\" />
+    <Folder Include="dbo\Data" />
+    <Folder Include="Security\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Build Include="dbo\Tables\ReimbursableBenefitsAccounts.sql" />
+    <Build Include="dbo\Tables\UnitFiles.sql" />
+    <Build Include="dbo\Functions\udf_GetTransDocOriginCodeForOrg.sql" />
+    <Build Include="dbo\Functions\udf_GetExcludeObjectsString.sql" />
+    <Build Include="dbo\Functions\udf_GetChartNumStringForOrg.sql" />
+    <Build Include="dbo\Functions\udf_GetFunctionCodeCaseStatement.sql" />
+    <Build Include="dbo\Functions\udf_GetExcludeAccountsString.sql" />
+    <Build Include="dbo\Functions\udf_GetIncludeAccountsString.sql" />
+    <Build Include="dbo\Functions\udf_GetIncludeOpFundsString.sql" />
+    <Build Include="dbo\Functions\udf_GetOrgIdForSchoolCode.sql" />
+    <Build Include="dbo\Functions\udf_GetIncludeOpFunds.sql" />
+    <Build Include="dbo\Functions\udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetOrgLevel.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetBudgetAdjustmentUploadDataForOrg.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetExpiredAccountsForOrg.sql" />
+    <Build Include="dbo\User Defined Types\TransactionsForSummationTableType.sql" />
+    <Build Include="Security\AESDEAN_ProdApp.sql" />
+    <Build Include="dbo\Functions\udf_CreateQuotedStringList.sql" />
+    <Build Include="dbo\Functions\udf_GetBudgetAdjustmentUploadDataFromInputTableForOrg_v2.sql" />
+    <Build Include="dbo\Tables\CentralAccounts.sql" />
+    <Build Include="dbo\Tables\ExcludedObjects.sql" />
+    <Build Include="Security\OU_caes-glurmo_.sql" />
+    <Build Include="Security\ProdAppBenefitsAllocation.sql" />
+    <Build Include="Security\RoleMemberships.sql" />
+    <Build Include="dbo\Functions\udf_GetExcludeObjectsString_20200602_bak.sql" />
+    <Build Include="dbo\Stored Procedures\usp_GetBudgetAdjustmentUploadDataForOrg_20200602_bak.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="dbo\Data\dbo.ExcludedObjects.txt" />
+    <None Include="dbo\Data\dbo.CentralAccounts.txt" />
+    <None Include="dbo\Data\dbo.ReimbursableBenefitsAccounts.txt" />
+    <None Include="dbo\Data\dbo.UnitFiles.txt" />
+  </ItemGroup>
+</Project>
